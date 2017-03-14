@@ -1,7 +1,7 @@
 [
     {
         "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
-        "@id": "http://unocha.org/FunctionalRole/2376", 
+        "@id": "http://vocabulary.unocha.org/FunctionalRole/2376", 
         "label": "Administrative Officer", 
         "label_es": "Oficial administrativo", 
         "label_fr": "Assistant administratif", 
@@ -9,7 +9,7 @@
     }, 
     {
         "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
-        "@id": "http://unocha.org/FunctionalRole/2377", 
+        "@id": "http://vocabulary.unocha.org/FunctionalRole/2377", 
         "label": "Head of Agency or Office", 
         "label_es": "Director de Agencia", 
         "label_fr": "Directeur d'agence/Chef de bureau", 
@@ -17,7 +17,7 @@
     }, 
     {
         "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
-        "@id": "http://unocha.org/FunctionalRole/2379", 
+        "@id": "http://vocabulary.unocha.org/FunctionalRole/2379", 
         "label": "Civil-Military Officer", 
         "label_es": "Coordinador Civil y Militar", 
         "label_fr": "Coordinateur Civilo-Militaire", 
@@ -25,7 +25,7 @@
     }, 
     {
         "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
-        "@id": "http://unocha.org/FunctionalRole/2380", 
+        "@id": "http://vocabulary.unocha.org/FunctionalRole/2380", 
         "label": "Cluster Co-Lead", 
         "label_es": "Co-Presidir Cl\u00faster", 
         "label_fr": "Co-Chef de file sectoriel", 
@@ -33,7 +33,7 @@
     }, 
     {
         "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
-        "@id": "http://unocha.org/FunctionalRole/2381", 
+        "@id": "http://vocabulary.unocha.org/FunctionalRole/2381", 
         "label": "Cluster Coordinator", 
         "label_es": "Coordinador de Grupo", 
         "label_fr": "Chef de file sectoriel", 
@@ -41,7 +41,7 @@
     }, 
     {
         "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
-        "@id": "http://unocha.org/FunctionalRole/2382", 
+        "@id": "http://vocabulary.unocha.org/FunctionalRole/2382", 
         "label": "Public Information Officer", 
         "label_es": "Funcionario de informaci\u00f3n p\u00fablica", 
         "label_fr": "Sp\u00e9cialiste en communication et relations publiques", 
@@ -49,7 +49,7 @@
     }, 
     {
         "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
-        "@id": "http://unocha.org/FunctionalRole/2383", 
+        "@id": "http://vocabulary.unocha.org/FunctionalRole/2383", 
         "label": "GenCap Officer", 
         "label_es": "Oficial del GenCap", 
         "label_fr": "Conseiller inter-agence GenCap", 
@@ -57,7 +57,7 @@
     }, 
     {
         "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
-        "@id": "http://unocha.org/FunctionalRole/2385", 
+        "@id": "http://vocabulary.unocha.org/FunctionalRole/2385", 
         "label": "Government Official", 
         "label_es": "Funcionario del Gobierno", 
         "label_fr": "Repr\u00e9sentant du Gouvernement ", 
@@ -65,7 +65,7 @@
     }, 
     {
         "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
-        "@id": "http://unocha.org/FunctionalRole/2386", 
+        "@id": "http://vocabulary.unocha.org/FunctionalRole/2386", 
         "label": "HCT Member", 
         "label_es": "Miembro del Equipo Humanitario de un Pa\u00eds", 
         "label_fr": "Membre d'\u00e9quipe Humanitaire Pays", 
@@ -73,7 +73,7 @@
     }, 
     {
         "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
-        "@id": "http://unocha.org/FunctionalRole/2387", 
+        "@id": "http://vocabulary.unocha.org/FunctionalRole/2387", 
         "label": "Information Management Officer", 
         "label_es": "", 
         "label_fr": "Sp\u00e9cialiste de la gestion de l\u2019information ", 
@@ -81,7 +81,7 @@
     }, 
     {
         "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
-        "@id": "http://unocha.org/FunctionalRole/2389", 
+        "@id": "http://vocabulary.unocha.org/FunctionalRole/2389", 
         "label": "ProCap Officer", 
         "label_es": "Oficial de la ProCap", 
         "label_fr": "Conseiller inter-agence ProCap", 
@@ -89,7 +89,7 @@
     }, 
     {
         "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
-        "@id": "http://unocha.org/FunctionalRole/56025", 
+        "@id": "http://vocabulary.unocha.org/FunctionalRole/56025", 
         "label": "Donor", 
         "label_es": "Donante", 
         "label_fr": "Bailleur de fonds", 
@@ -97,7 +97,7 @@
     }, 
     {
         "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
-        "@id": "http://unocha.org/FunctionalRole/56026", 
+        "@id": "http://vocabulary.unocha.org/FunctionalRole/56026", 
         "label": "Humanitarian Coordinator", 
         "label_es": "", 
         "label_fr": "Coordinateur Humanitaire", 
@@ -105,7 +105,7 @@
     }, 
     {
         "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
-        "@id": "http://unocha.org/FunctionalRole/56027", 
+        "@id": "http://vocabulary.unocha.org/FunctionalRole/56027", 
         "label": "Military Officer", 
         "label_es": "", 
         "label_fr": "Militaire", 
@@ -113,7 +113,7 @@
     }, 
     {
         "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
-        "@id": "http://unocha.org/FunctionalRole/56028", 
+        "@id": "http://vocabulary.unocha.org/FunctionalRole/56028", 
         "label": "United Nations Country Team Member", 
         "label_es": "", 
         "label_fr": "Membre d\u2019\u00e9quipe ONU du pays (UNCT)", 
@@ -121,7 +121,7 @@
     }, 
     {
         "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
-        "@id": "http://unocha.org/FunctionalRole/56029", 
+        "@id": "http://vocabulary.unocha.org/FunctionalRole/56029", 
         "label": "Resident Coordinator", 
         "label_es": "", 
         "label_fr": "Coordinateur r\u00e9sident", 
@@ -129,7 +129,7 @@
     }, 
     {
         "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
-        "@id": "http://unocha.org/FunctionalRole/56030", 
+        "@id": "http://vocabulary.unocha.org/FunctionalRole/56030", 
         "label": "Head of Sub-Office", 
         "label_es": "", 
         "label_fr": "", 
@@ -137,7 +137,7 @@
     }, 
     {
         "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
-        "@id": "http://unocha.org/FunctionalRole/56055", 
+        "@id": "http://vocabulary.unocha.org/FunctionalRole/56055", 
         "label": "Executive Assistant", 
         "label_es": "", 
         "label_fr": "Assistant ex\u00e9cutif ", 
@@ -145,7 +145,7 @@
     }, 
     {
         "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
-        "@id": "http://unocha.org/FunctionalRole/61563", 
+        "@id": "http://vocabulary.unocha.org/FunctionalRole/61563", 
         "label": "UNDAC Member", 
         "label_es": "", 
         "label_fr": "Membre d\u2019\u00e9quipe UNDAC", 
@@ -153,7 +153,7 @@
     }, 
     {
         "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
-        "@id": "http://unocha.org/FunctionalRole/61978", 
+        "@id": "http://vocabulary.unocha.org/FunctionalRole/61978", 
         "label": "Cluster Coordination Team Member", 
         "label_es": "", 
         "label_fr": "", 
@@ -161,7 +161,7 @@
     }, 
     {
         "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
-        "@id": "http://unocha.org/FunctionalRole/", 
+        "@id": "http://vocabulary.unocha.org/FunctionalRole/", 
         "label": "Environmental Expert", 
         "label_es": "Experto en medio ambiente", 
         "label_fr": "Expert environnemental", 
