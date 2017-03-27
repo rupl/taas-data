@@ -11,5 +11,5 @@ Please note that fields starting with `xx_` are provisional and may change in th
 
 ## Updating this repo
 
-- For updates to documentation and human-generated files, send us a pull-request!
-- For updates to machine-generated files, please use our [automated jenkins workflow](docs/workflow.md) if you are a UN-OCHA member.
+- For updates the `json` and `sheets` directories, please use our [automated jenkins workflow](docs/workflow.md).
+- For all other files, send us a pull-request!
