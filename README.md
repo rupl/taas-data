@@ -7,7 +7,7 @@ Please note that fields starting with `xx_` are provisional and may change in th
 
 ## Currently supported:
 
-- [Functional roles](https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.json)
+- [Functional Roles](https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/beta-v1/functional_roles.json)
 - [Global Coordination Groups](https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/beta-v1/global_coordination_groups.json)
 
 
