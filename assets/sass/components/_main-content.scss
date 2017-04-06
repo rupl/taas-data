@@ -1,0 +1,28 @@
+.main-content {
+	img {
+		float: right;
+		max-width: 50%;
+		// max-width: 300px;
+	}
+}
+
+
+@include media-query(sm) {
+
+	.main-content {
+		img {
+			max-width: 40%;
+		}
+	}
+
+}
+
+@include media-query(md) {
+
+	.main-content {
+		img {
+			max-width: 30%;
+		}
+	}
+
+}
