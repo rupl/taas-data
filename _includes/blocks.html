@@ -1,7 +1,13 @@
 <div class="blocks-holder">
 	{% for vocab in site.vocabs %}
 	<div class="block">
-		<h2 class="block__heading">{{ vocab.display-title }}</h2>
+		<h2 class="block__heading">
+		{% if vocab.display-title %}
+			{{ vocab.display-title }}
+		{% else %}
+			{{ vocab.title }}
+		{% endif %}
+		</h2>
 		<p class="block__status">{{ vocab.status }}</p>
 		{{vocab.content}}
 		{% if vocab.json-url %}
