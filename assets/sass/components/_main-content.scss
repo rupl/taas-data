@@ -1,8 +1,9 @@
 .main-content {
 	img {
-		float: right;
-		max-width: 50%;
-		// max-width: 300px;
+		display: block;
+		width: 80%;
+		max-width: 280px;
+		margin: 0 auto;
 	}
 }
 
@@ -11,7 +12,9 @@
 
 	.main-content {
 		img {
+			float: right;
 			max-width: 40%;
+			margin: 0;
 		}
 	}
 
