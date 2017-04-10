@@ -17,6 +17,8 @@ display-title: My Vocab (Beta)
 status: JSON available
 json-url: https://something.json
 gss-url: https://docs.google.com/spreadsheets/something
+managed-by: Change me
+contact-email: changeme@example.com
 ---
 
 Any text here
@@ -28,6 +30,8 @@ Any text here
 * status: optional, this shows below the header and should describe the status of the vocab
 * json-url: optional, the direct link to the JSON file
 * gss-url: optional, the direct link to the spreadsheet
+* managed-by: optional, the service that manages the vocab
+* contact-email: optional, a contact email address for the vocab, if not set it defaults to vocabulary@humanitarianresponse.info
 
 Under the front matter add the description of the vocab, you can use any Markdown formatting (the site uses Kramdown, see this [quick reference](https://kramdown.gettalong.org/quickref.html) for its standard formatting options).
 
