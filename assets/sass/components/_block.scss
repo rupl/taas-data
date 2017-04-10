@@ -8,14 +8,6 @@
 	padding: $base-unit*2;
 	margin-bottom: $base-unit*2;
 
-	a {
-		display: block;
-		height: $base-unit*3;
-		overflow: hidden;
-		text-overflow: ellipsis;
-		white-space: nowrap;
-	} 
-
 	p:last-child {
 		margin-bottom: 0;
 	}
@@ -36,6 +28,11 @@
 
 .block__download {
 	font-style: italic;
+	display: block;
+	height: $base-unit*3;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
 }
 
 
