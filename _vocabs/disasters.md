@@ -1,5 +1,6 @@
 ---
 title: Disasters
+display-title: Disasters (Beta)
 status: Coming soon
 ---
 
