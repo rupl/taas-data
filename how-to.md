@@ -1,6 +1,6 @@
-# How to add a new / edit an existing vocabulary
+# How to add a new / edit an existing vocabulary on the OCHA Vocabularies website
 
-## Adding a new vocabulary
+## Adding a new vocabulary to the website
 
 1. In the taas-data the [GitHub repo](https://github.com/UN-OCHA/taas-data) navigate to the [_vocabs folder](https://github.com/UN-OCHA/taas-data/tree/master/_vocabs)
 
@@ -40,7 +40,7 @@ Under the front matter add the description of the vocab, you can use any Markdow
 * choose to commit directly to the master branch (this will publish the change to the website immediately)
 * or create a new branch and start a pull request if you want someone to review your change before it goes live
 
-## Editing a vocabulary
+## Editing a vocabulary instance on the website
 
 1. In the taas-data the [GitHub repo](https://github.com/UN-OCHA/taas-data) navigate to the [_vocabs folder](https://github.com/UN-OCHA/taas-data/tree/master/_vocabs)
 
