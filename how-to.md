@@ -21,7 +21,7 @@ managed-by: Change me
 contact-email: changeme@example.com
 ---
 
-Any text here
+Your human readable description of the taxonomy goes here.
 ```
 
 5. Update the file with the relevant details. The top section of the file (the 'front matter') is used to set populate the title and other details of the vocab:
