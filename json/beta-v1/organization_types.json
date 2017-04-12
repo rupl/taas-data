@@ -1,0 +1,144 @@
+{
+    "data": [
+        {
+            "id": "431", 
+            "label": {
+                "default": "Academic / Research", 
+                "reliefweb": "Academic and Research Institution"
+            }, 
+            "reliefweb_id": "270", 
+            "scope": "Includes universities, colleges, think tanks, private organizations focusing on research and analysis", 
+            "x-reliefweb-term-is": "Exact Match"
+        }, 
+        {
+            "id": "433", 
+            "label": {
+                "default": "Donor", 
+                "reliefweb": null
+            }, 
+            "reliefweb_id": null, 
+            "scope": "Organizations responsible for donating money, goods or other in-kind contributions. ", 
+            "x-reliefweb-term-is": null
+        }, 
+        {
+            "id": "434", 
+            "label": {
+                "default": "Embassy", 
+                "reliefweb": "Government"
+            }, 
+            "reliefweb_id": "271", 
+            "scope": "Includes embassies as a distinct category of government organisations - the official residence or offices of an ambassador.", 
+            "x-reliefweb-term-is": "Broader"
+        }, 
+        {
+            "id": "435", 
+            "label": {
+                "default": "Government", 
+                "reliefweb": "Government"
+            }, 
+            "reliefweb_id": "271", 
+            "scope": "Includes national and local government agencies, including development, emergency, civil protection, etc.  Embassies are a separate category.", 
+            "x-reliefweb-term-is": "Broader"
+        }, 
+        {
+            "id": "437", 
+            "label": {
+                "default": "International NGO", 
+                "reliefweb": "Non-governmental Organization"
+            }, 
+            "reliefweb_id": "274", 
+            "scope": "Includes international organizations that operate independently from any government, including civil society.  UN and ICRC/IFRC are in separate categories.", 
+            "x-reliefweb-term-is": "Broader"
+        }, 
+        {
+            "id": "438", 
+            "label": {
+                "default": "International Organization", 
+                "reliefweb": "International Organization"
+            }, 
+            "reliefweb_id": "272", 
+            "scope": "Includes intergovernmental organizations, funds and programmes.  UN and ICRC/IFRC are in separate categories.", 
+            "x-reliefweb-term-is": "Broader"
+        }, 
+        {
+            "id": "439", 
+            "label": {
+                "default": "Media", 
+                "reliefweb": "Media"
+            }, 
+            "reliefweb_id": "273", 
+            "scope": "Includes local, national and international print, TV, online and radio media agencies", 
+            "x-reliefweb-term-is": "Exact Match"
+        }, 
+        {
+            "id": "440", 
+            "label": {
+                "default": "Military", 
+                "reliefweb": null
+            }, 
+            "reliefweb_id": null, 
+            "scope": "Includes National and International military and military-related organisations", 
+            "x-reliefweb-term-is": null
+        }, 
+        {
+            "id": "441", 
+            "label": {
+                "default": "National NGO", 
+                "reliefweb": "Non-governmental Organization"
+            }, 
+            "reliefweb_id": "274", 
+            "scope": "Includes national and subnational organizations that operate independently from any government, including civil society.  Red Cross/Red Crescent Societies are in a separate category.", 
+            "x-reliefweb-term-is": "Broader"
+        }, 
+        {
+            "id": "443", 
+            "label": {
+                "default": "Other", 
+                "reliefweb": "Other"
+            }, 
+            "reliefweb_id": "275", 
+            "scope": "Includes all organizations that are not applicable to other organization types", 
+            "x-reliefweb-term-is": "Broader"
+        }, 
+        {
+            "id": "444", 
+            "label": {
+                "default": "Private sector", 
+                "reliefweb": null
+            }, 
+            "reliefweb_id": null, 
+            "scope": "Includes private sector organizations such as corporate charity arms or foundations, for-profit recruitment firms and consultancies", 
+            "x-reliefweb-term-is": null
+        }, 
+        {
+            "id": "445", 
+            "label": {
+                "default": "Red Cross / Red Crescent", 
+                "reliefweb": "Red Cross/Red Crescent Movement"
+            }, 
+            "reliefweb_id": "276", 
+            "scope": "Includes IFRC, ICRC and national Red Cross/Crescent societies", 
+            "x-reliefweb-term-is": "Exact Match"
+        }, 
+        {
+            "id": "446", 
+            "label": {
+                "default": "Religious", 
+                "reliefweb": null
+            }, 
+            "reliefweb_id": null, 
+            "scope": "Includes faith-based organizations and organizations with affiliations to religious bodies", 
+            "x-reliefweb-term-is": null
+        }, 
+        {
+            "id": "447", 
+            "label": {
+                "default": "United Nations", 
+                "reliefweb": "International Organization"
+            }, 
+            "reliefweb_id": "272", 
+            "scope": "Includes all UN agencies, funds and programmes", 
+            "x-reliefweb-term-is": "Broader"
+        }
+    ]
+}
