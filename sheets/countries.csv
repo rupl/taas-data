@@ -1,4 +1,4 @@
-ID,HRinfo ID,RW ID,m49 numerical code,ISO 3166-2:2013 Alpha 2-Codes,ISO 3166-3:2013 Alpha 3-Codes,x Alpha2 codes,x Alpha3 codes,Preferred Term,Admin Level,Latitude,Longitude,HRinfo Alt Term,RW Short Name,RW API Alt Term,m49 Alt Term,INTERNAL Has Status
+ID,HRinfo ID,RW ID,m49 numerical code,ISO 3166-1 Alpha 2-Codes,ISO 3166-1 Alpha 3-Codes,x Alpha2 codes,x Alpha3 codes,Preferred Term,Admin Level,Latitude,Longitude,HRinfo Alt Term,RW Short Name,RW API Alt Term,m49 Alt Term,INTERNAL Has Status
 1,181,13,4,AF,AFG,,,Afghanistan,0,33.83147477,66.02621828,,,,,UN Member State
 2,182,14,248,AX,ALA,,,Åland Islands,0,,,,,Aland Islands (Finland),,?
 3,183,15,8,AL,ALB,,,Albania,0,41.13180899,20.06882519,,,,,UN Member State

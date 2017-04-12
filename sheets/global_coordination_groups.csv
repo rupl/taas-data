@@ -1,4 +1,4 @@
-HRinfo ID,Preferred Term,ACRONYM,Group Type,Homepage,Date Created (Post Date),Updated date,Published
+HRinfo ID,Preferred Term,ACRONYM,Group Type,Homepage,Date Created (Post Date),Updated date,Notes
 4,Emergency Shelter and NFI,SHL,Cluster,https://www.sheltercluster.org/,03/16/2017,,
 1,Camp Coordination / Management,CCM,Cluster,http://www.globalcccmcluster.org,03/16/2017,,
 5406,Mine Action,PRO-MIN,Area of Responsibility (Sub-cluster),http://www.globalprotectioncluster.org/en/areas-of-responsibility/mine-action.html,03/16/2017,,
@@ -8,7 +8,7 @@ HRinfo ID,Preferred Term,ACRONYM,Group Type,Homepage,Date Created (Post Date),Up
 5403,Child Protection,PRO-CPN,Area of Responsibility (Sub-cluster),http://cpwg.net/,03/16/2017,,
 10,Protection,PRO,Cluster,http://www.globalprotectioncluster.org/,03/16/2017,,
 3,Education,EDU,Cluster,http://educationcluster.net/,03/16/2017,,
-9,Nutrition,NNUT,Cluster,http://nutritioncluster.net/,03/16/2017,,
+9,Nutrition,NUT,Cluster,http://nutritioncluster.net/,03/16/2017,04/12/2017,Replaced acronym NNUT with NUT
 7,Health,HEA,Cluster,http://www.who.int/health-cluster/en/,03/16/2017,,
 2,Early Recovery,ERY,Cluster,http://earlyrecovery.global/,03/16/2017,,
 5,Emergency Telecommunications,TEL,Cluster,https://www.etcluster.org/,03/16/2017,,
