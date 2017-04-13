@@ -7,4 +7,4 @@ gss-url: https://docs.google.com/spreadsheets/d/1NjSI2LaS3SqbgYc0HdD8oIb7lofGtiH
 managed-by: OCHA Digital Services
 ---
 
-Contains Country names from the ISO 3166 and UN m49 standards with mappings to country names from the humanitarianresponse.info API, and ReliefWeb API.
+Contains Country names from the ISO 3166 and UN m49 standards with mappings to country names from the humanitarianresponse.info API, the FTS API and the ReliefWeb API.
