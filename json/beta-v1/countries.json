@@ -13,6 +13,7 @@
             "iso3": "AFG", 
             "label": {
                 "default": "Afghanistan", 
+                "fts": "Afghanistan", 
                 "humanitarianresponse": "Afghanistan", 
                 "m49": "Afghanistan", 
                 "reliefweb-api": "Afghanistan", 
@@ -36,6 +37,7 @@
             "iso3": "ALA", 
             "label": {
                 "default": "\u00c5land Islands", 
+                "fts": "\u00c5land Islands", 
                 "humanitarianresponse": "\u00c5land Islands", 
                 "m49": "\u00c5land Islands", 
                 "reliefweb-api": "Aland Islands (Finland)", 
@@ -59,6 +61,7 @@
             "iso3": "ALB", 
             "label": {
                 "default": "Albania", 
+                "fts": "Albania", 
                 "humanitarianresponse": "Albania", 
                 "m49": "Albania", 
                 "reliefweb-api": "Albania", 
@@ -82,6 +85,7 @@
             "iso3": "DZA", 
             "label": {
                 "default": "Algeria", 
+                "fts": "Algeria", 
                 "humanitarianresponse": "Algeria", 
                 "m49": "Algeria", 
                 "reliefweb-api": "Algeria", 
@@ -105,6 +109,7 @@
             "iso3": "ASM", 
             "label": {
                 "default": "American Samoa", 
+                "fts": "American Samoa", 
                 "humanitarianresponse": "American Samoa", 
                 "m49": "American Samoa", 
                 "reliefweb-api": "American Samoa", 
@@ -128,6 +133,7 @@
             "iso3": "AND", 
             "label": {
                 "default": "Andorra", 
+                "fts": "Andorra", 
                 "humanitarianresponse": "Andorra", 
                 "m49": "Andorra", 
                 "reliefweb-api": "Andorra", 
@@ -151,6 +157,7 @@
             "iso3": "AGO", 
             "label": {
                 "default": "Angola", 
+                "fts": "Angola", 
                 "humanitarianresponse": "Angola", 
                 "m49": "Angola", 
                 "reliefweb-api": "Angola", 
@@ -174,6 +181,7 @@
             "iso3": "AIA", 
             "label": {
                 "default": "Anguilla", 
+                "fts": "Anguilla", 
                 "humanitarianresponse": "Anguilla", 
                 "m49": "Anguilla", 
                 "reliefweb-api": "Anguilla", 
@@ -197,6 +205,7 @@
             "iso3": "ATA", 
             "label": {
                 "default": "Antarctica", 
+                "fts": "Antarctica", 
                 "humanitarianresponse": "Antarctica", 
                 "m49": "Antarctica", 
                 "reliefweb-api": "Antarctica", 
@@ -220,6 +229,7 @@
             "iso3": "ATG", 
             "label": {
                 "default": "Antigua and Barbuda", 
+                "fts": "Antigua and Barbuda", 
                 "humanitarianresponse": "Antigua and Barbuda", 
                 "m49": "Antigua and Barbuda", 
                 "reliefweb-api": "Antigua and Barbuda", 
@@ -243,6 +253,7 @@
             "iso3": "ARG", 
             "label": {
                 "default": "Argentina", 
+                "fts": "Argentina", 
                 "humanitarianresponse": "Argentina", 
                 "m49": "Argentina", 
                 "reliefweb-api": "Argentina", 
@@ -266,6 +277,7 @@
             "iso3": "ARM", 
             "label": {
                 "default": "Armenia", 
+                "fts": "Armenia", 
                 "humanitarianresponse": "Armenia", 
                 "m49": "Armenia", 
                 "reliefweb-api": "Armenia", 
@@ -289,6 +301,7 @@
             "iso3": "ABW", 
             "label": {
                 "default": "Aruba", 
+                "fts": "Aruba", 
                 "humanitarianresponse": "Aruba", 
                 "m49": "Aruba", 
                 "reliefweb-api": "Aruba (The Netherlands)", 
@@ -312,6 +325,7 @@
             "iso3": "AUS", 
             "label": {
                 "default": "Australia", 
+                "fts": "Australia", 
                 "humanitarianresponse": "Australia", 
                 "m49": "Australia", 
                 "reliefweb-api": "Australia", 
@@ -335,6 +349,7 @@
             "iso3": "AUT", 
             "label": {
                 "default": "Austria", 
+                "fts": "Austria", 
                 "humanitarianresponse": "Austria", 
                 "m49": "Austria", 
                 "reliefweb-api": "Austria", 
@@ -358,6 +373,7 @@
             "iso3": "AZE", 
             "label": {
                 "default": "Azerbaijan", 
+                "fts": "Azerbaijan", 
                 "humanitarianresponse": "Azerbaijan", 
                 "m49": "Azerbaijan", 
                 "reliefweb-api": "Azerbaijan", 
@@ -381,6 +397,7 @@
             "iso3": "BHS", 
             "label": {
                 "default": "Bahamas (the)", 
+                "fts": "Bahamas", 
                 "humanitarianresponse": "Bahamas", 
                 "m49": "Bahamas", 
                 "reliefweb-api": "Bahamas", 
@@ -404,6 +421,7 @@
             "iso3": "BHR", 
             "label": {
                 "default": "Bahrain", 
+                "fts": "Bahrain", 
                 "humanitarianresponse": "Bahrain", 
                 "m49": "Bahrain", 
                 "reliefweb-api": "Bahrain", 
@@ -427,6 +445,7 @@
             "iso3": "BGD", 
             "label": {
                 "default": "Bangladesh", 
+                "fts": "Bangladesh", 
                 "humanitarianresponse": "Bangladesh", 
                 "m49": "Bangladesh", 
                 "reliefweb-api": "Bangladesh", 
@@ -450,6 +469,7 @@
             "iso3": "BRB", 
             "label": {
                 "default": "Barbados", 
+                "fts": "Barbados", 
                 "humanitarianresponse": "Barbados", 
                 "m49": "Barbados", 
                 "reliefweb-api": "Barbados", 
@@ -473,6 +493,7 @@
             "iso3": "BLR", 
             "label": {
                 "default": "Belarus", 
+                "fts": "Belarus", 
                 "humanitarianresponse": "Belarus", 
                 "m49": "Belarus", 
                 "reliefweb-api": "Belarus", 
@@ -496,6 +517,7 @@
             "iso3": "BEL", 
             "label": {
                 "default": "Belgium", 
+                "fts": "Belgium", 
                 "humanitarianresponse": "Belgium", 
                 "m49": "Belgium", 
                 "reliefweb-api": "Belgium", 
@@ -519,6 +541,7 @@
             "iso3": "BLZ", 
             "label": {
                 "default": "Belize", 
+                "fts": "Belize", 
                 "humanitarianresponse": "Belize", 
                 "m49": "Belize", 
                 "reliefweb-api": "Belize", 
@@ -542,6 +565,7 @@
             "iso3": "BEN", 
             "label": {
                 "default": "Benin", 
+                "fts": "Benin", 
                 "humanitarianresponse": "Benin", 
                 "m49": "Benin", 
                 "reliefweb-api": "Benin", 
@@ -565,6 +589,7 @@
             "iso3": "BMU", 
             "label": {
                 "default": "Bermuda", 
+                "fts": "Bermuda", 
                 "humanitarianresponse": "Bermuda", 
                 "m49": "Bermuda", 
                 "reliefweb-api": "Bermuda", 
@@ -588,6 +613,7 @@
             "iso3": "BTN", 
             "label": {
                 "default": "Bhutan", 
+                "fts": "Bhutan", 
                 "humanitarianresponse": "Bhutan", 
                 "m49": "Bhutan", 
                 "reliefweb-api": "Bhutan", 
@@ -611,6 +637,7 @@
             "iso3": "BOL", 
             "label": {
                 "default": "Bolivia (Plurinational State of)", 
+                "fts": "Bolivia, Plurinational State of", 
                 "humanitarianresponse": "Bolivia, Plurinational State of", 
                 "m49": "Bolivia (Plurinational State of)", 
                 "reliefweb-api": "Bolivia (Plurinational State of)", 
@@ -634,6 +661,7 @@
             "iso3": "BIH", 
             "label": {
                 "default": "Bosnia and Herzegovina", 
+                "fts": "Bosnia and Herzegovina", 
                 "humanitarianresponse": "Bosnia and Herzegovina", 
                 "m49": "Bosnia and Herzegovina", 
                 "reliefweb-api": "Bosnia and Herzegovina", 
@@ -657,6 +685,7 @@
             "iso3": "BES", 
             "label": {
                 "default": "Bonaire, Sint Eustatius and Saba", 
+                "fts": "Bonaire, Sint Eustatius and Saba", 
                 "humanitarianresponse": "Bonaire, Sint Eustatius and Saba", 
                 "m49": "Bonaire, Sint Eustatius and Saba", 
                 "reliefweb-api": "Bonaire, Saint Eustatius and Saba (The Netherlands)", 
@@ -680,6 +709,7 @@
             "iso3": "BWA", 
             "label": {
                 "default": "Botswana", 
+                "fts": "Botswana", 
                 "humanitarianresponse": "Botswana", 
                 "m49": "Botswana", 
                 "reliefweb-api": "Botswana", 
@@ -703,6 +733,7 @@
             "iso3": "BVT", 
             "label": {
                 "default": "Bouvet Island", 
+                "fts": "Bouvet Island", 
                 "humanitarianresponse": "Bouvet Island", 
                 "m49": "Bouvet Island", 
                 "reliefweb-api": "Bouvet Island", 
@@ -726,6 +757,7 @@
             "iso3": "BRA", 
             "label": {
                 "default": "Brazil", 
+                "fts": "Brazil", 
                 "humanitarianresponse": "Brazil", 
                 "m49": "Brazil", 
                 "reliefweb-api": "Brazil", 
@@ -749,6 +781,7 @@
             "iso3": "IOT", 
             "label": {
                 "default": "British Indian Ocean Territory (the)", 
+                "fts": "British Indian Ocean Territory", 
                 "humanitarianresponse": "British Indian Ocean Territory", 
                 "m49": "British Indian Ocean Territory", 
                 "reliefweb-api": "British Indian Ocean Territory (the)", 
@@ -772,6 +805,7 @@
             "iso3": "BRN", 
             "label": {
                 "default": "Brunei Darussalam", 
+                "fts": "Brunei Darussalam", 
                 "humanitarianresponse": "Brunei Darussalam", 
                 "m49": "Brunei Darussalam", 
                 "reliefweb-api": "Brunei Darussalam", 
@@ -795,6 +829,7 @@
             "iso3": "BGR", 
             "label": {
                 "default": "Bulgaria", 
+                "fts": "Bulgaria", 
                 "humanitarianresponse": "Bulgaria", 
                 "m49": "Bulgaria", 
                 "reliefweb-api": "Bulgaria", 
@@ -818,6 +853,7 @@
             "iso3": "BFA", 
             "label": {
                 "default": "Burkina Faso", 
+                "fts": "Burkina Faso", 
                 "humanitarianresponse": "Burkina Faso", 
                 "m49": "Burkina Faso", 
                 "reliefweb-api": "Burkina Faso", 
@@ -841,6 +877,7 @@
             "iso3": "BDI", 
             "label": {
                 "default": "Burundi", 
+                "fts": "Burundi", 
                 "humanitarianresponse": "Burundi", 
                 "m49": "Burundi", 
                 "reliefweb-api": "Burundi", 
@@ -864,6 +901,7 @@
             "iso3": "KHM", 
             "label": {
                 "default": "Cambodia", 
+                "fts": "Cambodia", 
                 "humanitarianresponse": "Cambodia", 
                 "m49": "Cambodia", 
                 "reliefweb-api": "Cambodia", 
@@ -887,6 +925,7 @@
             "iso3": "CMR", 
             "label": {
                 "default": "Cameroon", 
+                "fts": "Cameroon", 
                 "humanitarianresponse": "Cameroon", 
                 "m49": "Cameroon", 
                 "reliefweb-api": "Cameroon", 
@@ -910,6 +949,7 @@
             "iso3": "CAN", 
             "label": {
                 "default": "Canada", 
+                "fts": "Canada", 
                 "humanitarianresponse": "Canada", 
                 "m49": "Canada", 
                 "reliefweb-api": "Canada", 
@@ -933,6 +973,7 @@
             "iso3": "CPV", 
             "label": {
                 "default": "Cabo Verde", 
+                "fts": "Cape Verde", 
                 "humanitarianresponse": "Cape Verde", 
                 "m49": "Cabo Verde", 
                 "reliefweb-api": "Cabo Verde", 
@@ -956,6 +997,7 @@
             "iso3": "CYM", 
             "label": {
                 "default": "Cayman Islands (the)", 
+                "fts": "Cayman Islands", 
                 "humanitarianresponse": "Cayman Islands", 
                 "m49": "Cayman Islands", 
                 "reliefweb-api": "Cayman Islands", 
@@ -979,6 +1021,7 @@
             "iso3": "CAF", 
             "label": {
                 "default": "Central African Republic (the)", 
+                "fts": "Central African Republic", 
                 "humanitarianresponse": "Central African Republic", 
                 "m49": "Central African Republic", 
                 "reliefweb-api": "Central African Republic", 
@@ -1002,6 +1045,7 @@
             "iso3": "TCD", 
             "label": {
                 "default": "Chad", 
+                "fts": "Chad", 
                 "humanitarianresponse": "Chad", 
                 "m49": "Chad", 
                 "reliefweb-api": "Chad", 
@@ -1025,6 +1069,7 @@
             "iso3": "CHL", 
             "label": {
                 "default": "Chile", 
+                "fts": "Chile", 
                 "humanitarianresponse": "Chile", 
                 "m49": "Chile", 
                 "reliefweb-api": "Chile", 
@@ -1048,6 +1093,7 @@
             "iso3": "CHN", 
             "label": {
                 "default": "China", 
+                "fts": "China", 
                 "humanitarianresponse": "China", 
                 "m49": "China", 
                 "reliefweb-api": "China", 
@@ -1071,6 +1117,7 @@
             "iso3": "CXR", 
             "label": {
                 "default": "Christmas Island", 
+                "fts": "Christmas Island", 
                 "humanitarianresponse": "Christmas Island", 
                 "m49": "Christmas Island", 
                 "reliefweb-api": "Christmas Island (Australia)", 
@@ -1094,6 +1141,7 @@
             "iso3": "CCK", 
             "label": {
                 "default": "Cocos (Keeling) Islands (the)", 
+                "fts": "Cocos (Keeling) Islands", 
                 "humanitarianresponse": "Cocos (Keeling) Islands", 
                 "m49": "Cocos (Keeling) Islands", 
                 "reliefweb-api": "Cocos (Keeling) Islands (Australia)", 
@@ -1117,6 +1165,7 @@
             "iso3": "COL", 
             "label": {
                 "default": "Colombia", 
+                "fts": "Colombia", 
                 "humanitarianresponse": "Colombia", 
                 "m49": "Colombia", 
                 "reliefweb-api": "Colombia", 
@@ -1140,6 +1189,7 @@
             "iso3": "COM", 
             "label": {
                 "default": "Comoros (the)", 
+                "fts": "Comoros", 
                 "humanitarianresponse": "Comoros", 
                 "m49": "Comoros", 
                 "reliefweb-api": "Comoros", 
@@ -1163,6 +1213,7 @@
             "iso3": "COG", 
             "label": {
                 "default": "Congo (the)", 
+                "fts": "Congo", 
                 "humanitarianresponse": "Congo", 
                 "m49": "Congo", 
                 "reliefweb-api": "Congo", 
@@ -1186,6 +1237,7 @@
             "iso3": "COD", 
             "label": {
                 "default": "Congo (the Democratic Republic of the)", 
+                "fts": "Congo, The Democratic Republic of the", 
                 "humanitarianresponse": "Congo, Democratic Republic of the", 
                 "m49": "Democratic Republic of the Congo", 
                 "reliefweb-api": "Democratic Republic of the Congo", 
@@ -1209,6 +1261,7 @@
             "iso3": "COK", 
             "label": {
                 "default": "Cook Islands (the)", 
+                "fts": "Cook Islands", 
                 "humanitarianresponse": "Cook Islands", 
                 "m49": "Cook Islands", 
                 "reliefweb-api": "Cook Islands", 
@@ -1232,6 +1285,7 @@
             "iso3": "CRI", 
             "label": {
                 "default": "Costa Rica", 
+                "fts": "Costa Rica", 
                 "humanitarianresponse": "Costa Rica", 
                 "m49": "Costa Rica", 
                 "reliefweb-api": "Costa Rica", 
@@ -1255,6 +1309,7 @@
             "iso3": "CIV", 
             "label": {
                 "default": "C\u00f4te d'Ivoire", 
+                "fts": "C\u00f4te d'Ivoire", 
                 "humanitarianresponse": "C\u00f4te d'Ivoire", 
                 "m49": "C\u00f4te d'Ivoire", 
                 "reliefweb-api": "C\u00f4te d'Ivoire", 
@@ -1278,6 +1333,7 @@
             "iso3": "HRV", 
             "label": {
                 "default": "Croatia", 
+                "fts": "Croatia", 
                 "humanitarianresponse": "Croatia", 
                 "m49": "Croatia", 
                 "reliefweb-api": "Croatia", 
@@ -1301,6 +1357,7 @@
             "iso3": "CUB", 
             "label": {
                 "default": "Cuba", 
+                "fts": "Cuba", 
                 "humanitarianresponse": "Cuba", 
                 "m49": "Cuba", 
                 "reliefweb-api": "Cuba", 
@@ -1324,6 +1381,7 @@
             "iso3": "CUW", 
             "label": {
                 "default": "Cura\u00e7ao", 
+                "fts": "Cura\u00e7ao", 
                 "humanitarianresponse": "Cura\u00e7ao", 
                 "m49": "Cura\u00e7ao", 
                 "reliefweb-api": "Cura\u00e7ao (The Netherlands)", 
@@ -1347,6 +1405,7 @@
             "iso3": "CYP", 
             "label": {
                 "default": "Cyprus", 
+                "fts": "Cyprus", 
                 "humanitarianresponse": "Cyprus", 
                 "m49": "Cyprus", 
                 "reliefweb-api": "Cyprus", 
@@ -1370,6 +1429,7 @@
             "iso3": "CZE", 
             "label": {
                 "default": "Czechia", 
+                "fts": "Czech Republic", 
                 "humanitarianresponse": "Czech Republic", 
                 "m49": "Czechia", 
                 "reliefweb-api": "Czech Republic", 
@@ -1393,6 +1453,7 @@
             "iso3": "DNK", 
             "label": {
                 "default": "Denmark", 
+                "fts": "Denmark", 
                 "humanitarianresponse": "Denmark", 
                 "m49": "Denmark", 
                 "reliefweb-api": "Denmark", 
@@ -1416,6 +1477,7 @@
             "iso3": "DJI", 
             "label": {
                 "default": "Djibouti", 
+                "fts": "Djibouti", 
                 "humanitarianresponse": "Djibouti", 
                 "m49": "Djibouti", 
                 "reliefweb-api": "Djibouti", 
@@ -1439,6 +1501,7 @@
             "iso3": "DMA", 
             "label": {
                 "default": "Dominica", 
+                "fts": "Dominica", 
                 "humanitarianresponse": "Dominica", 
                 "m49": "Dominica", 
                 "reliefweb-api": "Dominica", 
@@ -1462,6 +1525,7 @@
             "iso3": "DOM", 
             "label": {
                 "default": "Dominican Republic (the)", 
+                "fts": "Dominican Republic", 
                 "humanitarianresponse": "Dominican Republic", 
                 "m49": "Dominican Republic", 
                 "reliefweb-api": "Dominican Republic", 
@@ -1485,6 +1549,7 @@
             "iso3": "ECU", 
             "label": {
                 "default": "Ecuador", 
+                "fts": "Ecuador", 
                 "humanitarianresponse": "Ecuador", 
                 "m49": "Ecuador", 
                 "reliefweb-api": "Ecuador", 
@@ -1508,6 +1573,7 @@
             "iso3": "EGY", 
             "label": {
                 "default": "Egypt", 
+                "fts": "Egypt", 
                 "humanitarianresponse": "Egypt", 
                 "m49": "Egypt", 
                 "reliefweb-api": "Egypt", 
@@ -1531,6 +1597,7 @@
             "iso3": "SLV", 
             "label": {
                 "default": "El Salvador", 
+                "fts": "El Salvador", 
                 "humanitarianresponse": "El Salvador", 
                 "m49": "El Salvador", 
                 "reliefweb-api": "El Salvador", 
@@ -1554,6 +1621,7 @@
             "iso3": "GNQ", 
             "label": {
                 "default": "Equatorial Guinea", 
+                "fts": "Equatorial Guinea", 
                 "humanitarianresponse": "Equatorial Guinea", 
                 "m49": "Equatorial Guinea", 
                 "reliefweb-api": "Equatorial Guinea", 
@@ -1577,6 +1645,7 @@
             "iso3": "ERI", 
             "label": {
                 "default": "Eritrea", 
+                "fts": "Eritrea", 
                 "humanitarianresponse": "Eritrea", 
                 "m49": "Eritrea", 
                 "reliefweb-api": "Eritrea", 
@@ -1600,6 +1669,7 @@
             "iso3": "EST", 
             "label": {
                 "default": "Estonia", 
+                "fts": "Estonia", 
                 "humanitarianresponse": "Estonia", 
                 "m49": "Estonia", 
                 "reliefweb-api": "Estonia", 
@@ -1623,6 +1693,7 @@
             "iso3": "ETH", 
             "label": {
                 "default": "Ethiopia", 
+                "fts": "Ethiopia", 
                 "humanitarianresponse": "Ethiopia", 
                 "m49": "Ethiopia", 
                 "reliefweb-api": "Ethiopia", 
@@ -1646,6 +1717,7 @@
             "iso3": "FLK", 
             "label": {
                 "default": "Falkland Islands (the) [Malvinas]", 
+                "fts": "Falkland Islands (Malvinas)", 
                 "humanitarianresponse": "Falkland Islands (Malvinas)", 
                 "m49": "Falkland Islands (Malvinas)", 
                 "reliefweb-api": "Falkland Islands (Malvinas)", 
@@ -1669,6 +1741,7 @@
             "iso3": "FRO", 
             "label": {
                 "default": "Faroe Islands (the)", 
+                "fts": "Faroe Islands", 
                 "humanitarianresponse": "Faroe Islands", 
                 "m49": "Faroe Islands", 
                 "reliefweb-api": "Faroe Islands (Denmark)", 
@@ -1692,6 +1765,7 @@
             "iso3": "FJI", 
             "label": {
                 "default": "Fiji", 
+                "fts": "Fiji", 
                 "humanitarianresponse": "Fiji", 
                 "m49": "Fiji", 
                 "reliefweb-api": "Fiji", 
@@ -1715,6 +1789,7 @@
             "iso3": "FIN", 
             "label": {
                 "default": "Finland", 
+                "fts": "Finland", 
                 "humanitarianresponse": "Finland", 
                 "m49": "Finland", 
                 "reliefweb-api": "Finland", 
@@ -1738,6 +1813,7 @@
             "iso3": "FRA", 
             "label": {
                 "default": "France", 
+                "fts": "France", 
                 "humanitarianresponse": "France", 
                 "m49": "France", 
                 "reliefweb-api": "France", 
@@ -1761,6 +1837,7 @@
             "iso3": "GUF", 
             "label": {
                 "default": "French Guiana", 
+                "fts": "French Guiana", 
                 "humanitarianresponse": "French Guiana", 
                 "m49": "French Guiana", 
                 "reliefweb-api": "French Guiana (France)", 
@@ -1784,6 +1861,7 @@
             "iso3": "PYF", 
             "label": {
                 "default": "French Polynesia", 
+                "fts": "French Polynesia", 
                 "humanitarianresponse": "French Polynesia", 
                 "m49": "French Polynesia", 
                 "reliefweb-api": "French Polynesia (France)", 
@@ -1807,6 +1885,7 @@
             "iso3": "ATF", 
             "label": {
                 "default": "French Southern Territories (the)", 
+                "fts": "French Southern Territories", 
                 "humanitarianresponse": "French Southern Territories", 
                 "m49": "French Southern and Antarctic Territories", 
                 "reliefweb-api": "French Southern Territories (the)", 
@@ -1830,6 +1909,7 @@
             "iso3": "GAB", 
             "label": {
                 "default": "Gabon", 
+                "fts": "Gabon", 
                 "humanitarianresponse": "Gabon", 
                 "m49": "Gabon", 
                 "reliefweb-api": "Gabon", 
@@ -1853,6 +1933,7 @@
             "iso3": "GMB", 
             "label": {
                 "default": "Gambia (the)", 
+                "fts": "Gambia", 
                 "humanitarianresponse": "Gambia", 
                 "m49": "Gambia", 
                 "reliefweb-api": "Gambia", 
@@ -1876,6 +1957,7 @@
             "iso3": "GEO", 
             "label": {
                 "default": "Georgia", 
+                "fts": "Georgia", 
                 "humanitarianresponse": "Georgia", 
                 "m49": "Georgia", 
                 "reliefweb-api": "Georgia", 
@@ -1899,6 +1981,7 @@
             "iso3": "DEU", 
             "label": {
                 "default": "Germany", 
+                "fts": "Germany", 
                 "humanitarianresponse": "Germany", 
                 "m49": "Germany", 
                 "reliefweb-api": "Germany", 
@@ -1922,6 +2005,7 @@
             "iso3": "GHA", 
             "label": {
                 "default": "Ghana", 
+                "fts": "Ghana", 
                 "humanitarianresponse": "Ghana", 
                 "m49": "Ghana", 
                 "reliefweb-api": "Ghana", 
@@ -1945,6 +2029,7 @@
             "iso3": "GIB", 
             "label": {
                 "default": "Gibraltar", 
+                "fts": "Gibraltar", 
                 "humanitarianresponse": "Gibraltar", 
                 "m49": "Gibraltar", 
                 "reliefweb-api": "Gibraltar", 
@@ -1968,6 +2053,7 @@
             "iso3": "GRC", 
             "label": {
                 "default": "Greece", 
+                "fts": "Greece", 
                 "humanitarianresponse": "Greece", 
                 "m49": "Greece", 
                 "reliefweb-api": "Greece", 
@@ -1991,6 +2077,7 @@
             "iso3": "GRL", 
             "label": {
                 "default": "Greenland", 
+                "fts": "Greenland", 
                 "humanitarianresponse": "Greenland", 
                 "m49": "Greenland", 
                 "reliefweb-api": "Greenland (Denmark)", 
@@ -2014,6 +2101,7 @@
             "iso3": "GRD", 
             "label": {
                 "default": "Grenada", 
+                "fts": "Grenada", 
                 "humanitarianresponse": "Grenada", 
                 "m49": "Grenada", 
                 "reliefweb-api": "Grenada", 
@@ -2037,6 +2125,7 @@
             "iso3": "GLP", 
             "label": {
                 "default": "Guadeloupe", 
+                "fts": "Guadeloupe", 
                 "humanitarianresponse": "Guadeloupe", 
                 "m49": "Guadeloupe", 
                 "reliefweb-api": "Guadeloupe (France)", 
@@ -2060,6 +2149,7 @@
             "iso3": "GUM", 
             "label": {
                 "default": "Guam", 
+                "fts": "Guam", 
                 "humanitarianresponse": "Guam", 
                 "m49": "Guam", 
                 "reliefweb-api": "Guam", 
@@ -2083,6 +2173,7 @@
             "iso3": "GTM", 
             "label": {
                 "default": "Guatemala", 
+                "fts": "Guatemala", 
                 "humanitarianresponse": "Guatemala", 
                 "m49": "Guatemala", 
                 "reliefweb-api": "Guatemala", 
@@ -2106,6 +2197,7 @@
             "iso3": "GGY", 
             "label": {
                 "default": "Guernsey", 
+                "fts": "Guernsey", 
                 "humanitarianresponse": "Guernsey", 
                 "m49": "Guernsey", 
                 "reliefweb-api": "Guernsey", 
@@ -2129,6 +2221,7 @@
             "iso3": "GIN", 
             "label": {
                 "default": "Guinea", 
+                "fts": "Guinea", 
                 "humanitarianresponse": "Guinea", 
                 "m49": "Guinea", 
                 "reliefweb-api": "Guinea", 
@@ -2152,6 +2245,7 @@
             "iso3": "GNB", 
             "label": {
                 "default": "Guinea-Bissau", 
+                "fts": "Guinea-Bissau", 
                 "humanitarianresponse": "Guinea-Bissau", 
                 "m49": "Guinea-Bissau", 
                 "reliefweb-api": "Guinea-Bissau", 
@@ -2175,6 +2269,7 @@
             "iso3": "GUY", 
             "label": {
                 "default": "Guyana", 
+                "fts": "Guyana", 
                 "humanitarianresponse": "Guyana", 
                 "m49": "Guyana", 
                 "reliefweb-api": "Guyana", 
@@ -2198,6 +2293,7 @@
             "iso3": "HTI", 
             "label": {
                 "default": "Haiti", 
+                "fts": "Haiti", 
                 "humanitarianresponse": "Haiti", 
                 "m49": "Haiti", 
                 "reliefweb-api": "Haiti", 
@@ -2221,6 +2317,7 @@
             "iso3": "HMD", 
             "label": {
                 "default": "Heard Island and McDonald Islands", 
+                "fts": "Heard Island and McDonald Islands", 
                 "humanitarianresponse": "Heard Island and McDonald Islands", 
                 "m49": "Heard Island and McDonald Islands", 
                 "reliefweb-api": "Heard Island and McDonald Islands (Australia)", 
@@ -2244,6 +2341,7 @@
             "iso3": "VAT", 
             "label": {
                 "default": "Holy See (the)", 
+                "fts": "Holy See (Vatican City State)", 
                 "humanitarianresponse": "Holy See (Vatican City State)", 
                 "m49": "Holy See", 
                 "reliefweb-api": "Holy See", 
@@ -2267,6 +2365,7 @@
             "iso3": "HND", 
             "label": {
                 "default": "Honduras", 
+                "fts": "Honduras", 
                 "humanitarianresponse": "Honduras", 
                 "m49": "Honduras", 
                 "reliefweb-api": "Honduras", 
@@ -2290,6 +2389,7 @@
             "iso3": "HKG", 
             "label": {
                 "default": "Hong Kong", 
+                "fts": "Hong Kong", 
                 "humanitarianresponse": "Hong Kong", 
                 "m49": "China, Hong Kong Special Administrative Region", 
                 "reliefweb-api": "China - Hong Kong (Special Administrative Region)", 
@@ -2313,6 +2413,7 @@
             "iso3": "HUN", 
             "label": {
                 "default": "Hungary", 
+                "fts": "Hungary", 
                 "humanitarianresponse": "Hungary", 
                 "m49": "Hungary", 
                 "reliefweb-api": "Hungary", 
@@ -2336,6 +2437,7 @@
             "iso3": "ISL", 
             "label": {
                 "default": "Iceland", 
+                "fts": "Iceland", 
                 "humanitarianresponse": "Iceland", 
                 "m49": "Iceland", 
                 "reliefweb-api": "Iceland", 
@@ -2359,6 +2461,7 @@
             "iso3": "IND", 
             "label": {
                 "default": "India", 
+                "fts": "India", 
                 "humanitarianresponse": "India", 
                 "m49": "India", 
                 "reliefweb-api": "India", 
@@ -2382,6 +2485,7 @@
             "iso3": "IDN", 
             "label": {
                 "default": "Indonesia", 
+                "fts": "Indonesia", 
                 "humanitarianresponse": "Indonesia", 
                 "m49": "Indonesia", 
                 "reliefweb-api": "Indonesia", 
@@ -2405,6 +2509,7 @@
             "iso3": "IRN", 
             "label": {
                 "default": "Iran (Islamic Republic of)", 
+                "fts": "Iran, Islamic Republic of", 
                 "humanitarianresponse": "Iran, Islamic Republic of", 
                 "m49": "Iran (Islamic Republic of)", 
                 "reliefweb-api": "Iran (Islamic Republic of)", 
@@ -2428,6 +2533,7 @@
             "iso3": "IRQ", 
             "label": {
                 "default": "Iraq", 
+                "fts": "Iraq", 
                 "humanitarianresponse": "Iraq", 
                 "m49": "Iraq", 
                 "reliefweb-api": "Iraq", 
@@ -2451,6 +2557,7 @@
             "iso3": "IRL", 
             "label": {
                 "default": "Ireland", 
+                "fts": "Ireland", 
                 "humanitarianresponse": "Ireland", 
                 "m49": "Ireland", 
                 "reliefweb-api": "Ireland", 
@@ -2474,6 +2581,7 @@
             "iso3": "IMN", 
             "label": {
                 "default": "Isle of Man", 
+                "fts": "Isle of Man", 
                 "humanitarianresponse": "Isle of Man", 
                 "m49": "Isle of Man", 
                 "reliefweb-api": "Isle of Man (The United Kingdom of Great Britain and Northern Ireland)", 
@@ -2497,6 +2605,7 @@
             "iso3": "ISR", 
             "label": {
                 "default": "Israel", 
+                "fts": "Israel", 
                 "humanitarianresponse": "Israel", 
                 "m49": "Israel", 
                 "reliefweb-api": "Israel", 
@@ -2520,6 +2629,7 @@
             "iso3": "ITA", 
             "label": {
                 "default": "Italy", 
+                "fts": "Italy", 
                 "humanitarianresponse": "Italy", 
                 "m49": "Italy", 
                 "reliefweb-api": "Italy", 
@@ -2543,6 +2653,7 @@
             "iso3": "JAM", 
             "label": {
                 "default": "Jamaica", 
+                "fts": "Jamaica", 
                 "humanitarianresponse": "Jamaica", 
                 "m49": "Jamaica", 
                 "reliefweb-api": "Jamaica", 
@@ -2566,6 +2677,7 @@
             "iso3": "JPN", 
             "label": {
                 "default": "Japan", 
+                "fts": "Japan", 
                 "humanitarianresponse": "Japan", 
                 "m49": "Japan", 
                 "reliefweb-api": "Japan", 
@@ -2589,6 +2701,7 @@
             "iso3": "JEY", 
             "label": {
                 "default": "Jersey", 
+                "fts": "Jersey", 
                 "humanitarianresponse": "Jersey", 
                 "m49": "Jersey", 
                 "reliefweb-api": "Jersey", 
@@ -2612,6 +2725,7 @@
             "iso3": "JOR", 
             "label": {
                 "default": "Jordan", 
+                "fts": "Jordan", 
                 "humanitarianresponse": "Jordan", 
                 "m49": "Jordan", 
                 "reliefweb-api": "Jordan", 
@@ -2635,6 +2749,7 @@
             "iso3": "KAZ", 
             "label": {
                 "default": "Kazakhstan", 
+                "fts": "Kazakhstan", 
                 "humanitarianresponse": "Kazakhstan", 
                 "m49": "Kazakhstan", 
                 "reliefweb-api": "Kazakhstan", 
@@ -2658,6 +2773,7 @@
             "iso3": "KEN", 
             "label": {
                 "default": "Kenya", 
+                "fts": "Kenya", 
                 "humanitarianresponse": "Kenya", 
                 "m49": "Kenya", 
                 "reliefweb-api": "Kenya", 
@@ -2681,6 +2797,7 @@
             "iso3": "KIR", 
             "label": {
                 "default": "Kiribati", 
+                "fts": "Kiribati", 
                 "humanitarianresponse": "Kiribati", 
                 "m49": "Kiribati", 
                 "reliefweb-api": "Kiribati", 
@@ -2704,6 +2821,7 @@
             "iso3": "PRK", 
             "label": {
                 "default": "Korea (the Democratic People's Republic of)", 
+                "fts": "Korea, Democratic People's Republic of", 
                 "humanitarianresponse": "Korea, Democratic People's Republic of", 
                 "m49": "Democratic People's Republic of Korea", 
                 "reliefweb-api": "Democratic People's Republic of Korea", 
@@ -2727,6 +2845,7 @@
             "iso3": "KOR", 
             "label": {
                 "default": "Korea (the Republic of)", 
+                "fts": "Korea, Republic of", 
                 "humanitarianresponse": "Korea, Republic of", 
                 "m49": "Republic of Korea", 
                 "reliefweb-api": "Republic of Korea", 
@@ -2750,6 +2869,7 @@
             "iso3": "KWT", 
             "label": {
                 "default": "Kuwait", 
+                "fts": "Kuwait", 
                 "humanitarianresponse": "Kuwait", 
                 "m49": "Kuwait", 
                 "reliefweb-api": "Kuwait", 
@@ -2773,6 +2893,7 @@
             "iso3": "KGZ", 
             "label": {
                 "default": "Kyrgyzstan", 
+                "fts": "Kyrgyzstan", 
                 "humanitarianresponse": "Kyrgyzstan", 
                 "m49": "Kyrgyzstan", 
                 "reliefweb-api": "Kyrgyzstan", 
@@ -2796,6 +2917,7 @@
             "iso3": "LAO", 
             "label": {
                 "default": "Lao People's Democratic Republic (the)", 
+                "fts": "Lao People's Democratic Republic", 
                 "humanitarianresponse": "Lao People's Democratic Republic", 
                 "m49": "Lao People's Democratic Republic", 
                 "reliefweb-api": "Lao People's Democratic Republic (the)", 
@@ -2819,6 +2941,7 @@
             "iso3": "LVA", 
             "label": {
                 "default": "Latvia", 
+                "fts": "Latvia", 
                 "humanitarianresponse": "Latvia", 
                 "m49": "Latvia", 
                 "reliefweb-api": "Latvia", 
@@ -2842,6 +2965,7 @@
             "iso3": "LBN", 
             "label": {
                 "default": "Lebanon", 
+                "fts": "Lebanon", 
                 "humanitarianresponse": "Lebanon", 
                 "m49": "Lebanon", 
                 "reliefweb-api": "Lebanon", 
@@ -2865,6 +2989,7 @@
             "iso3": "LSO", 
             "label": {
                 "default": "Lesotho", 
+                "fts": "Lesotho", 
                 "humanitarianresponse": "Lesotho", 
                 "m49": "Lesotho", 
                 "reliefweb-api": "Lesotho", 
@@ -2888,6 +3013,7 @@
             "iso3": "LBR", 
             "label": {
                 "default": "Liberia", 
+                "fts": "Liberia", 
                 "humanitarianresponse": "Liberia", 
                 "m49": "Liberia", 
                 "reliefweb-api": "Liberia", 
@@ -2911,6 +3037,7 @@
             "iso3": "LBY", 
             "label": {
                 "default": "Libya", 
+                "fts": "Libya", 
                 "humanitarianresponse": "Libya", 
                 "m49": "Libya", 
                 "reliefweb-api": "Libya", 
@@ -2934,6 +3061,7 @@
             "iso3": "LIE", 
             "label": {
                 "default": "Liechtenstein", 
+                "fts": "Liechtenstein", 
                 "humanitarianresponse": "Liechtenstein", 
                 "m49": "Liechtenstein", 
                 "reliefweb-api": "Liechtenstein", 
@@ -2957,6 +3085,7 @@
             "iso3": "LTU", 
             "label": {
                 "default": "Lithuania", 
+                "fts": "Lithuania", 
                 "humanitarianresponse": "Lithuania", 
                 "m49": "Lithuania", 
                 "reliefweb-api": "Lithuania", 
@@ -2980,6 +3109,7 @@
             "iso3": "LUX", 
             "label": {
                 "default": "Luxembourg", 
+                "fts": "Luxembourg", 
                 "humanitarianresponse": "Luxembourg", 
                 "m49": "Luxembourg", 
                 "reliefweb-api": "Luxembourg", 
@@ -3003,6 +3133,7 @@
             "iso3": "MAC", 
             "label": {
                 "default": "Macao", 
+                "fts": "Macao", 
                 "humanitarianresponse": "Macao", 
                 "m49": "China, Macao Special Administrative Region", 
                 "reliefweb-api": "China - Macau (Special Administrative Region)", 
@@ -3026,6 +3157,7 @@
             "iso3": "MKD", 
             "label": {
                 "default": "Macedonia (the former Yugoslav Republic of)", 
+                "fts": "Macedonia, The Former Yugoslav Republic of", 
                 "humanitarianresponse": "Macedonia, The Former Yugoslav Republic of", 
                 "m49": "The former Yugoslav Republic of Macedonia", 
                 "reliefweb-api": "the former Yugoslav Republic of Macedonia", 
@@ -3049,6 +3181,7 @@
             "iso3": "MDG", 
             "label": {
                 "default": "Madagascar", 
+                "fts": "Madagascar", 
                 "humanitarianresponse": "Madagascar", 
                 "m49": "Madagascar", 
                 "reliefweb-api": "Madagascar", 
@@ -3072,6 +3205,7 @@
             "iso3": "MWI", 
             "label": {
                 "default": "Malawi", 
+                "fts": "Malawi", 
                 "humanitarianresponse": "Malawi", 
                 "m49": "Malawi", 
                 "reliefweb-api": "Malawi", 
@@ -3095,6 +3229,7 @@
             "iso3": "MYS", 
             "label": {
                 "default": "Malaysia", 
+                "fts": "Malaysia", 
                 "humanitarianresponse": "Malaysia", 
                 "m49": "Malaysia", 
                 "reliefweb-api": "Malaysia", 
@@ -3118,6 +3253,7 @@
             "iso3": "MDV", 
             "label": {
                 "default": "Maldives", 
+                "fts": "Maldives", 
                 "humanitarianresponse": "Maldives", 
                 "m49": "Maldives", 
                 "reliefweb-api": "Maldives", 
@@ -3141,6 +3277,7 @@
             "iso3": "MLI", 
             "label": {
                 "default": "Mali", 
+                "fts": "Mali", 
                 "humanitarianresponse": "Mali", 
                 "m49": "Mali", 
                 "reliefweb-api": "Mali", 
@@ -3164,6 +3301,7 @@
             "iso3": "MLT", 
             "label": {
                 "default": "Malta", 
+                "fts": "Malta", 
                 "humanitarianresponse": "Malta", 
                 "m49": "Malta", 
                 "reliefweb-api": "Malta", 
@@ -3187,6 +3325,7 @@
             "iso3": "MHL", 
             "label": {
                 "default": "Marshall Islands (the)", 
+                "fts": "Marshall Islands", 
                 "humanitarianresponse": "Marshall Islands", 
                 "m49": "Marshall Islands", 
                 "reliefweb-api": "Marshall Islands", 
@@ -3210,6 +3349,7 @@
             "iso3": "MTQ", 
             "label": {
                 "default": "Martinique", 
+                "fts": "Martinique", 
                 "humanitarianresponse": "Martinique", 
                 "m49": "Martinique", 
                 "reliefweb-api": "Martinique (France)", 
@@ -3233,6 +3373,7 @@
             "iso3": "MRT", 
             "label": {
                 "default": "Mauritania", 
+                "fts": "Mauritania", 
                 "humanitarianresponse": "Mauritania", 
                 "m49": "Mauritania", 
                 "reliefweb-api": "Mauritania", 
@@ -3256,6 +3397,7 @@
             "iso3": "MUS", 
             "label": {
                 "default": "Mauritius", 
+                "fts": "Mauritius", 
                 "humanitarianresponse": "Mauritius", 
                 "m49": "Mauritius", 
                 "reliefweb-api": "Mauritius", 
@@ -3279,6 +3421,7 @@
             "iso3": "MYT", 
             "label": {
                 "default": "Mayotte", 
+                "fts": "Mayotte", 
                 "humanitarianresponse": "Mayotte", 
                 "m49": "Mayotte", 
                 "reliefweb-api": "Mayotte (France)", 
@@ -3302,6 +3445,7 @@
             "iso3": "MEX", 
             "label": {
                 "default": "Mexico", 
+                "fts": "Mexico", 
                 "humanitarianresponse": "Mexico", 
                 "m49": "Mexico", 
                 "reliefweb-api": "Mexico", 
@@ -3325,6 +3469,7 @@
             "iso3": "FSM", 
             "label": {
                 "default": "Micronesia (Federated States of)", 
+                "fts": "Micronesia, Federated States of", 
                 "humanitarianresponse": "Micronesia, Federated States of", 
                 "m49": "Micronesia (Federated States of)", 
                 "reliefweb-api": "Micronesia (Federated States of)", 
@@ -3348,6 +3493,7 @@
             "iso3": "MDA", 
             "label": {
                 "default": "Moldova (the Republic of)", 
+                "fts": "Moldova, Republic of", 
                 "humanitarianresponse": "Moldova, Republic of", 
                 "m49": "Republic of Moldova", 
                 "reliefweb-api": "Moldova", 
@@ -3371,6 +3517,7 @@
             "iso3": "MCO", 
             "label": {
                 "default": "Monaco", 
+                "fts": "Monaco", 
                 "humanitarianresponse": "Monaco", 
                 "m49": "Monaco", 
                 "reliefweb-api": "Monaco", 
@@ -3394,6 +3541,7 @@
             "iso3": "MNG", 
             "label": {
                 "default": "Mongolia", 
+                "fts": "Mongolia", 
                 "humanitarianresponse": "Mongolia", 
                 "m49": "Mongolia", 
                 "reliefweb-api": "Mongolia", 
@@ -3417,6 +3565,7 @@
             "iso3": "MNE", 
             "label": {
                 "default": "Montenegro", 
+                "fts": "Montenegro", 
                 "humanitarianresponse": "Montenegro", 
                 "m49": "Montenegro", 
                 "reliefweb-api": "Montenegro", 
@@ -3440,6 +3589,7 @@
             "iso3": "MSR", 
             "label": {
                 "default": "Montserrat", 
+                "fts": "Montserrat", 
                 "humanitarianresponse": "Montserrat", 
                 "m49": "Montserrat", 
                 "reliefweb-api": "Montserrat", 
@@ -3463,6 +3613,7 @@
             "iso3": "MAR", 
             "label": {
                 "default": "Morocco", 
+                "fts": "Morocco", 
                 "humanitarianresponse": "Morocco", 
                 "m49": "Morocco", 
                 "reliefweb-api": "Morocco", 
@@ -3486,6 +3637,7 @@
             "iso3": "MOZ", 
             "label": {
                 "default": "Mozambique", 
+                "fts": "Mozambique", 
                 "humanitarianresponse": "Mozambique", 
                 "m49": "Mozambique", 
                 "reliefweb-api": "Mozambique", 
@@ -3509,6 +3661,7 @@
             "iso3": "MMR", 
             "label": {
                 "default": "Myanmar", 
+                "fts": "Myanmar", 
                 "humanitarianresponse": "Myanmar", 
                 "m49": "Myanmar", 
                 "reliefweb-api": "Myanmar", 
@@ -3532,6 +3685,7 @@
             "iso3": "NAM", 
             "label": {
                 "default": "Namibia", 
+                "fts": "Namibia", 
                 "humanitarianresponse": "Namibia", 
                 "m49": "Namibia", 
                 "reliefweb-api": "Namibia", 
@@ -3555,6 +3709,7 @@
             "iso3": "NRU", 
             "label": {
                 "default": "Nauru", 
+                "fts": "Nauru", 
                 "humanitarianresponse": "Nauru", 
                 "m49": "Nauru", 
                 "reliefweb-api": "Nauru", 
@@ -3578,6 +3733,7 @@
             "iso3": "NPL", 
             "label": {
                 "default": "Nepal", 
+                "fts": "Nepal", 
                 "humanitarianresponse": "Nepal", 
                 "m49": "Nepal", 
                 "reliefweb-api": "Nepal", 
@@ -3601,6 +3757,7 @@
             "iso3": "NLD", 
             "label": {
                 "default": "Netherlands (the)", 
+                "fts": "Netherlands", 
                 "humanitarianresponse": "Netherlands", 
                 "m49": "Netherlands (the)", 
                 "reliefweb-api": "Netherlands", 
@@ -3624,6 +3781,7 @@
             "iso3": null, 
             "label": {
                 "default": "Netherlands Antilles", 
+                "fts": "Netherlands Antilles", 
                 "humanitarianresponse": "Netherlands Antilles", 
                 "m49": "Netherlands Antilles", 
                 "reliefweb-api": "Netherlands Antilles (The Netherlands)", 
@@ -3647,6 +3805,7 @@
             "iso3": "NCL", 
             "label": {
                 "default": "New Caledonia", 
+                "fts": "New Caledonia", 
                 "humanitarianresponse": "New Caledonia", 
                 "m49": "New Caledonia", 
                 "reliefweb-api": "New Caledonia (France)", 
@@ -3670,6 +3829,7 @@
             "iso3": "NZL", 
             "label": {
                 "default": "New Zealand", 
+                "fts": "New Zealand", 
                 "humanitarianresponse": "New Zealand", 
                 "m49": "New Zealand", 
                 "reliefweb-api": "New Zealand", 
@@ -3693,6 +3853,7 @@
             "iso3": "NIC", 
             "label": {
                 "default": "Nicaragua", 
+                "fts": "Nicaragua", 
                 "humanitarianresponse": "Nicaragua", 
                 "m49": "Nicaragua", 
                 "reliefweb-api": "Nicaragua", 
@@ -3716,6 +3877,7 @@
             "iso3": "NER", 
             "label": {
                 "default": "Niger (the)", 
+                "fts": "Niger", 
                 "humanitarianresponse": "Niger", 
                 "m49": "Niger", 
                 "reliefweb-api": "Niger", 
@@ -3739,6 +3901,7 @@
             "iso3": "NGA", 
             "label": {
                 "default": "Nigeria", 
+                "fts": "Nigeria", 
                 "humanitarianresponse": "Nigeria", 
                 "m49": "Nigeria", 
                 "reliefweb-api": "Nigeria", 
@@ -3762,6 +3925,7 @@
             "iso3": "NIU", 
             "label": {
                 "default": "Niue", 
+                "fts": "Niue", 
                 "humanitarianresponse": "Niue", 
                 "m49": "Niue", 
                 "reliefweb-api": "Niue (New Zealand)", 
@@ -3785,6 +3949,7 @@
             "iso3": "NFK", 
             "label": {
                 "default": "Norfolk Island", 
+                "fts": "Norfolk Island", 
                 "humanitarianresponse": "Norfolk Island", 
                 "m49": "Norfolk Island", 
                 "reliefweb-api": "Norfolk Island (Australia)", 
@@ -3808,6 +3973,7 @@
             "iso3": "NOR", 
             "label": {
                 "default": "Norway", 
+                "fts": "Norway", 
                 "humanitarianresponse": "Norway", 
                 "m49": "Norway", 
                 "reliefweb-api": "Norway", 
@@ -3831,6 +3997,7 @@
             "iso3": "OMN", 
             "label": {
                 "default": "Oman", 
+                "fts": "Oman", 
                 "humanitarianresponse": "Oman", 
                 "m49": "Oman", 
                 "reliefweb-api": "Oman", 
@@ -3854,6 +4021,7 @@
             "iso3": "PAK", 
             "label": {
                 "default": "Pakistan", 
+                "fts": "Pakistan", 
                 "humanitarianresponse": "Pakistan", 
                 "m49": "Pakistan", 
                 "reliefweb-api": "Pakistan", 
@@ -3877,6 +4045,7 @@
             "iso3": "PLW", 
             "label": {
                 "default": "Palau", 
+                "fts": "Palau", 
                 "humanitarianresponse": "Palau", 
                 "m49": "Palau", 
                 "reliefweb-api": "Palau", 
@@ -3900,6 +4069,7 @@
             "iso3": "PSE", 
             "label": {
                 "default": "Palestine, State of", 
+                "fts": "occupied Palestinian territory", 
                 "humanitarianresponse": "occupied Palestinian territory", 
                 "m49": "State of Palestine", 
                 "reliefweb-api": "occupied Palestinian territory", 
@@ -3923,6 +4093,7 @@
             "iso3": "PAN", 
             "label": {
                 "default": "Panama", 
+                "fts": "Panama", 
                 "humanitarianresponse": "Panama", 
                 "m49": "Panama", 
                 "reliefweb-api": "Panama", 
@@ -3946,6 +4117,7 @@
             "iso3": "PNG", 
             "label": {
                 "default": "Papua New Guinea", 
+                "fts": "Papua New Guinea", 
                 "humanitarianresponse": "Papua New Guinea", 
                 "m49": "Papua New Guinea", 
                 "reliefweb-api": "Papua New Guinea", 
@@ -3969,6 +4141,7 @@
             "iso3": "PRY", 
             "label": {
                 "default": "Paraguay", 
+                "fts": "Paraguay", 
                 "humanitarianresponse": "Paraguay", 
                 "m49": "Paraguay", 
                 "reliefweb-api": "Paraguay", 
@@ -3992,6 +4165,7 @@
             "iso3": "PER", 
             "label": {
                 "default": "Peru", 
+                "fts": "Peru", 
                 "humanitarianresponse": "Peru", 
                 "m49": "Peru", 
                 "reliefweb-api": "Peru", 
@@ -4015,6 +4189,7 @@
             "iso3": "PHL", 
             "label": {
                 "default": "Philippines (the)", 
+                "fts": "Philippines", 
                 "humanitarianresponse": "Philippines", 
                 "m49": "Philippines", 
                 "reliefweb-api": "Philippines", 
@@ -4038,6 +4213,7 @@
             "iso3": "PCN", 
             "label": {
                 "default": "Pitcairn", 
+                "fts": "Pitcairn", 
                 "humanitarianresponse": "Pitcairn", 
                 "m49": "Pitcairn", 
                 "reliefweb-api": "Pitcairn Islands", 
@@ -4061,6 +4237,7 @@
             "iso3": "POL", 
             "label": {
                 "default": "Poland", 
+                "fts": "Poland", 
                 "humanitarianresponse": "Poland", 
                 "m49": "Poland", 
                 "reliefweb-api": "Poland", 
@@ -4084,6 +4261,7 @@
             "iso3": "PRT", 
             "label": {
                 "default": "Portugal", 
+                "fts": "Portugal", 
                 "humanitarianresponse": "Portugal", 
                 "m49": "Portugal", 
                 "reliefweb-api": "Portugal", 
@@ -4107,6 +4285,7 @@
             "iso3": "PRI", 
             "label": {
                 "default": "Puerto Rico", 
+                "fts": "Puerto Rico", 
                 "humanitarianresponse": "Puerto Rico", 
                 "m49": "Puerto Rico", 
                 "reliefweb-api": "Puerto Rico (The United States of America)", 
@@ -4130,6 +4309,7 @@
             "iso3": "QAT", 
             "label": {
                 "default": "Qatar", 
+                "fts": "Qatar", 
                 "humanitarianresponse": "Qatar", 
                 "m49": "Qatar", 
                 "reliefweb-api": "Qatar", 
@@ -4153,6 +4333,7 @@
             "iso3": "REU", 
             "label": {
                 "default": "R\u00e9union", 
+                "fts": "R\u00e9union", 
                 "humanitarianresponse": "R\u00e9union", 
                 "m49": "R\u00e9union", 
                 "reliefweb-api": "R\u00e9union (France)", 
@@ -4176,6 +4357,7 @@
             "iso3": "ROU", 
             "label": {
                 "default": "Romania", 
+                "fts": "Romania", 
                 "humanitarianresponse": "Romania", 
                 "m49": "Romania", 
                 "reliefweb-api": "Romania", 
@@ -4199,6 +4381,7 @@
             "iso3": "RUS", 
             "label": {
                 "default": "Russian Federation (the)", 
+                "fts": "Russian Federation", 
                 "humanitarianresponse": "Russian Federation", 
                 "m49": "Russian Federation", 
                 "reliefweb-api": "Russian Federation", 
@@ -4222,6 +4405,7 @@
             "iso3": "RWA", 
             "label": {
                 "default": "Rwanda", 
+                "fts": "Rwanda", 
                 "humanitarianresponse": "Rwanda", 
                 "m49": "Rwanda", 
                 "reliefweb-api": "Rwanda", 
@@ -4245,6 +4429,7 @@
             "iso3": "BLM", 
             "label": {
                 "default": "Saint Barth\u00e9lemy", 
+                "fts": "Saint Barth\u00e9lemy", 
                 "humanitarianresponse": "Saint Barth\u00e9lemy", 
                 "m49": "Saint Barth\u00e9lemy", 
                 "reliefweb-api": "Saint Barth\u00e9lemy (France)", 
@@ -4268,6 +4453,7 @@
             "iso3": "SHN", 
             "label": {
                 "default": "Saint Helena, Ascension and Tristan da Cunha", 
+                "fts": "Saint Helena, Ascension and Tristan da Cunha", 
                 "humanitarianresponse": "Saint Helena, Ascension and Tristan da Cunha", 
                 "m49": "Saint Helena", 
                 "reliefweb-api": "Saint Helena", 
@@ -4291,6 +4477,7 @@
             "iso3": "KNA", 
             "label": {
                 "default": "Saint Kitts and Nevis", 
+                "fts": "Saint Kitts and Nevis", 
                 "humanitarianresponse": "Saint Kitts and Nevis", 
                 "m49": "Saint Kitts and Nevis", 
                 "reliefweb-api": "Saint Kitts and Nevis", 
@@ -4314,6 +4501,7 @@
             "iso3": "LCA", 
             "label": {
                 "default": "Saint Lucia", 
+                "fts": "Saint Lucia", 
                 "humanitarianresponse": "Saint Lucia", 
                 "m49": "Saint Lucia", 
                 "reliefweb-api": "Saint Lucia", 
@@ -4337,6 +4525,7 @@
             "iso3": "MAF", 
             "label": {
                 "default": "Saint Martin (French part)", 
+                "fts": "Saint Martin (French part)", 
                 "humanitarianresponse": "Saint Martin (French part)", 
                 "m49": "Saint Martin (French part)", 
                 "reliefweb-api": "Saint Martin (France)", 
@@ -4360,6 +4549,7 @@
             "iso3": "SPM", 
             "label": {
                 "default": "Saint Pierre and Miquelon", 
+                "fts": "Saint Pierre and Miquelon", 
                 "humanitarianresponse": "Saint Pierre and Miquelon", 
                 "m49": "Saint Pierre and Miquelon", 
                 "reliefweb-api": "Saint Pierre and Miquelon (France)", 
@@ -4383,6 +4573,7 @@
             "iso3": "VCT", 
             "label": {
                 "default": "Saint Vincent and the Grenadines", 
+                "fts": "Saint Vincent and the Grenadines", 
                 "humanitarianresponse": "Saint Vincent and the Grenadines", 
                 "m49": "Saint Vincent and the Grenadines", 
                 "reliefweb-api": "Saint Vincent and the Grenadines", 
@@ -4406,6 +4597,7 @@
             "iso3": "WSM", 
             "label": {
                 "default": "Samoa", 
+                "fts": "Samoa", 
                 "humanitarianresponse": "Samoa", 
                 "m49": "Samoa", 
                 "reliefweb-api": "Samoa", 
@@ -4429,6 +4621,7 @@
             "iso3": "SMR", 
             "label": {
                 "default": "San Marino", 
+                "fts": "San Marino", 
                 "humanitarianresponse": "San Marino", 
                 "m49": "San Marino", 
                 "reliefweb-api": "San Marino", 
@@ -4452,6 +4645,7 @@
             "iso3": "STP", 
             "label": {
                 "default": "S\u00e3o Tom\u00e9 and Pr\u00edncipe", 
+                "fts": "S\u00e3o Tom\u00e9 and Pr\u00edncipe", 
                 "humanitarianresponse": "S\u00e3o Tom\u00e9 and Pr\u00edncipe", 
                 "m49": "S\u00e3o Tom\u00e9 and Pr\u00edncipe", 
                 "reliefweb-api": "S\u00e3o Tom\u00e9 and Pr\u00edncipe", 
@@ -4475,6 +4669,7 @@
             "iso3": "SAU", 
             "label": {
                 "default": "Saudi Arabia", 
+                "fts": "Saudi Arabia", 
                 "humanitarianresponse": "Saudi Arabia", 
                 "m49": "Saudi Arabia", 
                 "reliefweb-api": "Saudi Arabia", 
@@ -4498,6 +4693,7 @@
             "iso3": "SEN", 
             "label": {
                 "default": "Senegal", 
+                "fts": "Senegal", 
                 "humanitarianresponse": "Senegal", 
                 "m49": "Senegal", 
                 "reliefweb-api": "Senegal", 
@@ -4521,6 +4717,7 @@
             "iso3": "SRB", 
             "label": {
                 "default": "Serbia", 
+                "fts": "Serbia", 
                 "humanitarianresponse": "Serbia", 
                 "m49": "Serbia", 
                 "reliefweb-api": "Serbia", 
@@ -4544,6 +4741,7 @@
             "iso3": "SYC", 
             "label": {
                 "default": "Seychelles", 
+                "fts": "Seychelles", 
                 "humanitarianresponse": "Seychelles", 
                 "m49": "Seychelles", 
                 "reliefweb-api": "Seychelles", 
@@ -4567,6 +4765,7 @@
             "iso3": "SLE", 
             "label": {
                 "default": "Sierra Leone", 
+                "fts": "Sierra Leone", 
                 "humanitarianresponse": "Sierra Leone", 
                 "m49": "Sierra Leone", 
                 "reliefweb-api": "Sierra Leone", 
@@ -4590,6 +4789,7 @@
             "iso3": "SGP", 
             "label": {
                 "default": "Singapore", 
+                "fts": "Singapore", 
                 "humanitarianresponse": "Singapore", 
                 "m49": "Singapore", 
                 "reliefweb-api": "Singapore", 
@@ -4613,6 +4813,7 @@
             "iso3": "SXM", 
             "label": {
                 "default": "Sint Maarten (Dutch part)", 
+                "fts": "Sint Maarten (Dutch part)", 
                 "humanitarianresponse": "Sint Maarten (Dutch part)", 
                 "m49": "Sint Maarten (Dutch part)", 
                 "reliefweb-api": "Sint Maarten (The Netherlands)", 
@@ -4636,6 +4837,7 @@
             "iso3": "SVK", 
             "label": {
                 "default": "Slovakia", 
+                "fts": "Slovakia", 
                 "humanitarianresponse": "Slovakia", 
                 "m49": "Slovakia", 
                 "reliefweb-api": "Slovakia", 
@@ -4659,6 +4861,7 @@
             "iso3": "SVN", 
             "label": {
                 "default": "Slovenia", 
+                "fts": "Slovenia", 
                 "humanitarianresponse": "Slovenia", 
                 "m49": "Slovenia", 
                 "reliefweb-api": "Slovenia", 
@@ -4682,6 +4885,7 @@
             "iso3": "SLB", 
             "label": {
                 "default": "Solomon Islands", 
+                "fts": "Solomon Islands", 
                 "humanitarianresponse": "Solomon Islands", 
                 "m49": "Solomon Islands", 
                 "reliefweb-api": "Solomon Islands", 
@@ -4705,6 +4909,7 @@
             "iso3": "SOM", 
             "label": {
                 "default": "Somalia", 
+                "fts": "Somalia", 
                 "humanitarianresponse": "Somalia", 
                 "m49": "Somalia", 
                 "reliefweb-api": "Somalia", 
@@ -4728,6 +4933,7 @@
             "iso3": "ZAF", 
             "label": {
                 "default": "South Africa", 
+                "fts": "South Africa", 
                 "humanitarianresponse": "South Africa", 
                 "m49": "South Africa", 
                 "reliefweb-api": "South Africa", 
@@ -4751,6 +4957,7 @@
             "iso3": "SGS", 
             "label": {
                 "default": "South Georgia and the South Sandwich Islands", 
+                "fts": "South Georgia and the South Sandwich Islands", 
                 "humanitarianresponse": "South Georgia and the South Sandwich Islands", 
                 "m49": "South Georgia and the South Sandwich Islands", 
                 "reliefweb-api": "South Georgia and the South Sandwich Islands", 
@@ -4774,6 +4981,7 @@
             "iso3": "ESP", 
             "label": {
                 "default": "Spain", 
+                "fts": "Spain", 
                 "humanitarianresponse": "Spain", 
                 "m49": "Spain", 
                 "reliefweb-api": "Spain", 
@@ -4797,6 +5005,7 @@
             "iso3": "LKA", 
             "label": {
                 "default": "Sri Lanka", 
+                "fts": "Sri Lanka", 
                 "humanitarianresponse": "Sri Lanka", 
                 "m49": "Sri Lanka", 
                 "reliefweb-api": "Sri Lanka", 
@@ -4820,6 +5029,7 @@
             "iso3": "SSD", 
             "label": {
                 "default": "South Sudan", 
+                "fts": "South Sudan", 
                 "humanitarianresponse": "South Sudan", 
                 "m49": "South Sudan", 
                 "reliefweb-api": "South Sudan", 
@@ -4843,6 +5053,7 @@
             "iso3": "SDN", 
             "label": {
                 "default": "Sudan (the)", 
+                "fts": "Sudan", 
                 "humanitarianresponse": "Sudan", 
                 "m49": "Sudan", 
                 "reliefweb-api": "Sudan", 
@@ -4866,6 +5077,7 @@
             "iso3": "SUR", 
             "label": {
                 "default": "Suriname", 
+                "fts": "Suriname", 
                 "humanitarianresponse": "Suriname", 
                 "m49": "Suriname", 
                 "reliefweb-api": "Suriname", 
@@ -4889,6 +5101,7 @@
             "iso3": "SJM", 
             "label": {
                 "default": "Svalbard and Jan Mayen", 
+                "fts": "Svalbard and Jan Mayen", 
                 "humanitarianresponse": "Svalbard and Jan Mayen", 
                 "m49": "Svalbard and Jan Mayen Islands", 
                 "reliefweb-api": "Svalbard and Jan Mayen Islands", 
@@ -4912,6 +5125,7 @@
             "iso3": "SWZ", 
             "label": {
                 "default": "Swaziland", 
+                "fts": "Swaziland", 
                 "humanitarianresponse": "Swaziland", 
                 "m49": "Swaziland", 
                 "reliefweb-api": "Swaziland", 
@@ -4935,6 +5149,7 @@
             "iso3": "SWE", 
             "label": {
                 "default": "Sweden", 
+                "fts": "Sweden", 
                 "humanitarianresponse": "Sweden", 
                 "m49": "Sweden", 
                 "reliefweb-api": "Sweden", 
@@ -4958,6 +5173,7 @@
             "iso3": "CHE", 
             "label": {
                 "default": "Switzerland", 
+                "fts": "Switzerland", 
                 "humanitarianresponse": "Switzerland", 
                 "m49": "Switzerland", 
                 "reliefweb-api": "Switzerland", 
@@ -4981,6 +5197,7 @@
             "iso3": "SYR", 
             "label": {
                 "default": "Syrian Arab Republic", 
+                "fts": "Syrian Arab Republic", 
                 "humanitarianresponse": "Syrian Arab Republic", 
                 "m49": "Syrian Arab Republic", 
                 "reliefweb-api": "Syrian Arab Republic", 
@@ -5004,6 +5221,7 @@
             "iso3": "TWN", 
             "label": {
                 "default": "Taiwan (Province of China)", 
+                "fts": "Taiwan, Province of China", 
                 "humanitarianresponse": "Taiwan, Province of China", 
                 "m49": "Taiwan (Province of China)", 
                 "reliefweb-api": "China - Taiwan Province", 
@@ -5027,6 +5245,7 @@
             "iso3": "TJK", 
             "label": {
                 "default": "Tajikistan", 
+                "fts": "Tajikistan", 
                 "humanitarianresponse": "Tajikistan", 
                 "m49": "Tajikistan", 
                 "reliefweb-api": "Tajikistan", 
@@ -5050,6 +5269,7 @@
             "iso3": "TZA", 
             "label": {
                 "default": "Tanzania, United Republic of", 
+                "fts": "Tanzania, United Republic of", 
                 "humanitarianresponse": "Tanzania, United Republic of", 
                 "m49": "United Republic of Tanzania", 
                 "reliefweb-api": "United Republic of Tanzania", 
@@ -5073,6 +5293,7 @@
             "iso3": "THA", 
             "label": {
                 "default": "Thailand", 
+                "fts": "Thailand", 
                 "humanitarianresponse": "Thailand", 
                 "m49": "Thailand", 
                 "reliefweb-api": "Thailand", 
@@ -5096,6 +5317,7 @@
             "iso3": "TLS", 
             "label": {
                 "default": "Timor-Leste", 
+                "fts": "Timor-Leste", 
                 "humanitarianresponse": "Timor-Leste", 
                 "m49": "Timor-Leste", 
                 "reliefweb-api": "Timor-Leste", 
@@ -5119,6 +5341,7 @@
             "iso3": "TGO", 
             "label": {
                 "default": "Togo", 
+                "fts": "Togo", 
                 "humanitarianresponse": "Togo", 
                 "m49": "Togo", 
                 "reliefweb-api": "Togo", 
@@ -5142,6 +5365,7 @@
             "iso3": "TKL", 
             "label": {
                 "default": "Tokelau", 
+                "fts": "Tokelau", 
                 "humanitarianresponse": "Tokelau", 
                 "m49": "Tokelau", 
                 "reliefweb-api": "Tokelau", 
@@ -5165,6 +5389,7 @@
             "iso3": "TON", 
             "label": {
                 "default": "Tonga", 
+                "fts": "Tonga", 
                 "humanitarianresponse": "Tonga", 
                 "m49": "Tonga", 
                 "reliefweb-api": "Tonga", 
@@ -5188,6 +5413,7 @@
             "iso3": "TTO", 
             "label": {
                 "default": "Trinidad and Tobago", 
+                "fts": "Trinidad and Tobago", 
                 "humanitarianresponse": "Trinidad and Tobago", 
                 "m49": "Trinidad and Tobago", 
                 "reliefweb-api": "Trinidad and Tobago", 
@@ -5211,6 +5437,7 @@
             "iso3": "TUN", 
             "label": {
                 "default": "Tunisia", 
+                "fts": "Tunisia", 
                 "humanitarianresponse": "Tunisia", 
                 "m49": "Tunisia", 
                 "reliefweb-api": "Tunisia", 
@@ -5234,6 +5461,7 @@
             "iso3": "TUR", 
             "label": {
                 "default": "Turkey", 
+                "fts": "Turkey", 
                 "humanitarianresponse": "Turkey", 
                 "m49": "Turkey", 
                 "reliefweb-api": "Turkey", 
@@ -5257,6 +5485,7 @@
             "iso3": "TKM", 
             "label": {
                 "default": "Turkmenistan", 
+                "fts": "Turkmenistan", 
                 "humanitarianresponse": "Turkmenistan", 
                 "m49": "Turkmenistan", 
                 "reliefweb-api": "Turkmenistan", 
@@ -5280,6 +5509,7 @@
             "iso3": "TCA", 
             "label": {
                 "default": "Turks and Caicos Islands (the)", 
+                "fts": "Turks and Caicos Islands", 
                 "humanitarianresponse": "Turks and Caicos Islands", 
                 "m49": "Turks and Caicos Islands", 
                 "reliefweb-api": "Turks and Caicos Islands", 
@@ -5303,6 +5533,7 @@
             "iso3": "TUV", 
             "label": {
                 "default": "Tuvalu", 
+                "fts": "Tuvalu", 
                 "humanitarianresponse": "Tuvalu", 
                 "m49": "Tuvalu", 
                 "reliefweb-api": "Tuvalu", 
@@ -5326,6 +5557,7 @@
             "iso3": "UGA", 
             "label": {
                 "default": "Uganda", 
+                "fts": "Uganda", 
                 "humanitarianresponse": "Uganda", 
                 "m49": "Uganda", 
                 "reliefweb-api": "Uganda", 
@@ -5349,6 +5581,7 @@
             "iso3": "UKR", 
             "label": {
                 "default": "Ukraine", 
+                "fts": "Ukraine", 
                 "humanitarianresponse": "Ukraine", 
                 "m49": "Ukraine", 
                 "reliefweb-api": "Ukraine", 
@@ -5372,6 +5605,7 @@
             "iso3": "ARE", 
             "label": {
                 "default": "United Arab Emirates (the)", 
+                "fts": "United Arab Emirates", 
                 "humanitarianresponse": "United Arab Emirates", 
                 "m49": "United Arab Emirates", 
                 "reliefweb-api": "United Arab Emirates", 
@@ -5395,6 +5629,7 @@
             "iso3": "GBR", 
             "label": {
                 "default": "United Kingdom of Great Britain and Northern Ireland (the)", 
+                "fts": "United Kingdom", 
                 "humanitarianresponse": "United Kingdom", 
                 "m49": "United Kingdom of Great Britain and Northern Ireland", 
                 "reliefweb-api": "United Kingdom of Great Britain and Northern Ireland", 
@@ -5418,6 +5653,7 @@
             "iso3": "USA", 
             "label": {
                 "default": "United States of America (the)", 
+                "fts": "United States", 
                 "humanitarianresponse": "United States", 
                 "m49": "United States of America", 
                 "reliefweb-api": "United States of America", 
@@ -5441,6 +5677,7 @@
             "iso3": "UMI", 
             "label": {
                 "default": "United States Minor Outlying Islands (the)", 
+                "fts": "United States Minor Outlying Islands", 
                 "humanitarianresponse": "United States Minor Outlying Islands", 
                 "m49": "United States Minor Outlying Islands (the)", 
                 "reliefweb-api": "United States Minor Outlying Islands (the)", 
@@ -5464,6 +5701,7 @@
             "iso3": "URY", 
             "label": {
                 "default": "Uruguay", 
+                "fts": "Uruguay", 
                 "humanitarianresponse": "Uruguay", 
                 "m49": "Uruguay", 
                 "reliefweb-api": "Uruguay", 
@@ -5487,6 +5725,7 @@
             "iso3": "UZB", 
             "label": {
                 "default": "Uzbekistan", 
+                "fts": "Uzbekistan", 
                 "humanitarianresponse": "Uzbekistan", 
                 "m49": "Uzbekistan", 
                 "reliefweb-api": "Uzbekistan", 
@@ -5510,6 +5749,7 @@
             "iso3": "VUT", 
             "label": {
                 "default": "Vanuatu", 
+                "fts": "Vanuatu", 
                 "humanitarianresponse": "Vanuatu", 
                 "m49": "Vanuatu", 
                 "reliefweb-api": "Vanuatu", 
@@ -5533,6 +5773,7 @@
             "iso3": "VEN", 
             "label": {
                 "default": "Venezuela\u00a0(Bolivarian Republic of)", 
+                "fts": "Venezuela, Bolivarian Republic of", 
                 "humanitarianresponse": "Venezuela, Bolivarian Republic of", 
                 "m49": "Venezuela\u00a0(Bolivarian Republic of)", 
                 "reliefweb-api": "Venezuela\u00a0(Bolivarian Republic of)", 
@@ -5556,6 +5797,7 @@
             "iso3": "VNM", 
             "label": {
                 "default": "Viet Nam", 
+                "fts": "Viet Nam", 
                 "humanitarianresponse": "Viet Nam", 
                 "m49": "Viet Nam", 
                 "reliefweb-api": "Viet Nam", 
@@ -5579,6 +5821,7 @@
             "iso3": "VGB", 
             "label": {
                 "default": "Virgin Islands (British)", 
+                "fts": "Virgin Islands, British", 
                 "humanitarianresponse": "Virgin Islands, British", 
                 "m49": "British Virgin Islands", 
                 "reliefweb-api": "British Virgin Islands", 
@@ -5602,6 +5845,7 @@
             "iso3": "WLF", 
             "label": {
                 "default": "Wallis and Futuna", 
+                "fts": "Wallis and Futuna", 
                 "humanitarianresponse": "Wallis and Futuna", 
                 "m49": "Wallis and Futuna Islands", 
                 "reliefweb-api": "Wallis and Futuna (France)", 
@@ -5625,6 +5869,7 @@
             "iso3": "ESH", 
             "label": {
                 "default": "Western Sahara", 
+                "fts": "Western Sahara", 
                 "humanitarianresponse": "Western Sahara", 
                 "m49": "Western Sahara", 
                 "reliefweb-api": "Western Sahara", 
@@ -5648,6 +5893,7 @@
             "iso3": "YEM", 
             "label": {
                 "default": "Yemen", 
+                "fts": "Yemen", 
                 "humanitarianresponse": "Yemen", 
                 "m49": "Yemen", 
                 "reliefweb-api": "Yemen", 
@@ -5671,6 +5917,7 @@
             "iso3": "ZMB", 
             "label": {
                 "default": "Zambia", 
+                "fts": "Zambia", 
                 "humanitarianresponse": "Zambia", 
                 "m49": "Zambia", 
                 "reliefweb-api": "Zambia", 
@@ -5694,6 +5941,7 @@
             "iso3": "ZWE", 
             "label": {
                 "default": "Zimbabwe", 
+                "fts": "Zimbabwe", 
                 "humanitarianresponse": "Zimbabwe", 
                 "m49": "Zimbabwe", 
                 "reliefweb-api": "Zimbabwe", 
@@ -5717,6 +5965,7 @@
             "iso3": null, 
             "label": {
                 "default": "Azores Islands (Portugal)", 
+                "fts": "Azores Islands (Portugal)", 
                 "humanitarianresponse": "Azores Islands (Portugal)", 
                 "m49": "Azores Islands (Portugal)", 
                 "reliefweb-api": "Azores Islands (Portugal)", 
@@ -5740,6 +5989,7 @@
             "iso3": null, 
             "label": {
                 "default": "Canary Islands (Spain)", 
+                "fts": "Canary Islands (Spain)", 
                 "humanitarianresponse": "Canary Islands (Spain)", 
                 "m49": "Canary Islands (Spain)", 
                 "reliefweb-api": "Canary Islands (Spain)", 
@@ -5763,6 +6013,7 @@
             "iso3": null, 
             "label": {
                 "default": "Channel Islands", 
+                "fts": "Channel Islands", 
                 "humanitarianresponse": "Channel Islands", 
                 "m49": "Channel Islands", 
                 "reliefweb-api": "Channel Islands", 
@@ -5786,6 +6037,7 @@
             "iso3": null, 
             "label": {
                 "default": "Galapagos Islands (Ecuador)", 
+                "fts": "Galapagos Islands (Ecuador)", 
                 "humanitarianresponse": "Galapagos Islands (Ecuador)", 
                 "m49": "Galapagos Islands (Ecuador)", 
                 "reliefweb-api": "Galapagos Islands (Ecuador)", 
@@ -5809,6 +6061,7 @@
             "iso3": "MNP", 
             "label": {
                 "default": "Northern Mariana Islands (the)", 
+                "fts": "Northern Mariana Islands", 
                 "humanitarianresponse": "Northern Mariana Islands", 
                 "m49": "Northern Mariana Islands", 
                 "reliefweb-api": "Northern Mariana Islands (The United States of America)", 
@@ -5832,6 +6085,7 @@
             "iso3": null, 
             "label": {
                 "default": "Sark", 
+                "fts": "Sark", 
                 "humanitarianresponse": "Sark", 
                 "m49": "Sark", 
                 "reliefweb-api": "Sark", 
@@ -5855,6 +6109,7 @@
             "iso3": "VIR", 
             "label": {
                 "default": "Virgin Islands (U.S.)", 
+                "fts": "Virgin Islands, U.S.", 
                 "humanitarianresponse": "Virgin Islands, U.S.", 
                 "m49": "United States Virgin Islands", 
                 "reliefweb-api": "United States Virgin Islands", 
