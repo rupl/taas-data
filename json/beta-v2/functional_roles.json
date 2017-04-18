@@ -42,7 +42,7 @@
                 "fr": "Co-Chef de file sectoriel", 
                 "i-default": "Cluster Co-Lead"
             }, 
-            "scope": "Works in collaboration with the Cluster Coordinator in leading cluster-based activities during humanitarian operations.  Frequently co-chairs cluster coordination meetings and other activities.   "
+            "scope": "Works in collaboration with the Cluster Coordinator in leading cluster-based activities during humanitarian operations.  Frequently co-chairs cluster coordination meetings and other activities."
         }, 
         {
             "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
@@ -83,10 +83,10 @@
             "label": {
                 "en": "Government Official", 
                 "es": "Funcionario del Gobierno", 
-                "fr": "Repr\u00e9sentant du Gouvernement ", 
+                "fr": "Repr\u00e9sentant du Gouvernement", 
                 "i-default": "Government Official"
             }, 
-            "scope": "An official who is involved in public administration or government, through either election, appointment, selection, or employment. "
+            "scope": "An official who is involved in public administration or government, through either election, appointment, selection, or employment."
         }, 
         {
             "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
@@ -105,7 +105,7 @@
             "label": {
                 "en": "Information Management Officer", 
                 "es": null, 
-                "fr": "Sp\u00e9cialiste de la gestion de l\u2019information ", 
+                "fr": "Sp\u00e9cialiste de la gestion de l\u2019information", 
                 "i-default": "Information Management Officer"
             }, 
             "scope": "Manage information and data around the humanitarian programme cycle, including supporting common information processes such as preparedness, needs assessment, strategic planning, resource mobilization, implementation and monitoring."
@@ -119,7 +119,7 @@
                 "fr": "Conseiller inter-agence ProCap", 
                 "i-default": "ProCap Officer"
             }, 
-            "scope": "Inter-agency staff  trained to advise on and support the strategic and operational humanitarian protection response for Displaced Persons and other vulnerable populations. "
+            "scope": "Inter-agency staff  trained to advise on and support the strategic and operational humanitarian protection response for Displaced Persons and other vulnerable populations."
         }, 
         {
             "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
@@ -130,7 +130,7 @@
                 "fr": "Bailleur de fonds", 
                 "i-default": "Donor"
             }, 
-            "scope": "Organization's representative responsible for donating money, goods or other in-kind contributions. "
+            "scope": "Organization's representative responsible for donating money, goods or other in-kind contributions."
         }, 
         {
             "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
@@ -163,7 +163,7 @@
                 "fr": "Membre d\u2019\u00e9quipe ONU du pays (UNCT)", 
                 "i-default": "United Nations Country Team Member"
             }, 
-            "scope": "Representatives of the UN funds and programmes, specialized agencies and other UN entities accredited to a given country designated to participate in the United Nations Country Team.  "
+            "scope": "Representatives of the UN funds and programmes, specialized agencies and other UN entities accredited to a given country designated to participate in the United Nations Country Team."
         }, 
         {
             "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
@@ -185,7 +185,7 @@
                 "fr": null, 
                 "i-default": "Head of Sub-Office"
             }, 
-            "scope": "Manages all staff working in the field sub-office; including assisting in the preparation of office work and cost plans and financial, human resources and administrative management. "
+            "scope": "Manages all staff working in the field sub-office; including assisting in the preparation of office work and cost plans and financial, human resources and administrative management."
         }, 
         {
             "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
@@ -193,7 +193,7 @@
             "label": {
                 "en": "Executive Assistant", 
                 "es": null, 
-                "fr": "Assistant ex\u00e9cutif ", 
+                "fr": "Assistant ex\u00e9cutif", 
                 "i-default": "Executive Assistant"
             }, 
             "scope": "Assists senior management (potentially including the management of human and financial resources, ethics, investigation and audit, and management and analysis)."
@@ -218,7 +218,7 @@
                 "fr": null, 
                 "i-default": "Cluster Coordination Team Member"
             }, 
-            "scope": "Cluster member who seeks to strategize and coordinate humanitarian activities between clusters. "
+            "scope": "Cluster member who seeks to strategize and coordinate humanitarian activities between clusters."
         }, 
         {
             "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
