@@ -13,4 +13,4 @@ This site provides access to OCHA’s controlled vocabularies and taxonomies as 
 
 See our [Taxonomy As A Service guide (pdf)](/assets/files/taas-one-pager.pdf) to find out more about what it is, why it’s important and how it’s beneficial to humanitarians. Vocabularies and taxonomies complement the[Humanitarian Exchange Language (HXL)](http://hxlstandard.org/). We’ll post more information about this ongoing collaboration soon.
 
-The taxonomies shown below are the first in a whole series of taxonomies relevant to humanitarians. Sign up here (add the mailchimp signup form) to receive more information about the project and to be part of the dialogue that will further develop this service for humanitarians.
+The taxonomies shown below are the first in a whole series of taxonomies relevant to humanitarians. [Sign up here](subscribe) to receive more information about the project and to be part of the dialogue that will further develop this service for humanitarians.
