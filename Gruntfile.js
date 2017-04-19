@@ -2,7 +2,7 @@ module.exports = function(grunt) {
 
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
-    
+
     sass_import: {
       options: {},
       dist: {
@@ -21,7 +21,7 @@ module.exports = function(grunt) {
     watch: {
       sass: {
         files: ['assets/sass/**/*.scss'],
-        tasks: ['sass'],
+        tasks: ['sass_import', 'sass', 'autoprefixer'],
         options: {
           spawn: false,
         }
@@ -47,10 +47,10 @@ module.exports = function(grunt) {
     uncss: {
       dist: {
         options: {
-          ignore: [/\.js/, /\.active/, /\.open/]
+          ignore: [/\.js/, /\.active/, /\.open/, /\#mc_embed_signup/]
         },
         files: {
-          'assets/css/styles.min.css': ['_site/index.html']
+          'assets/css/styles.min.css': ['_site/index.html', '_site/subscribe.html']
         }
       }
     },
