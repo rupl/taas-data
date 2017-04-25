@@ -30,7 +30,7 @@
 				<em>Managed by {{ vocab.managed-by }}</em>
 				<br>
 			{% endif %}
-			<a href="mailto: {%if vocab.contact-email %}{{ vocab.contact-email }}{% else %}vocabulary@humanitarianresponse.info{% endif %}">Request additions / more information<span class="sr-only"> for {{ vocab.title }}</span></a>
+			<a href="mailto: {%if vocab.contact-email %}{{ vocab.contact-email }}{% else %}{{ site.email }}{% endif %}">Request additions / more information<span class="sr-only"> for {{ vocab.title }}</span></a>
 		</p>
 	</div>
 	{% endfor %}
