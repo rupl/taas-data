@@ -2,7 +2,7 @@
 title: Global Coordination Groups
 display-title: Global Coordination Groups (Beta)
 status: JSON available
-json-url: https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/beta-v1/global_coordination_groups.json
+json-url: http://vocabulary.unocha.org/json/beta-v1/global_coordination_groups.json
 gss-url: https://docs.google.com/spreadsheets/d/1SxSircxhXMZCe0PWafCht-whjBdI9UqoeFeSUbiLGc4#gid=0
 managed-by: OCHA Field Information Services
 ---
