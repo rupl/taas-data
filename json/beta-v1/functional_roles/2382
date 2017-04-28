@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "@context": "https://vocabularly.unocha.org/json/beta-v1/functional_roles.jsonld", 
+            "@id": "http://vocabulary.unocha.org/json/beta-v1/functional_roles/2382", 
+            "id": "2382", 
+            "label": {
+                "en": "Public Information Officer", 
+                "es": "Funcionario de informaci\u00f3n p\u00fablica", 
+                "fr": "Sp\u00e9cialiste en communication et relations publiques", 
+                "i-default": "Public Information Officer"
+            }, 
+            "scope": "Delivers core messages related to a humanitarian response using various communication tools, including social media tools, radio, television, print, the internet, videoconferencing and other new information technologies."
+        }
+    ]
+}

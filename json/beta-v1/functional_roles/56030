@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "@context": "https://vocabularly.unocha.org/json/beta-v1/functional_roles.jsonld", 
+            "@id": "http://vocabulary.unocha.org/json/beta-v1/functional_roles/56030", 
+            "id": "56030", 
+            "label": {
+                "en": "Head of Sub-Office", 
+                "es": null, 
+                "fr": null, 
+                "i-default": "Head of Sub-Office"
+            }, 
+            "scope": "Manages all staff working in the field sub-office; including assisting in the preparation of office work and cost plans and financial, human resources and administrative management."
+        }
+    ]
+}

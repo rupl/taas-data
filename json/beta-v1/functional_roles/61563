@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "@context": "https://vocabularly.unocha.org/json/beta-v1/functional_roles.jsonld", 
+            "@id": "http://vocabulary.unocha.org/json/beta-v1/functional_roles/61563", 
+            "id": "61563", 
+            "label": {
+                "en": "UNDAC Member", 
+                "es": null, 
+                "fr": "Membre d\u2019\u00e9quipe UNDAC", 
+                "i-default": "UNDAC Member"
+            }, 
+            "scope": "Individuals specifially trained as members of the United Nations Disaster Assessment and Coordination team in order to  deploy to disaster-affected locations upon the request of the United Nations Resident or Humanitarian Coordinator and/or the affected Government."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "@context": "https://vocabularly.unocha.org/json/beta-v1/functional_roles.jsonld", 
+            "@id": "http://vocabulary.unocha.org/json/beta-v1/functional_roles/56025", 
+            "id": "56025", 
+            "label": {
+                "en": "Donor", 
+                "es": "Donante", 
+                "fr": "Bailleur de fonds", 
+                "i-default": "Donor"
+            }, 
+            "scope": "Organization's representative responsible for donating money, goods or other in-kind contributions."
+        }
+    ]
+}

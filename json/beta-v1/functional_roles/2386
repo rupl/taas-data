@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "@context": "https://vocabularly.unocha.org/json/beta-v1/functional_roles.jsonld", 
+            "@id": "http://vocabulary.unocha.org/json/beta-v1/functional_roles/2386", 
+            "id": "2386", 
+            "label": {
+                "en": "HCT Member", 
+                "es": "Miembro del Equipo Humanitario de un Pa\u00eds", 
+                "fr": "Membre d'\u00e9quipe Humanitaire Pays", 
+                "i-default": "HCT Member"
+            }, 
+            "scope": "Composed of members of organisations that are undertaking humanitarian action in-country and\nthat have committed to participate in coordination arrangements. These may include UN agencies, the International Organization for Migration, non-governmental organizations, and subject to\ntheir individual mandates, components of the International Red Cross and Red Crescent\nMovement."
+        }
+    ]
+}

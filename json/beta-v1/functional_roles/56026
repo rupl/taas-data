@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "@context": "https://vocabularly.unocha.org/json/beta-v1/functional_roles.jsonld", 
+            "@id": "http://vocabulary.unocha.org/json/beta-v1/functional_roles/56026", 
+            "id": "56026", 
+            "label": {
+                "en": "Humanitarian Coordinator", 
+                "es": null, 
+                "fr": "Coordinateur Humanitaire", 
+                "i-default": "Humanitarian Coordinator"
+            }, 
+            "scope": "Senior-most United Nations official in a country experiencing a humanitarian emergency. The Humanitarian Coordinator is appointed by the United Nations Emergency Relief Coordinator when a new emergency occurs or an existing humanitarian situation worsens in degree and/or complexity."
+        }
+    ]
+}
