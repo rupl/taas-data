@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "240", 
+            "geolocation": {
+                "lat": "41.74950759", 
+                "lon": "63.17455249"
+            }, 
+            "hrinfo_id": "420", 
+            "id": "239", 
+            "iso2": "UZ", 
+            "iso3": "UZB", 
+            "label": {
+                "default": "Uzbekistan", 
+                "fts": "Uzbekistan", 
+                "humanitarianresponse": "Uzbekistan", 
+                "m49": "Uzbekistan", 
+                "reliefweb-api": "Uzbekistan", 
+                "reliefweb-short": "Uzbekistan"
+            }, 
+            "m49": "860", 
+            "reliefweb_id": "248", 
+            "x-alpha-2": "UZ", 
+            "x-alpha-3": "UZB"
+        }
+    ]
+}

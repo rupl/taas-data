@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "131", 
+            "geolocation": {
+                "lat": "22.1985265", 
+                "lon": "113.5450075"
+            }, 
+            "hrinfo_id": "311", 
+            "id": "131", 
+            "iso2": "MO", 
+            "iso3": "MAC", 
+            "label": {
+                "default": "Macao", 
+                "fts": "Macao", 
+                "humanitarianresponse": "Macao", 
+                "m49": "China, Macao Special Administrative Region", 
+                "reliefweb-api": "China - Macau (Special Administrative Region)", 
+                "reliefweb-short": "Macao"
+            }, 
+            "m49": "446", 
+            "reliefweb_id": "60", 
+            "x-alpha-2": "MO", 
+            "x-alpha-3": "MAC"
+        }
+    ]
+}

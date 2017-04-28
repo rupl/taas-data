@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "153", 
+            "geolocation": {
+                "lat": "21.17952353", 
+                "lon": "96.50232755"
+            }, 
+            "hrinfo_id": "333", 
+            "id": "153", 
+            "iso2": "MM", 
+            "iso3": "MMR", 
+            "label": {
+                "default": "Myanmar", 
+                "fts": "Myanmar", 
+                "humanitarianresponse": "Myanmar", 
+                "m49": "Myanmar", 
+                "reliefweb-api": "Myanmar", 
+                "reliefweb-short": "Myanmar"
+            }, 
+            "m49": "104", 
+            "reliefweb_id": "165", 
+            "x-alpha-2": "MM", 
+            "x-alpha-3": "MMR"
+        }
+    ]
+}

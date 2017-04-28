@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "58", 
+            "geolocation": {
+                "lat": null, 
+                "lon": null
+            }, 
+            "hrinfo_id": "238", 
+            "id": "58", 
+            "iso2": "CW", 
+            "iso3": "CUW", 
+            "label": {
+                "default": "Cura\u00e7ao", 
+                "fts": "Cura\u00e7ao", 
+                "humanitarianresponse": "Cura\u00e7ao", 
+                "m49": "Cura\u00e7ao", 
+                "reliefweb-api": "Cura\u00e7ao (The Netherlands)", 
+                "reliefweb-short": "Cura\u00e7ao"
+            }, 
+            "m49": "531", 
+            "reliefweb_id": "14893", 
+            "x-alpha-2": "CW", 
+            "x-alpha-3": "CUW"
+        }
+    ]
+}

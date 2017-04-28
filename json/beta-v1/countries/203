@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "204", 
+            "geolocation": {
+                "lat": "46.123589", 
+                "lon": "14.82836958"
+            }, 
+            "hrinfo_id": "384", 
+            "id": "203", 
+            "iso2": "SI", 
+            "iso3": "SVN", 
+            "label": {
+                "default": "Slovenia", 
+                "fts": "Slovenia", 
+                "humanitarianresponse": "Slovenia", 
+                "m49": "Slovenia", 
+                "reliefweb-api": "Slovenia", 
+                "reliefweb-short": "Slovenia"
+            }, 
+            "m49": "705", 
+            "reliefweb_id": "214", 
+            "x-alpha-2": "SI", 
+            "x-alpha-3": "SVN"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "112", 
+            "geolocation": {
+                "lat": "37.63209801", 
+                "lon": "138.0812256"
+            }, 
+            "hrinfo_id": "292", 
+            "id": "112", 
+            "iso2": "JP", 
+            "iso3": "JPN", 
+            "label": {
+                "default": "Japan", 
+                "fts": "Japan", 
+                "humanitarianresponse": "Japan", 
+                "m49": "Japan", 
+                "reliefweb-api": "Japan", 
+                "reliefweb-short": "Japan"
+            }, 
+            "m49": "392", 
+            "reliefweb_id": "128", 
+            "x-alpha-2": "JP", 
+            "x-alpha-3": "JPN"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "35", 
+            "geolocation": {
+                "lat": "42.76069057", 
+                "lon": "25.23572028"
+            }, 
+            "hrinfo_id": "215", 
+            "id": "35", 
+            "iso2": "BG", 
+            "iso3": "BGR", 
+            "label": {
+                "default": "Bulgaria", 
+                "fts": "Bulgaria", 
+                "humanitarianresponse": "Bulgaria", 
+                "m49": "Bulgaria", 
+                "reliefweb-api": "Bulgaria", 
+                "reliefweb-short": "Bulgaria"
+            }, 
+            "m49": "100", 
+            "reliefweb_id": "45", 
+            "x-alpha-2": "BG", 
+            "x-alpha-3": "BGR"
+        }
+    ]
+}

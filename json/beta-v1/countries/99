@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "99", 
+            "geolocation": {
+                "lat": "14.80908243", 
+                "lon": "-86.63495948"
+            }, 
+            "hrinfo_id": "279", 
+            "id": "99", 
+            "iso2": "HN", 
+            "iso3": "HND", 
+            "label": {
+                "default": "Honduras", 
+                "fts": "Honduras", 
+                "humanitarianresponse": "Honduras", 
+                "m49": "Honduras", 
+                "reliefweb-api": "Honduras", 
+                "reliefweb-short": "Honduras"
+            }, 
+            "m49": "340", 
+            "reliefweb_id": "116", 
+            "x-alpha-2": "HN", 
+            "x-alpha-3": "HND"
+        }
+    ]
+}

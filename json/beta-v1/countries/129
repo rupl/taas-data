@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "129", 
+            "geolocation": {
+                "lat": "55.3344892", 
+                "lon": "23.90739502"
+            }, 
+            "hrinfo_id": "309", 
+            "id": "129", 
+            "iso2": "LT", 
+            "iso3": "LTU", 
+            "label": {
+                "default": "Lithuania", 
+                "fts": "Lithuania", 
+                "humanitarianresponse": "Lithuania", 
+                "m49": "Lithuania", 
+                "reliefweb-api": "Lithuania", 
+                "reliefweb-short": "Lithuania"
+            }, 
+            "m49": "440", 
+            "reliefweb_id": "142", 
+            "x-alpha-2": "LT", 
+            "x-alpha-3": "LTU"
+        }
+    ]
+}

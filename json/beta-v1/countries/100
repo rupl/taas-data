@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "100", 
+            "geolocation": {
+                "lat": "22.4216098", 
+                "lon": "114.1539976"
+            }, 
+            "hrinfo_id": "280", 
+            "id": "100", 
+            "iso2": "HK", 
+            "iso3": "HKG", 
+            "label": {
+                "default": "Hong Kong", 
+                "fts": "Hong Kong", 
+                "humanitarianresponse": "Hong Kong", 
+                "m49": "China, Hong Kong Special Administrative Region", 
+                "reliefweb-api": "China - Hong Kong (Special Administrative Region)", 
+                "reliefweb-short": "Hong Kong"
+            }, 
+            "m49": "344", 
+            "reliefweb_id": "59", 
+            "x-alpha-2": "HK", 
+            "x-alpha-3": "HKG"
+        }
+    ]
+}

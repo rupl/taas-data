@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "33", 
+            "geolocation": {
+                "lat": "-7.334186151", 
+                "lon": "72.43402037"
+            }, 
+            "hrinfo_id": "213", 
+            "id": "33", 
+            "iso2": "IO", 
+            "iso3": "IOT", 
+            "label": {
+                "default": "British Indian Ocean Territory (the)", 
+                "fts": "British Indian Ocean Territory", 
+                "humanitarianresponse": "British Indian Ocean Territory", 
+                "m49": "British Indian Ocean Territory", 
+                "reliefweb-api": "British Indian Ocean Territory (the)", 
+                "reliefweb-short": "British Indian Ocean Territory (the)"
+            }, 
+            "m49": "86", 
+            "reliefweb_id": null, 
+            "x-alpha-2": "IO", 
+            "x-alpha-3": "IOT"
+        }
+    ]
+}

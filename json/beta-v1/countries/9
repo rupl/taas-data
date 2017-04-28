@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "9", 
+            "geolocation": {
+                "lat": "-80.45066299", 
+                "lon": "21.43458373"
+            }, 
+            "hrinfo_id": "189", 
+            "id": "9", 
+            "iso2": "AQ", 
+            "iso3": "ATA", 
+            "label": {
+                "default": "Antarctica", 
+                "fts": "Antarctica", 
+                "humanitarianresponse": "Antarctica", 
+                "m49": "Antarctica", 
+                "reliefweb-api": "Antarctica", 
+                "reliefweb-short": "Antarctica"
+            }, 
+            "m49": "10", 
+            "reliefweb_id": null, 
+            "x-alpha-2": "AQ", 
+            "x-alpha-3": "ATA"
+        }
+    ]
+}

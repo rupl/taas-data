@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "31", 
+            "geolocation": {
+                "lat": "-54.42190835", 
+                "lon": "3.412516924"
+            }, 
+            "hrinfo_id": "211", 
+            "id": "31", 
+            "iso2": "BV", 
+            "iso3": "BVT", 
+            "label": {
+                "default": "Bouvet Island", 
+                "fts": "Bouvet Island", 
+                "humanitarianresponse": "Bouvet Island", 
+                "m49": "Bouvet Island", 
+                "reliefweb-api": "Bouvet Island", 
+                "reliefweb-short": "Bouvet Island"
+            }, 
+            "m49": "74", 
+            "reliefweb_id": null, 
+            "x-alpha-2": "BV", 
+            "x-alpha-3": "BVT"
+        }
+    ]
+}

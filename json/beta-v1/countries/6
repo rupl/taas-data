@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "6", 
+            "geolocation": {
+                "lat": "42.55527067", 
+                "lon": "1.578938861"
+            }, 
+            "hrinfo_id": "186", 
+            "id": "6", 
+            "iso2": "AD", 
+            "iso3": "AND", 
+            "label": {
+                "default": "Andorra", 
+                "fts": "Andorra", 
+                "humanitarianresponse": "Andorra", 
+                "m49": "Andorra", 
+                "reliefweb-api": "Andorra", 
+                "reliefweb-short": "Andorra"
+            }, 
+            "m49": "20", 
+            "reliefweb_id": "18", 
+            "x-alpha-2": "AD", 
+            "x-alpha-3": "AND"
+        }
+    ]
+}

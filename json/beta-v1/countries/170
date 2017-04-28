@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "171", 
+            "geolocation": {
+                "lat": "31.99084142", 
+                "lon": "35.30744047"
+            }, 
+            "hrinfo_id": "351", 
+            "id": "170", 
+            "iso2": "PS", 
+            "iso3": "PSE", 
+            "label": {
+                "default": "Palestine, State of", 
+                "fts": "occupied Palestinian territory", 
+                "humanitarianresponse": "occupied Palestinian territory", 
+                "m49": "State of Palestine", 
+                "reliefweb-api": "occupied Palestinian territory", 
+                "reliefweb-short": "oPt"
+            }, 
+            "m49": "275", 
+            "reliefweb_id": "180", 
+            "x-alpha-2": "PS", 
+            "x-alpha-3": "PSE"
+        }
+    ]
+}

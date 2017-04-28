@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "122", 
+            "geolocation": {
+                "lat": "18.50518622", 
+                "lon": "103.7662533"
+            }, 
+            "hrinfo_id": "302", 
+            "id": "122", 
+            "iso2": "LA", 
+            "iso3": "LAO", 
+            "label": {
+                "default": "Lao People's Democratic Republic (the)", 
+                "fts": "Lao People's Democratic Republic", 
+                "humanitarianresponse": "Lao People's Democratic Republic", 
+                "m49": "Lao People's Democratic Republic", 
+                "reliefweb-api": "Lao People's Democratic Republic (the)", 
+                "reliefweb-short": "Lao PDR"
+            }, 
+            "m49": "418", 
+            "reliefweb_id": "135", 
+            "x-alpha-2": "LA", 
+            "x-alpha-3": "LAO"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "124", 
+            "geolocation": {
+                "lat": "33.91995955", 
+                "lon": "35.88513386"
+            }, 
+            "hrinfo_id": "304", 
+            "id": "124", 
+            "iso2": "LB", 
+            "iso3": "LBN", 
+            "label": {
+                "default": "Lebanon", 
+                "fts": "Lebanon", 
+                "humanitarianresponse": "Lebanon", 
+                "m49": "Lebanon", 
+                "reliefweb-api": "Lebanon", 
+                "reliefweb-short": "Lebanon"
+            }, 
+            "m49": "422", 
+            "reliefweb_id": "137", 
+            "x-alpha-2": "LB", 
+            "x-alpha-3": "LBN"
+        }
+    ]
+}

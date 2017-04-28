@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "61", 
+            "geolocation": {
+                "lat": "56.06439188", 
+                "lon": "9.942213684"
+            }, 
+            "hrinfo_id": "241", 
+            "id": "61", 
+            "iso2": "DK", 
+            "iso3": "DNK", 
+            "label": {
+                "default": "Denmark", 
+                "fts": "Denmark", 
+                "humanitarianresponse": "Denmark", 
+                "m49": "Denmark", 
+                "reliefweb-api": "Denmark", 
+                "reliefweb-short": "Denmark"
+            }, 
+            "m49": "208", 
+            "reliefweb_id": "76", 
+            "x-alpha-2": "DK", 
+            "x-alpha-3": "DNK"
+        }
+    ]
+}

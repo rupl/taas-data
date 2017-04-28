@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "101", 
+            "geolocation": {
+                "lat": "47.16567815", 
+                "lon": "19.42172591"
+            }, 
+            "hrinfo_id": "281", 
+            "id": "101", 
+            "iso2": "HU", 
+            "iso3": "HUN", 
+            "label": {
+                "default": "Hungary", 
+                "fts": "Hungary", 
+                "humanitarianresponse": "Hungary", 
+                "m49": "Hungary", 
+                "reliefweb-api": "Hungary", 
+                "reliefweb-short": "Hungary"
+            }, 
+            "m49": "348", 
+            "reliefweb_id": "117", 
+            "x-alpha-2": "HU", 
+            "x-alpha-3": "HUN"
+        }
+    ]
+}

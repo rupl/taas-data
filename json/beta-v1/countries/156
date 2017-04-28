@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "156", 
+            "geolocation": {
+                "lat": "28.25396507", 
+                "lon": "83.9316657"
+            }, 
+            "hrinfo_id": "336", 
+            "id": "156", 
+            "iso2": "NP", 
+            "iso3": "NPL", 
+            "label": {
+                "default": "Nepal", 
+                "fts": "Nepal", 
+                "humanitarianresponse": "Nepal", 
+                "m49": "Nepal", 
+                "reliefweb-api": "Nepal", 
+                "reliefweb-short": "Nepal"
+            }, 
+            "m49": "524", 
+            "reliefweb_id": "168", 
+            "x-alpha-2": "NP", 
+            "x-alpha-3": "NPL"
+        }
+    ]
+}

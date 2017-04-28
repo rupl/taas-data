@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "130", 
+            "geolocation": {
+                "lat": "49.77027091", 
+                "lon": "6.08637699"
+            }, 
+            "hrinfo_id": "310", 
+            "id": "130", 
+            "iso2": "LU", 
+            "iso3": "LUX", 
+            "label": {
+                "default": "Luxembourg", 
+                "fts": "Luxembourg", 
+                "humanitarianresponse": "Luxembourg", 
+                "m49": "Luxembourg", 
+                "reliefweb-api": "Luxembourg", 
+                "reliefweb-short": "Luxembourg"
+            }, 
+            "m49": "442", 
+            "reliefweb_id": "143", 
+            "x-alpha-2": "LU", 
+            "x-alpha-3": "LUX"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "81", 
+            "geolocation": {
+                "lat": "13.44470328", 
+                "lon": "-15.44718402"
+            }, 
+            "hrinfo_id": "261", 
+            "id": "81", 
+            "iso2": "GM", 
+            "iso3": "GMB", 
+            "label": {
+                "default": "Gambia (the)", 
+                "fts": "Gambia", 
+                "humanitarianresponse": "Gambia", 
+                "m49": "Gambia", 
+                "reliefweb-api": "Gambia", 
+                "reliefweb-short": "Gambia (the)"
+            }, 
+            "m49": "270", 
+            "reliefweb_id": "98", 
+            "x-alpha-2": "GM", 
+            "x-alpha-3": "GMB"
+        }
+    ]
+}

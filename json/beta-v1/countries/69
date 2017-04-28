@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "69", 
+            "geolocation": {
+                "lat": "15.37695899", 
+                "lon": "38.82792338"
+            }, 
+            "hrinfo_id": "249", 
+            "id": "69", 
+            "iso2": "ER", 
+            "iso3": "ERI", 
+            "label": {
+                "default": "Eritrea", 
+                "fts": "Eritrea", 
+                "humanitarianresponse": "Eritrea", 
+                "m49": "Eritrea", 
+                "reliefweb-api": "Eritrea", 
+                "reliefweb-short": "Eritrea"
+            }, 
+            "m49": "232", 
+            "reliefweb_id": "85", 
+            "x-alpha-2": "ER", 
+            "x-alpha-3": "ERI"
+        }
+    ]
+}

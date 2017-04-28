@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "220", 
+            "geolocation": {
+                "lat": "38.52699814", 
+                "lon": "71.04232577"
+            }, 
+            "hrinfo_id": "400", 
+            "id": "219", 
+            "iso2": "TJ", 
+            "iso3": "TJK", 
+            "label": {
+                "default": "Tajikistan", 
+                "fts": "Tajikistan", 
+                "humanitarianresponse": "Tajikistan", 
+                "m49": "Tajikistan", 
+                "reliefweb-api": "Tajikistan", 
+                "reliefweb-short": "Tajikistan"
+            }, 
+            "m49": "762", 
+            "reliefweb_id": "227", 
+            "x-alpha-2": "TJ", 
+            "x-alpha-3": "TJK"
+        }
+    ]
+}

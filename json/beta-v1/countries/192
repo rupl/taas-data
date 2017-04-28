@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "193", 
+            "geolocation": {
+                "lat": "-13.16992041", 
+                "lon": "-173.5139768"
+            }, 
+            "hrinfo_id": "373", 
+            "id": "192", 
+            "iso2": "WS", 
+            "iso3": "WSM", 
+            "label": {
+                "default": "Samoa", 
+                "fts": "Samoa", 
+                "humanitarianresponse": "Samoa", 
+                "m49": "Samoa", 
+                "reliefweb-api": "Samoa", 
+                "reliefweb-short": "Samoa"
+            }, 
+            "m49": "882", 
+            "reliefweb_id": "204", 
+            "x-alpha-2": "WS", 
+            "x-alpha-3": "WSM"
+        }
+    ]
+}

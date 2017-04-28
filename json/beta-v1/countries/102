@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "102", 
+            "geolocation": {
+                "lat": "64.99668622", 
+                "lon": "-18.61425416"
+            }, 
+            "hrinfo_id": "282", 
+            "id": "102", 
+            "iso2": "IS", 
+            "iso3": "ISL", 
+            "label": {
+                "default": "Iceland", 
+                "fts": "Iceland", 
+                "humanitarianresponse": "Iceland", 
+                "m49": "Iceland", 
+                "reliefweb-api": "Iceland", 
+                "reliefweb-short": "Iceland"
+            }, 
+            "m49": "352", 
+            "reliefweb_id": "118", 
+            "x-alpha-2": "IS", 
+            "x-alpha-3": "ISL"
+        }
+    ]
+}

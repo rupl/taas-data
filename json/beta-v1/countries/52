@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "52", 
+            "geolocation": {
+                "lat": "-2.876807692", 
+                "lon": "23.65623593"
+            }, 
+            "hrinfo_id": "232", 
+            "id": "52", 
+            "iso2": "CD", 
+            "iso3": "COD", 
+            "label": {
+                "default": "Congo (the Democratic Republic of the)", 
+                "fts": "Congo, The Democratic Republic of the", 
+                "humanitarianresponse": "Congo, Democratic Republic of the", 
+                "m49": "Democratic Republic of the Congo", 
+                "reliefweb-api": "Democratic Republic of the Congo", 
+                "reliefweb-short": "DR Congo"
+            }, 
+            "m49": "180", 
+            "reliefweb_id": "75", 
+            "x-alpha-2": "CD", 
+            "x-alpha-3": "COD"
+        }
+    ]
+}

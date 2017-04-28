@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "17", 
+            "geolocation": {
+                "lat": "25.90317684", 
+                "lon": "-78.61665744"
+            }, 
+            "hrinfo_id": "197", 
+            "id": "17", 
+            "iso2": "BS", 
+            "iso3": "BHS", 
+            "label": {
+                "default": "Bahamas (the)", 
+                "fts": "Bahamas", 
+                "humanitarianresponse": "Bahamas", 
+                "m49": "Bahamas", 
+                "reliefweb-api": "Bahamas", 
+                "reliefweb-short": "Bahamas (the)"
+            }, 
+            "m49": "44", 
+            "reliefweb_id": "29", 
+            "x-alpha-2": "BS", 
+            "x-alpha-3": "BHS"
+        }
+    ]
+}

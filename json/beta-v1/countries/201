@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "202", 
+            "geolocation": {
+                "lat": null, 
+                "lon": null
+            }, 
+            "hrinfo_id": "382", 
+            "id": "201", 
+            "iso2": "SX", 
+            "iso3": "SXM", 
+            "label": {
+                "default": "Sint Maarten (Dutch part)", 
+                "fts": "Sint Maarten (Dutch part)", 
+                "humanitarianresponse": "Sint Maarten (Dutch part)", 
+                "m49": "Sint Maarten (Dutch part)", 
+                "reliefweb-api": "Sint Maarten (The Netherlands)", 
+                "reliefweb-short": "Sint Maarten (Dutch part)"
+            }, 
+            "m49": "534", 
+            "reliefweb_id": "14892", 
+            "x-alpha-2": "SX", 
+            "x-alpha-3": "SXM"
+        }
+    ]
+}

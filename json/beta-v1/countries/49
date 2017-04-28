@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "49", 
+            "geolocation": {
+                "lat": "3.897367041", 
+                "lon": "-73.07080696"
+            }, 
+            "hrinfo_id": "229", 
+            "id": "49", 
+            "iso2": "CO", 
+            "iso3": "COL", 
+            "label": {
+                "default": "Colombia", 
+                "fts": "Colombia", 
+                "humanitarianresponse": "Colombia", 
+                "m49": "Colombia", 
+                "reliefweb-api": "Colombia", 
+                "reliefweb-short": "Colombia"
+            }, 
+            "m49": "170", 
+            "reliefweb_id": "64", 
+            "x-alpha-2": "CO", 
+            "x-alpha-3": "COL"
+        }
+    ]
+}

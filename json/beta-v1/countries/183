@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "184", 
+            "geolocation": {
+                "lat": "61.97564081", 
+                "lon": "96.67837519"
+            }, 
+            "hrinfo_id": "364", 
+            "id": "183", 
+            "iso2": "RU", 
+            "iso3": "RUS", 
+            "label": {
+                "default": "Russian Federation (the)", 
+                "fts": "Russian Federation", 
+                "humanitarianresponse": "Russian Federation", 
+                "m49": "Russian Federation", 
+                "reliefweb-api": "Russian Federation", 
+                "reliefweb-short": "Russia"
+            }, 
+            "m49": "643", 
+            "reliefweb_id": "197", 
+            "x-alpha-2": "RU", 
+            "x-alpha-3": "RUS"
+        }
+    ]
+}

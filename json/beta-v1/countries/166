@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "167", 
+            "geolocation": {
+                "lat": "64.41197955", 
+                "lon": "14.06269622"
+            }, 
+            "hrinfo_id": "347", 
+            "id": "166", 
+            "iso2": "NO", 
+            "iso3": "NOR", 
+            "label": {
+                "default": "Norway", 
+                "fts": "Norway", 
+                "humanitarianresponse": "Norway", 
+                "m49": "Norway", 
+                "reliefweb-api": "Norway", 
+                "reliefweb-short": "Norway"
+            }, 
+            "m49": "578", 
+            "reliefweb_id": "179", 
+            "x-alpha-2": "NO", 
+            "x-alpha-3": "NOR"
+        }
+    ]
+}

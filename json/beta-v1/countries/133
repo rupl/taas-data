@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "133", 
+            "geolocation": {
+                "lat": "-19.37969027", 
+                "lon": "46.70406219"
+            }, 
+            "hrinfo_id": "313", 
+            "id": "133", 
+            "iso2": "MG", 
+            "iso3": "MDG", 
+            "label": {
+                "default": "Madagascar", 
+                "fts": "Madagascar", 
+                "humanitarianresponse": "Madagascar", 
+                "m49": "Madagascar", 
+                "reliefweb-api": "Madagascar", 
+                "reliefweb-short": "Madagascar"
+            }, 
+            "m49": "450", 
+            "reliefweb_id": "144", 
+            "x-alpha-2": "MG", 
+            "x-alpha-3": "MDG"
+        }
+    ]
+}

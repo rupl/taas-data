@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": null, 
+            "fts_api_id": null, 
+            "geolocation": {
+                "lat": null, 
+                "lon": null
+            }, 
+            "hrinfo_id": null, 
+            "id": "252", 
+            "iso2": null, 
+            "iso3": null, 
+            "label": {
+                "default": "Channel Islands", 
+                "fts": "Channel Islands", 
+                "humanitarianresponse": "Channel Islands", 
+                "m49": "Channel Islands", 
+                "reliefweb-api": "Channel Islands", 
+                "reliefweb-short": "Channel Islands"
+            }, 
+            "m49": null, 
+            "reliefweb_id": "56", 
+            "x-alpha-2": null, 
+            "x-alpha-3": "CHI"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "132", 
+            "geolocation": {
+                "lat": "41.59654823", 
+                "lon": "21.69480535"
+            }, 
+            "hrinfo_id": "312", 
+            "id": "132", 
+            "iso2": "MK", 
+            "iso3": "MKD", 
+            "label": {
+                "default": "Macedonia (the former Yugoslav Republic of)", 
+                "fts": "Macedonia, The Former Yugoslav Republic of", 
+                "humanitarianresponse": "Macedonia, The Former Yugoslav Republic of", 
+                "m49": "The former Yugoslav Republic of Macedonia", 
+                "reliefweb-api": "the former Yugoslav Republic of Macedonia", 
+                "reliefweb-short": "Macedonia (the former Yugoslav Republic of)"
+            }, 
+            "m49": "807", 
+            "reliefweb_id": "229", 
+            "x-alpha-2": "MK", 
+            "x-alpha-3": "MKD"
+        }
+    ]
+}

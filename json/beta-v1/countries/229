@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "230", 
+            "geolocation": {
+                "lat": "39.12455662", 
+                "lon": "59.38935348"
+            }, 
+            "hrinfo_id": "410", 
+            "id": "229", 
+            "iso2": "TM", 
+            "iso3": "TKM", 
+            "label": {
+                "default": "Turkmenistan", 
+                "fts": "Turkmenistan", 
+                "humanitarianresponse": "Turkmenistan", 
+                "m49": "Turkmenistan", 
+                "reliefweb-api": "Turkmenistan", 
+                "reliefweb-short": "Turkmenistan"
+            }, 
+            "m49": "795", 
+            "reliefweb_id": "237", 
+            "x-alpha-2": "TM", 
+            "x-alpha-3": "TKM"
+        }
+    ]
+}

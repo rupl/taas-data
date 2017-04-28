@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "197", 
+            "geolocation": {
+                "lat": "14.35710542", 
+                "lon": "-14.4780169"
+            }, 
+            "hrinfo_id": "377", 
+            "id": "196", 
+            "iso2": "SN", 
+            "iso3": "SEN", 
+            "label": {
+                "default": "Senegal", 
+                "fts": "Senegal", 
+                "humanitarianresponse": "Senegal", 
+                "m49": "Senegal", 
+                "reliefweb-api": "Senegal", 
+                "reliefweb-short": "Senegal"
+            }, 
+            "m49": "686", 
+            "reliefweb_id": "208", 
+            "x-alpha-2": "SN", 
+            "x-alpha-3": "SEN"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "189", 
+            "geolocation": {
+                "lat": "13.90391475", 
+                "lon": "-60.96175259"
+            }, 
+            "hrinfo_id": "369", 
+            "id": "188", 
+            "iso2": "LC", 
+            "iso3": "LCA", 
+            "label": {
+                "default": "Saint Lucia", 
+                "fts": "Saint Lucia", 
+                "humanitarianresponse": "Saint Lucia", 
+                "m49": "Saint Lucia", 
+                "reliefweb-api": "Saint Lucia", 
+                "reliefweb-short": "Saint Lucia"
+            }, 
+            "m49": "662", 
+            "reliefweb_id": "201", 
+            "x-alpha-2": "LC", 
+            "x-alpha-3": "LCA"
+        }
+    ]
+}

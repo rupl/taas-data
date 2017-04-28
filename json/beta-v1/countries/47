@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "47", 
+            "geolocation": {
+                "lat": "-10.44411458", 
+                "lon": "105.7036972"
+            }, 
+            "hrinfo_id": "227", 
+            "id": "47", 
+            "iso2": "CX", 
+            "iso3": "CXR", 
+            "label": {
+                "default": "Christmas Island", 
+                "fts": "Christmas Island", 
+                "humanitarianresponse": "Christmas Island", 
+                "m49": "Christmas Island", 
+                "reliefweb-api": "Christmas Island (Australia)", 
+                "reliefweb-short": "Christmas Island"
+            }, 
+            "m49": "162", 
+            "reliefweb_id": "62", 
+            "x-alpha-2": "CX", 
+            "x-alpha-3": "CXR"
+        }
+    ]
+}

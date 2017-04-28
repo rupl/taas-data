@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "23", 
+            "geolocation": {
+                "lat": "17.20829609", 
+                "lon": "-88.69988922"
+            }, 
+            "hrinfo_id": "203", 
+            "id": "23", 
+            "iso2": "BZ", 
+            "iso3": "BLZ", 
+            "label": {
+                "default": "Belize", 
+                "fts": "Belize", 
+                "humanitarianresponse": "Belize", 
+                "m49": "Belize", 
+                "reliefweb-api": "Belize", 
+                "reliefweb-short": "Belize"
+            }, 
+            "m49": "84", 
+            "reliefweb_id": "35", 
+            "x-alpha-2": "BZ", 
+            "x-alpha-3": "BLZ"
+        }
+    ]
+}

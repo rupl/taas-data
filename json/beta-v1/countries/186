@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "187", 
+            "geolocation": {
+                "lat": null, 
+                "lon": null
+            }, 
+            "hrinfo_id": "367", 
+            "id": "186", 
+            "iso2": "SH", 
+            "iso3": "SHN", 
+            "label": {
+                "default": "Saint Helena, Ascension and Tristan da Cunha", 
+                "fts": "Saint Helena, Ascension and Tristan da Cunha", 
+                "humanitarianresponse": "Saint Helena, Ascension and Tristan da Cunha", 
+                "m49": "Saint Helena", 
+                "reliefweb-api": "Saint Helena", 
+                "reliefweb-short": "Saint Helena, Ascension and Tristan da Cunha"
+            }, 
+            "m49": "654", 
+            "reliefweb_id": "199", 
+            "x-alpha-2": "SH", 
+            "x-alpha-3": "SHN"
+        }
+    ]
+}

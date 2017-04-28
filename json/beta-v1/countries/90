@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "90", 
+            "geolocation": {
+                "lat": "13.47185432", 
+                "lon": "144.784677"
+            }, 
+            "hrinfo_id": "270", 
+            "id": "90", 
+            "iso2": "GU", 
+            "iso3": "GUM", 
+            "label": {
+                "default": "Guam", 
+                "fts": "Guam", 
+                "humanitarianresponse": "Guam", 
+                "m49": "Guam", 
+                "reliefweb-api": "Guam", 
+                "reliefweb-short": "Guam"
+            }, 
+            "m49": "316", 
+            "reliefweb_id": "108", 
+            "x-alpha-2": "GU", 
+            "x-alpha-3": "GUM"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "18", 
+            "geolocation": {
+                "lat": "26.05396006", 
+                "lon": "50.53486327"
+            }, 
+            "hrinfo_id": "198", 
+            "id": "18", 
+            "iso2": "BH", 
+            "iso3": "BHR", 
+            "label": {
+                "default": "Bahrain", 
+                "fts": "Bahrain", 
+                "humanitarianresponse": "Bahrain", 
+                "m49": "Bahrain", 
+                "reliefweb-api": "Bahrain", 
+                "reliefweb-short": "Bahrain"
+            }, 
+            "m49": "48", 
+            "reliefweb_id": "30", 
+            "x-alpha-2": "BH", 
+            "x-alpha-3": "BHR"
+        }
+    ]
+}

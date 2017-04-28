@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "91", 
+            "geolocation": {
+                "lat": "15.699081", 
+                "lon": "-90.35850945"
+            }, 
+            "hrinfo_id": "271", 
+            "id": "91", 
+            "iso2": "GT", 
+            "iso3": "GTM", 
+            "label": {
+                "default": "Guatemala", 
+                "fts": "Guatemala", 
+                "humanitarianresponse": "Guatemala", 
+                "m49": "Guatemala", 
+                "reliefweb-api": "Guatemala", 
+                "reliefweb-short": "Guatemala"
+            }, 
+            "m49": "320", 
+            "reliefweb_id": "109", 
+            "x-alpha-2": "GT", 
+            "x-alpha-3": "GTM"
+        }
+    ]
+}

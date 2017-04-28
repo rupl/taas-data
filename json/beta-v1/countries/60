@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "60", 
+            "geolocation": {
+                "lat": "49.74240068", 
+                "lon": "15.34943448"
+            }, 
+            "hrinfo_id": "240", 
+            "id": "60", 
+            "iso2": "CZ", 
+            "iso3": "CZE", 
+            "label": {
+                "default": "Czechia", 
+                "fts": "Czech Republic", 
+                "humanitarianresponse": "Czech Republic", 
+                "m49": "Czechia", 
+                "reliefweb-api": "Czech Republic", 
+                "reliefweb-short": "Czechia"
+            }, 
+            "m49": "203", 
+            "reliefweb_id": "73", 
+            "x-alpha-2": "CZ", 
+            "x-alpha-3": "CZE"
+        }
+    ]
+}

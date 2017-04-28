@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "151", 
+            "geolocation": {
+                "lat": "31.8836769", 
+                "lon": "-6.317283613"
+            }, 
+            "hrinfo_id": "331", 
+            "id": "151", 
+            "iso2": "MA", 
+            "iso3": "MAR", 
+            "label": {
+                "default": "Morocco", 
+                "fts": "Morocco", 
+                "humanitarianresponse": "Morocco", 
+                "m49": "Morocco", 
+                "reliefweb-api": "Morocco", 
+                "reliefweb-short": "Morocco"
+            }, 
+            "m49": "504", 
+            "reliefweb_id": "163", 
+            "x-alpha-2": "MA", 
+            "x-alpha-3": "MAR"
+        }
+    ]
+}

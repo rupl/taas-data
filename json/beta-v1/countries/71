@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "71", 
+            "geolocation": {
+                "lat": "8.633664665", 
+                "lon": "39.61587345"
+            }, 
+            "hrinfo_id": "251", 
+            "id": "71", 
+            "iso2": "ET", 
+            "iso3": "ETH", 
+            "label": {
+                "default": "Ethiopia", 
+                "fts": "Ethiopia", 
+                "humanitarianresponse": "Ethiopia", 
+                "m49": "Ethiopia", 
+                "reliefweb-api": "Ethiopia", 
+                "reliefweb-short": "Ethiopia"
+            }, 
+            "m49": "231", 
+            "reliefweb_id": "87", 
+            "x-alpha-2": "ET", 
+            "x-alpha-3": "ETH"
+        }
+    ]
+}

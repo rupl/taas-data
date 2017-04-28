@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "46", 
+            "geolocation": {
+                "lat": "36.67464756", 
+                "lon": "103.8680636"
+            }, 
+            "hrinfo_id": "226", 
+            "id": "46", 
+            "iso2": "CN", 
+            "iso3": "CHN", 
+            "label": {
+                "default": "China", 
+                "fts": "China", 
+                "humanitarianresponse": "China", 
+                "m49": "China", 
+                "reliefweb-api": "China", 
+                "reliefweb-short": "China"
+            }, 
+            "m49": "156", 
+            "reliefweb_id": "58", 
+            "x-alpha-2": "CN", 
+            "x-alpha-3": "CHN"
+        }
+    ]
+}

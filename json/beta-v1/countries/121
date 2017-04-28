@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "121", 
+            "geolocation": {
+                "lat": "41.46387775", 
+                "lon": "74.55247592"
+            }, 
+            "hrinfo_id": "301", 
+            "id": "121", 
+            "iso2": "KG", 
+            "iso3": "KGZ", 
+            "label": {
+                "default": "Kyrgyzstan", 
+                "fts": "Kyrgyzstan", 
+                "humanitarianresponse": "Kyrgyzstan", 
+                "m49": "Kyrgyzstan", 
+                "reliefweb-api": "Kyrgyzstan", 
+                "reliefweb-short": "Kyrgyzstan"
+            }, 
+            "m49": "417", 
+            "reliefweb_id": "134", 
+            "x-alpha-2": "KG", 
+            "x-alpha-3": "KGZ"
+        }
+    ]
+}

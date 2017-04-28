@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "86", 
+            "geolocation": {
+                "lat": "39.99547189", 
+                "lon": "22.15714659"
+            }, 
+            "hrinfo_id": "266", 
+            "id": "86", 
+            "iso2": "GR", 
+            "iso3": "GRC", 
+            "label": {
+                "default": "Greece", 
+                "fts": "Greece", 
+                "humanitarianresponse": "Greece", 
+                "m49": "Greece", 
+                "reliefweb-api": "Greece", 
+                "reliefweb-short": "Greece"
+            }, 
+            "m49": "300", 
+            "reliefweb_id": "104", 
+            "x-alpha-2": "GR", 
+            "x-alpha-3": "GRC"
+        }
+    ]
+}

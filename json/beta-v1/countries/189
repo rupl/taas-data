@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "190", 
+            "geolocation": {
+                "lat": null, 
+                "lon": null
+            }, 
+            "hrinfo_id": "370", 
+            "id": "189", 
+            "iso2": "MF", 
+            "iso3": "MAF", 
+            "label": {
+                "default": "Saint Martin (French part)", 
+                "fts": "Saint Martin (French part)", 
+                "humanitarianresponse": "Saint Martin (French part)", 
+                "m49": "Saint Martin (French part)", 
+                "reliefweb-api": "Saint Martin (France)", 
+                "reliefweb-short": "Saint Martin (French part)"
+            }, 
+            "m49": "663", 
+            "reliefweb_id": "14891", 
+            "x-alpha-2": "MF", 
+            "x-alpha-3": "MAF"
+        }
+    ]
+}

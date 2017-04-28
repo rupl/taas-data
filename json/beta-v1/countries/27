@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "27", 
+            "geolocation": {
+                "lat": "-16.71483757", 
+                "lon": "-64.66829843"
+            }, 
+            "hrinfo_id": "207", 
+            "id": "27", 
+            "iso2": "BO", 
+            "iso3": "BOL", 
+            "label": {
+                "default": "Bolivia (Plurinational State of)", 
+                "fts": "Bolivia, Plurinational State of", 
+                "humanitarianresponse": "Bolivia, Plurinational State of", 
+                "m49": "Bolivia (Plurinational State of)", 
+                "reliefweb-api": "Bolivia (Plurinational State of)", 
+                "reliefweb-short": "Bolivia"
+            }, 
+            "m49": "68", 
+            "reliefweb_id": "39", 
+            "x-alpha-2": "BO", 
+            "x-alpha-3": "BOL"
+        }
+    ]
+}

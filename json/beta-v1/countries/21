@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "21", 
+            "geolocation": {
+                "lat": "53.53965016", 
+                "lon": "28.04932937"
+            }, 
+            "hrinfo_id": "201", 
+            "id": "21", 
+            "iso2": "BY", 
+            "iso3": "BLR", 
+            "label": {
+                "default": "Belarus", 
+                "fts": "Belarus", 
+                "humanitarianresponse": "Belarus", 
+                "m49": "Belarus", 
+                "reliefweb-api": "Belarus", 
+                "reliefweb-short": "Belarus"
+            }, 
+            "m49": "112", 
+            "reliefweb_id": "33", 
+            "x-alpha-2": "BY", 
+            "x-alpha-3": "BLR"
+        }
+    ]
+}

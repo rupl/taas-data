@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "68", 
+            "geolocation": {
+                "lat": "1.412936146", 
+                "lon": "10.61572825"
+            }, 
+            "hrinfo_id": "248", 
+            "id": "68", 
+            "iso2": "GQ", 
+            "iso3": "GNQ", 
+            "label": {
+                "default": "Equatorial Guinea", 
+                "fts": "Equatorial Guinea", 
+                "humanitarianresponse": "Equatorial Guinea", 
+                "m49": "Equatorial Guinea", 
+                "reliefweb-api": "Equatorial Guinea", 
+                "reliefweb-short": "Equatorial Guinea"
+            }, 
+            "m49": "226", 
+            "reliefweb_id": "84", 
+            "x-alpha-2": "GQ", 
+            "x-alpha-3": "GNQ"
+        }
+    ]
+}

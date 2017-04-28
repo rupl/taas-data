@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "214", 
+            "geolocation": {
+                "lat": "77.62362195", 
+                "lon": "6.012261852"
+            }, 
+            "hrinfo_id": "394", 
+            "id": "213", 
+            "iso2": "SJ", 
+            "iso3": "SJM", 
+            "label": {
+                "default": "Svalbard and Jan Mayen", 
+                "fts": "Svalbard and Jan Mayen", 
+                "humanitarianresponse": "Svalbard and Jan Mayen", 
+                "m49": "Svalbard and Jan Mayen Islands", 
+                "reliefweb-api": "Svalbard and Jan Mayen Islands", 
+                "reliefweb-short": "Svalbard and Jan Mayen"
+            }, 
+            "m49": "744", 
+            "reliefweb_id": "222", 
+            "x-alpha-2": "SJ", 
+            "x-alpha-3": "SJM"
+        }
+    ]
+}

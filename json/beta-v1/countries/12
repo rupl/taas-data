@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "12", 
+            "geolocation": {
+                "lat": "40.29202499", 
+                "lon": "44.9429026"
+            }, 
+            "hrinfo_id": "192", 
+            "id": "12", 
+            "iso2": "AM", 
+            "iso3": "ARM", 
+            "label": {
+                "default": "Armenia", 
+                "fts": "Armenia", 
+                "humanitarianresponse": "Armenia", 
+                "m49": "Armenia", 
+                "reliefweb-api": "Armenia", 
+                "reliefweb-short": "Armenia"
+            }, 
+            "m49": "51", 
+            "reliefweb_id": "23", 
+            "x-alpha-2": "AM", 
+            "x-alpha-3": "ARM"
+        }
+    ]
+}

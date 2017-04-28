@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "98", 
+            "geolocation": {
+                "lat": "41.90336493", 
+                "lon": "12.45225447"
+            }, 
+            "hrinfo_id": "278", 
+            "id": "98", 
+            "iso2": "VA", 
+            "iso3": "VAT", 
+            "label": {
+                "default": "Holy See (the)", 
+                "fts": "Holy See (Vatican City State)", 
+                "humanitarianresponse": "Holy See (Vatican City State)", 
+                "m49": "Holy See", 
+                "reliefweb-api": "Holy See", 
+                "reliefweb-short": "Holy See (the)"
+            }, 
+            "m49": "336", 
+            "reliefweb_id": "115", 
+            "x-alpha-2": "VA", 
+            "x-alpha-3": "VAT"
+        }
+    ]
+}

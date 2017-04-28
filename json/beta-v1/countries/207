@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "208", 
+            "geolocation": {
+                "lat": null, 
+                "lon": null
+            }, 
+            "hrinfo_id": "388", 
+            "id": "207", 
+            "iso2": "GS", 
+            "iso3": "SGS", 
+            "label": {
+                "default": "South Georgia and the South Sandwich Islands", 
+                "fts": "South Georgia and the South Sandwich Islands", 
+                "humanitarianresponse": "South Georgia and the South Sandwich Islands", 
+                "m49": "South Georgia and the South Sandwich Islands", 
+                "reliefweb-api": "South Georgia and the South Sandwich Islands", 
+                "reliefweb-short": "South Georgia and the South Sandwich Islands"
+            }, 
+            "m49": "239", 
+            "reliefweb_id": null, 
+            "x-alpha-2": "GS", 
+            "x-alpha-3": "SGS"
+        }
+    ]
+}

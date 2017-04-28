@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "40", 
+            "geolocation": {
+                "lat": "61.4126317", 
+                "lon": "-98.23039804"
+            }, 
+            "hrinfo_id": "220", 
+            "id": "40", 
+            "iso2": "CA", 
+            "iso3": "CAN", 
+            "label": {
+                "default": "Canada", 
+                "fts": "Canada", 
+                "humanitarianresponse": "Canada", 
+                "m49": "Canada", 
+                "reliefweb-api": "Canada", 
+                "reliefweb-short": "Canada"
+            }, 
+            "m49": "124", 
+            "reliefweb_id": "50", 
+            "x-alpha-2": "CA", 
+            "x-alpha-3": "CAN"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "92", 
+            "geolocation": {
+                "lat": null, 
+                "lon": null
+            }, 
+            "hrinfo_id": "272", 
+            "id": "92", 
+            "iso2": "GG", 
+            "iso3": "GGY", 
+            "label": {
+                "default": "Guernsey", 
+                "fts": "Guernsey", 
+                "humanitarianresponse": "Guernsey", 
+                "m49": "Guernsey", 
+                "reliefweb-api": "Guernsey", 
+                "reliefweb-short": "Guernsey"
+            }, 
+            "m49": "831", 
+            "reliefweb_id": null, 
+            "x-alpha-2": "GG", 
+            "x-alpha-3": "GGY"
+        }
+    ]
+}

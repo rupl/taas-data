@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "42", 
+            "geolocation": {
+                "lat": "19.31065556", 
+                "lon": "-81.20426038"
+            }, 
+            "hrinfo_id": "222", 
+            "id": "42", 
+            "iso2": "KY", 
+            "iso3": "CYM", 
+            "label": {
+                "default": "Cayman Islands (the)", 
+                "fts": "Cayman Islands", 
+                "humanitarianresponse": "Cayman Islands", 
+                "m49": "Cayman Islands", 
+                "reliefweb-api": "Cayman Islands", 
+                "reliefweb-short": "Cayman Islands (the)"
+            }, 
+            "m49": "136", 
+            "reliefweb_id": "53", 
+            "x-alpha-2": "KY", 
+            "x-alpha-3": "CYM"
+        }
+    ]
+}

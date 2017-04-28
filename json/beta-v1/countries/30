@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "30", 
+            "geolocation": {
+                "lat": "-22.17991766", 
+                "lon": "23.81673035"
+            }, 
+            "hrinfo_id": "210", 
+            "id": "30", 
+            "iso2": "BW", 
+            "iso3": "BWA", 
+            "label": {
+                "default": "Botswana", 
+                "fts": "Botswana", 
+                "humanitarianresponse": "Botswana", 
+                "m49": "Botswana", 
+                "reliefweb-api": "Botswana", 
+                "reliefweb-short": "Botswana"
+            }, 
+            "m49": "72", 
+            "reliefweb_id": "41", 
+            "x-alpha-2": "BW", 
+            "x-alpha-3": "BWA"
+        }
+    ]
+}

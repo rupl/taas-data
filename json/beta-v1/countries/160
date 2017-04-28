@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "160", 
+            "geolocation": {
+                "lat": "-56.5161571", 
+                "lon": "161.1190313"
+            }, 
+            "hrinfo_id": "340", 
+            "id": "160", 
+            "iso2": "NZ", 
+            "iso3": "NZL", 
+            "label": {
+                "default": "New Zealand", 
+                "fts": "New Zealand", 
+                "humanitarianresponse": "New Zealand", 
+                "m49": "New Zealand", 
+                "reliefweb-api": "New Zealand", 
+                "reliefweb-short": "New Zealand"
+            }, 
+            "m49": "554", 
+            "reliefweb_id": "172", 
+            "x-alpha-2": "NZ", 
+            "x-alpha-3": "NZL"
+        }
+    ]
+}

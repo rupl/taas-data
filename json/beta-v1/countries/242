@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "243", 
+            "geolocation": {
+                "lat": "16.64893259", 
+                "lon": "106.3103686"
+            }, 
+            "hrinfo_id": "423", 
+            "id": "242", 
+            "iso2": "VN", 
+            "iso3": "VNM", 
+            "label": {
+                "default": "Viet Nam", 
+                "fts": "Viet Nam", 
+                "humanitarianresponse": "Viet Nam", 
+                "m49": "Viet Nam", 
+                "reliefweb-api": "Viet Nam", 
+                "reliefweb-short": "Viet Nam"
+            }, 
+            "m49": "704", 
+            "reliefweb_id": "251", 
+            "x-alpha-2": "VN", 
+            "x-alpha-3": "VNM"
+        }
+    ]
+}

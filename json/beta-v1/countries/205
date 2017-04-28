@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "206", 
+            "geolocation": {
+                "lat": "6.070298569", 
+                "lon": "45.86808802"
+            }, 
+            "hrinfo_id": "386", 
+            "id": "205", 
+            "iso2": "SO", 
+            "iso3": "SOM", 
+            "label": {
+                "default": "Somalia", 
+                "fts": "Somalia", 
+                "humanitarianresponse": "Somalia", 
+                "m49": "Somalia", 
+                "reliefweb-api": "Somalia", 
+                "reliefweb-short": "Somalia"
+            }, 
+            "m49": "706", 
+            "reliefweb_id": "216", 
+            "x-alpha-2": "SO", 
+            "x-alpha-3": "SOM"
+        }
+    ]
+}

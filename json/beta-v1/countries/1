@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "1", 
+            "geolocation": {
+                "lat": "33.83147477", 
+                "lon": "66.02621828"
+            }, 
+            "hrinfo_id": "181", 
+            "id": "1", 
+            "iso2": "AF", 
+            "iso3": "AFG", 
+            "label": {
+                "default": "Afghanistan", 
+                "fts": "Afghanistan", 
+                "humanitarianresponse": "Afghanistan", 
+                "m49": "Afghanistan", 
+                "reliefweb-api": "Afghanistan", 
+                "reliefweb-short": "Afghanistan"
+            }, 
+            "m49": "4", 
+            "reliefweb_id": "13", 
+            "x-alpha-2": "AF", 
+            "x-alpha-3": "AFG"
+        }
+    ]
+}

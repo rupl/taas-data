@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "50", 
+            "geolocation": {
+                "lat": "-11.42407818", 
+                "lon": "42.8293551"
+            }, 
+            "hrinfo_id": "230", 
+            "id": "50", 
+            "iso2": "KM", 
+            "iso3": "COM", 
+            "label": {
+                "default": "Comoros (the)", 
+                "fts": "Comoros", 
+                "humanitarianresponse": "Comoros", 
+                "m49": "Comoros", 
+                "reliefweb-api": "Comoros", 
+                "reliefweb-short": "Comoros (the)"
+            }, 
+            "m49": "174", 
+            "reliefweb_id": "65", 
+            "x-alpha-2": "KM", 
+            "x-alpha-3": "COM"
+        }
+    ]
+}

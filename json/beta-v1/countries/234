@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "235", 
+            "geolocation": {
+                "lat": "23.90525867", 
+                "lon": "54.35072869"
+            }, 
+            "hrinfo_id": "415", 
+            "id": "234", 
+            "iso2": "AE", 
+            "iso3": "ARE", 
+            "label": {
+                "default": "United Arab Emirates (the)", 
+                "fts": "United Arab Emirates", 
+                "humanitarianresponse": "United Arab Emirates", 
+                "m49": "United Arab Emirates", 
+                "reliefweb-api": "United Arab Emirates", 
+                "reliefweb-short": "UAE"
+            }, 
+            "m49": "784", 
+            "reliefweb_id": "242", 
+            "x-alpha-2": "AE", 
+            "x-alpha-3": "ARE"
+        }
+    ]
+}

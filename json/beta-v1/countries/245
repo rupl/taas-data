@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "247", 
+            "geolocation": {
+                "lat": "24.66295331", 
+                "lon": "-13.13425705"
+            }, 
+            "hrinfo_id": "427", 
+            "id": "245", 
+            "iso2": "EH", 
+            "iso3": "ESH", 
+            "label": {
+                "default": "Western Sahara", 
+                "fts": "Western Sahara", 
+                "humanitarianresponse": "Western Sahara", 
+                "m49": "Western Sahara", 
+                "reliefweb-api": "Western Sahara", 
+                "reliefweb-short": "Western Sahara"
+            }, 
+            "m49": "732", 
+            "reliefweb_id": "253", 
+            "x-alpha-2": "EH", 
+            "x-alpha-3": "ESH"
+        }
+    ]
+}

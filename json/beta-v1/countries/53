@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "53", 
+            "geolocation": {
+                "lat": "-20.14332999", 
+                "lon": "-159.7599857"
+            }, 
+            "hrinfo_id": "233", 
+            "id": "53", 
+            "iso2": "CK", 
+            "iso3": "COK", 
+            "label": {
+                "default": "Cook Islands (the)", 
+                "fts": "Cook Islands", 
+                "humanitarianresponse": "Cook Islands", 
+                "m49": "Cook Islands", 
+                "reliefweb-api": "Cook Islands", 
+                "reliefweb-short": "Cook Islands (the)"
+            }, 
+            "m49": "184", 
+            "reliefweb_id": "67", 
+            "x-alpha-2": "CK", 
+            "x-alpha-3": "COK"
+        }
+    ]
+}

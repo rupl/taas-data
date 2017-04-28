@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "36", 
+            "geolocation": {
+                "lat": "12.27790144", 
+                "lon": "-1.738649343"
+            }, 
+            "hrinfo_id": "216", 
+            "id": "36", 
+            "iso2": "BF", 
+            "iso3": "BFA", 
+            "label": {
+                "default": "Burkina Faso", 
+                "fts": "Burkina Faso", 
+                "humanitarianresponse": "Burkina Faso", 
+                "m49": "Burkina Faso", 
+                "reliefweb-api": "Burkina Faso", 
+                "reliefweb-short": "Burkina Faso"
+            }, 
+            "m49": "854", 
+            "reliefweb_id": "46", 
+            "x-alpha-2": "BF", 
+            "x-alpha-3": "BFA"
+        }
+    ]
+}

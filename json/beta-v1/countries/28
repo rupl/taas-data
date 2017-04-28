@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "28", 
+            "geolocation": {
+                "lat": "44.16506495", 
+                "lon": "17.79105724"
+            }, 
+            "hrinfo_id": "208", 
+            "id": "28", 
+            "iso2": "BA", 
+            "iso3": "BIH", 
+            "label": {
+                "default": "Bosnia and Herzegovina", 
+                "fts": "Bosnia and Herzegovina", 
+                "humanitarianresponse": "Bosnia and Herzegovina", 
+                "m49": "Bosnia and Herzegovina", 
+                "reliefweb-api": "Bosnia and Herzegovina", 
+                "reliefweb-short": "Bosnia and Herzegovina"
+            }, 
+            "m49": "70", 
+            "reliefweb_id": "40", 
+            "x-alpha-2": "BA", 
+            "x-alpha-3": "BIH"
+        }
+    ]
+}

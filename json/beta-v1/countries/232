@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "233", 
+            "geolocation": {
+                "lat": "1.280667326", 
+                "lon": "32.38662225"
+            }, 
+            "hrinfo_id": "413", 
+            "id": "232", 
+            "iso2": "UG", 
+            "iso3": "UGA", 
+            "label": {
+                "default": "Uganda", 
+                "fts": "Uganda", 
+                "humanitarianresponse": "Uganda", 
+                "m49": "Uganda", 
+                "reliefweb-api": "Uganda", 
+                "reliefweb-short": "Uganda"
+            }, 
+            "m49": "800", 
+            "reliefweb_id": "240", 
+            "x-alpha-2": "UG", 
+            "x-alpha-3": "UGA"
+        }
+    ]
+}

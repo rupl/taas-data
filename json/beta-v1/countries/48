@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "48", 
+            "geolocation": {
+                "lat": "-12.17127014", 
+                "lon": "96.83690355"
+            }, 
+            "hrinfo_id": "228", 
+            "id": "48", 
+            "iso2": "CC", 
+            "iso3": "CCK", 
+            "label": {
+                "default": "Cocos (Keeling) Islands (the)", 
+                "fts": "Cocos (Keeling) Islands", 
+                "humanitarianresponse": "Cocos (Keeling) Islands", 
+                "m49": "Cocos (Keeling) Islands", 
+                "reliefweb-api": "Cocos (Keeling) Islands (Australia)", 
+                "reliefweb-short": "Cocos (Keeling) Islands (the)"
+            }, 
+            "m49": "166", 
+            "reliefweb_id": "63", 
+            "x-alpha-2": "CC", 
+            "x-alpha-3": "CCK"
+        }
+    ]
+}

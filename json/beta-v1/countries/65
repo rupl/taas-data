@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "65", 
+            "geolocation": {
+                "lat": "-1.464036749", 
+                "lon": "-78.05190165"
+            }, 
+            "hrinfo_id": "245", 
+            "id": "65", 
+            "iso2": "EC", 
+            "iso3": "ECU", 
+            "label": {
+                "default": "Ecuador", 
+                "fts": "Ecuador", 
+                "humanitarianresponse": "Ecuador", 
+                "m49": "Ecuador", 
+                "reliefweb-api": "Ecuador", 
+                "reliefweb-short": "Ecuador"
+            }, 
+            "m49": "218", 
+            "reliefweb_id": "81", 
+            "x-alpha-2": "EC", 
+            "x-alpha-3": "ECU"
+        }
+    ]
+}

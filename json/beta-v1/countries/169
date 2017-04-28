@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "170", 
+            "geolocation": {
+                "lat": "7.514890523", 
+                "lon": "134.5751097"
+            }, 
+            "hrinfo_id": "350", 
+            "id": "169", 
+            "iso2": "PW", 
+            "iso3": "PLW", 
+            "label": {
+                "default": "Palau", 
+                "fts": "Palau", 
+                "humanitarianresponse": "Palau", 
+                "m49": "Palau", 
+                "reliefweb-api": "Palau", 
+                "reliefweb-short": "Palau"
+            }, 
+            "m49": "585", 
+            "reliefweb_id": "183", 
+            "x-alpha-2": "PW", 
+            "x-alpha-3": "PLW"
+        }
+    ]
+}

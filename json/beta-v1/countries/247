@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "249", 
+            "geolocation": {
+                "lat": "-13.45369192", 
+                "lon": "27.80039565"
+            }, 
+            "hrinfo_id": "429", 
+            "id": "247", 
+            "iso2": "ZM", 
+            "iso3": "ZMB", 
+            "label": {
+                "default": "Zambia", 
+                "fts": "Zambia", 
+                "humanitarianresponse": "Zambia", 
+                "m49": "Zambia", 
+                "reliefweb-api": "Zambia", 
+                "reliefweb-short": "Zambia"
+            }, 
+            "m49": "894", 
+            "reliefweb_id": "256", 
+            "x-alpha-2": "ZM", 
+            "x-alpha-3": "ZMB"
+        }
+    ]
+}

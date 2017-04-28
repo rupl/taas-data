@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "7", 
+            "geolocation": {
+                "lat": "-12.3755731", 
+                "lon": "17.59867248"
+            }, 
+            "hrinfo_id": "187", 
+            "id": "7", 
+            "iso2": "AO", 
+            "iso3": "AGO", 
+            "label": {
+                "default": "Angola", 
+                "fts": "Angola", 
+                "humanitarianresponse": "Angola", 
+                "m49": "Angola", 
+                "reliefweb-api": "Angola", 
+                "reliefweb-short": "Angola"
+            }, 
+            "m49": "24", 
+            "reliefweb_id": "19", 
+            "x-alpha-2": "AO", 
+            "x-alpha-3": "AGO"
+        }
+    ]
+}

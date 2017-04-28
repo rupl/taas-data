@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "144", 
+            "geolocation": {
+                "lat": "23.93832004", 
+                "lon": "-102.5023164"
+            }, 
+            "hrinfo_id": "324", 
+            "id": "144", 
+            "iso2": "MX", 
+            "iso3": "MEX", 
+            "label": {
+                "default": "Mexico", 
+                "fts": "Mexico", 
+                "humanitarianresponse": "Mexico", 
+                "m49": "Mexico", 
+                "reliefweb-api": "Mexico", 
+                "reliefweb-short": "Mexico"
+            }, 
+            "m49": "484", 
+            "reliefweb_id": "156", 
+            "x-alpha-2": "MX", 
+            "x-alpha-3": "MEX"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "63", 
+            "geolocation": {
+                "lat": "15.42468124", 
+                "lon": "-61.36047599"
+            }, 
+            "hrinfo_id": "243", 
+            "id": "63", 
+            "iso2": "DM", 
+            "iso3": "DMA", 
+            "label": {
+                "default": "Dominica", 
+                "fts": "Dominica", 
+                "humanitarianresponse": "Dominica", 
+                "m49": "Dominica", 
+                "reliefweb-api": "Dominica", 
+                "reliefweb-short": "Dominica"
+            }, 
+            "m49": "212", 
+            "reliefweb_id": "78", 
+            "x-alpha-2": "DM", 
+            "x-alpha-3": "DMA"
+        }
+    ]
+}

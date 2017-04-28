@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "173", 
+            "geolocation": {
+                "lat": "-6.834760878", 
+                "lon": "143.0464597"
+            }, 
+            "hrinfo_id": "353", 
+            "id": "172", 
+            "iso2": "PG", 
+            "iso3": "PNG", 
+            "label": {
+                "default": "Papua New Guinea", 
+                "fts": "Papua New Guinea", 
+                "humanitarianresponse": "Papua New Guinea", 
+                "m49": "Papua New Guinea", 
+                "reliefweb-api": "Papua New Guinea", 
+                "reliefweb-short": "PNG"
+            }, 
+            "m49": "598", 
+            "reliefweb_id": "185", 
+            "x-alpha-2": "PG", 
+            "x-alpha-3": "PNG"
+        }
+    ]
+}

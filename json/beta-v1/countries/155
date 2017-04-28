@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "155", 
+            "geolocation": {
+                "lat": "-0.528781574", 
+                "lon": "166.9232132"
+            }, 
+            "hrinfo_id": "335", 
+            "id": "155", 
+            "iso2": "NR", 
+            "iso3": "NRU", 
+            "label": {
+                "default": "Nauru", 
+                "fts": "Nauru", 
+                "humanitarianresponse": "Nauru", 
+                "m49": "Nauru", 
+                "reliefweb-api": "Nauru", 
+                "reliefweb-short": "Nauru"
+            }, 
+            "m49": "520", 
+            "reliefweb_id": "167", 
+            "x-alpha-2": "NR", 
+            "x-alpha-3": "NRU"
+        }
+    ]
+}

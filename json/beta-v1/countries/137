@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "137", 
+            "geolocation": {
+                "lat": "17.34640627", 
+                "lon": "-3.525051581"
+            }, 
+            "hrinfo_id": "317", 
+            "id": "137", 
+            "iso2": "ML", 
+            "iso3": "MLI", 
+            "label": {
+                "default": "Mali", 
+                "fts": "Mali", 
+                "humanitarianresponse": "Mali", 
+                "m49": "Mali", 
+                "reliefweb-api": "Mali", 
+                "reliefweb-short": "Mali"
+            }, 
+            "m49": "466", 
+            "reliefweb_id": "149", 
+            "x-alpha-2": "ML", 
+            "x-alpha-3": "MLI"
+        }
+    ]
+}

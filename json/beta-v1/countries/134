@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "134", 
+            "geolocation": {
+                "lat": "-13.21991287", 
+                "lon": "34.31171876"
+            }, 
+            "hrinfo_id": "314", 
+            "id": "134", 
+            "iso2": "MW", 
+            "iso3": "MWI", 
+            "label": {
+                "default": "Malawi", 
+                "fts": "Malawi", 
+                "humanitarianresponse": "Malawi", 
+                "m49": "Malawi", 
+                "reliefweb-api": "Malawi", 
+                "reliefweb-short": "Malawi"
+            }, 
+            "m49": "454", 
+            "reliefweb_id": "146", 
+            "x-alpha-2": "MW", 
+            "x-alpha-3": "MWI"
+        }
+    ]
+}

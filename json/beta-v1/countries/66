@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "66", 
+            "geolocation": {
+                "lat": "26.55281781", 
+                "lon": "29.78562814"
+            }, 
+            "hrinfo_id": "246", 
+            "id": "66", 
+            "iso2": "EG", 
+            "iso3": "EGY", 
+            "label": {
+                "default": "Egypt", 
+                "fts": "Egypt", 
+                "humanitarianresponse": "Egypt", 
+                "m49": "Egypt", 
+                "reliefweb-api": "Egypt", 
+                "reliefweb-short": "Egypt"
+            }, 
+            "m49": "818", 
+            "reliefweb_id": "82", 
+            "x-alpha-2": "EG", 
+            "x-alpha-3": "EGY"
+        }
+    ]
+}

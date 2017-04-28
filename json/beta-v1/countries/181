@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "182", 
+            "geolocation": {
+                "lat": "-21.12280909", 
+                "lon": "55.55123933"
+            }, 
+            "hrinfo_id": "362", 
+            "id": "181", 
+            "iso2": "RE", 
+            "iso3": "REU", 
+            "label": {
+                "default": "R\u00e9union", 
+                "fts": "R\u00e9union", 
+                "humanitarianresponse": "R\u00e9union", 
+                "m49": "R\u00e9union", 
+                "reliefweb-api": "R\u00e9union (France)", 
+                "reliefweb-short": "R\u00e9union"
+            }, 
+            "m49": "638", 
+            "reliefweb_id": "195", 
+            "x-alpha-2": "RE", 
+            "x-alpha-3": "REU"
+        }
+    ]
+}

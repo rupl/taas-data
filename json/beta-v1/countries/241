@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "242", 
+            "geolocation": {
+                "lat": "7.115201972", 
+                "lon": "-66.18367077"
+            }, 
+            "hrinfo_id": "422", 
+            "id": "241", 
+            "iso2": "VE", 
+            "iso3": "VEN", 
+            "label": {
+                "default": "Venezuela\u00a0(Bolivarian Republic of)", 
+                "fts": "Venezuela, Bolivarian Republic of", 
+                "humanitarianresponse": "Venezuela, Bolivarian Republic of", 
+                "m49": "Venezuela\u00a0(Bolivarian Republic of)", 
+                "reliefweb-api": "Venezuela\u00a0(Bolivarian Republic of)", 
+                "reliefweb-short": "Venezuela"
+            }, 
+            "m49": "862", 
+            "reliefweb_id": "250", 
+            "x-alpha-2": "VE", 
+            "x-alpha-3": "VEN"
+        }
+    ]
+}

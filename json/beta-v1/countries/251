@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": null, 
+            "fts_api_id": null, 
+            "geolocation": {
+                "lat": null, 
+                "lon": null
+            }, 
+            "hrinfo_id": null, 
+            "id": "251", 
+            "iso2": null, 
+            "iso3": null, 
+            "label": {
+                "default": "Canary Islands (Spain)", 
+                "fts": "Canary Islands (Spain)", 
+                "humanitarianresponse": "Canary Islands (Spain)", 
+                "m49": "Canary Islands (Spain)", 
+                "reliefweb-api": "Canary Islands (Spain)", 
+                "reliefweb-short": "Canary Islands (Spain)"
+            }, 
+            "m49": null, 
+            "reliefweb_id": "51", 
+            "x-alpha-2": null, 
+            "x-alpha-3": "CAI"
+        }
+    ]
+}

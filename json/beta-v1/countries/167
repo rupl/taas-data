@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "168", 
+            "geolocation": {
+                "lat": "20.53707855", 
+                "lon": "56.1036955"
+            }, 
+            "hrinfo_id": "348", 
+            "id": "167", 
+            "iso2": "OM", 
+            "iso3": "OMN", 
+            "label": {
+                "default": "Oman", 
+                "fts": "Oman", 
+                "humanitarianresponse": "Oman", 
+                "m49": "Oman", 
+                "reliefweb-api": "Oman", 
+                "reliefweb-short": "Oman"
+            }, 
+            "m49": "512", 
+            "reliefweb_id": "181", 
+            "x-alpha-2": "OM", 
+            "x-alpha-3": "OMN"
+        }
+    ]
+}

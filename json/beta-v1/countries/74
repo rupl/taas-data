@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "74", 
+            "geolocation": {
+                "lat": "-19.0190607", 
+                "lon": "195.3435043"
+            }, 
+            "hrinfo_id": "254", 
+            "id": "74", 
+            "iso2": "FJ", 
+            "iso3": "FJI", 
+            "label": {
+                "default": "Fiji", 
+                "fts": "Fiji", 
+                "humanitarianresponse": "Fiji", 
+                "m49": "Fiji", 
+                "reliefweb-api": "Fiji", 
+                "reliefweb-short": "Fiji"
+            }, 
+            "m49": "242", 
+            "reliefweb_id": "90", 
+            "x-alpha-2": "FJ", 
+            "x-alpha-3": "FJI"
+        }
+    ]
+}

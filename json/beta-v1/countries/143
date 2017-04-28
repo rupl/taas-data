@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "143", 
+            "geolocation": {
+                "lat": "-12.81970382", 
+                "lon": "45.13516865"
+            }, 
+            "hrinfo_id": "323", 
+            "id": "143", 
+            "iso2": "YT", 
+            "iso3": "MYT", 
+            "label": {
+                "default": "Mayotte", 
+                "fts": "Mayotte", 
+                "humanitarianresponse": "Mayotte", 
+                "m49": "Mayotte", 
+                "reliefweb-api": "Mayotte (France)", 
+                "reliefweb-short": "Mayotte"
+            }, 
+            "m49": "175", 
+            "reliefweb_id": "155", 
+            "x-alpha-2": "YT", 
+            "x-alpha-3": "MYT"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "191", 
+            "geolocation": {
+                "lat": null, 
+                "lon": null
+            }, 
+            "hrinfo_id": "371", 
+            "id": "190", 
+            "iso2": "PM", 
+            "iso3": "SPM", 
+            "label": {
+                "default": "Saint Pierre and Miquelon", 
+                "fts": "Saint Pierre and Miquelon", 
+                "humanitarianresponse": "Saint Pierre and Miquelon", 
+                "m49": "Saint Pierre and Miquelon", 
+                "reliefweb-api": "Saint Pierre and Miquelon (France)", 
+                "reliefweb-short": "Saint Pierre and Miquelon"
+            }, 
+            "m49": "666", 
+            "reliefweb_id": "202", 
+            "x-alpha-2": "PM", 
+            "x-alpha-3": "SPM"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "142", 
+            "geolocation": {
+                "lat": "-20.27530781", 
+                "lon": "57.56676664"
+            }, 
+            "hrinfo_id": "322", 
+            "id": "142", 
+            "iso2": "MU", 
+            "iso3": "MUS", 
+            "label": {
+                "default": "Mauritius", 
+                "fts": "Mauritius", 
+                "humanitarianresponse": "Mauritius", 
+                "m49": "Mauritius", 
+                "reliefweb-api": "Mauritius", 
+                "reliefweb-short": "Mauritius"
+            }, 
+            "m49": "480", 
+            "reliefweb_id": "154", 
+            "x-alpha-2": "MU", 
+            "x-alpha-3": "MUS"
+        }
+    ]
+}

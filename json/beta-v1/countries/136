@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "136", 
+            "geolocation": {
+                "lat": "5.068606213", 
+                "lon": "73.32614511"
+            }, 
+            "hrinfo_id": "316", 
+            "id": "136", 
+            "iso2": "MV", 
+            "iso3": "MDV", 
+            "label": {
+                "default": "Maldives", 
+                "fts": "Maldives", 
+                "humanitarianresponse": "Maldives", 
+                "m49": "Maldives", 
+                "reliefweb-api": "Maldives", 
+                "reliefweb-short": "Maldives"
+            }, 
+            "m49": "462", 
+            "reliefweb_id": "148", 
+            "x-alpha-2": "MV", 
+            "x-alpha-3": "MDV"
+        }
+    ]
+}

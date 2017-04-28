@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "104", 
+            "geolocation": {
+                "lat": "-2.21433486", 
+                "lon": "117.2844335"
+            }, 
+            "hrinfo_id": "284", 
+            "id": "104", 
+            "iso2": "ID", 
+            "iso3": "IDN", 
+            "label": {
+                "default": "Indonesia", 
+                "fts": "Indonesia", 
+                "humanitarianresponse": "Indonesia", 
+                "m49": "Indonesia", 
+                "reliefweb-api": "Indonesia", 
+                "reliefweb-short": "Indonesia"
+            }, 
+            "m49": "360", 
+            "reliefweb_id": "120", 
+            "x-alpha-2": "ID", 
+            "x-alpha-3": "IDN"
+        }
+    ]
+}

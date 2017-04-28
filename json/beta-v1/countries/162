@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "162", 
+            "geolocation": {
+                "lat": "17.42463558", 
+                "lon": "9.397470038"
+            }, 
+            "hrinfo_id": "342", 
+            "id": "162", 
+            "iso2": "NE", 
+            "iso3": "NER", 
+            "label": {
+                "default": "Niger (the)", 
+                "fts": "Niger", 
+                "humanitarianresponse": "Niger", 
+                "m49": "Niger", 
+                "reliefweb-api": "Niger", 
+                "reliefweb-short": "Niger (the)"
+            }, 
+            "m49": "562", 
+            "reliefweb_id": "174", 
+            "x-alpha-2": "NE", 
+            "x-alpha-3": "NER"
+        }
+    ]
+}

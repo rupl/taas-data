@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "80", 
+            "geolocation": {
+                "lat": "-0.595400581", 
+                "lon": "11.79997877"
+            }, 
+            "hrinfo_id": "260", 
+            "id": "80", 
+            "iso2": "GA", 
+            "iso3": "GAB", 
+            "label": {
+                "default": "Gabon", 
+                "fts": "Gabon", 
+                "humanitarianresponse": "Gabon", 
+                "m49": "Gabon", 
+                "reliefweb-api": "Gabon", 
+                "reliefweb-short": "Gabon"
+            }, 
+            "m49": "266", 
+            "reliefweb_id": "96", 
+            "x-alpha-2": "GA", 
+            "x-alpha-3": "GAB"
+        }
+    ]
+}

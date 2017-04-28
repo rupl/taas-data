@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "183", 
+            "geolocation": {
+                "lat": "45.84314501", 
+                "lon": "24.96613666"
+            }, 
+            "hrinfo_id": "363", 
+            "id": "182", 
+            "iso2": "RO", 
+            "iso3": "ROU", 
+            "label": {
+                "default": "Romania", 
+                "fts": "Romania", 
+                "humanitarianresponse": "Romania", 
+                "m49": "Romania", 
+                "reliefweb-api": "Romania", 
+                "reliefweb-short": "Romania"
+            }, 
+            "m49": "642", 
+            "reliefweb_id": "196", 
+            "x-alpha-2": "RO", 
+            "x-alpha-3": "ROU"
+        }
+    ]
+}

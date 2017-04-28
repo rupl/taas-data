@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "123", 
+            "geolocation": {
+                "lat": "56.85765774", 
+                "lon": "24.92335393"
+            }, 
+            "hrinfo_id": "303", 
+            "id": "123", 
+            "iso2": "LV", 
+            "iso3": "LVA", 
+            "label": {
+                "default": "Latvia", 
+                "fts": "Latvia", 
+                "humanitarianresponse": "Latvia", 
+                "m49": "Latvia", 
+                "reliefweb-api": "Latvia", 
+                "reliefweb-short": "Latvia"
+            }, 
+            "m49": "428", 
+            "reliefweb_id": "136", 
+            "x-alpha-2": "LV", 
+            "x-alpha-3": "LVA"
+        }
+    ]
+}

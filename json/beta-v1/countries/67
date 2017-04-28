@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "67", 
+            "geolocation": {
+                "lat": "13.72764125", 
+                "lon": "-88.86315324"
+            }, 
+            "hrinfo_id": "247", 
+            "id": "67", 
+            "iso2": "SV", 
+            "iso3": "SLV", 
+            "label": {
+                "default": "El Salvador", 
+                "fts": "El Salvador", 
+                "humanitarianresponse": "El Salvador", 
+                "m49": "El Salvador", 
+                "reliefweb-api": "El Salvador", 
+                "reliefweb-short": "El Salvador"
+            }, 
+            "m49": "222", 
+            "reliefweb_id": "83", 
+            "x-alpha-2": "SV", 
+            "x-alpha-3": "SLV"
+        }
+    ]
+}

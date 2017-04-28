@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "241", 
+            "geolocation": {
+                "lat": "-21.04390394", 
+                "lon": "171.2797047"
+            }, 
+            "hrinfo_id": "421", 
+            "id": "240", 
+            "iso2": "VU", 
+            "iso3": "VUT", 
+            "label": {
+                "default": "Vanuatu", 
+                "fts": "Vanuatu", 
+                "humanitarianresponse": "Vanuatu", 
+                "m49": "Vanuatu", 
+                "reliefweb-api": "Vanuatu", 
+                "reliefweb-short": "Vanuatu"
+            }, 
+            "m49": "548", 
+            "reliefweb_id": "249", 
+            "x-alpha-2": "VU", 
+            "x-alpha-3": "VUT"
+        }
+    ]
+}

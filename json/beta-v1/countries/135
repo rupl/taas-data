@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "135", 
+            "geolocation": {
+                "lat": "2.745185714", 
+                "lon": "140.4915783"
+            }, 
+            "hrinfo_id": "315", 
+            "id": "135", 
+            "iso2": "MY", 
+            "iso3": "MYS", 
+            "label": {
+                "default": "Malaysia", 
+                "fts": "Malaysia", 
+                "humanitarianresponse": "Malaysia", 
+                "m49": "Malaysia", 
+                "reliefweb-api": "Malaysia", 
+                "reliefweb-short": "Malaysia"
+            }, 
+            "m49": "458", 
+            "reliefweb_id": "147", 
+            "x-alpha-2": "MY", 
+            "x-alpha-3": "MYS"
+        }
+    ]
+}

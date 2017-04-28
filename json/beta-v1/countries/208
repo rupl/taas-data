@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "209", 
+            "geolocation": {
+                "lat": "40.3097875", 
+                "lon": "-3.578125378"
+            }, 
+            "hrinfo_id": "389", 
+            "id": "208", 
+            "iso2": "ES", 
+            "iso3": "ESP", 
+            "label": {
+                "default": "Spain", 
+                "fts": "Spain", 
+                "humanitarianresponse": "Spain", 
+                "m49": "Spain", 
+                "reliefweb-api": "Spain", 
+                "reliefweb-short": "Spain"
+            }, 
+            "m49": "724", 
+            "reliefweb_id": "218", 
+            "x-alpha-2": "ES", 
+            "x-alpha-3": "ESP"
+        }
+    ]
+}

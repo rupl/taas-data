@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "44", 
+            "geolocation": {
+                "lat": "15.35740495", 
+                "lon": "18.66399556"
+            }, 
+            "hrinfo_id": "224", 
+            "id": "44", 
+            "iso2": "TD", 
+            "iso3": "TCD", 
+            "label": {
+                "default": "Chad", 
+                "fts": "Chad", 
+                "humanitarianresponse": "Chad", 
+                "m49": "Chad", 
+                "reliefweb-api": "Chad", 
+                "reliefweb-short": "Chad"
+            }, 
+            "m49": "148", 
+            "reliefweb_id": "55", 
+            "x-alpha-2": "TD", 
+            "x-alpha-3": "TCD"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "94", 
+            "geolocation": {
+                "lat": "12.05479161", 
+                "lon": "-14.94108332"
+            }, 
+            "hrinfo_id": "274", 
+            "id": "94", 
+            "iso2": "GW", 
+            "iso3": "GNB", 
+            "label": {
+                "default": "Guinea-Bissau", 
+                "fts": "Guinea-Bissau", 
+                "humanitarianresponse": "Guinea-Bissau", 
+                "m49": "Guinea-Bissau", 
+                "reliefweb-api": "Guinea-Bissau", 
+                "reliefweb-short": "Guinea-Bissau"
+            }, 
+            "m49": "624", 
+            "reliefweb_id": "111", 
+            "x-alpha-2": "GW", 
+            "x-alpha-3": "GNB"
+        }
+    ]
+}

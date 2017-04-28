@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "198", 
+            "geolocation": {
+                "lat": "44.03017332", 
+                "lon": "20.80259395"
+            }, 
+            "hrinfo_id": "378", 
+            "id": "197", 
+            "iso2": "RS", 
+            "iso3": "SRB", 
+            "label": {
+                "default": "Serbia", 
+                "fts": "Serbia", 
+                "humanitarianresponse": "Serbia", 
+                "m49": "Serbia", 
+                "reliefweb-api": "Serbia", 
+                "reliefweb-short": "Serbia"
+            }, 
+            "m49": "688", 
+            "reliefweb_id": "209", 
+            "x-alpha-2": "RS", 
+            "x-alpha-3": "SRB"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "64", 
+            "geolocation": {
+                "lat": "18.89453409", 
+                "lon": "-70.49429315"
+            }, 
+            "hrinfo_id": "244", 
+            "id": "64", 
+            "iso2": "DO", 
+            "iso3": "DOM", 
+            "label": {
+                "default": "Dominican Republic (the)", 
+                "fts": "Dominican Republic", 
+                "humanitarianresponse": "Dominican Republic", 
+                "m49": "Dominican Republic", 
+                "reliefweb-api": "Dominican Republic", 
+                "reliefweb-short": "Dominican Rep."
+            }, 
+            "m49": "214", 
+            "reliefweb_id": "79", 
+            "x-alpha-2": "DO", 
+            "x-alpha-3": "DOM"
+        }
+    ]
+}

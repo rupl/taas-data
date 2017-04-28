@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "237", 
+            "geolocation": {
+                "lat": "45.73643438", 
+                "lon": "-112.404207"
+            }, 
+            "hrinfo_id": "417", 
+            "id": "236", 
+            "iso2": "US", 
+            "iso3": "USA", 
+            "label": {
+                "default": "United States of America (the)", 
+                "fts": "United States", 
+                "humanitarianresponse": "United States", 
+                "m49": "United States of America", 
+                "reliefweb-api": "United States of America", 
+                "reliefweb-short": "USA"
+            }, 
+            "m49": "840", 
+            "reliefweb_id": "245", 
+            "x-alpha-2": "US", 
+            "x-alpha-3": "USA"
+        }
+    ]
+}

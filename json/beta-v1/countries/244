@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "246", 
+            "geolocation": {
+                "lat": null, 
+                "lon": null
+            }, 
+            "hrinfo_id": "426", 
+            "id": "244", 
+            "iso2": "WF", 
+            "iso3": "WLF", 
+            "label": {
+                "default": "Wallis and Futuna", 
+                "fts": "Wallis and Futuna", 
+                "humanitarianresponse": "Wallis and Futuna", 
+                "m49": "Wallis and Futuna Islands", 
+                "reliefweb-api": "Wallis and Futuna (France)", 
+                "reliefweb-short": "Wallis and Futuna"
+            }, 
+            "m49": "876", 
+            "reliefweb_id": "252", 
+            "x-alpha-2": "WF", 
+            "x-alpha-3": "WLF"
+        }
+    ]
+}

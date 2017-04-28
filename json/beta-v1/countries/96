@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "96", 
+            "geolocation": {
+                "lat": "18.94164176", 
+                "lon": "-72.65840205"
+            }, 
+            "hrinfo_id": "276", 
+            "id": "96", 
+            "iso2": "HT", 
+            "iso3": "HTI", 
+            "label": {
+                "default": "Haiti", 
+                "fts": "Haiti", 
+                "humanitarianresponse": "Haiti", 
+                "m49": "Haiti", 
+                "reliefweb-api": "Haiti", 
+                "reliefweb-short": "Haiti"
+            }, 
+            "m49": "332", 
+            "reliefweb_id": "113", 
+            "x-alpha-2": "HT", 
+            "x-alpha-3": "HTI"
+        }
+    ]
+}

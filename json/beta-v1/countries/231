@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "232", 
+            "geolocation": {
+                "lat": "-10.46069351", 
+                "lon": "181.0881855"
+            }, 
+            "hrinfo_id": "412", 
+            "id": "231", 
+            "iso2": "TV", 
+            "iso3": "TUV", 
+            "label": {
+                "default": "Tuvalu", 
+                "fts": "Tuvalu", 
+                "humanitarianresponse": "Tuvalu", 
+                "m49": "Tuvalu", 
+                "reliefweb-api": "Tuvalu", 
+                "reliefweb-short": "Tuvalu"
+            }, 
+            "m49": "798", 
+            "reliefweb_id": "239", 
+            "x-alpha-2": "TV", 
+            "x-alpha-3": "TUV"
+        }
+    ]
+}

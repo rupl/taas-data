@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "248", 
+            "geolocation": {
+                "lat": "15.96506363", 
+                "lon": "47.50305348"
+            }, 
+            "hrinfo_id": "428", 
+            "id": "246", 
+            "iso2": "YE", 
+            "iso3": "YEM", 
+            "label": {
+                "default": "Yemen", 
+                "fts": "Yemen", 
+                "humanitarianresponse": "Yemen", 
+                "m49": "Yemen", 
+                "reliefweb-api": "Yemen", 
+                "reliefweb-short": "Yemen"
+            }, 
+            "m49": "887", 
+            "reliefweb_id": "255", 
+            "x-alpha-2": "YE", 
+            "x-alpha-3": "YEM"
+        }
+    ]
+}

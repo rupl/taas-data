@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "215", 
+            "geolocation": {
+                "lat": "-26.56643647", 
+                "lon": "31.50113832"
+            }, 
+            "hrinfo_id": "395", 
+            "id": "214", 
+            "iso2": "SZ", 
+            "iso3": "SWZ", 
+            "label": {
+                "default": "Swaziland", 
+                "fts": "Swaziland", 
+                "humanitarianresponse": "Swaziland", 
+                "m49": "Swaziland", 
+                "reliefweb-api": "Swaziland", 
+                "reliefweb-short": "Swaziland"
+            }, 
+            "m49": "748", 
+            "reliefweb_id": "223", 
+            "x-alpha-2": "SZ", 
+            "x-alpha-3": "SWZ"
+        }
+    ]
+}

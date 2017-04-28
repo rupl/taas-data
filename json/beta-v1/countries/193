@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "194", 
+            "geolocation": {
+                "lat": "43.94362477", 
+                "lon": "12.45862763"
+            }, 
+            "hrinfo_id": "374", 
+            "id": "193", 
+            "iso2": "SM", 
+            "iso3": "SMR", 
+            "label": {
+                "default": "San Marino", 
+                "fts": "San Marino", 
+                "humanitarianresponse": "San Marino", 
+                "m49": "San Marino", 
+                "reliefweb-api": "San Marino", 
+                "reliefweb-short": "San Marino"
+            }, 
+            "m49": "674", 
+            "reliefweb_id": "205", 
+            "x-alpha-2": "SM", 
+            "x-alpha-3": "SMR"
+        }
+    ]
+}

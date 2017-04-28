@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "55", 
+            "geolocation": {
+                "lat": "7.630087005", 
+                "lon": "-5.552402136"
+            }, 
+            "hrinfo_id": "235", 
+            "id": "55", 
+            "iso2": "CI", 
+            "iso3": "CIV", 
+            "label": {
+                "default": "C\u00f4te d'Ivoire", 
+                "fts": "C\u00f4te d'Ivoire", 
+                "humanitarianresponse": "C\u00f4te d'Ivoire", 
+                "m49": "C\u00f4te d'Ivoire", 
+                "reliefweb-api": "C\u00f4te d'Ivoire", 
+                "reliefweb-short": "C\u00f4te d'Ivoire"
+            }, 
+            "m49": "384", 
+            "reliefweb_id": "69", 
+            "x-alpha-2": "CI", 
+            "x-alpha-3": "CIV"
+        }
+    ]
+}
