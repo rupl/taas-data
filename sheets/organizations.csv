@@ -1,0 +1,33 @@
+ID,HRinfo ID,RW ID,FTS ID,OCHA_GMS ID,Preferred Term,HRinfo Alt Term,GMS Alt Term,RW Alt Term,FTS Alt Term,Used For,URL,Acronymn,RW Type,Organization Type,Based in,Scope,IsMemberOf,Notes
+1,56052,,,,@fire International Disaster Response,,,,,(at)Fire; @fire,http://www.at-fire.de/,@fire,,437 - International NGO,83 - Germany,,,
+2,62590,,,,3 Million Club,,,,,,https://3millionclub.com/,3MC,,433 - Donor,,,,
+3,62875,62875,,,410 Bridge,,,,,,http://www.410bridge.org/,410 Bridge,NGO,437 - International NGO,96 - Haiti,"The 410 Bridge International is a non-profit, Christian organization located in Port-au-Prince, Haiti with organizational linkage to the United States, Kenya, Uganda, and Honduras. Our mission is to enable the self-developing capabilities of the people we serve by uniting and mobilizing the Body of Christ through holistic, redemptive, community-centered partnerships.",,
+4,62418,,,,A Portée de Mains,,,,,,http://apm-asso.com/,APM,,441 - National NGO,,,,
+5,47796,,,,A Self-help Assistance Programme,,,,,,http://www.asapafrica.org,ASAP,,441 - National NGO,,,,
+6,17146,15012,,,A Single Drop for Safe Water,,,,,,http://www.singledrop.org/,ASDSW,NGO,441 - National NGO,175 - Philippines,,,
+7,62737,,,,"A2D Project - Research Group for Alternatives to Development, Inc.",,,,,,http://www.a2dproject.org/,A2D,,441 - National NGO,,,,
+8,2077,,,,Aamin Voluntary Relief Organization,,,,,,http://avroorg.com/,AVRO,,441 - National NGO,,,,
+9,50354,,,,ABC Ecologie,,,,,Association pour le Bien-être Collectif et l'Écologie,http://abcecologie.e-monsite.com/,ABC Ecologie,,437 - International NGO,,,,
+10,61950,,,7499,Abs Development for Women & Children,,,,,,,ADO,,441 - National NGO,,,,
+11,17147,,,,ABS-CBN Corporation,,,,,Alto Broadcasting System – Chronicle Broadcasting Network Corporation,,ABS-CBN,,439 - Media,,,,
+12,61817,,,,Acceptance International,,,,,,http://www.acceptance-international.org/,AI,,437 - International NGO,,,,
+13,2078,,,,Access Aid and Development,,,,,,http://www.access-aid.org/,AAD,,441 - National NGO,,,,
+14,448,583,16377,,Access Aid International,,,,,,http://www.aai.org.au,AAI,NGO,437 - International NGO,14 - Australia,,,
+15,62329,,,80,Accessibility Organization for Afghan Disabled,,,,,,www.aoad-af.org,AOAD,,441 - National NGO,,,,
+16,17148,,,,Accord,,,,,,,,,437 - International NGO,,,,"Is this meant to be http://www.accord.org.za/ (RW - 535) or http://www.acordinternational.org/, or Accord Worldwide (RW - 15344) or Geneva Accord (RW - 844)"
+17,49416,815,,,ACDI-VOCA,,,ACDI/VOCA,,Agricultural Cooperative Development International and Volunteers in Overseas Cooperative Assistance,http://www.acdivoca.org/,ACDI/VOCA,NGO,437 - International NGO,236 - United States,,,
+18,52517,,,,ACK Development Services (Kenya),,,,,,http://ads-nyanza.org/,,,441 - National NGO,,,,
+19,17149,4304,,,ACT Alliance,,,,,,http://www.actalliance.org/,ACT,NGO,437 - International NGO,216 - Switzerland,,,Can't find the meaning of the acronym
+20,56434,8611,,,Act for Peace,,,,,,http://www.actforpeace.org.au/,,NGO,437 - International NGO,14 - Australia,,,
+21,2079,3480,,807,Action Africa Help-International,,,,,,http://www.actionafricahelp.org/,AAH - I,NGO,437 - International NGO,116 - Kenya,,,
+22,449,,,,Action against Hunger,,,,,,,ACF,,437 - International NGO,,,,
+23,,1978,,,Action Against Hunger UK,,,,,,http://www.actionagainsthunger.org.uk/,,NGO,,235 - United Kingdom,,22,Need to check if AAH country offices are considered 'Members of' parent organisation
+24,,1970,,3/98,Action Against Hunger USA,,ACF - USA,,,,http://www.actionagainsthunger.org,,NGO,,236 - United States,,22,Is this actually the same as 22 rather than being a member of 22?
+25,,4292,,,Action Against Hunger-CANADA,,,,,,http://www.actioncontrelafaim.ca/,,NGO,,40 - Canada,,22,
+26,,,,648,Action Against Hunger- Spain,,,,,,,,,,208 - Spain,,22,
+27,,1955,,429/143/339/418,Action Contre la Faim,,Action Contre la Faim France,,,,http://www.acf-international.org/,,NGO,,76 - France,,22,Is this actually the same as 22 rather than being a member of 22?
+28,,,,3,Action Contre la Faim Liban,,,,,,,ACF,,,,,22,
+29,63045,,,,Action Citoyenne Pour la Promotion et la Defense ds Droits Humains,,,,,,,ACPDDH,,441 - National NGO,,,,
+30,62988,,,,Action Communautaire de Solidarité et d'Intervention (Haiti),,,,,,,ACSIS,,441 - National NGO,,,,
+31,50355,,,,Action de Lutte contre la Pauvreté,,,,,,,ALCP,,437 - International NGO,,,,
+32,17213,1879,,631,Christian Aid,,ACT Alliance / Christian Aid,,,,http://www.christian-aid.org.uk,CA,NGO,437 - International NGO,235 - United Kingdom,,19,
