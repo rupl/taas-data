@@ -13,11 +13,11 @@
             "iso3": "NOR", 
             "label": {
                 "default": "Norway", 
-                "fts": "Norway", 
-                "humanitarianresponse": "Norway", 
-                "m49": "Norway", 
-                "reliefweb-api": "Norway", 
-                "reliefweb-short": "Norway"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "578", 
             "reliefweb_id": "179", 

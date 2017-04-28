@@ -13,11 +13,11 @@
             "iso3": "SVK", 
             "label": {
                 "default": "Slovakia", 
-                "fts": "Slovakia", 
-                "humanitarianresponse": "Slovakia", 
-                "m49": "Slovakia", 
-                "reliefweb-api": "Slovakia", 
-                "reliefweb-short": "Slovakia"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "703", 
             "reliefweb_id": "213", 

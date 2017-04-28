@@ -16,8 +16,8 @@
                 "fts": "French Southern Territories", 
                 "humanitarianresponse": "French Southern Territories", 
                 "m49": "French Southern and Antarctic Territories", 
-                "reliefweb-api": "French Southern Territories (the)", 
-                "reliefweb-short": "French Southern Territories (the)"
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "260", 
             "reliefweb_id": null, 

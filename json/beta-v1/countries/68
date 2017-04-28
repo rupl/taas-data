@@ -13,11 +13,11 @@
             "iso3": "GNQ", 
             "label": {
                 "default": "Equatorial Guinea", 
-                "fts": "Equatorial Guinea", 
-                "humanitarianresponse": "Equatorial Guinea", 
-                "m49": "Equatorial Guinea", 
-                "reliefweb-api": "Equatorial Guinea", 
-                "reliefweb-short": "Equatorial Guinea"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "226", 
             "reliefweb_id": "84", 

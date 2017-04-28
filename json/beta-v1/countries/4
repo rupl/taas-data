@@ -13,11 +13,11 @@
             "iso3": "DZA", 
             "label": {
                 "default": "Algeria", 
-                "fts": "Algeria", 
-                "humanitarianresponse": "Algeria", 
-                "m49": "Algeria", 
-                "reliefweb-api": "Algeria", 
-                "reliefweb-short": "Algeria"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "12", 
             "reliefweb_id": "16", 

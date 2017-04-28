@@ -13,11 +13,11 @@
             "iso3": "AND", 
             "label": {
                 "default": "Andorra", 
-                "fts": "Andorra", 
-                "humanitarianresponse": "Andorra", 
-                "m49": "Andorra", 
-                "reliefweb-api": "Andorra", 
-                "reliefweb-short": "Andorra"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "20", 
             "reliefweb_id": "18", 

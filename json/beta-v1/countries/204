@@ -13,11 +13,11 @@
             "iso3": "SLB", 
             "label": {
                 "default": "Solomon Islands", 
-                "fts": "Solomon Islands", 
-                "humanitarianresponse": "Solomon Islands", 
-                "m49": "Solomon Islands", 
-                "reliefweb-api": "Solomon Islands", 
-                "reliefweb-short": "Solomon Islands"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "90", 
             "reliefweb_id": "215", 

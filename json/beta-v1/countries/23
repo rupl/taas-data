@@ -13,11 +13,11 @@
             "iso3": "BLZ", 
             "label": {
                 "default": "Belize", 
-                "fts": "Belize", 
-                "humanitarianresponse": "Belize", 
-                "m49": "Belize", 
-                "reliefweb-api": "Belize", 
-                "reliefweb-short": "Belize"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "84", 
             "reliefweb_id": "35", 

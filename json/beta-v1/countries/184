@@ -13,11 +13,11 @@
             "iso3": "RWA", 
             "label": {
                 "default": "Rwanda", 
-                "fts": "Rwanda", 
-                "humanitarianresponse": "Rwanda", 
-                "m49": "Rwanda", 
-                "reliefweb-api": "Rwanda", 
-                "reliefweb-short": "Rwanda"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "646", 
             "reliefweb_id": "198", 

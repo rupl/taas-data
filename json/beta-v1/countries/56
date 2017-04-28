@@ -13,11 +13,11 @@
             "iso3": "HRV", 
             "label": {
                 "default": "Croatia", 
-                "fts": "Croatia", 
-                "humanitarianresponse": "Croatia", 
-                "m49": "Croatia", 
-                "reliefweb-api": "Croatia", 
-                "reliefweb-short": "Croatia"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "191", 
             "reliefweb_id": "70", 

@@ -13,11 +13,11 @@
             "iso3": "JAM", 
             "label": {
                 "default": "Jamaica", 
-                "fts": "Jamaica", 
-                "humanitarianresponse": "Jamaica", 
-                "m49": "Jamaica", 
-                "reliefweb-api": "Jamaica", 
-                "reliefweb-short": "Jamaica"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "388", 
             "reliefweb_id": "127", 

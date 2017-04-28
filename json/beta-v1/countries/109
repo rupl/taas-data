@@ -13,11 +13,11 @@
             "iso3": "ISR", 
             "label": {
                 "default": "Israel", 
-                "fts": "Israel", 
-                "humanitarianresponse": "Israel", 
-                "m49": "Israel", 
-                "reliefweb-api": "Israel", 
-                "reliefweb-short": "Israel"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "376", 
             "reliefweb_id": "125", 

@@ -13,11 +13,11 @@
             "iso3": "BLM", 
             "label": {
                 "default": "Saint Barth\u00e9lemy", 
-                "fts": "Saint Barth\u00e9lemy", 
-                "humanitarianresponse": "Saint Barth\u00e9lemy", 
-                "m49": "Saint Barth\u00e9lemy", 
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
                 "reliefweb-api": "Saint Barth\u00e9lemy (France)", 
-                "reliefweb-short": "Saint Barth\u00e9lemy"
+                "reliefweb-short": null
             }, 
             "m49": "652", 
             "reliefweb_id": "14890", 

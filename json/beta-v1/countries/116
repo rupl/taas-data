@@ -13,11 +13,11 @@
             "iso3": "KEN", 
             "label": {
                 "default": "Kenya", 
-                "fts": "Kenya", 
-                "humanitarianresponse": "Kenya", 
-                "m49": "Kenya", 
-                "reliefweb-api": "Kenya", 
-                "reliefweb-short": "Kenya"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "404", 
             "reliefweb_id": "131", 

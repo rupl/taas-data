@@ -13,11 +13,11 @@
             "iso3": "MYT", 
             "label": {
                 "default": "Mayotte", 
-                "fts": "Mayotte", 
-                "humanitarianresponse": "Mayotte", 
-                "m49": "Mayotte", 
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
                 "reliefweb-api": "Mayotte (France)", 
-                "reliefweb-short": "Mayotte"
+                "reliefweb-short": null
             }, 
             "m49": "175", 
             "reliefweb_id": "155", 

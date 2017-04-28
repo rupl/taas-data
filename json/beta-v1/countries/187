@@ -13,11 +13,11 @@
             "iso3": "KNA", 
             "label": {
                 "default": "Saint Kitts and Nevis", 
-                "fts": "Saint Kitts and Nevis", 
-                "humanitarianresponse": "Saint Kitts and Nevis", 
-                "m49": "Saint Kitts and Nevis", 
-                "reliefweb-api": "Saint Kitts and Nevis", 
-                "reliefweb-short": "Saint Kitts and Nevis"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "659", 
             "reliefweb_id": "200", 

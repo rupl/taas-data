@@ -13,11 +13,11 @@
             "iso3": "AFG", 
             "label": {
                 "default": "Afghanistan", 
-                "fts": "Afghanistan", 
-                "humanitarianresponse": "Afghanistan", 
-                "m49": "Afghanistan", 
-                "reliefweb-api": "Afghanistan", 
-                "reliefweb-short": "Afghanistan"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "4", 
             "reliefweb_id": "13", 
@@ -37,11 +37,11 @@
             "iso3": "ALA", 
             "label": {
                 "default": "\u00c5land Islands", 
-                "fts": "\u00c5land Islands", 
-                "humanitarianresponse": "\u00c5land Islands", 
-                "m49": "\u00c5land Islands", 
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
                 "reliefweb-api": "Aland Islands (Finland)", 
-                "reliefweb-short": "\u00c5land Islands"
+                "reliefweb-short": null
             }, 
             "m49": "248", 
             "reliefweb_id": "14", 
@@ -61,11 +61,11 @@
             "iso3": "ALB", 
             "label": {
                 "default": "Albania", 
-                "fts": "Albania", 
-                "humanitarianresponse": "Albania", 
-                "m49": "Albania", 
-                "reliefweb-api": "Albania", 
-                "reliefweb-short": "Albania"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "8", 
             "reliefweb_id": "15", 
@@ -85,11 +85,11 @@
             "iso3": "DZA", 
             "label": {
                 "default": "Algeria", 
-                "fts": "Algeria", 
-                "humanitarianresponse": "Algeria", 
-                "m49": "Algeria", 
-                "reliefweb-api": "Algeria", 
-                "reliefweb-short": "Algeria"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "12", 
             "reliefweb_id": "16", 
@@ -109,11 +109,11 @@
             "iso3": "ASM", 
             "label": {
                 "default": "American Samoa", 
-                "fts": "American Samoa", 
-                "humanitarianresponse": "American Samoa", 
-                "m49": "American Samoa", 
-                "reliefweb-api": "American Samoa", 
-                "reliefweb-short": "American Samoa"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "16", 
             "reliefweb_id": "17", 
@@ -133,11 +133,11 @@
             "iso3": "AND", 
             "label": {
                 "default": "Andorra", 
-                "fts": "Andorra", 
-                "humanitarianresponse": "Andorra", 
-                "m49": "Andorra", 
-                "reliefweb-api": "Andorra", 
-                "reliefweb-short": "Andorra"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "20", 
             "reliefweb_id": "18", 
@@ -157,11 +157,11 @@
             "iso3": "AGO", 
             "label": {
                 "default": "Angola", 
-                "fts": "Angola", 
-                "humanitarianresponse": "Angola", 
-                "m49": "Angola", 
-                "reliefweb-api": "Angola", 
-                "reliefweb-short": "Angola"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "24", 
             "reliefweb_id": "19", 
@@ -181,11 +181,11 @@
             "iso3": "AIA", 
             "label": {
                 "default": "Anguilla", 
-                "fts": "Anguilla", 
-                "humanitarianresponse": "Anguilla", 
-                "m49": "Anguilla", 
-                "reliefweb-api": "Anguilla", 
-                "reliefweb-short": "Anguilla"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "660", 
             "reliefweb_id": "20", 
@@ -205,11 +205,11 @@
             "iso3": "ATA", 
             "label": {
                 "default": "Antarctica", 
-                "fts": "Antarctica", 
-                "humanitarianresponse": "Antarctica", 
-                "m49": "Antarctica", 
-                "reliefweb-api": "Antarctica", 
-                "reliefweb-short": "Antarctica"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "10", 
             "reliefweb_id": null, 
@@ -229,11 +229,11 @@
             "iso3": "ATG", 
             "label": {
                 "default": "Antigua and Barbuda", 
-                "fts": "Antigua and Barbuda", 
-                "humanitarianresponse": "Antigua and Barbuda", 
-                "m49": "Antigua and Barbuda", 
-                "reliefweb-api": "Antigua and Barbuda", 
-                "reliefweb-short": "Antigua and Barbuda"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "28", 
             "reliefweb_id": "21", 
@@ -253,11 +253,11 @@
             "iso3": "ARG", 
             "label": {
                 "default": "Argentina", 
-                "fts": "Argentina", 
-                "humanitarianresponse": "Argentina", 
-                "m49": "Argentina", 
-                "reliefweb-api": "Argentina", 
-                "reliefweb-short": "Argentina"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "32", 
             "reliefweb_id": "22", 
@@ -277,11 +277,11 @@
             "iso3": "ARM", 
             "label": {
                 "default": "Armenia", 
-                "fts": "Armenia", 
-                "humanitarianresponse": "Armenia", 
-                "m49": "Armenia", 
-                "reliefweb-api": "Armenia", 
-                "reliefweb-short": "Armenia"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "51", 
             "reliefweb_id": "23", 
@@ -301,11 +301,11 @@
             "iso3": "ABW", 
             "label": {
                 "default": "Aruba", 
-                "fts": "Aruba", 
-                "humanitarianresponse": "Aruba", 
-                "m49": "Aruba", 
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
                 "reliefweb-api": "Aruba (The Netherlands)", 
-                "reliefweb-short": "Aruba"
+                "reliefweb-short": null
             }, 
             "m49": "533", 
             "reliefweb_id": "24", 
@@ -325,11 +325,11 @@
             "iso3": "AUS", 
             "label": {
                 "default": "Australia", 
-                "fts": "Australia", 
-                "humanitarianresponse": "Australia", 
-                "m49": "Australia", 
-                "reliefweb-api": "Australia", 
-                "reliefweb-short": "Australia"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "36", 
             "reliefweb_id": "25", 
@@ -349,11 +349,11 @@
             "iso3": "AUT", 
             "label": {
                 "default": "Austria", 
-                "fts": "Austria", 
-                "humanitarianresponse": "Austria", 
-                "m49": "Austria", 
-                "reliefweb-api": "Austria", 
-                "reliefweb-short": "Austria"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "40", 
             "reliefweb_id": "26", 
@@ -373,11 +373,11 @@
             "iso3": "AZE", 
             "label": {
                 "default": "Azerbaijan", 
-                "fts": "Azerbaijan", 
-                "humanitarianresponse": "Azerbaijan", 
-                "m49": "Azerbaijan", 
-                "reliefweb-api": "Azerbaijan", 
-                "reliefweb-short": "Azerbaijan"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "31", 
             "reliefweb_id": "27", 
@@ -401,7 +401,7 @@
                 "humanitarianresponse": "Bahamas", 
                 "m49": "Bahamas", 
                 "reliefweb-api": "Bahamas", 
-                "reliefweb-short": "Bahamas (the)"
+                "reliefweb-short": null
             }, 
             "m49": "44", 
             "reliefweb_id": "29", 
@@ -421,11 +421,11 @@
             "iso3": "BHR", 
             "label": {
                 "default": "Bahrain", 
-                "fts": "Bahrain", 
-                "humanitarianresponse": "Bahrain", 
-                "m49": "Bahrain", 
-                "reliefweb-api": "Bahrain", 
-                "reliefweb-short": "Bahrain"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "48", 
             "reliefweb_id": "30", 
@@ -445,11 +445,11 @@
             "iso3": "BGD", 
             "label": {
                 "default": "Bangladesh", 
-                "fts": "Bangladesh", 
-                "humanitarianresponse": "Bangladesh", 
-                "m49": "Bangladesh", 
-                "reliefweb-api": "Bangladesh", 
-                "reliefweb-short": "Bangladesh"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "50", 
             "reliefweb_id": "31", 
@@ -469,11 +469,11 @@
             "iso3": "BRB", 
             "label": {
                 "default": "Barbados", 
-                "fts": "Barbados", 
-                "humanitarianresponse": "Barbados", 
-                "m49": "Barbados", 
-                "reliefweb-api": "Barbados", 
-                "reliefweb-short": "Barbados"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "52", 
             "reliefweb_id": "32", 
@@ -493,11 +493,11 @@
             "iso3": "BLR", 
             "label": {
                 "default": "Belarus", 
-                "fts": "Belarus", 
-                "humanitarianresponse": "Belarus", 
-                "m49": "Belarus", 
-                "reliefweb-api": "Belarus", 
-                "reliefweb-short": "Belarus"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "112", 
             "reliefweb_id": "33", 
@@ -517,11 +517,11 @@
             "iso3": "BEL", 
             "label": {
                 "default": "Belgium", 
-                "fts": "Belgium", 
-                "humanitarianresponse": "Belgium", 
-                "m49": "Belgium", 
-                "reliefweb-api": "Belgium", 
-                "reliefweb-short": "Belgium"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "56", 
             "reliefweb_id": "34", 
@@ -541,11 +541,11 @@
             "iso3": "BLZ", 
             "label": {
                 "default": "Belize", 
-                "fts": "Belize", 
-                "humanitarianresponse": "Belize", 
-                "m49": "Belize", 
-                "reliefweb-api": "Belize", 
-                "reliefweb-short": "Belize"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "84", 
             "reliefweb_id": "35", 
@@ -565,11 +565,11 @@
             "iso3": "BEN", 
             "label": {
                 "default": "Benin", 
-                "fts": "Benin", 
-                "humanitarianresponse": "Benin", 
-                "m49": "Benin", 
-                "reliefweb-api": "Benin", 
-                "reliefweb-short": "Benin"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "204", 
             "reliefweb_id": "36", 
@@ -589,11 +589,11 @@
             "iso3": "BMU", 
             "label": {
                 "default": "Bermuda", 
-                "fts": "Bermuda", 
-                "humanitarianresponse": "Bermuda", 
-                "m49": "Bermuda", 
-                "reliefweb-api": "Bermuda", 
-                "reliefweb-short": "Bermuda"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "60", 
             "reliefweb_id": "37", 
@@ -613,11 +613,11 @@
             "iso3": "BTN", 
             "label": {
                 "default": "Bhutan", 
-                "fts": "Bhutan", 
-                "humanitarianresponse": "Bhutan", 
-                "m49": "Bhutan", 
-                "reliefweb-api": "Bhutan", 
-                "reliefweb-short": "Bhutan"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "64", 
             "reliefweb_id": "38", 
@@ -639,8 +639,8 @@
                 "default": "Bolivia (Plurinational State of)", 
                 "fts": "Bolivia, Plurinational State of", 
                 "humanitarianresponse": "Bolivia, Plurinational State of", 
-                "m49": "Bolivia (Plurinational State of)", 
-                "reliefweb-api": "Bolivia (Plurinational State of)", 
+                "m49": null, 
+                "reliefweb-api": null, 
                 "reliefweb-short": "Bolivia"
             }, 
             "m49": "68", 
@@ -661,11 +661,11 @@
             "iso3": "BIH", 
             "label": {
                 "default": "Bosnia and Herzegovina", 
-                "fts": "Bosnia and Herzegovina", 
-                "humanitarianresponse": "Bosnia and Herzegovina", 
-                "m49": "Bosnia and Herzegovina", 
-                "reliefweb-api": "Bosnia and Herzegovina", 
-                "reliefweb-short": "Bosnia and Herzegovina"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "70", 
             "reliefweb_id": "40", 
@@ -685,11 +685,11 @@
             "iso3": "BES", 
             "label": {
                 "default": "Bonaire, Sint Eustatius and Saba", 
-                "fts": "Bonaire, Sint Eustatius and Saba", 
-                "humanitarianresponse": "Bonaire, Sint Eustatius and Saba", 
-                "m49": "Bonaire, Sint Eustatius and Saba", 
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
                 "reliefweb-api": "Bonaire, Saint Eustatius and Saba (The Netherlands)", 
-                "reliefweb-short": "Bonaire, Sint Eustatius and Saba"
+                "reliefweb-short": null
             }, 
             "m49": "535", 
             "reliefweb_id": "14894", 
@@ -709,11 +709,11 @@
             "iso3": "BWA", 
             "label": {
                 "default": "Botswana", 
-                "fts": "Botswana", 
-                "humanitarianresponse": "Botswana", 
-                "m49": "Botswana", 
-                "reliefweb-api": "Botswana", 
-                "reliefweb-short": "Botswana"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "72", 
             "reliefweb_id": "41", 
@@ -733,11 +733,11 @@
             "iso3": "BVT", 
             "label": {
                 "default": "Bouvet Island", 
-                "fts": "Bouvet Island", 
-                "humanitarianresponse": "Bouvet Island", 
-                "m49": "Bouvet Island", 
-                "reliefweb-api": "Bouvet Island", 
-                "reliefweb-short": "Bouvet Island"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "74", 
             "reliefweb_id": null, 
@@ -757,11 +757,11 @@
             "iso3": "BRA", 
             "label": {
                 "default": "Brazil", 
-                "fts": "Brazil", 
-                "humanitarianresponse": "Brazil", 
-                "m49": "Brazil", 
-                "reliefweb-api": "Brazil", 
-                "reliefweb-short": "Brazil"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "76", 
             "reliefweb_id": "42", 
@@ -784,8 +784,8 @@
                 "fts": "British Indian Ocean Territory", 
                 "humanitarianresponse": "British Indian Ocean Territory", 
                 "m49": "British Indian Ocean Territory", 
-                "reliefweb-api": "British Indian Ocean Territory (the)", 
-                "reliefweb-short": "British Indian Ocean Territory (the)"
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "86", 
             "reliefweb_id": null, 
@@ -805,11 +805,11 @@
             "iso3": "BRN", 
             "label": {
                 "default": "Brunei Darussalam", 
-                "fts": "Brunei Darussalam", 
-                "humanitarianresponse": "Brunei Darussalam", 
-                "m49": "Brunei Darussalam", 
-                "reliefweb-api": "Brunei Darussalam", 
-                "reliefweb-short": "Brunei Darussalam"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "96", 
             "reliefweb_id": "44", 
@@ -829,11 +829,11 @@
             "iso3": "BGR", 
             "label": {
                 "default": "Bulgaria", 
-                "fts": "Bulgaria", 
-                "humanitarianresponse": "Bulgaria", 
-                "m49": "Bulgaria", 
-                "reliefweb-api": "Bulgaria", 
-                "reliefweb-short": "Bulgaria"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "100", 
             "reliefweb_id": "45", 
@@ -853,11 +853,11 @@
             "iso3": "BFA", 
             "label": {
                 "default": "Burkina Faso", 
-                "fts": "Burkina Faso", 
-                "humanitarianresponse": "Burkina Faso", 
-                "m49": "Burkina Faso", 
-                "reliefweb-api": "Burkina Faso", 
-                "reliefweb-short": "Burkina Faso"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "854", 
             "reliefweb_id": "46", 
@@ -877,11 +877,11 @@
             "iso3": "BDI", 
             "label": {
                 "default": "Burundi", 
-                "fts": "Burundi", 
-                "humanitarianresponse": "Burundi", 
-                "m49": "Burundi", 
-                "reliefweb-api": "Burundi", 
-                "reliefweb-short": "Burundi"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "108", 
             "reliefweb_id": "47", 
@@ -901,11 +901,11 @@
             "iso3": "KHM", 
             "label": {
                 "default": "Cambodia", 
-                "fts": "Cambodia", 
-                "humanitarianresponse": "Cambodia", 
-                "m49": "Cambodia", 
-                "reliefweb-api": "Cambodia", 
-                "reliefweb-short": "Cambodia"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "116", 
             "reliefweb_id": "48", 
@@ -925,11 +925,11 @@
             "iso3": "CMR", 
             "label": {
                 "default": "Cameroon", 
-                "fts": "Cameroon", 
-                "humanitarianresponse": "Cameroon", 
-                "m49": "Cameroon", 
-                "reliefweb-api": "Cameroon", 
-                "reliefweb-short": "Cameroon"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "120", 
             "reliefweb_id": "49", 
@@ -949,11 +949,11 @@
             "iso3": "CAN", 
             "label": {
                 "default": "Canada", 
-                "fts": "Canada", 
-                "humanitarianresponse": "Canada", 
-                "m49": "Canada", 
-                "reliefweb-api": "Canada", 
-                "reliefweb-short": "Canada"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "124", 
             "reliefweb_id": "50", 
@@ -975,9 +975,9 @@
                 "default": "Cabo Verde", 
                 "fts": "Cape Verde", 
                 "humanitarianresponse": "Cape Verde", 
-                "m49": "Cabo Verde", 
-                "reliefweb-api": "Cabo Verde", 
-                "reliefweb-short": "Cabo Verde"
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "132", 
             "reliefweb_id": "52", 
@@ -1001,7 +1001,7 @@
                 "humanitarianresponse": "Cayman Islands", 
                 "m49": "Cayman Islands", 
                 "reliefweb-api": "Cayman Islands", 
-                "reliefweb-short": "Cayman Islands (the)"
+                "reliefweb-short": null
             }, 
             "m49": "136", 
             "reliefweb_id": "53", 
@@ -1045,11 +1045,11 @@
             "iso3": "TCD", 
             "label": {
                 "default": "Chad", 
-                "fts": "Chad", 
-                "humanitarianresponse": "Chad", 
-                "m49": "Chad", 
-                "reliefweb-api": "Chad", 
-                "reliefweb-short": "Chad"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "148", 
             "reliefweb_id": "55", 
@@ -1069,11 +1069,11 @@
             "iso3": "CHL", 
             "label": {
                 "default": "Chile", 
-                "fts": "Chile", 
-                "humanitarianresponse": "Chile", 
-                "m49": "Chile", 
-                "reliefweb-api": "Chile", 
-                "reliefweb-short": "Chile"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "152", 
             "reliefweb_id": "57", 
@@ -1093,11 +1093,11 @@
             "iso3": "CHN", 
             "label": {
                 "default": "China", 
-                "fts": "China", 
-                "humanitarianresponse": "China", 
-                "m49": "China", 
-                "reliefweb-api": "China", 
-                "reliefweb-short": "China"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "156", 
             "reliefweb_id": "58", 
@@ -1117,11 +1117,11 @@
             "iso3": "CXR", 
             "label": {
                 "default": "Christmas Island", 
-                "fts": "Christmas Island", 
-                "humanitarianresponse": "Christmas Island", 
-                "m49": "Christmas Island", 
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
                 "reliefweb-api": "Christmas Island (Australia)", 
-                "reliefweb-short": "Christmas Island"
+                "reliefweb-short": null
             }, 
             "m49": "162", 
             "reliefweb_id": "62", 
@@ -1145,7 +1145,7 @@
                 "humanitarianresponse": "Cocos (Keeling) Islands", 
                 "m49": "Cocos (Keeling) Islands", 
                 "reliefweb-api": "Cocos (Keeling) Islands (Australia)", 
-                "reliefweb-short": "Cocos (Keeling) Islands (the)"
+                "reliefweb-short": null
             }, 
             "m49": "166", 
             "reliefweb_id": "63", 
@@ -1165,11 +1165,11 @@
             "iso3": "COL", 
             "label": {
                 "default": "Colombia", 
-                "fts": "Colombia", 
-                "humanitarianresponse": "Colombia", 
-                "m49": "Colombia", 
-                "reliefweb-api": "Colombia", 
-                "reliefweb-short": "Colombia"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "170", 
             "reliefweb_id": "64", 
@@ -1193,7 +1193,7 @@
                 "humanitarianresponse": "Comoros", 
                 "m49": "Comoros", 
                 "reliefweb-api": "Comoros", 
-                "reliefweb-short": "Comoros (the)"
+                "reliefweb-short": null
             }, 
             "m49": "174", 
             "reliefweb_id": "65", 
@@ -1217,7 +1217,7 @@
                 "humanitarianresponse": "Congo", 
                 "m49": "Congo", 
                 "reliefweb-api": "Congo", 
-                "reliefweb-short": "Congo (the)"
+                "reliefweb-short": null
             }, 
             "m49": "178", 
             "reliefweb_id": "66", 
@@ -1265,7 +1265,7 @@
                 "humanitarianresponse": "Cook Islands", 
                 "m49": "Cook Islands", 
                 "reliefweb-api": "Cook Islands", 
-                "reliefweb-short": "Cook Islands (the)"
+                "reliefweb-short": null
             }, 
             "m49": "184", 
             "reliefweb_id": "67", 
@@ -1285,11 +1285,11 @@
             "iso3": "CRI", 
             "label": {
                 "default": "Costa Rica", 
-                "fts": "Costa Rica", 
-                "humanitarianresponse": "Costa Rica", 
-                "m49": "Costa Rica", 
-                "reliefweb-api": "Costa Rica", 
-                "reliefweb-short": "Costa Rica"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "188", 
             "reliefweb_id": "68", 
@@ -1309,11 +1309,11 @@
             "iso3": "CIV", 
             "label": {
                 "default": "C\u00f4te d'Ivoire", 
-                "fts": "C\u00f4te d'Ivoire", 
-                "humanitarianresponse": "C\u00f4te d'Ivoire", 
-                "m49": "C\u00f4te d'Ivoire", 
-                "reliefweb-api": "C\u00f4te d'Ivoire", 
-                "reliefweb-short": "C\u00f4te d'Ivoire"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "384", 
             "reliefweb_id": "69", 
@@ -1333,11 +1333,11 @@
             "iso3": "HRV", 
             "label": {
                 "default": "Croatia", 
-                "fts": "Croatia", 
-                "humanitarianresponse": "Croatia", 
-                "m49": "Croatia", 
-                "reliefweb-api": "Croatia", 
-                "reliefweb-short": "Croatia"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "191", 
             "reliefweb_id": "70", 
@@ -1357,11 +1357,11 @@
             "iso3": "CUB", 
             "label": {
                 "default": "Cuba", 
-                "fts": "Cuba", 
-                "humanitarianresponse": "Cuba", 
-                "m49": "Cuba", 
-                "reliefweb-api": "Cuba", 
-                "reliefweb-short": "Cuba"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "192", 
             "reliefweb_id": "71", 
@@ -1381,11 +1381,11 @@
             "iso3": "CUW", 
             "label": {
                 "default": "Cura\u00e7ao", 
-                "fts": "Cura\u00e7ao", 
-                "humanitarianresponse": "Cura\u00e7ao", 
-                "m49": "Cura\u00e7ao", 
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
                 "reliefweb-api": "Cura\u00e7ao (The Netherlands)", 
-                "reliefweb-short": "Cura\u00e7ao"
+                "reliefweb-short": null
             }, 
             "m49": "531", 
             "reliefweb_id": "14893", 
@@ -1405,11 +1405,11 @@
             "iso3": "CYP", 
             "label": {
                 "default": "Cyprus", 
-                "fts": "Cyprus", 
-                "humanitarianresponse": "Cyprus", 
-                "m49": "Cyprus", 
-                "reliefweb-api": "Cyprus", 
-                "reliefweb-short": "Cyprus"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "196", 
             "reliefweb_id": "72", 
@@ -1431,9 +1431,9 @@
                 "default": "Czechia", 
                 "fts": "Czech Republic", 
                 "humanitarianresponse": "Czech Republic", 
-                "m49": "Czechia", 
+                "m49": null, 
                 "reliefweb-api": "Czech Republic", 
-                "reliefweb-short": "Czechia"
+                "reliefweb-short": null
             }, 
             "m49": "203", 
             "reliefweb_id": "73", 
@@ -1453,11 +1453,11 @@
             "iso3": "DNK", 
             "label": {
                 "default": "Denmark", 
-                "fts": "Denmark", 
-                "humanitarianresponse": "Denmark", 
-                "m49": "Denmark", 
-                "reliefweb-api": "Denmark", 
-                "reliefweb-short": "Denmark"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "208", 
             "reliefweb_id": "76", 
@@ -1477,11 +1477,11 @@
             "iso3": "DJI", 
             "label": {
                 "default": "Djibouti", 
-                "fts": "Djibouti", 
-                "humanitarianresponse": "Djibouti", 
-                "m49": "Djibouti", 
-                "reliefweb-api": "Djibouti", 
-                "reliefweb-short": "Djibouti"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "262", 
             "reliefweb_id": "77", 
@@ -1501,11 +1501,11 @@
             "iso3": "DMA", 
             "label": {
                 "default": "Dominica", 
-                "fts": "Dominica", 
-                "humanitarianresponse": "Dominica", 
-                "m49": "Dominica", 
-                "reliefweb-api": "Dominica", 
-                "reliefweb-short": "Dominica"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "212", 
             "reliefweb_id": "78", 
@@ -1549,11 +1549,11 @@
             "iso3": "ECU", 
             "label": {
                 "default": "Ecuador", 
-                "fts": "Ecuador", 
-                "humanitarianresponse": "Ecuador", 
-                "m49": "Ecuador", 
-                "reliefweb-api": "Ecuador", 
-                "reliefweb-short": "Ecuador"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "218", 
             "reliefweb_id": "81", 
@@ -1573,11 +1573,11 @@
             "iso3": "EGY", 
             "label": {
                 "default": "Egypt", 
-                "fts": "Egypt", 
-                "humanitarianresponse": "Egypt", 
-                "m49": "Egypt", 
-                "reliefweb-api": "Egypt", 
-                "reliefweb-short": "Egypt"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "818", 
             "reliefweb_id": "82", 
@@ -1597,11 +1597,11 @@
             "iso3": "SLV", 
             "label": {
                 "default": "El Salvador", 
-                "fts": "El Salvador", 
-                "humanitarianresponse": "El Salvador", 
-                "m49": "El Salvador", 
-                "reliefweb-api": "El Salvador", 
-                "reliefweb-short": "El Salvador"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "222", 
             "reliefweb_id": "83", 
@@ -1621,11 +1621,11 @@
             "iso3": "GNQ", 
             "label": {
                 "default": "Equatorial Guinea", 
-                "fts": "Equatorial Guinea", 
-                "humanitarianresponse": "Equatorial Guinea", 
-                "m49": "Equatorial Guinea", 
-                "reliefweb-api": "Equatorial Guinea", 
-                "reliefweb-short": "Equatorial Guinea"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "226", 
             "reliefweb_id": "84", 
@@ -1645,11 +1645,11 @@
             "iso3": "ERI", 
             "label": {
                 "default": "Eritrea", 
-                "fts": "Eritrea", 
-                "humanitarianresponse": "Eritrea", 
-                "m49": "Eritrea", 
-                "reliefweb-api": "Eritrea", 
-                "reliefweb-short": "Eritrea"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "232", 
             "reliefweb_id": "85", 
@@ -1669,11 +1669,11 @@
             "iso3": "EST", 
             "label": {
                 "default": "Estonia", 
-                "fts": "Estonia", 
-                "humanitarianresponse": "Estonia", 
-                "m49": "Estonia", 
-                "reliefweb-api": "Estonia", 
-                "reliefweb-short": "Estonia"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "233", 
             "reliefweb_id": "86", 
@@ -1693,11 +1693,11 @@
             "iso3": "ETH", 
             "label": {
                 "default": "Ethiopia", 
-                "fts": "Ethiopia", 
-                "humanitarianresponse": "Ethiopia", 
-                "m49": "Ethiopia", 
-                "reliefweb-api": "Ethiopia", 
-                "reliefweb-short": "Ethiopia"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "231", 
             "reliefweb_id": "87", 
@@ -1721,7 +1721,7 @@
                 "humanitarianresponse": "Falkland Islands (Malvinas)", 
                 "m49": "Falkland Islands (Malvinas)", 
                 "reliefweb-api": "Falkland Islands (Malvinas)", 
-                "reliefweb-short": "Falkland Islands (the) [Malvinas]"
+                "reliefweb-short": null
             }, 
             "m49": "238", 
             "reliefweb_id": "88", 
@@ -1745,7 +1745,7 @@
                 "humanitarianresponse": "Faroe Islands", 
                 "m49": "Faroe Islands", 
                 "reliefweb-api": "Faroe Islands (Denmark)", 
-                "reliefweb-short": "Faroe Islands (the)"
+                "reliefweb-short": null
             }, 
             "m49": "234", 
             "reliefweb_id": "89", 
@@ -1765,11 +1765,11 @@
             "iso3": "FJI", 
             "label": {
                 "default": "Fiji", 
-                "fts": "Fiji", 
-                "humanitarianresponse": "Fiji", 
-                "m49": "Fiji", 
-                "reliefweb-api": "Fiji", 
-                "reliefweb-short": "Fiji"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "242", 
             "reliefweb_id": "90", 
@@ -1789,11 +1789,11 @@
             "iso3": "FIN", 
             "label": {
                 "default": "Finland", 
-                "fts": "Finland", 
-                "humanitarianresponse": "Finland", 
-                "m49": "Finland", 
-                "reliefweb-api": "Finland", 
-                "reliefweb-short": "Finland"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "246", 
             "reliefweb_id": "91", 
@@ -1813,11 +1813,11 @@
             "iso3": "FRA", 
             "label": {
                 "default": "France", 
-                "fts": "France", 
-                "humanitarianresponse": "France", 
-                "m49": "France", 
-                "reliefweb-api": "France", 
-                "reliefweb-short": "France"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "250", 
             "reliefweb_id": "92", 
@@ -1837,11 +1837,11 @@
             "iso3": "GUF", 
             "label": {
                 "default": "French Guiana", 
-                "fts": "French Guiana", 
-                "humanitarianresponse": "French Guiana", 
-                "m49": "French Guiana", 
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
                 "reliefweb-api": "French Guiana (France)", 
-                "reliefweb-short": "French Guiana"
+                "reliefweb-short": null
             }, 
             "m49": "254", 
             "reliefweb_id": "93", 
@@ -1861,11 +1861,11 @@
             "iso3": "PYF", 
             "label": {
                 "default": "French Polynesia", 
-                "fts": "French Polynesia", 
-                "humanitarianresponse": "French Polynesia", 
-                "m49": "French Polynesia", 
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
                 "reliefweb-api": "French Polynesia (France)", 
-                "reliefweb-short": "French Polynesia"
+                "reliefweb-short": null
             }, 
             "m49": "258", 
             "reliefweb_id": "94", 
@@ -1888,8 +1888,8 @@
                 "fts": "French Southern Territories", 
                 "humanitarianresponse": "French Southern Territories", 
                 "m49": "French Southern and Antarctic Territories", 
-                "reliefweb-api": "French Southern Territories (the)", 
-                "reliefweb-short": "French Southern Territories (the)"
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "260", 
             "reliefweb_id": null, 
@@ -1909,11 +1909,11 @@
             "iso3": "GAB", 
             "label": {
                 "default": "Gabon", 
-                "fts": "Gabon", 
-                "humanitarianresponse": "Gabon", 
-                "m49": "Gabon", 
-                "reliefweb-api": "Gabon", 
-                "reliefweb-short": "Gabon"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "266", 
             "reliefweb_id": "96", 
@@ -1937,7 +1937,7 @@
                 "humanitarianresponse": "Gambia", 
                 "m49": "Gambia", 
                 "reliefweb-api": "Gambia", 
-                "reliefweb-short": "Gambia (the)"
+                "reliefweb-short": null
             }, 
             "m49": "270", 
             "reliefweb_id": "98", 
@@ -1957,11 +1957,11 @@
             "iso3": "GEO", 
             "label": {
                 "default": "Georgia", 
-                "fts": "Georgia", 
-                "humanitarianresponse": "Georgia", 
-                "m49": "Georgia", 
-                "reliefweb-api": "Georgia", 
-                "reliefweb-short": "Georgia"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "268", 
             "reliefweb_id": "100", 
@@ -1981,11 +1981,11 @@
             "iso3": "DEU", 
             "label": {
                 "default": "Germany", 
-                "fts": "Germany", 
-                "humanitarianresponse": "Germany", 
-                "m49": "Germany", 
-                "reliefweb-api": "Germany", 
-                "reliefweb-short": "Germany"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "276", 
             "reliefweb_id": "101", 
@@ -2005,11 +2005,11 @@
             "iso3": "GHA", 
             "label": {
                 "default": "Ghana", 
-                "fts": "Ghana", 
-                "humanitarianresponse": "Ghana", 
-                "m49": "Ghana", 
-                "reliefweb-api": "Ghana", 
-                "reliefweb-short": "Ghana"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "288", 
             "reliefweb_id": "102", 
@@ -2029,11 +2029,11 @@
             "iso3": "GIB", 
             "label": {
                 "default": "Gibraltar", 
-                "fts": "Gibraltar", 
-                "humanitarianresponse": "Gibraltar", 
-                "m49": "Gibraltar", 
-                "reliefweb-api": "Gibraltar", 
-                "reliefweb-short": "Gibraltar"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "292", 
             "reliefweb_id": "103", 
@@ -2053,11 +2053,11 @@
             "iso3": "GRC", 
             "label": {
                 "default": "Greece", 
-                "fts": "Greece", 
-                "humanitarianresponse": "Greece", 
-                "m49": "Greece", 
-                "reliefweb-api": "Greece", 
-                "reliefweb-short": "Greece"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "300", 
             "reliefweb_id": "104", 
@@ -2077,11 +2077,11 @@
             "iso3": "GRL", 
             "label": {
                 "default": "Greenland", 
-                "fts": "Greenland", 
-                "humanitarianresponse": "Greenland", 
-                "m49": "Greenland", 
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
                 "reliefweb-api": "Greenland (Denmark)", 
-                "reliefweb-short": "Greenland"
+                "reliefweb-short": null
             }, 
             "m49": "304", 
             "reliefweb_id": "105", 
@@ -2101,11 +2101,11 @@
             "iso3": "GRD", 
             "label": {
                 "default": "Grenada", 
-                "fts": "Grenada", 
-                "humanitarianresponse": "Grenada", 
-                "m49": "Grenada", 
-                "reliefweb-api": "Grenada", 
-                "reliefweb-short": "Grenada"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "308", 
             "reliefweb_id": "106", 
@@ -2125,11 +2125,11 @@
             "iso3": "GLP", 
             "label": {
                 "default": "Guadeloupe", 
-                "fts": "Guadeloupe", 
-                "humanitarianresponse": "Guadeloupe", 
-                "m49": "Guadeloupe", 
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
                 "reliefweb-api": "Guadeloupe (France)", 
-                "reliefweb-short": "Guadeloupe"
+                "reliefweb-short": null
             }, 
             "m49": "312", 
             "reliefweb_id": "107", 
@@ -2149,11 +2149,11 @@
             "iso3": "GUM", 
             "label": {
                 "default": "Guam", 
-                "fts": "Guam", 
-                "humanitarianresponse": "Guam", 
-                "m49": "Guam", 
-                "reliefweb-api": "Guam", 
-                "reliefweb-short": "Guam"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "316", 
             "reliefweb_id": "108", 
@@ -2173,11 +2173,11 @@
             "iso3": "GTM", 
             "label": {
                 "default": "Guatemala", 
-                "fts": "Guatemala", 
-                "humanitarianresponse": "Guatemala", 
-                "m49": "Guatemala", 
-                "reliefweb-api": "Guatemala", 
-                "reliefweb-short": "Guatemala"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "320", 
             "reliefweb_id": "109", 
@@ -2197,11 +2197,11 @@
             "iso3": "GGY", 
             "label": {
                 "default": "Guernsey", 
-                "fts": "Guernsey", 
-                "humanitarianresponse": "Guernsey", 
-                "m49": "Guernsey", 
-                "reliefweb-api": "Guernsey", 
-                "reliefweb-short": "Guernsey"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "831", 
             "reliefweb_id": null, 
@@ -2221,11 +2221,11 @@
             "iso3": "GIN", 
             "label": {
                 "default": "Guinea", 
-                "fts": "Guinea", 
-                "humanitarianresponse": "Guinea", 
-                "m49": "Guinea", 
-                "reliefweb-api": "Guinea", 
-                "reliefweb-short": "Guinea"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "324", 
             "reliefweb_id": "110", 
@@ -2245,11 +2245,11 @@
             "iso3": "GNB", 
             "label": {
                 "default": "Guinea-Bissau", 
-                "fts": "Guinea-Bissau", 
-                "humanitarianresponse": "Guinea-Bissau", 
-                "m49": "Guinea-Bissau", 
-                "reliefweb-api": "Guinea-Bissau", 
-                "reliefweb-short": "Guinea-Bissau"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "624", 
             "reliefweb_id": "111", 
@@ -2269,11 +2269,11 @@
             "iso3": "GUY", 
             "label": {
                 "default": "Guyana", 
-                "fts": "Guyana", 
-                "humanitarianresponse": "Guyana", 
-                "m49": "Guyana", 
-                "reliefweb-api": "Guyana", 
-                "reliefweb-short": "Guyana"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "328", 
             "reliefweb_id": "112", 
@@ -2293,11 +2293,11 @@
             "iso3": "HTI", 
             "label": {
                 "default": "Haiti", 
-                "fts": "Haiti", 
-                "humanitarianresponse": "Haiti", 
-                "m49": "Haiti", 
-                "reliefweb-api": "Haiti", 
-                "reliefweb-short": "Haiti"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "332", 
             "reliefweb_id": "113", 
@@ -2317,11 +2317,11 @@
             "iso3": "HMD", 
             "label": {
                 "default": "Heard Island and McDonald Islands", 
-                "fts": "Heard Island and McDonald Islands", 
-                "humanitarianresponse": "Heard Island and McDonald Islands", 
-                "m49": "Heard Island and McDonald Islands", 
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
                 "reliefweb-api": "Heard Island and McDonald Islands (Australia)", 
-                "reliefweb-short": "Heard Island and McDonald Islands"
+                "reliefweb-short": null
             }, 
             "m49": "334", 
             "reliefweb_id": "114", 
@@ -2345,7 +2345,7 @@
                 "humanitarianresponse": "Holy See (Vatican City State)", 
                 "m49": "Holy See", 
                 "reliefweb-api": "Holy See", 
-                "reliefweb-short": "Holy See (the)"
+                "reliefweb-short": null
             }, 
             "m49": "336", 
             "reliefweb_id": "115", 
@@ -2365,11 +2365,11 @@
             "iso3": "HND", 
             "label": {
                 "default": "Honduras", 
-                "fts": "Honduras", 
-                "humanitarianresponse": "Honduras", 
-                "m49": "Honduras", 
-                "reliefweb-api": "Honduras", 
-                "reliefweb-short": "Honduras"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "340", 
             "reliefweb_id": "116", 
@@ -2389,11 +2389,11 @@
             "iso3": "HKG", 
             "label": {
                 "default": "Hong Kong", 
-                "fts": "Hong Kong", 
-                "humanitarianresponse": "Hong Kong", 
+                "fts": null, 
+                "humanitarianresponse": null, 
                 "m49": "China, Hong Kong Special Administrative Region", 
                 "reliefweb-api": "China - Hong Kong (Special Administrative Region)", 
-                "reliefweb-short": "Hong Kong"
+                "reliefweb-short": null
             }, 
             "m49": "344", 
             "reliefweb_id": "59", 
@@ -2413,11 +2413,11 @@
             "iso3": "HUN", 
             "label": {
                 "default": "Hungary", 
-                "fts": "Hungary", 
-                "humanitarianresponse": "Hungary", 
-                "m49": "Hungary", 
-                "reliefweb-api": "Hungary", 
-                "reliefweb-short": "Hungary"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "348", 
             "reliefweb_id": "117", 
@@ -2437,11 +2437,11 @@
             "iso3": "ISL", 
             "label": {
                 "default": "Iceland", 
-                "fts": "Iceland", 
-                "humanitarianresponse": "Iceland", 
-                "m49": "Iceland", 
-                "reliefweb-api": "Iceland", 
-                "reliefweb-short": "Iceland"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "352", 
             "reliefweb_id": "118", 
@@ -2461,11 +2461,11 @@
             "iso3": "IND", 
             "label": {
                 "default": "India", 
-                "fts": "India", 
-                "humanitarianresponse": "India", 
-                "m49": "India", 
-                "reliefweb-api": "India", 
-                "reliefweb-short": "India"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "356", 
             "reliefweb_id": "119", 
@@ -2485,11 +2485,11 @@
             "iso3": "IDN", 
             "label": {
                 "default": "Indonesia", 
-                "fts": "Indonesia", 
-                "humanitarianresponse": "Indonesia", 
-                "m49": "Indonesia", 
-                "reliefweb-api": "Indonesia", 
-                "reliefweb-short": "Indonesia"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "360", 
             "reliefweb_id": "120", 
@@ -2511,8 +2511,8 @@
                 "default": "Iran (Islamic Republic of)", 
                 "fts": "Iran, Islamic Republic of", 
                 "humanitarianresponse": "Iran, Islamic Republic of", 
-                "m49": "Iran (Islamic Republic of)", 
-                "reliefweb-api": "Iran (Islamic Republic of)", 
+                "m49": null, 
+                "reliefweb-api": null, 
                 "reliefweb-short": "Iran"
             }, 
             "m49": "364", 
@@ -2533,11 +2533,11 @@
             "iso3": "IRQ", 
             "label": {
                 "default": "Iraq", 
-                "fts": "Iraq", 
-                "humanitarianresponse": "Iraq", 
-                "m49": "Iraq", 
-                "reliefweb-api": "Iraq", 
-                "reliefweb-short": "Iraq"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "368", 
             "reliefweb_id": "122", 
@@ -2557,11 +2557,11 @@
             "iso3": "IRL", 
             "label": {
                 "default": "Ireland", 
-                "fts": "Ireland", 
-                "humanitarianresponse": "Ireland", 
-                "m49": "Ireland", 
-                "reliefweb-api": "Ireland", 
-                "reliefweb-short": "Ireland"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "372", 
             "reliefweb_id": "123", 
@@ -2581,11 +2581,11 @@
             "iso3": "IMN", 
             "label": {
                 "default": "Isle of Man", 
-                "fts": "Isle of Man", 
-                "humanitarianresponse": "Isle of Man", 
-                "m49": "Isle of Man", 
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
                 "reliefweb-api": "Isle of Man (The United Kingdom of Great Britain and Northern Ireland)", 
-                "reliefweb-short": "Isle of Man"
+                "reliefweb-short": null
             }, 
             "m49": "833", 
             "reliefweb_id": "124", 
@@ -2605,11 +2605,11 @@
             "iso3": "ISR", 
             "label": {
                 "default": "Israel", 
-                "fts": "Israel", 
-                "humanitarianresponse": "Israel", 
-                "m49": "Israel", 
-                "reliefweb-api": "Israel", 
-                "reliefweb-short": "Israel"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "376", 
             "reliefweb_id": "125", 
@@ -2629,11 +2629,11 @@
             "iso3": "ITA", 
             "label": {
                 "default": "Italy", 
-                "fts": "Italy", 
-                "humanitarianresponse": "Italy", 
-                "m49": "Italy", 
-                "reliefweb-api": "Italy", 
-                "reliefweb-short": "Italy"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "380", 
             "reliefweb_id": "126", 
@@ -2653,11 +2653,11 @@
             "iso3": "JAM", 
             "label": {
                 "default": "Jamaica", 
-                "fts": "Jamaica", 
-                "humanitarianresponse": "Jamaica", 
-                "m49": "Jamaica", 
-                "reliefweb-api": "Jamaica", 
-                "reliefweb-short": "Jamaica"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "388", 
             "reliefweb_id": "127", 
@@ -2677,11 +2677,11 @@
             "iso3": "JPN", 
             "label": {
                 "default": "Japan", 
-                "fts": "Japan", 
-                "humanitarianresponse": "Japan", 
-                "m49": "Japan", 
-                "reliefweb-api": "Japan", 
-                "reliefweb-short": "Japan"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "392", 
             "reliefweb_id": "128", 
@@ -2701,11 +2701,11 @@
             "iso3": "JEY", 
             "label": {
                 "default": "Jersey", 
-                "fts": "Jersey", 
-                "humanitarianresponse": "Jersey", 
-                "m49": "Jersey", 
-                "reliefweb-api": "Jersey", 
-                "reliefweb-short": "Jersey"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "832", 
             "reliefweb_id": null, 
@@ -2725,11 +2725,11 @@
             "iso3": "JOR", 
             "label": {
                 "default": "Jordan", 
-                "fts": "Jordan", 
-                "humanitarianresponse": "Jordan", 
-                "m49": "Jordan", 
-                "reliefweb-api": "Jordan", 
-                "reliefweb-short": "Jordan"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "400", 
             "reliefweb_id": "129", 
@@ -2749,11 +2749,11 @@
             "iso3": "KAZ", 
             "label": {
                 "default": "Kazakhstan", 
-                "fts": "Kazakhstan", 
-                "humanitarianresponse": "Kazakhstan", 
-                "m49": "Kazakhstan", 
-                "reliefweb-api": "Kazakhstan", 
-                "reliefweb-short": "Kazakhstan"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "398", 
             "reliefweb_id": "130", 
@@ -2773,11 +2773,11 @@
             "iso3": "KEN", 
             "label": {
                 "default": "Kenya", 
-                "fts": "Kenya", 
-                "humanitarianresponse": "Kenya", 
-                "m49": "Kenya", 
-                "reliefweb-api": "Kenya", 
-                "reliefweb-short": "Kenya"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "404", 
             "reliefweb_id": "131", 
@@ -2797,11 +2797,11 @@
             "iso3": "KIR", 
             "label": {
                 "default": "Kiribati", 
-                "fts": "Kiribati", 
-                "humanitarianresponse": "Kiribati", 
-                "m49": "Kiribati", 
-                "reliefweb-api": "Kiribati", 
-                "reliefweb-short": "Kiribati"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "296", 
             "reliefweb_id": "132", 
@@ -2849,7 +2849,7 @@
                 "humanitarianresponse": "Korea, Republic of", 
                 "m49": "Republic of Korea", 
                 "reliefweb-api": "Republic of Korea", 
-                "reliefweb-short": "Korea (the Republic of)"
+                "reliefweb-short": null
             }, 
             "m49": "410", 
             "reliefweb_id": "194", 
@@ -2869,11 +2869,11 @@
             "iso3": "KWT", 
             "label": {
                 "default": "Kuwait", 
-                "fts": "Kuwait", 
-                "humanitarianresponse": "Kuwait", 
-                "m49": "Kuwait", 
-                "reliefweb-api": "Kuwait", 
-                "reliefweb-short": "Kuwait"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "414", 
             "reliefweb_id": "133", 
@@ -2893,11 +2893,11 @@
             "iso3": "KGZ", 
             "label": {
                 "default": "Kyrgyzstan", 
-                "fts": "Kyrgyzstan", 
-                "humanitarianresponse": "Kyrgyzstan", 
-                "m49": "Kyrgyzstan", 
-                "reliefweb-api": "Kyrgyzstan", 
-                "reliefweb-short": "Kyrgyzstan"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "417", 
             "reliefweb_id": "134", 
@@ -2920,7 +2920,7 @@
                 "fts": "Lao People's Democratic Republic", 
                 "humanitarianresponse": "Lao People's Democratic Republic", 
                 "m49": "Lao People's Democratic Republic", 
-                "reliefweb-api": "Lao People's Democratic Republic (the)", 
+                "reliefweb-api": null, 
                 "reliefweb-short": "Lao PDR"
             }, 
             "m49": "418", 
@@ -2941,11 +2941,11 @@
             "iso3": "LVA", 
             "label": {
                 "default": "Latvia", 
-                "fts": "Latvia", 
-                "humanitarianresponse": "Latvia", 
-                "m49": "Latvia", 
-                "reliefweb-api": "Latvia", 
-                "reliefweb-short": "Latvia"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "428", 
             "reliefweb_id": "136", 
@@ -2965,11 +2965,11 @@
             "iso3": "LBN", 
             "label": {
                 "default": "Lebanon", 
-                "fts": "Lebanon", 
-                "humanitarianresponse": "Lebanon", 
-                "m49": "Lebanon", 
-                "reliefweb-api": "Lebanon", 
-                "reliefweb-short": "Lebanon"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "422", 
             "reliefweb_id": "137", 
@@ -2989,11 +2989,11 @@
             "iso3": "LSO", 
             "label": {
                 "default": "Lesotho", 
-                "fts": "Lesotho", 
-                "humanitarianresponse": "Lesotho", 
-                "m49": "Lesotho", 
-                "reliefweb-api": "Lesotho", 
-                "reliefweb-short": "Lesotho"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "426", 
             "reliefweb_id": "138", 
@@ -3013,11 +3013,11 @@
             "iso3": "LBR", 
             "label": {
                 "default": "Liberia", 
-                "fts": "Liberia", 
-                "humanitarianresponse": "Liberia", 
-                "m49": "Liberia", 
-                "reliefweb-api": "Liberia", 
-                "reliefweb-short": "Liberia"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "430", 
             "reliefweb_id": "139", 
@@ -3037,11 +3037,11 @@
             "iso3": "LBY", 
             "label": {
                 "default": "Libya", 
-                "fts": "Libya", 
-                "humanitarianresponse": "Libya", 
-                "m49": "Libya", 
-                "reliefweb-api": "Libya", 
-                "reliefweb-short": "Libya"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "434", 
             "reliefweb_id": "140", 
@@ -3061,11 +3061,11 @@
             "iso3": "LIE", 
             "label": {
                 "default": "Liechtenstein", 
-                "fts": "Liechtenstein", 
-                "humanitarianresponse": "Liechtenstein", 
-                "m49": "Liechtenstein", 
-                "reliefweb-api": "Liechtenstein", 
-                "reliefweb-short": "Liechtenstein"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "438", 
             "reliefweb_id": "141", 
@@ -3085,11 +3085,11 @@
             "iso3": "LTU", 
             "label": {
                 "default": "Lithuania", 
-                "fts": "Lithuania", 
-                "humanitarianresponse": "Lithuania", 
-                "m49": "Lithuania", 
-                "reliefweb-api": "Lithuania", 
-                "reliefweb-short": "Lithuania"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "440", 
             "reliefweb_id": "142", 
@@ -3109,11 +3109,11 @@
             "iso3": "LUX", 
             "label": {
                 "default": "Luxembourg", 
-                "fts": "Luxembourg", 
-                "humanitarianresponse": "Luxembourg", 
-                "m49": "Luxembourg", 
-                "reliefweb-api": "Luxembourg", 
-                "reliefweb-short": "Luxembourg"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "442", 
             "reliefweb_id": "143", 
@@ -3133,11 +3133,11 @@
             "iso3": "MAC", 
             "label": {
                 "default": "Macao", 
-                "fts": "Macao", 
-                "humanitarianresponse": "Macao", 
+                "fts": null, 
+                "humanitarianresponse": null, 
                 "m49": "China, Macao Special Administrative Region", 
                 "reliefweb-api": "China - Macau (Special Administrative Region)", 
-                "reliefweb-short": "Macao"
+                "reliefweb-short": null
             }, 
             "m49": "446", 
             "reliefweb_id": "60", 
@@ -3161,7 +3161,7 @@
                 "humanitarianresponse": "Macedonia, The Former Yugoslav Republic of", 
                 "m49": "The former Yugoslav Republic of Macedonia", 
                 "reliefweb-api": "the former Yugoslav Republic of Macedonia", 
-                "reliefweb-short": "Macedonia (the former Yugoslav Republic of)"
+                "reliefweb-short": null
             }, 
             "m49": "807", 
             "reliefweb_id": "229", 
@@ -3181,11 +3181,11 @@
             "iso3": "MDG", 
             "label": {
                 "default": "Madagascar", 
-                "fts": "Madagascar", 
-                "humanitarianresponse": "Madagascar", 
-                "m49": "Madagascar", 
-                "reliefweb-api": "Madagascar", 
-                "reliefweb-short": "Madagascar"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "450", 
             "reliefweb_id": "144", 
@@ -3205,11 +3205,11 @@
             "iso3": "MWI", 
             "label": {
                 "default": "Malawi", 
-                "fts": "Malawi", 
-                "humanitarianresponse": "Malawi", 
-                "m49": "Malawi", 
-                "reliefweb-api": "Malawi", 
-                "reliefweb-short": "Malawi"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "454", 
             "reliefweb_id": "146", 
@@ -3229,11 +3229,11 @@
             "iso3": "MYS", 
             "label": {
                 "default": "Malaysia", 
-                "fts": "Malaysia", 
-                "humanitarianresponse": "Malaysia", 
-                "m49": "Malaysia", 
-                "reliefweb-api": "Malaysia", 
-                "reliefweb-short": "Malaysia"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "458", 
             "reliefweb_id": "147", 
@@ -3253,11 +3253,11 @@
             "iso3": "MDV", 
             "label": {
                 "default": "Maldives", 
-                "fts": "Maldives", 
-                "humanitarianresponse": "Maldives", 
-                "m49": "Maldives", 
-                "reliefweb-api": "Maldives", 
-                "reliefweb-short": "Maldives"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "462", 
             "reliefweb_id": "148", 
@@ -3277,11 +3277,11 @@
             "iso3": "MLI", 
             "label": {
                 "default": "Mali", 
-                "fts": "Mali", 
-                "humanitarianresponse": "Mali", 
-                "m49": "Mali", 
-                "reliefweb-api": "Mali", 
-                "reliefweb-short": "Mali"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "466", 
             "reliefweb_id": "149", 
@@ -3301,11 +3301,11 @@
             "iso3": "MLT", 
             "label": {
                 "default": "Malta", 
-                "fts": "Malta", 
-                "humanitarianresponse": "Malta", 
-                "m49": "Malta", 
-                "reliefweb-api": "Malta", 
-                "reliefweb-short": "Malta"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "470", 
             "reliefweb_id": "150", 
@@ -3329,7 +3329,7 @@
                 "humanitarianresponse": "Marshall Islands", 
                 "m49": "Marshall Islands", 
                 "reliefweb-api": "Marshall Islands", 
-                "reliefweb-short": "Marshall Islands (the)"
+                "reliefweb-short": null
             }, 
             "m49": "584", 
             "reliefweb_id": "151", 
@@ -3349,11 +3349,11 @@
             "iso3": "MTQ", 
             "label": {
                 "default": "Martinique", 
-                "fts": "Martinique", 
-                "humanitarianresponse": "Martinique", 
-                "m49": "Martinique", 
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
                 "reliefweb-api": "Martinique (France)", 
-                "reliefweb-short": "Martinique"
+                "reliefweb-short": null
             }, 
             "m49": "474", 
             "reliefweb_id": "152", 
@@ -3373,11 +3373,11 @@
             "iso3": "MRT", 
             "label": {
                 "default": "Mauritania", 
-                "fts": "Mauritania", 
-                "humanitarianresponse": "Mauritania", 
-                "m49": "Mauritania", 
-                "reliefweb-api": "Mauritania", 
-                "reliefweb-short": "Mauritania"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "478", 
             "reliefweb_id": "153", 
@@ -3397,11 +3397,11 @@
             "iso3": "MUS", 
             "label": {
                 "default": "Mauritius", 
-                "fts": "Mauritius", 
-                "humanitarianresponse": "Mauritius", 
-                "m49": "Mauritius", 
-                "reliefweb-api": "Mauritius", 
-                "reliefweb-short": "Mauritius"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "480", 
             "reliefweb_id": "154", 
@@ -3421,11 +3421,11 @@
             "iso3": "MYT", 
             "label": {
                 "default": "Mayotte", 
-                "fts": "Mayotte", 
-                "humanitarianresponse": "Mayotte", 
-                "m49": "Mayotte", 
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
                 "reliefweb-api": "Mayotte (France)", 
-                "reliefweb-short": "Mayotte"
+                "reliefweb-short": null
             }, 
             "m49": "175", 
             "reliefweb_id": "155", 
@@ -3445,11 +3445,11 @@
             "iso3": "MEX", 
             "label": {
                 "default": "Mexico", 
-                "fts": "Mexico", 
-                "humanitarianresponse": "Mexico", 
-                "m49": "Mexico", 
-                "reliefweb-api": "Mexico", 
-                "reliefweb-short": "Mexico"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "484", 
             "reliefweb_id": "156", 
@@ -3471,8 +3471,8 @@
                 "default": "Micronesia (Federated States of)", 
                 "fts": "Micronesia, Federated States of", 
                 "humanitarianresponse": "Micronesia, Federated States of", 
-                "m49": "Micronesia (Federated States of)", 
-                "reliefweb-api": "Micronesia (Federated States of)", 
+                "m49": null, 
+                "reliefweb-api": null, 
                 "reliefweb-short": "Micronesia"
             }, 
             "m49": "583", 
@@ -3497,7 +3497,7 @@
                 "humanitarianresponse": "Moldova, Republic of", 
                 "m49": "Republic of Moldova", 
                 "reliefweb-api": "Moldova", 
-                "reliefweb-short": "Moldova (the Republic of)"
+                "reliefweb-short": null
             }, 
             "m49": "498", 
             "reliefweb_id": "158", 
@@ -3517,11 +3517,11 @@
             "iso3": "MCO", 
             "label": {
                 "default": "Monaco", 
-                "fts": "Monaco", 
-                "humanitarianresponse": "Monaco", 
-                "m49": "Monaco", 
-                "reliefweb-api": "Monaco", 
-                "reliefweb-short": "Monaco"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "492", 
             "reliefweb_id": "159", 
@@ -3541,11 +3541,11 @@
             "iso3": "MNG", 
             "label": {
                 "default": "Mongolia", 
-                "fts": "Mongolia", 
-                "humanitarianresponse": "Mongolia", 
-                "m49": "Mongolia", 
-                "reliefweb-api": "Mongolia", 
-                "reliefweb-short": "Mongolia"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "496", 
             "reliefweb_id": "160", 
@@ -3565,11 +3565,11 @@
             "iso3": "MNE", 
             "label": {
                 "default": "Montenegro", 
-                "fts": "Montenegro", 
-                "humanitarianresponse": "Montenegro", 
-                "m49": "Montenegro", 
-                "reliefweb-api": "Montenegro", 
-                "reliefweb-short": "Montenegro"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "499", 
             "reliefweb_id": "161", 
@@ -3589,11 +3589,11 @@
             "iso3": "MSR", 
             "label": {
                 "default": "Montserrat", 
-                "fts": "Montserrat", 
-                "humanitarianresponse": "Montserrat", 
-                "m49": "Montserrat", 
-                "reliefweb-api": "Montserrat", 
-                "reliefweb-short": "Montserrat"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "500", 
             "reliefweb_id": "162", 
@@ -3613,11 +3613,11 @@
             "iso3": "MAR", 
             "label": {
                 "default": "Morocco", 
-                "fts": "Morocco", 
-                "humanitarianresponse": "Morocco", 
-                "m49": "Morocco", 
-                "reliefweb-api": "Morocco", 
-                "reliefweb-short": "Morocco"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "504", 
             "reliefweb_id": "163", 
@@ -3637,11 +3637,11 @@
             "iso3": "MOZ", 
             "label": {
                 "default": "Mozambique", 
-                "fts": "Mozambique", 
-                "humanitarianresponse": "Mozambique", 
-                "m49": "Mozambique", 
-                "reliefweb-api": "Mozambique", 
-                "reliefweb-short": "Mozambique"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "508", 
             "reliefweb_id": "164", 
@@ -3661,11 +3661,11 @@
             "iso3": "MMR", 
             "label": {
                 "default": "Myanmar", 
-                "fts": "Myanmar", 
-                "humanitarianresponse": "Myanmar", 
-                "m49": "Myanmar", 
-                "reliefweb-api": "Myanmar", 
-                "reliefweb-short": "Myanmar"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "104", 
             "reliefweb_id": "165", 
@@ -3685,11 +3685,11 @@
             "iso3": "NAM", 
             "label": {
                 "default": "Namibia", 
-                "fts": "Namibia", 
-                "humanitarianresponse": "Namibia", 
-                "m49": "Namibia", 
-                "reliefweb-api": "Namibia", 
-                "reliefweb-short": "Namibia"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "516", 
             "reliefweb_id": "166", 
@@ -3709,11 +3709,11 @@
             "iso3": "NRU", 
             "label": {
                 "default": "Nauru", 
-                "fts": "Nauru", 
-                "humanitarianresponse": "Nauru", 
-                "m49": "Nauru", 
-                "reliefweb-api": "Nauru", 
-                "reliefweb-short": "Nauru"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "520", 
             "reliefweb_id": "167", 
@@ -3733,11 +3733,11 @@
             "iso3": "NPL", 
             "label": {
                 "default": "Nepal", 
-                "fts": "Nepal", 
-                "humanitarianresponse": "Nepal", 
-                "m49": "Nepal", 
-                "reliefweb-api": "Nepal", 
-                "reliefweb-short": "Nepal"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "524", 
             "reliefweb_id": "168", 
@@ -3759,9 +3759,9 @@
                 "default": "Netherlands (the)", 
                 "fts": "Netherlands", 
                 "humanitarianresponse": "Netherlands", 
-                "m49": "Netherlands (the)", 
+                "m49": null, 
                 "reliefweb-api": "Netherlands", 
-                "reliefweb-short": "Netherlands (the)"
+                "reliefweb-short": null
             }, 
             "m49": "528", 
             "reliefweb_id": "169", 
@@ -3781,11 +3781,11 @@
             "iso3": null, 
             "label": {
                 "default": "Netherlands Antilles", 
-                "fts": "Netherlands Antilles", 
-                "humanitarianresponse": "Netherlands Antilles", 
-                "m49": "Netherlands Antilles", 
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
                 "reliefweb-api": "Netherlands Antilles (The Netherlands)", 
-                "reliefweb-short": "Netherlands Antilles"
+                "reliefweb-short": null
             }, 
             "m49": null, 
             "reliefweb_id": "170", 
@@ -3805,11 +3805,11 @@
             "iso3": "NCL", 
             "label": {
                 "default": "New Caledonia", 
-                "fts": "New Caledonia", 
-                "humanitarianresponse": "New Caledonia", 
-                "m49": "New Caledonia", 
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
                 "reliefweb-api": "New Caledonia (France)", 
-                "reliefweb-short": "New Caledonia"
+                "reliefweb-short": null
             }, 
             "m49": "540", 
             "reliefweb_id": "171", 
@@ -3829,11 +3829,11 @@
             "iso3": "NZL", 
             "label": {
                 "default": "New Zealand", 
-                "fts": "New Zealand", 
-                "humanitarianresponse": "New Zealand", 
-                "m49": "New Zealand", 
-                "reliefweb-api": "New Zealand", 
-                "reliefweb-short": "New Zealand"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "554", 
             "reliefweb_id": "172", 
@@ -3853,11 +3853,11 @@
             "iso3": "NIC", 
             "label": {
                 "default": "Nicaragua", 
-                "fts": "Nicaragua", 
-                "humanitarianresponse": "Nicaragua", 
-                "m49": "Nicaragua", 
-                "reliefweb-api": "Nicaragua", 
-                "reliefweb-short": "Nicaragua"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "558", 
             "reliefweb_id": "173", 
@@ -3881,7 +3881,7 @@
                 "humanitarianresponse": "Niger", 
                 "m49": "Niger", 
                 "reliefweb-api": "Niger", 
-                "reliefweb-short": "Niger (the)"
+                "reliefweb-short": null
             }, 
             "m49": "562", 
             "reliefweb_id": "174", 
@@ -3901,11 +3901,11 @@
             "iso3": "NGA", 
             "label": {
                 "default": "Nigeria", 
-                "fts": "Nigeria", 
-                "humanitarianresponse": "Nigeria", 
-                "m49": "Nigeria", 
-                "reliefweb-api": "Nigeria", 
-                "reliefweb-short": "Nigeria"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "566", 
             "reliefweb_id": "175", 
@@ -3925,11 +3925,11 @@
             "iso3": "NIU", 
             "label": {
                 "default": "Niue", 
-                "fts": "Niue", 
-                "humanitarianresponse": "Niue", 
-                "m49": "Niue", 
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
                 "reliefweb-api": "Niue (New Zealand)", 
-                "reliefweb-short": "Niue"
+                "reliefweb-short": null
             }, 
             "m49": "570", 
             "reliefweb_id": "176", 
@@ -3949,11 +3949,11 @@
             "iso3": "NFK", 
             "label": {
                 "default": "Norfolk Island", 
-                "fts": "Norfolk Island", 
-                "humanitarianresponse": "Norfolk Island", 
-                "m49": "Norfolk Island", 
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
                 "reliefweb-api": "Norfolk Island (Australia)", 
-                "reliefweb-short": "Norfolk Island"
+                "reliefweb-short": null
             }, 
             "m49": "574", 
             "reliefweb_id": "177", 
@@ -3973,11 +3973,11 @@
             "iso3": "NOR", 
             "label": {
                 "default": "Norway", 
-                "fts": "Norway", 
-                "humanitarianresponse": "Norway", 
-                "m49": "Norway", 
-                "reliefweb-api": "Norway", 
-                "reliefweb-short": "Norway"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "578", 
             "reliefweb_id": "179", 
@@ -3997,11 +3997,11 @@
             "iso3": "OMN", 
             "label": {
                 "default": "Oman", 
-                "fts": "Oman", 
-                "humanitarianresponse": "Oman", 
-                "m49": "Oman", 
-                "reliefweb-api": "Oman", 
-                "reliefweb-short": "Oman"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "512", 
             "reliefweb_id": "181", 
@@ -4021,11 +4021,11 @@
             "iso3": "PAK", 
             "label": {
                 "default": "Pakistan", 
-                "fts": "Pakistan", 
-                "humanitarianresponse": "Pakistan", 
-                "m49": "Pakistan", 
-                "reliefweb-api": "Pakistan", 
-                "reliefweb-short": "Pakistan"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "586", 
             "reliefweb_id": "182", 
@@ -4045,11 +4045,11 @@
             "iso3": "PLW", 
             "label": {
                 "default": "Palau", 
-                "fts": "Palau", 
-                "humanitarianresponse": "Palau", 
-                "m49": "Palau", 
-                "reliefweb-api": "Palau", 
-                "reliefweb-short": "Palau"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "585", 
             "reliefweb_id": "183", 
@@ -4093,11 +4093,11 @@
             "iso3": "PAN", 
             "label": {
                 "default": "Panama", 
-                "fts": "Panama", 
-                "humanitarianresponse": "Panama", 
-                "m49": "Panama", 
-                "reliefweb-api": "Panama", 
-                "reliefweb-short": "Panama"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "591", 
             "reliefweb_id": "184", 
@@ -4117,10 +4117,10 @@
             "iso3": "PNG", 
             "label": {
                 "default": "Papua New Guinea", 
-                "fts": "Papua New Guinea", 
-                "humanitarianresponse": "Papua New Guinea", 
-                "m49": "Papua New Guinea", 
-                "reliefweb-api": "Papua New Guinea", 
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
                 "reliefweb-short": "PNG"
             }, 
             "m49": "598", 
@@ -4141,11 +4141,11 @@
             "iso3": "PRY", 
             "label": {
                 "default": "Paraguay", 
-                "fts": "Paraguay", 
-                "humanitarianresponse": "Paraguay", 
-                "m49": "Paraguay", 
-                "reliefweb-api": "Paraguay", 
-                "reliefweb-short": "Paraguay"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "600", 
             "reliefweb_id": "186", 
@@ -4165,11 +4165,11 @@
             "iso3": "PER", 
             "label": {
                 "default": "Peru", 
-                "fts": "Peru", 
-                "humanitarianresponse": "Peru", 
-                "m49": "Peru", 
-                "reliefweb-api": "Peru", 
-                "reliefweb-short": "Peru"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "604", 
             "reliefweb_id": "187", 
@@ -4193,7 +4193,7 @@
                 "humanitarianresponse": "Philippines", 
                 "m49": "Philippines", 
                 "reliefweb-api": "Philippines", 
-                "reliefweb-short": "Philippines (the)"
+                "reliefweb-short": null
             }, 
             "m49": "608", 
             "reliefweb_id": "188", 
@@ -4213,11 +4213,11 @@
             "iso3": "PCN", 
             "label": {
                 "default": "Pitcairn", 
-                "fts": "Pitcairn", 
-                "humanitarianresponse": "Pitcairn", 
-                "m49": "Pitcairn", 
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
                 "reliefweb-api": "Pitcairn Islands", 
-                "reliefweb-short": "Pitcairn"
+                "reliefweb-short": null
             }, 
             "m49": "612", 
             "reliefweb_id": "189", 
@@ -4237,11 +4237,11 @@
             "iso3": "POL", 
             "label": {
                 "default": "Poland", 
-                "fts": "Poland", 
-                "humanitarianresponse": "Poland", 
-                "m49": "Poland", 
-                "reliefweb-api": "Poland", 
-                "reliefweb-short": "Poland"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "616", 
             "reliefweb_id": "190", 
@@ -4261,11 +4261,11 @@
             "iso3": "PRT", 
             "label": {
                 "default": "Portugal", 
-                "fts": "Portugal", 
-                "humanitarianresponse": "Portugal", 
-                "m49": "Portugal", 
-                "reliefweb-api": "Portugal", 
-                "reliefweb-short": "Portugal"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "620", 
             "reliefweb_id": "191", 
@@ -4285,11 +4285,11 @@
             "iso3": "PRI", 
             "label": {
                 "default": "Puerto Rico", 
-                "fts": "Puerto Rico", 
-                "humanitarianresponse": "Puerto Rico", 
-                "m49": "Puerto Rico", 
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
                 "reliefweb-api": "Puerto Rico (The United States of America)", 
-                "reliefweb-short": "Puerto Rico"
+                "reliefweb-short": null
             }, 
             "m49": "630", 
             "reliefweb_id": "192", 
@@ -4309,11 +4309,11 @@
             "iso3": "QAT", 
             "label": {
                 "default": "Qatar", 
-                "fts": "Qatar", 
-                "humanitarianresponse": "Qatar", 
-                "m49": "Qatar", 
-                "reliefweb-api": "Qatar", 
-                "reliefweb-short": "Qatar"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "634", 
             "reliefweb_id": "193", 
@@ -4333,11 +4333,11 @@
             "iso3": "REU", 
             "label": {
                 "default": "R\u00e9union", 
-                "fts": "R\u00e9union", 
-                "humanitarianresponse": "R\u00e9union", 
-                "m49": "R\u00e9union", 
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
                 "reliefweb-api": "R\u00e9union (France)", 
-                "reliefweb-short": "R\u00e9union"
+                "reliefweb-short": null
             }, 
             "m49": "638", 
             "reliefweb_id": "195", 
@@ -4357,11 +4357,11 @@
             "iso3": "ROU", 
             "label": {
                 "default": "Romania", 
-                "fts": "Romania", 
-                "humanitarianresponse": "Romania", 
-                "m49": "Romania", 
-                "reliefweb-api": "Romania", 
-                "reliefweb-short": "Romania"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "642", 
             "reliefweb_id": "196", 
@@ -4405,11 +4405,11 @@
             "iso3": "RWA", 
             "label": {
                 "default": "Rwanda", 
-                "fts": "Rwanda", 
-                "humanitarianresponse": "Rwanda", 
-                "m49": "Rwanda", 
-                "reliefweb-api": "Rwanda", 
-                "reliefweb-short": "Rwanda"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "646", 
             "reliefweb_id": "198", 
@@ -4429,11 +4429,11 @@
             "iso3": "BLM", 
             "label": {
                 "default": "Saint Barth\u00e9lemy", 
-                "fts": "Saint Barth\u00e9lemy", 
-                "humanitarianresponse": "Saint Barth\u00e9lemy", 
-                "m49": "Saint Barth\u00e9lemy", 
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
                 "reliefweb-api": "Saint Barth\u00e9lemy (France)", 
-                "reliefweb-short": "Saint Barth\u00e9lemy"
+                "reliefweb-short": null
             }, 
             "m49": "652", 
             "reliefweb_id": "14890", 
@@ -4453,11 +4453,11 @@
             "iso3": "SHN", 
             "label": {
                 "default": "Saint Helena, Ascension and Tristan da Cunha", 
-                "fts": "Saint Helena, Ascension and Tristan da Cunha", 
-                "humanitarianresponse": "Saint Helena, Ascension and Tristan da Cunha", 
+                "fts": null, 
+                "humanitarianresponse": null, 
                 "m49": "Saint Helena", 
                 "reliefweb-api": "Saint Helena", 
-                "reliefweb-short": "Saint Helena, Ascension and Tristan da Cunha"
+                "reliefweb-short": null
             }, 
             "m49": "654", 
             "reliefweb_id": "199", 
@@ -4477,11 +4477,11 @@
             "iso3": "KNA", 
             "label": {
                 "default": "Saint Kitts and Nevis", 
-                "fts": "Saint Kitts and Nevis", 
-                "humanitarianresponse": "Saint Kitts and Nevis", 
-                "m49": "Saint Kitts and Nevis", 
-                "reliefweb-api": "Saint Kitts and Nevis", 
-                "reliefweb-short": "Saint Kitts and Nevis"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "659", 
             "reliefweb_id": "200", 
@@ -4501,11 +4501,11 @@
             "iso3": "LCA", 
             "label": {
                 "default": "Saint Lucia", 
-                "fts": "Saint Lucia", 
-                "humanitarianresponse": "Saint Lucia", 
-                "m49": "Saint Lucia", 
-                "reliefweb-api": "Saint Lucia", 
-                "reliefweb-short": "Saint Lucia"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "662", 
             "reliefweb_id": "201", 
@@ -4525,11 +4525,11 @@
             "iso3": "MAF", 
             "label": {
                 "default": "Saint Martin (French part)", 
-                "fts": "Saint Martin (French part)", 
-                "humanitarianresponse": "Saint Martin (French part)", 
-                "m49": "Saint Martin (French part)", 
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
                 "reliefweb-api": "Saint Martin (France)", 
-                "reliefweb-short": "Saint Martin (French part)"
+                "reliefweb-short": null
             }, 
             "m49": "663", 
             "reliefweb_id": "14891", 
@@ -4549,11 +4549,11 @@
             "iso3": "SPM", 
             "label": {
                 "default": "Saint Pierre and Miquelon", 
-                "fts": "Saint Pierre and Miquelon", 
-                "humanitarianresponse": "Saint Pierre and Miquelon", 
-                "m49": "Saint Pierre and Miquelon", 
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
                 "reliefweb-api": "Saint Pierre and Miquelon (France)", 
-                "reliefweb-short": "Saint Pierre and Miquelon"
+                "reliefweb-short": null
             }, 
             "m49": "666", 
             "reliefweb_id": "202", 
@@ -4573,10 +4573,10 @@
             "iso3": "VCT", 
             "label": {
                 "default": "Saint Vincent and the Grenadines", 
-                "fts": "Saint Vincent and the Grenadines", 
-                "humanitarianresponse": "Saint Vincent and the Grenadines", 
-                "m49": "Saint Vincent and the Grenadines", 
-                "reliefweb-api": "Saint Vincent and the Grenadines", 
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
                 "reliefweb-short": "St. Vincent & Grenadines"
             }, 
             "m49": "670", 
@@ -4597,11 +4597,11 @@
             "iso3": "WSM", 
             "label": {
                 "default": "Samoa", 
-                "fts": "Samoa", 
-                "humanitarianresponse": "Samoa", 
-                "m49": "Samoa", 
-                "reliefweb-api": "Samoa", 
-                "reliefweb-short": "Samoa"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "882", 
             "reliefweb_id": "204", 
@@ -4621,11 +4621,11 @@
             "iso3": "SMR", 
             "label": {
                 "default": "San Marino", 
-                "fts": "San Marino", 
-                "humanitarianresponse": "San Marino", 
-                "m49": "San Marino", 
-                "reliefweb-api": "San Marino", 
-                "reliefweb-short": "San Marino"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "674", 
             "reliefweb_id": "205", 
@@ -4645,11 +4645,11 @@
             "iso3": "STP", 
             "label": {
                 "default": "S\u00e3o Tom\u00e9 and Pr\u00edncipe", 
-                "fts": "S\u00e3o Tom\u00e9 and Pr\u00edncipe", 
-                "humanitarianresponse": "S\u00e3o Tom\u00e9 and Pr\u00edncipe", 
-                "m49": "S\u00e3o Tom\u00e9 and Pr\u00edncipe", 
-                "reliefweb-api": "S\u00e3o Tom\u00e9 and Pr\u00edncipe", 
-                "reliefweb-short": "S\u00e3o Tom\u00e9 and Pr\u00edncipe"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "678", 
             "reliefweb_id": "206", 
@@ -4669,11 +4669,11 @@
             "iso3": "SAU", 
             "label": {
                 "default": "Saudi Arabia", 
-                "fts": "Saudi Arabia", 
-                "humanitarianresponse": "Saudi Arabia", 
-                "m49": "Saudi Arabia", 
-                "reliefweb-api": "Saudi Arabia", 
-                "reliefweb-short": "Saudi Arabia"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "682", 
             "reliefweb_id": "207", 
@@ -4693,11 +4693,11 @@
             "iso3": "SEN", 
             "label": {
                 "default": "Senegal", 
-                "fts": "Senegal", 
-                "humanitarianresponse": "Senegal", 
-                "m49": "Senegal", 
-                "reliefweb-api": "Senegal", 
-                "reliefweb-short": "Senegal"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "686", 
             "reliefweb_id": "208", 
@@ -4717,11 +4717,11 @@
             "iso3": "SRB", 
             "label": {
                 "default": "Serbia", 
-                "fts": "Serbia", 
-                "humanitarianresponse": "Serbia", 
-                "m49": "Serbia", 
-                "reliefweb-api": "Serbia", 
-                "reliefweb-short": "Serbia"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "688", 
             "reliefweb_id": "209", 
@@ -4741,11 +4741,11 @@
             "iso3": "SYC", 
             "label": {
                 "default": "Seychelles", 
-                "fts": "Seychelles", 
-                "humanitarianresponse": "Seychelles", 
-                "m49": "Seychelles", 
-                "reliefweb-api": "Seychelles", 
-                "reliefweb-short": "Seychelles"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "690", 
             "reliefweb_id": "210", 
@@ -4765,11 +4765,11 @@
             "iso3": "SLE", 
             "label": {
                 "default": "Sierra Leone", 
-                "fts": "Sierra Leone", 
-                "humanitarianresponse": "Sierra Leone", 
-                "m49": "Sierra Leone", 
-                "reliefweb-api": "Sierra Leone", 
-                "reliefweb-short": "Sierra Leone"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "694", 
             "reliefweb_id": "211", 
@@ -4789,11 +4789,11 @@
             "iso3": "SGP", 
             "label": {
                 "default": "Singapore", 
-                "fts": "Singapore", 
-                "humanitarianresponse": "Singapore", 
-                "m49": "Singapore", 
-                "reliefweb-api": "Singapore", 
-                "reliefweb-short": "Singapore"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "702", 
             "reliefweb_id": "212", 
@@ -4813,11 +4813,11 @@
             "iso3": "SXM", 
             "label": {
                 "default": "Sint Maarten (Dutch part)", 
-                "fts": "Sint Maarten (Dutch part)", 
-                "humanitarianresponse": "Sint Maarten (Dutch part)", 
-                "m49": "Sint Maarten (Dutch part)", 
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
                 "reliefweb-api": "Sint Maarten (The Netherlands)", 
-                "reliefweb-short": "Sint Maarten (Dutch part)"
+                "reliefweb-short": null
             }, 
             "m49": "534", 
             "reliefweb_id": "14892", 
@@ -4837,11 +4837,11 @@
             "iso3": "SVK", 
             "label": {
                 "default": "Slovakia", 
-                "fts": "Slovakia", 
-                "humanitarianresponse": "Slovakia", 
-                "m49": "Slovakia", 
-                "reliefweb-api": "Slovakia", 
-                "reliefweb-short": "Slovakia"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "703", 
             "reliefweb_id": "213", 
@@ -4861,11 +4861,11 @@
             "iso3": "SVN", 
             "label": {
                 "default": "Slovenia", 
-                "fts": "Slovenia", 
-                "humanitarianresponse": "Slovenia", 
-                "m49": "Slovenia", 
-                "reliefweb-api": "Slovenia", 
-                "reliefweb-short": "Slovenia"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "705", 
             "reliefweb_id": "214", 
@@ -4885,11 +4885,11 @@
             "iso3": "SLB", 
             "label": {
                 "default": "Solomon Islands", 
-                "fts": "Solomon Islands", 
-                "humanitarianresponse": "Solomon Islands", 
-                "m49": "Solomon Islands", 
-                "reliefweb-api": "Solomon Islands", 
-                "reliefweb-short": "Solomon Islands"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "90", 
             "reliefweb_id": "215", 
@@ -4909,11 +4909,11 @@
             "iso3": "SOM", 
             "label": {
                 "default": "Somalia", 
-                "fts": "Somalia", 
-                "humanitarianresponse": "Somalia", 
-                "m49": "Somalia", 
-                "reliefweb-api": "Somalia", 
-                "reliefweb-short": "Somalia"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "706", 
             "reliefweb_id": "216", 
@@ -4933,11 +4933,11 @@
             "iso3": "ZAF", 
             "label": {
                 "default": "South Africa", 
-                "fts": "South Africa", 
-                "humanitarianresponse": "South Africa", 
-                "m49": "South Africa", 
-                "reliefweb-api": "South Africa", 
-                "reliefweb-short": "South Africa"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "710", 
             "reliefweb_id": "217", 
@@ -4957,11 +4957,11 @@
             "iso3": "SGS", 
             "label": {
                 "default": "South Georgia and the South Sandwich Islands", 
-                "fts": "South Georgia and the South Sandwich Islands", 
-                "humanitarianresponse": "South Georgia and the South Sandwich Islands", 
-                "m49": "South Georgia and the South Sandwich Islands", 
-                "reliefweb-api": "South Georgia and the South Sandwich Islands", 
-                "reliefweb-short": "South Georgia and the South Sandwich Islands"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "239", 
             "reliefweb_id": null, 
@@ -4981,11 +4981,11 @@
             "iso3": "ESP", 
             "label": {
                 "default": "Spain", 
-                "fts": "Spain", 
-                "humanitarianresponse": "Spain", 
-                "m49": "Spain", 
-                "reliefweb-api": "Spain", 
-                "reliefweb-short": "Spain"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "724", 
             "reliefweb_id": "218", 
@@ -5005,11 +5005,11 @@
             "iso3": "LKA", 
             "label": {
                 "default": "Sri Lanka", 
-                "fts": "Sri Lanka", 
-                "humanitarianresponse": "Sri Lanka", 
-                "m49": "Sri Lanka", 
-                "reliefweb-api": "Sri Lanka", 
-                "reliefweb-short": "Sri Lanka"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "144", 
             "reliefweb_id": "219", 
@@ -5029,11 +5029,11 @@
             "iso3": "SSD", 
             "label": {
                 "default": "South Sudan", 
-                "fts": "South Sudan", 
-                "humanitarianresponse": "South Sudan", 
-                "m49": "South Sudan", 
-                "reliefweb-api": "South Sudan", 
-                "reliefweb-short": "South Sudan"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "728", 
             "reliefweb_id": "8657", 
@@ -5057,7 +5057,7 @@
                 "humanitarianresponse": "Sudan", 
                 "m49": "Sudan", 
                 "reliefweb-api": "Sudan", 
-                "reliefweb-short": "Sudan (the)"
+                "reliefweb-short": null
             }, 
             "m49": "729", 
             "reliefweb_id": "220", 
@@ -5077,11 +5077,11 @@
             "iso3": "SUR", 
             "label": {
                 "default": "Suriname", 
-                "fts": "Suriname", 
-                "humanitarianresponse": "Suriname", 
-                "m49": "Suriname", 
-                "reliefweb-api": "Suriname", 
-                "reliefweb-short": "Suriname"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "740", 
             "reliefweb_id": "221", 
@@ -5101,11 +5101,11 @@
             "iso3": "SJM", 
             "label": {
                 "default": "Svalbard and Jan Mayen", 
-                "fts": "Svalbard and Jan Mayen", 
-                "humanitarianresponse": "Svalbard and Jan Mayen", 
+                "fts": null, 
+                "humanitarianresponse": null, 
                 "m49": "Svalbard and Jan Mayen Islands", 
                 "reliefweb-api": "Svalbard and Jan Mayen Islands", 
-                "reliefweb-short": "Svalbard and Jan Mayen"
+                "reliefweb-short": null
             }, 
             "m49": "744", 
             "reliefweb_id": "222", 
@@ -5125,11 +5125,11 @@
             "iso3": "SWZ", 
             "label": {
                 "default": "Swaziland", 
-                "fts": "Swaziland", 
-                "humanitarianresponse": "Swaziland", 
-                "m49": "Swaziland", 
-                "reliefweb-api": "Swaziland", 
-                "reliefweb-short": "Swaziland"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "748", 
             "reliefweb_id": "223", 
@@ -5149,11 +5149,11 @@
             "iso3": "SWE", 
             "label": {
                 "default": "Sweden", 
-                "fts": "Sweden", 
-                "humanitarianresponse": "Sweden", 
-                "m49": "Sweden", 
-                "reliefweb-api": "Sweden", 
-                "reliefweb-short": "Sweden"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "752", 
             "reliefweb_id": "224", 
@@ -5173,11 +5173,11 @@
             "iso3": "CHE", 
             "label": {
                 "default": "Switzerland", 
-                "fts": "Switzerland", 
-                "humanitarianresponse": "Switzerland", 
-                "m49": "Switzerland", 
-                "reliefweb-api": "Switzerland", 
-                "reliefweb-short": "Switzerland"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "756", 
             "reliefweb_id": "225", 
@@ -5197,10 +5197,10 @@
             "iso3": "SYR", 
             "label": {
                 "default": "Syrian Arab Republic", 
-                "fts": "Syrian Arab Republic", 
-                "humanitarianresponse": "Syrian Arab Republic", 
-                "m49": "Syrian Arab Republic", 
-                "reliefweb-api": "Syrian Arab Republic", 
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
                 "reliefweb-short": "Syria"
             }, 
             "m49": "760", 
@@ -5223,9 +5223,9 @@
                 "default": "Taiwan (Province of China)", 
                 "fts": "Taiwan, Province of China", 
                 "humanitarianresponse": "Taiwan, Province of China", 
-                "m49": "Taiwan (Province of China)", 
+                "m49": null, 
                 "reliefweb-api": "China - Taiwan Province", 
-                "reliefweb-short": "Taiwan (Province of China)"
+                "reliefweb-short": null
             }, 
             "m49": "158", 
             "reliefweb_id": "61", 
@@ -5245,11 +5245,11 @@
             "iso3": "TJK", 
             "label": {
                 "default": "Tajikistan", 
-                "fts": "Tajikistan", 
-                "humanitarianresponse": "Tajikistan", 
-                "m49": "Tajikistan", 
-                "reliefweb-api": "Tajikistan", 
-                "reliefweb-short": "Tajikistan"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "762", 
             "reliefweb_id": "227", 
@@ -5269,8 +5269,8 @@
             "iso3": "TZA", 
             "label": {
                 "default": "Tanzania, United Republic of", 
-                "fts": "Tanzania, United Republic of", 
-                "humanitarianresponse": "Tanzania, United Republic of", 
+                "fts": null, 
+                "humanitarianresponse": null, 
                 "m49": "United Republic of Tanzania", 
                 "reliefweb-api": "United Republic of Tanzania", 
                 "reliefweb-short": "Tanzania"
@@ -5293,11 +5293,11 @@
             "iso3": "THA", 
             "label": {
                 "default": "Thailand", 
-                "fts": "Thailand", 
-                "humanitarianresponse": "Thailand", 
-                "m49": "Thailand", 
-                "reliefweb-api": "Thailand", 
-                "reliefweb-short": "Thailand"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "764", 
             "reliefweb_id": "228", 
@@ -5317,11 +5317,11 @@
             "iso3": "TLS", 
             "label": {
                 "default": "Timor-Leste", 
-                "fts": "Timor-Leste", 
-                "humanitarianresponse": "Timor-Leste", 
-                "m49": "Timor-Leste", 
-                "reliefweb-api": "Timor-Leste", 
-                "reliefweb-short": "Timor-Leste"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "626", 
             "reliefweb_id": "230", 
@@ -5341,11 +5341,11 @@
             "iso3": "TGO", 
             "label": {
                 "default": "Togo", 
-                "fts": "Togo", 
-                "humanitarianresponse": "Togo", 
-                "m49": "Togo", 
-                "reliefweb-api": "Togo", 
-                "reliefweb-short": "Togo"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "768", 
             "reliefweb_id": "231", 
@@ -5365,11 +5365,11 @@
             "iso3": "TKL", 
             "label": {
                 "default": "Tokelau", 
-                "fts": "Tokelau", 
-                "humanitarianresponse": "Tokelau", 
-                "m49": "Tokelau", 
-                "reliefweb-api": "Tokelau", 
-                "reliefweb-short": "Tokelau"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "772", 
             "reliefweb_id": "232", 
@@ -5389,11 +5389,11 @@
             "iso3": "TON", 
             "label": {
                 "default": "Tonga", 
-                "fts": "Tonga", 
-                "humanitarianresponse": "Tonga", 
-                "m49": "Tonga", 
-                "reliefweb-api": "Tonga", 
-                "reliefweb-short": "Tonga"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "776", 
             "reliefweb_id": "233", 
@@ -5413,11 +5413,11 @@
             "iso3": "TTO", 
             "label": {
                 "default": "Trinidad and Tobago", 
-                "fts": "Trinidad and Tobago", 
-                "humanitarianresponse": "Trinidad and Tobago", 
-                "m49": "Trinidad and Tobago", 
-                "reliefweb-api": "Trinidad and Tobago", 
-                "reliefweb-short": "Trinidad and Tobago"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "780", 
             "reliefweb_id": "234", 
@@ -5437,11 +5437,11 @@
             "iso3": "TUN", 
             "label": {
                 "default": "Tunisia", 
-                "fts": "Tunisia", 
-                "humanitarianresponse": "Tunisia", 
-                "m49": "Tunisia", 
-                "reliefweb-api": "Tunisia", 
-                "reliefweb-short": "Tunisia"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "788", 
             "reliefweb_id": "235", 
@@ -5461,11 +5461,11 @@
             "iso3": "TUR", 
             "label": {
                 "default": "Turkey", 
-                "fts": "Turkey", 
-                "humanitarianresponse": "Turkey", 
-                "m49": "Turkey", 
-                "reliefweb-api": "Turkey", 
-                "reliefweb-short": "Turkey"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "792", 
             "reliefweb_id": "236", 
@@ -5485,11 +5485,11 @@
             "iso3": "TKM", 
             "label": {
                 "default": "Turkmenistan", 
-                "fts": "Turkmenistan", 
-                "humanitarianresponse": "Turkmenistan", 
-                "m49": "Turkmenistan", 
-                "reliefweb-api": "Turkmenistan", 
-                "reliefweb-short": "Turkmenistan"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "795", 
             "reliefweb_id": "237", 
@@ -5513,7 +5513,7 @@
                 "humanitarianresponse": "Turks and Caicos Islands", 
                 "m49": "Turks and Caicos Islands", 
                 "reliefweb-api": "Turks and Caicos Islands", 
-                "reliefweb-short": "Turks and Caicos Islands (the)"
+                "reliefweb-short": null
             }, 
             "m49": "796", 
             "reliefweb_id": "238", 
@@ -5533,11 +5533,11 @@
             "iso3": "TUV", 
             "label": {
                 "default": "Tuvalu", 
-                "fts": "Tuvalu", 
-                "humanitarianresponse": "Tuvalu", 
-                "m49": "Tuvalu", 
-                "reliefweb-api": "Tuvalu", 
-                "reliefweb-short": "Tuvalu"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "798", 
             "reliefweb_id": "239", 
@@ -5557,11 +5557,11 @@
             "iso3": "UGA", 
             "label": {
                 "default": "Uganda", 
-                "fts": "Uganda", 
-                "humanitarianresponse": "Uganda", 
-                "m49": "Uganda", 
-                "reliefweb-api": "Uganda", 
-                "reliefweb-short": "Uganda"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "800", 
             "reliefweb_id": "240", 
@@ -5581,11 +5581,11 @@
             "iso3": "UKR", 
             "label": {
                 "default": "Ukraine", 
-                "fts": "Ukraine", 
-                "humanitarianresponse": "Ukraine", 
-                "m49": "Ukraine", 
-                "reliefweb-api": "Ukraine", 
-                "reliefweb-short": "Ukraine"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "804", 
             "reliefweb_id": "241", 
@@ -5679,9 +5679,9 @@
                 "default": "United States Minor Outlying Islands (the)", 
                 "fts": "United States Minor Outlying Islands", 
                 "humanitarianresponse": "United States Minor Outlying Islands", 
-                "m49": "United States Minor Outlying Islands (the)", 
-                "reliefweb-api": "United States Minor Outlying Islands (the)", 
-                "reliefweb-short": "United States Minor Outlying Islands (the)"
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "581", 
             "reliefweb_id": null, 
@@ -5701,11 +5701,11 @@
             "iso3": "URY", 
             "label": {
                 "default": "Uruguay", 
-                "fts": "Uruguay", 
-                "humanitarianresponse": "Uruguay", 
-                "m49": "Uruguay", 
-                "reliefweb-api": "Uruguay", 
-                "reliefweb-short": "Uruguay"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "858", 
             "reliefweb_id": "247", 
@@ -5725,11 +5725,11 @@
             "iso3": "UZB", 
             "label": {
                 "default": "Uzbekistan", 
-                "fts": "Uzbekistan", 
-                "humanitarianresponse": "Uzbekistan", 
-                "m49": "Uzbekistan", 
-                "reliefweb-api": "Uzbekistan", 
-                "reliefweb-short": "Uzbekistan"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "860", 
             "reliefweb_id": "248", 
@@ -5749,11 +5749,11 @@
             "iso3": "VUT", 
             "label": {
                 "default": "Vanuatu", 
-                "fts": "Vanuatu", 
-                "humanitarianresponse": "Vanuatu", 
-                "m49": "Vanuatu", 
-                "reliefweb-api": "Vanuatu", 
-                "reliefweb-short": "Vanuatu"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "548", 
             "reliefweb_id": "249", 
@@ -5775,8 +5775,8 @@
                 "default": "Venezuela\u00a0(Bolivarian Republic of)", 
                 "fts": "Venezuela, Bolivarian Republic of", 
                 "humanitarianresponse": "Venezuela, Bolivarian Republic of", 
-                "m49": "Venezuela\u00a0(Bolivarian Republic of)", 
-                "reliefweb-api": "Venezuela\u00a0(Bolivarian Republic of)", 
+                "m49": null, 
+                "reliefweb-api": null, 
                 "reliefweb-short": "Venezuela"
             }, 
             "m49": "862", 
@@ -5797,11 +5797,11 @@
             "iso3": "VNM", 
             "label": {
                 "default": "Viet Nam", 
-                "fts": "Viet Nam", 
-                "humanitarianresponse": "Viet Nam", 
-                "m49": "Viet Nam", 
-                "reliefweb-api": "Viet Nam", 
-                "reliefweb-short": "Viet Nam"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "704", 
             "reliefweb_id": "251", 
@@ -5825,7 +5825,7 @@
                 "humanitarianresponse": "Virgin Islands, British", 
                 "m49": "British Virgin Islands", 
                 "reliefweb-api": "British Virgin Islands", 
-                "reliefweb-short": "Virgin Islands (British)"
+                "reliefweb-short": null
             }, 
             "m49": "92", 
             "reliefweb_id": "43", 
@@ -5845,11 +5845,11 @@
             "iso3": "WLF", 
             "label": {
                 "default": "Wallis and Futuna", 
-                "fts": "Wallis and Futuna", 
-                "humanitarianresponse": "Wallis and Futuna", 
+                "fts": null, 
+                "humanitarianresponse": null, 
                 "m49": "Wallis and Futuna Islands", 
                 "reliefweb-api": "Wallis and Futuna (France)", 
-                "reliefweb-short": "Wallis and Futuna"
+                "reliefweb-short": null
             }, 
             "m49": "876", 
             "reliefweb_id": "252", 
@@ -5869,11 +5869,11 @@
             "iso3": "ESH", 
             "label": {
                 "default": "Western Sahara", 
-                "fts": "Western Sahara", 
-                "humanitarianresponse": "Western Sahara", 
-                "m49": "Western Sahara", 
-                "reliefweb-api": "Western Sahara", 
-                "reliefweb-short": "Western Sahara"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "732", 
             "reliefweb_id": "253", 
@@ -5893,11 +5893,11 @@
             "iso3": "YEM", 
             "label": {
                 "default": "Yemen", 
-                "fts": "Yemen", 
-                "humanitarianresponse": "Yemen", 
-                "m49": "Yemen", 
-                "reliefweb-api": "Yemen", 
-                "reliefweb-short": "Yemen"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "887", 
             "reliefweb_id": "255", 
@@ -5917,11 +5917,11 @@
             "iso3": "ZMB", 
             "label": {
                 "default": "Zambia", 
-                "fts": "Zambia", 
-                "humanitarianresponse": "Zambia", 
-                "m49": "Zambia", 
-                "reliefweb-api": "Zambia", 
-                "reliefweb-short": "Zambia"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "894", 
             "reliefweb_id": "256", 
@@ -5941,11 +5941,11 @@
             "iso3": "ZWE", 
             "label": {
                 "default": "Zimbabwe", 
-                "fts": "Zimbabwe", 
-                "humanitarianresponse": "Zimbabwe", 
-                "m49": "Zimbabwe", 
-                "reliefweb-api": "Zimbabwe", 
-                "reliefweb-short": "Zimbabwe"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "716", 
             "reliefweb_id": "257", 
@@ -5965,11 +5965,11 @@
             "iso3": null, 
             "label": {
                 "default": "Azores Islands (Portugal)", 
-                "fts": "Azores Islands (Portugal)", 
-                "humanitarianresponse": "Azores Islands (Portugal)", 
-                "m49": "Azores Islands (Portugal)", 
-                "reliefweb-api": "Azores Islands (Portugal)", 
-                "reliefweb-short": "Azores Islands (Portugal)"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": null, 
             "reliefweb_id": "28", 
@@ -5989,11 +5989,11 @@
             "iso3": null, 
             "label": {
                 "default": "Canary Islands (Spain)", 
-                "fts": "Canary Islands (Spain)", 
-                "humanitarianresponse": "Canary Islands (Spain)", 
-                "m49": "Canary Islands (Spain)", 
-                "reliefweb-api": "Canary Islands (Spain)", 
-                "reliefweb-short": "Canary Islands (Spain)"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": null, 
             "reliefweb_id": "51", 
@@ -6013,11 +6013,11 @@
             "iso3": null, 
             "label": {
                 "default": "Channel Islands", 
-                "fts": "Channel Islands", 
-                "humanitarianresponse": "Channel Islands", 
-                "m49": "Channel Islands", 
-                "reliefweb-api": "Channel Islands", 
-                "reliefweb-short": "Channel Islands"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": null, 
             "reliefweb_id": "56", 
@@ -6037,11 +6037,11 @@
             "iso3": null, 
             "label": {
                 "default": "Galapagos Islands (Ecuador)", 
-                "fts": "Galapagos Islands (Ecuador)", 
-                "humanitarianresponse": "Galapagos Islands (Ecuador)", 
-                "m49": "Galapagos Islands (Ecuador)", 
-                "reliefweb-api": "Galapagos Islands (Ecuador)", 
-                "reliefweb-short": "Galapagos Islands (Ecuador)"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": null, 
             "reliefweb_id": "97", 
@@ -6065,7 +6065,7 @@
                 "humanitarianresponse": "Northern Mariana Islands", 
                 "m49": "Northern Mariana Islands", 
                 "reliefweb-api": "Northern Mariana Islands (The United States of America)", 
-                "reliefweb-short": "Northern Mariana Islands (the)"
+                "reliefweb-short": null
             }, 
             "m49": "580", 
             "reliefweb_id": "178", 
@@ -6085,11 +6085,11 @@
             "iso3": null, 
             "label": {
                 "default": "Sark", 
-                "fts": "Sark", 
-                "humanitarianresponse": "Sark", 
-                "m49": "Sark", 
-                "reliefweb-api": "Sark", 
-                "reliefweb-short": "Sark"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "680", 
             "reliefweb_id": null, 
@@ -6113,7 +6113,7 @@
                 "humanitarianresponse": "Virgin Islands, U.S.", 
                 "m49": "United States Virgin Islands", 
                 "reliefweb-api": "United States Virgin Islands", 
-                "reliefweb-short": "Virgin Islands (U.S.)"
+                "reliefweb-short": null
             }, 
             "m49": "850", 
             "reliefweb_id": "246", 

@@ -13,11 +13,11 @@
             "iso3": "IMN", 
             "label": {
                 "default": "Isle of Man", 
-                "fts": "Isle of Man", 
-                "humanitarianresponse": "Isle of Man", 
-                "m49": "Isle of Man", 
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
                 "reliefweb-api": "Isle of Man (The United Kingdom of Great Britain and Northern Ireland)", 
-                "reliefweb-short": "Isle of Man"
+                "reliefweb-short": null
             }, 
             "m49": "833", 
             "reliefweb_id": "124", 

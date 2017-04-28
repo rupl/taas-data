@@ -13,11 +13,11 @@
             "iso3": "TGO", 
             "label": {
                 "default": "Togo", 
-                "fts": "Togo", 
-                "humanitarianresponse": "Togo", 
-                "m49": "Togo", 
-                "reliefweb-api": "Togo", 
-                "reliefweb-short": "Togo"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "768", 
             "reliefweb_id": "231", 

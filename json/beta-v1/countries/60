@@ -15,9 +15,9 @@
                 "default": "Czechia", 
                 "fts": "Czech Republic", 
                 "humanitarianresponse": "Czech Republic", 
-                "m49": "Czechia", 
+                "m49": null, 
                 "reliefweb-api": "Czech Republic", 
-                "reliefweb-short": "Czechia"
+                "reliefweb-short": null
             }, 
             "m49": "203", 
             "reliefweb_id": "73", 

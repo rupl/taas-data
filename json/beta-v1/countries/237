@@ -15,9 +15,9 @@
                 "default": "United States Minor Outlying Islands (the)", 
                 "fts": "United States Minor Outlying Islands", 
                 "humanitarianresponse": "United States Minor Outlying Islands", 
-                "m49": "United States Minor Outlying Islands (the)", 
-                "reliefweb-api": "United States Minor Outlying Islands (the)", 
-                "reliefweb-short": "United States Minor Outlying Islands (the)"
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "581", 
             "reliefweb_id": null, 

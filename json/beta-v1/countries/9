@@ -13,11 +13,11 @@
             "iso3": "ATA", 
             "label": {
                 "default": "Antarctica", 
-                "fts": "Antarctica", 
-                "humanitarianresponse": "Antarctica", 
-                "m49": "Antarctica", 
-                "reliefweb-api": "Antarctica", 
-                "reliefweb-short": "Antarctica"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "10", 
             "reliefweb_id": null, 

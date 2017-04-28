@@ -15,8 +15,8 @@
                 "default": "Micronesia (Federated States of)", 
                 "fts": "Micronesia, Federated States of", 
                 "humanitarianresponse": "Micronesia, Federated States of", 
-                "m49": "Micronesia (Federated States of)", 
-                "reliefweb-api": "Micronesia (Federated States of)", 
+                "m49": null, 
+                "reliefweb-api": null, 
                 "reliefweb-short": "Micronesia"
             }, 
             "m49": "583", 

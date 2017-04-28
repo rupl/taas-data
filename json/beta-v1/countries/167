@@ -13,11 +13,11 @@
             "iso3": "OMN", 
             "label": {
                 "default": "Oman", 
-                "fts": "Oman", 
-                "humanitarianresponse": "Oman", 
-                "m49": "Oman", 
-                "reliefweb-api": "Oman", 
-                "reliefweb-short": "Oman"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "512", 
             "reliefweb_id": "181", 

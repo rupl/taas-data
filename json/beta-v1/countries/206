@@ -13,11 +13,11 @@
             "iso3": "ZAF", 
             "label": {
                 "default": "South Africa", 
-                "fts": "South Africa", 
-                "humanitarianresponse": "South Africa", 
-                "m49": "South Africa", 
-                "reliefweb-api": "South Africa", 
-                "reliefweb-short": "South Africa"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "710", 
             "reliefweb_id": "217", 

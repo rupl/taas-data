@@ -13,11 +13,11 @@
             "iso3": "SRB", 
             "label": {
                 "default": "Serbia", 
-                "fts": "Serbia", 
-                "humanitarianresponse": "Serbia", 
-                "m49": "Serbia", 
-                "reliefweb-api": "Serbia", 
-                "reliefweb-short": "Serbia"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "688", 
             "reliefweb_id": "209", 

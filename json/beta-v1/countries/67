@@ -13,11 +13,11 @@
             "iso3": "SLV", 
             "label": {
                 "default": "El Salvador", 
-                "fts": "El Salvador", 
-                "humanitarianresponse": "El Salvador", 
-                "m49": "El Salvador", 
-                "reliefweb-api": "El Salvador", 
-                "reliefweb-short": "El Salvador"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "222", 
             "reliefweb_id": "83", 

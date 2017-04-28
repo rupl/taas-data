@@ -13,11 +13,11 @@
             "iso3": "WLF", 
             "label": {
                 "default": "Wallis and Futuna", 
-                "fts": "Wallis and Futuna", 
-                "humanitarianresponse": "Wallis and Futuna", 
+                "fts": null, 
+                "humanitarianresponse": null, 
                 "m49": "Wallis and Futuna Islands", 
                 "reliefweb-api": "Wallis and Futuna (France)", 
-                "reliefweb-short": "Wallis and Futuna"
+                "reliefweb-short": null
             }, 
             "m49": "876", 
             "reliefweb_id": "252", 

@@ -13,11 +13,11 @@
             "iso3": "ALB", 
             "label": {
                 "default": "Albania", 
-                "fts": "Albania", 
-                "humanitarianresponse": "Albania", 
-                "m49": "Albania", 
-                "reliefweb-api": "Albania", 
-                "reliefweb-short": "Albania"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "8", 
             "reliefweb_id": "15", 

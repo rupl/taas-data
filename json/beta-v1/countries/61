@@ -13,11 +13,11 @@
             "iso3": "DNK", 
             "label": {
                 "default": "Denmark", 
-                "fts": "Denmark", 
-                "humanitarianresponse": "Denmark", 
-                "m49": "Denmark", 
-                "reliefweb-api": "Denmark", 
-                "reliefweb-short": "Denmark"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "208", 
             "reliefweb_id": "76", 

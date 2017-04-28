@@ -13,11 +13,11 @@
             "iso3": "THA", 
             "label": {
                 "default": "Thailand", 
-                "fts": "Thailand", 
-                "humanitarianresponse": "Thailand", 
-                "m49": "Thailand", 
-                "reliefweb-api": "Thailand", 
-                "reliefweb-short": "Thailand"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "764", 
             "reliefweb_id": "228", 

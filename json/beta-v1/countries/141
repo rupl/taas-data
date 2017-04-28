@@ -13,11 +13,11 @@
             "iso3": "MRT", 
             "label": {
                 "default": "Mauritania", 
-                "fts": "Mauritania", 
-                "humanitarianresponse": "Mauritania", 
-                "m49": "Mauritania", 
-                "reliefweb-api": "Mauritania", 
-                "reliefweb-short": "Mauritania"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "478", 
             "reliefweb_id": "153", 

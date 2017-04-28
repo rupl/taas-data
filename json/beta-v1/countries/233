@@ -13,11 +13,11 @@
             "iso3": "UKR", 
             "label": {
                 "default": "Ukraine", 
-                "fts": "Ukraine", 
-                "humanitarianresponse": "Ukraine", 
-                "m49": "Ukraine", 
-                "reliefweb-api": "Ukraine", 
-                "reliefweb-short": "Ukraine"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "804", 
             "reliefweb_id": "241", 

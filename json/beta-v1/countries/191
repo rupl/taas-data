@@ -13,10 +13,10 @@
             "iso3": "VCT", 
             "label": {
                 "default": "Saint Vincent and the Grenadines", 
-                "fts": "Saint Vincent and the Grenadines", 
-                "humanitarianresponse": "Saint Vincent and the Grenadines", 
-                "m49": "Saint Vincent and the Grenadines", 
-                "reliefweb-api": "Saint Vincent and the Grenadines", 
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
                 "reliefweb-short": "St. Vincent & Grenadines"
             }, 
             "m49": "670", 

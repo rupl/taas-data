@@ -13,11 +13,11 @@
             "iso3": "KIR", 
             "label": {
                 "default": "Kiribati", 
-                "fts": "Kiribati", 
-                "humanitarianresponse": "Kiribati", 
-                "m49": "Kiribati", 
-                "reliefweb-api": "Kiribati", 
-                "reliefweb-short": "Kiribati"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "296", 
             "reliefweb_id": "132", 

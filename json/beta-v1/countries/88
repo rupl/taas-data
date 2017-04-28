@@ -13,11 +13,11 @@
             "iso3": "GRD", 
             "label": {
                 "default": "Grenada", 
-                "fts": "Grenada", 
-                "humanitarianresponse": "Grenada", 
-                "m49": "Grenada", 
-                "reliefweb-api": "Grenada", 
-                "reliefweb-short": "Grenada"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "308", 
             "reliefweb_id": "106", 

@@ -15,9 +15,9 @@
                 "default": "Cabo Verde", 
                 "fts": "Cape Verde", 
                 "humanitarianresponse": "Cape Verde", 
-                "m49": "Cabo Verde", 
-                "reliefweb-api": "Cabo Verde", 
-                "reliefweb-short": "Cabo Verde"
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "132", 
             "reliefweb_id": "52", 

@@ -15,8 +15,8 @@
                 "default": "Venezuela\u00a0(Bolivarian Republic of)", 
                 "fts": "Venezuela, Bolivarian Republic of", 
                 "humanitarianresponse": "Venezuela, Bolivarian Republic of", 
-                "m49": "Venezuela\u00a0(Bolivarian Republic of)", 
-                "reliefweb-api": "Venezuela\u00a0(Bolivarian Republic of)", 
+                "m49": null, 
+                "reliefweb-api": null, 
                 "reliefweb-short": "Venezuela"
             }, 
             "m49": "862", 

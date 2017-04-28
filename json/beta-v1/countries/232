@@ -13,11 +13,11 @@
             "iso3": "UGA", 
             "label": {
                 "default": "Uganda", 
-                "fts": "Uganda", 
-                "humanitarianresponse": "Uganda", 
-                "m49": "Uganda", 
-                "reliefweb-api": "Uganda", 
-                "reliefweb-short": "Uganda"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "800", 
             "reliefweb_id": "240", 

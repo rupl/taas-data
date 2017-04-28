@@ -13,11 +13,11 @@
             "iso3": "ROU", 
             "label": {
                 "default": "Romania", 
-                "fts": "Romania", 
-                "humanitarianresponse": "Romania", 
-                "m49": "Romania", 
-                "reliefweb-api": "Romania", 
-                "reliefweb-short": "Romania"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "642", 
             "reliefweb_id": "196", 

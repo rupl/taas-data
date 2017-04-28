@@ -13,11 +13,11 @@
             "iso3": "PLW", 
             "label": {
                 "default": "Palau", 
-                "fts": "Palau", 
-                "humanitarianresponse": "Palau", 
-                "m49": "Palau", 
-                "reliefweb-api": "Palau", 
-                "reliefweb-short": "Palau"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "585", 
             "reliefweb_id": "183", 

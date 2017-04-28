@@ -13,11 +13,11 @@
             "iso3": "NRU", 
             "label": {
                 "default": "Nauru", 
-                "fts": "Nauru", 
-                "humanitarianresponse": "Nauru", 
-                "m49": "Nauru", 
-                "reliefweb-api": "Nauru", 
-                "reliefweb-short": "Nauru"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "520", 
             "reliefweb_id": "167", 

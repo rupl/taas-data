@@ -15,8 +15,8 @@
                 "default": "Bolivia (Plurinational State of)", 
                 "fts": "Bolivia, Plurinational State of", 
                 "humanitarianresponse": "Bolivia, Plurinational State of", 
-                "m49": "Bolivia (Plurinational State of)", 
-                "reliefweb-api": "Bolivia (Plurinational State of)", 
+                "m49": null, 
+                "reliefweb-api": null, 
                 "reliefweb-short": "Bolivia"
             }, 
             "m49": "68", 

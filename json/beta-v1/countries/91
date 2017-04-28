@@ -13,11 +13,11 @@
             "iso3": "GTM", 
             "label": {
                 "default": "Guatemala", 
-                "fts": "Guatemala", 
-                "humanitarianresponse": "Guatemala", 
-                "m49": "Guatemala", 
-                "reliefweb-api": "Guatemala", 
-                "reliefweb-short": "Guatemala"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "320", 
             "reliefweb_id": "109", 

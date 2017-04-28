@@ -13,11 +13,11 @@
             "iso3": "SWZ", 
             "label": {
                 "default": "Swaziland", 
-                "fts": "Swaziland", 
-                "humanitarianresponse": "Swaziland", 
-                "m49": "Swaziland", 
-                "reliefweb-api": "Swaziland", 
-                "reliefweb-short": "Swaziland"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "748", 
             "reliefweb_id": "223", 

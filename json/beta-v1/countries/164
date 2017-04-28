@@ -13,11 +13,11 @@
             "iso3": "NIU", 
             "label": {
                 "default": "Niue", 
-                "fts": "Niue", 
-                "humanitarianresponse": "Niue", 
-                "m49": "Niue", 
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
                 "reliefweb-api": "Niue (New Zealand)", 
-                "reliefweb-short": "Niue"
+                "reliefweb-short": null
             }, 
             "m49": "570", 
             "reliefweb_id": "176", 

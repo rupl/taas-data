@@ -13,11 +13,11 @@
             "iso3": "SAU", 
             "label": {
                 "default": "Saudi Arabia", 
-                "fts": "Saudi Arabia", 
-                "humanitarianresponse": "Saudi Arabia", 
-                "m49": "Saudi Arabia", 
-                "reliefweb-api": "Saudi Arabia", 
-                "reliefweb-short": "Saudi Arabia"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "682", 
             "reliefweb_id": "207", 

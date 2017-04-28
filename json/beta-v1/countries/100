@@ -13,11 +13,11 @@
             "iso3": "HKG", 
             "label": {
                 "default": "Hong Kong", 
-                "fts": "Hong Kong", 
-                "humanitarianresponse": "Hong Kong", 
+                "fts": null, 
+                "humanitarianresponse": null, 
                 "m49": "China, Hong Kong Special Administrative Region", 
                 "reliefweb-api": "China - Hong Kong (Special Administrative Region)", 
-                "reliefweb-short": "Hong Kong"
+                "reliefweb-short": null
             }, 
             "m49": "344", 
             "reliefweb_id": "59", 

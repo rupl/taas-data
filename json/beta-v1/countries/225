@@ -13,11 +13,11 @@
             "iso3": "TON", 
             "label": {
                 "default": "Tonga", 
-                "fts": "Tonga", 
-                "humanitarianresponse": "Tonga", 
-                "m49": "Tonga", 
-                "reliefweb-api": "Tonga", 
-                "reliefweb-short": "Tonga"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "776", 
             "reliefweb_id": "233", 

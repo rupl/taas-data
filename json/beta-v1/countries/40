@@ -13,11 +13,11 @@
             "iso3": "CAN", 
             "label": {
                 "default": "Canada", 
-                "fts": "Canada", 
-                "humanitarianresponse": "Canada", 
-                "m49": "Canada", 
-                "reliefweb-api": "Canada", 
-                "reliefweb-short": "Canada"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "124", 
             "reliefweb_id": "50", 

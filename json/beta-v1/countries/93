@@ -13,11 +13,11 @@
             "iso3": "GIN", 
             "label": {
                 "default": "Guinea", 
-                "fts": "Guinea", 
-                "humanitarianresponse": "Guinea", 
-                "m49": "Guinea", 
-                "reliefweb-api": "Guinea", 
-                "reliefweb-short": "Guinea"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "324", 
             "reliefweb_id": "110", 

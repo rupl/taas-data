@@ -13,11 +13,11 @@
             "iso3": "AZE", 
             "label": {
                 "default": "Azerbaijan", 
-                "fts": "Azerbaijan", 
-                "humanitarianresponse": "Azerbaijan", 
-                "m49": "Azerbaijan", 
-                "reliefweb-api": "Azerbaijan", 
-                "reliefweb-short": "Azerbaijan"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "31", 
             "reliefweb_id": "27", 

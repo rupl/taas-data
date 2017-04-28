@@ -13,11 +13,11 @@
             "iso3": "NGA", 
             "label": {
                 "default": "Nigeria", 
-                "fts": "Nigeria", 
-                "humanitarianresponse": "Nigeria", 
-                "m49": "Nigeria", 
-                "reliefweb-api": "Nigeria", 
-                "reliefweb-short": "Nigeria"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "566", 
             "reliefweb_id": "175", 

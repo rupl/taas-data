@@ -13,11 +13,11 @@
             "iso3": "LKA", 
             "label": {
                 "default": "Sri Lanka", 
-                "fts": "Sri Lanka", 
-                "humanitarianresponse": "Sri Lanka", 
-                "m49": "Sri Lanka", 
-                "reliefweb-api": "Sri Lanka", 
-                "reliefweb-short": "Sri Lanka"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "144", 
             "reliefweb_id": "219", 

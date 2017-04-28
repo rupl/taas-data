@@ -13,11 +13,11 @@
             "iso3": "MNG", 
             "label": {
                 "default": "Mongolia", 
-                "fts": "Mongolia", 
-                "humanitarianresponse": "Mongolia", 
-                "m49": "Mongolia", 
-                "reliefweb-api": "Mongolia", 
-                "reliefweb-short": "Mongolia"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "496", 
             "reliefweb_id": "160", 

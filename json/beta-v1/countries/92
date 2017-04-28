@@ -13,11 +13,11 @@
             "iso3": "GGY", 
             "label": {
                 "default": "Guernsey", 
-                "fts": "Guernsey", 
-                "humanitarianresponse": "Guernsey", 
-                "m49": "Guernsey", 
-                "reliefweb-api": "Guernsey", 
-                "reliefweb-short": "Guernsey"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "831", 
             "reliefweb_id": null, 

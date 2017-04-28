@@ -13,11 +13,11 @@
             "iso3": "SMR", 
             "label": {
                 "default": "San Marino", 
-                "fts": "San Marino", 
-                "humanitarianresponse": "San Marino", 
-                "m49": "San Marino", 
-                "reliefweb-api": "San Marino", 
-                "reliefweb-short": "San Marino"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "674", 
             "reliefweb_id": "205", 

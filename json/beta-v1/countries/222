@@ -13,11 +13,11 @@
             "iso3": "TLS", 
             "label": {
                 "default": "Timor-Leste", 
-                "fts": "Timor-Leste", 
-                "humanitarianresponse": "Timor-Leste", 
-                "m49": "Timor-Leste", 
-                "reliefweb-api": "Timor-Leste", 
-                "reliefweb-short": "Timor-Leste"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "626", 
             "reliefweb_id": "230", 

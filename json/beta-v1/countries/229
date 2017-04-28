@@ -13,11 +13,11 @@
             "iso3": "TKM", 
             "label": {
                 "default": "Turkmenistan", 
-                "fts": "Turkmenistan", 
-                "humanitarianresponse": "Turkmenistan", 
-                "m49": "Turkmenistan", 
-                "reliefweb-api": "Turkmenistan", 
-                "reliefweb-short": "Turkmenistan"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "795", 
             "reliefweb_id": "237", 

@@ -13,11 +13,11 @@
             "iso3": "BDI", 
             "label": {
                 "default": "Burundi", 
-                "fts": "Burundi", 
-                "humanitarianresponse": "Burundi", 
-                "m49": "Burundi", 
-                "reliefweb-api": "Burundi", 
-                "reliefweb-short": "Burundi"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "108", 
             "reliefweb_id": "47", 

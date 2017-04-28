@@ -13,11 +13,11 @@
             "iso3": "KHM", 
             "label": {
                 "default": "Cambodia", 
-                "fts": "Cambodia", 
-                "humanitarianresponse": "Cambodia", 
-                "m49": "Cambodia", 
-                "reliefweb-api": "Cambodia", 
-                "reliefweb-short": "Cambodia"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "116", 
             "reliefweb_id": "48", 

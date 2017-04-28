@@ -13,11 +13,11 @@
             "iso3": "HND", 
             "label": {
                 "default": "Honduras", 
-                "fts": "Honduras", 
-                "humanitarianresponse": "Honduras", 
-                "m49": "Honduras", 
-                "reliefweb-api": "Honduras", 
-                "reliefweb-short": "Honduras"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "340", 
             "reliefweb_id": "116", 

@@ -13,11 +13,11 @@
             "iso3": "WSM", 
             "label": {
                 "default": "Samoa", 
-                "fts": "Samoa", 
-                "humanitarianresponse": "Samoa", 
-                "m49": "Samoa", 
-                "reliefweb-api": "Samoa", 
-                "reliefweb-short": "Samoa"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "882", 
             "reliefweb_id": "204", 

@@ -13,11 +13,11 @@
             "iso3": "SEN", 
             "label": {
                 "default": "Senegal", 
-                "fts": "Senegal", 
-                "humanitarianresponse": "Senegal", 
-                "m49": "Senegal", 
-                "reliefweb-api": "Senegal", 
-                "reliefweb-short": "Senegal"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "686", 
             "reliefweb_id": "208", 

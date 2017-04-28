@@ -13,11 +13,11 @@
             "iso3": "STP", 
             "label": {
                 "default": "S\u00e3o Tom\u00e9 and Pr\u00edncipe", 
-                "fts": "S\u00e3o Tom\u00e9 and Pr\u00edncipe", 
-                "humanitarianresponse": "S\u00e3o Tom\u00e9 and Pr\u00edncipe", 
-                "m49": "S\u00e3o Tom\u00e9 and Pr\u00edncipe", 
-                "reliefweb-api": "S\u00e3o Tom\u00e9 and Pr\u00edncipe", 
-                "reliefweb-short": "S\u00e3o Tom\u00e9 and Pr\u00edncipe"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "678", 
             "reliefweb_id": "206", 

@@ -13,11 +13,11 @@
             "iso3": "DMA", 
             "label": {
                 "default": "Dominica", 
-                "fts": "Dominica", 
-                "humanitarianresponse": "Dominica", 
-                "m49": "Dominica", 
-                "reliefweb-api": "Dominica", 
-                "reliefweb-short": "Dominica"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "212", 
             "reliefweb_id": "78", 
