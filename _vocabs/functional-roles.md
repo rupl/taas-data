@@ -2,7 +2,7 @@
 title: Functional Roles
 display-title: Functional Roles (Beta)
 status: JSON available
-json-url: https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/beta-v1/functional_roles.json
+json-url: http://vocabulary.unocha.org/json/beta-v1/functional_roles.json
 gss-url: https://docs.google.com/spreadsheets/d/1c9wehuauQAAegElIRI6vhWktKSI-PcPjHHiXdqASonk#gid=0
 managed-by: OCHA Field Information Services
 ---
