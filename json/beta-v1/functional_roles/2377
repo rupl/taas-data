@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "@context": "https://vocabularly.unocha.org/json/beta-v1/functional_roles.jsonld", 
+            "@id": "http://vocabulary.unocha.org/json/beta-v1/functional_roles/2377", 
+            "id": "2377", 
+            "label": {
+                "en": "Head of Agency or Office", 
+                "es": "Director de Agencia", 
+                "fr": "Directeur d'agence/Chef de bureau", 
+                "i-default": "Head of Agency or Office"
+            }, 
+            "scope": "Head of a UN, NGO or local agency or office.  May include managing staff working in the country office; including assisting in the preparation of office work and cost plans and financial, human resources and administrative management."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "@context": "https://vocabularly.unocha.org/json/beta-v1/functional_roles.jsonld", 
+            "@id": "http://vocabulary.unocha.org/json/beta-v1/functional_roles/2380", 
+            "id": "2380", 
+            "label": {
+                "en": "Cluster Co-Lead", 
+                "es": "Co-Presidir Cl\u00faster", 
+                "fr": "Co-Chef de file sectoriel", 
+                "i-default": "Cluster Co-Lead"
+            }, 
+            "scope": "Works in collaboration with the Cluster Coordinator in leading cluster-based activities during humanitarian operations.  Frequently co-chairs cluster coordination meetings and other activities."
+        }
+    ]
+}

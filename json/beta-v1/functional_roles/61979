@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "@context": "https://vocabularly.unocha.org/json/beta-v1/functional_roles.jsonld", 
+            "@id": "http://vocabulary.unocha.org/json/beta-v1/functional_roles/61979", 
+            "id": "61979", 
+            "label": {
+                "en": "Environmental Expert", 
+                "es": "Experto en medio ambiente", 
+                "fr": "Expert environnemental", 
+                "i-default": "Environmental Expert"
+            }, 
+            "scope": "Expert whose role is to provide information and guidance on environmental topics, including natural resource use, waste management, chemical pollution and energy provision."
+        }
+    ]
+}

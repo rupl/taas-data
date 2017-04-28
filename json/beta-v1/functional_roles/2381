@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "@context": "https://vocabularly.unocha.org/json/beta-v1/functional_roles.jsonld", 
+            "@id": "http://vocabulary.unocha.org/json/beta-v1/functional_roles/2381", 
+            "id": "2381", 
+            "label": {
+                "en": "Cluster Coordinator", 
+                "es": "Coordinador de Grupo", 
+                "fr": "Chef de file sectoriel", 
+                "i-default": "Cluster Coordinator"
+            }, 
+            "scope": "Responsible for leading cluster-based activities during humanitarian operations.  Provides leadership and works on behalf of the cluster as a whole, facilitating all cluster activities and developing and maintaining a strategic vision and operational response plan."
+        }
+    ]
+}

@@ -2,14 +2,6 @@
   "@context": {
     "@language": "en",
     "label": "http://schema.org/name",
-    "label_fr": {
-      "@id": "http://schema.org/name",
-      "@language": "fr"
-    },
-    "label_es": {
-      "@id": "http://schema.org/name",
-      "@language": "es"
-    },
     "scope": "http://schema.org/description"
   }
 }

@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "@context": "https://vocabularly.unocha.org/json/beta-v1/functional_roles.jsonld", 
+            "@id": "http://vocabulary.unocha.org/json/beta-v1/functional_roles/2383", 
+            "id": "2383", 
+            "label": {
+                "en": "GenCap Officer", 
+                "es": "Oficial del GenCap", 
+                "fr": "Conseiller inter-agence GenCap", 
+                "i-default": "GenCap Officer"
+            }, 
+            "scope": "Inter-agency staff trained to advise on, facilitate and strengthen capacity and leadership of humanitarians to undertake and promote gender-sensitive programming to ensure the distinct needs of women, girls, boys and men of all ages and backgrounds, are taken into account in humanitarian action at global, regional, and country levels.  Frequently deploy to be hosted by the Humanitarian Coordinator's Office or a UN agency."
+        }
+    ]
+}
