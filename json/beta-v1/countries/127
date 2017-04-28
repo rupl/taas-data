@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "127", 
+            "geolocation": {
+                "lat": "27.04420762", 
+                "lon": "18.02212777"
+            }, 
+            "hrinfo_id": "307", 
+            "id": "127", 
+            "iso2": "LY", 
+            "iso3": "LBY", 
+            "label": {
+                "default": "Libya", 
+                "fts": "Libya", 
+                "humanitarianresponse": "Libya", 
+                "m49": "Libya", 
+                "reliefweb-api": "Libya", 
+                "reliefweb-short": "Libya"
+            }, 
+            "m49": "434", 
+            "reliefweb_id": "140", 
+            "x-alpha-2": "LY", 
+            "x-alpha-3": "LBY"
+        }
+    ]
+}

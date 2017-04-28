@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "115", 
+            "geolocation": {
+                "lat": "48.16011678", 
+                "lon": "67.30440515"
+            }, 
+            "hrinfo_id": "295", 
+            "id": "115", 
+            "iso2": "KZ", 
+            "iso3": "KAZ", 
+            "label": {
+                "default": "Kazakhstan", 
+                "fts": "Kazakhstan", 
+                "humanitarianresponse": "Kazakhstan", 
+                "m49": "Kazakhstan", 
+                "reliefweb-api": "Kazakhstan", 
+                "reliefweb-short": "Kazakhstan"
+            }, 
+            "m49": "398", 
+            "reliefweb_id": "130", 
+            "x-alpha-2": "KZ", 
+            "x-alpha-3": "KAZ"
+        }
+    ]
+}

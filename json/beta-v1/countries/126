@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "126", 
+            "geolocation": {
+                "lat": "6.445498409", 
+                "lon": "-9.307443775"
+            }, 
+            "hrinfo_id": "306", 
+            "id": "126", 
+            "iso2": "LR", 
+            "iso3": "LBR", 
+            "label": {
+                "default": "Liberia", 
+                "fts": "Liberia", 
+                "humanitarianresponse": "Liberia", 
+                "m49": "Liberia", 
+                "reliefweb-api": "Liberia", 
+                "reliefweb-short": "Liberia"
+            }, 
+            "m49": "430", 
+            "reliefweb_id": "139", 
+            "x-alpha-2": "LR", 
+            "x-alpha-3": "LBR"
+        }
+    ]
+}

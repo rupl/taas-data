@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "186", 
+            "geolocation": {
+                "lat": null, 
+                "lon": null
+            }, 
+            "hrinfo_id": "366", 
+            "id": "185", 
+            "iso2": "BL", 
+            "iso3": "BLM", 
+            "label": {
+                "default": "Saint Barth\u00e9lemy", 
+                "fts": "Saint Barth\u00e9lemy", 
+                "humanitarianresponse": "Saint Barth\u00e9lemy", 
+                "m49": "Saint Barth\u00e9lemy", 
+                "reliefweb-api": "Saint Barth\u00e9lemy (France)", 
+                "reliefweb-short": "Saint Barth\u00e9lemy"
+            }, 
+            "m49": "652", 
+            "reliefweb_id": "14890", 
+            "x-alpha-2": "BL", 
+            "x-alpha-3": "BLM"
+        }
+    ]
+}

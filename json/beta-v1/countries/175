@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "176", 
+            "geolocation": {
+                "lat": "-0.736653675", 
+                "lon": "127.2358509"
+            }, 
+            "hrinfo_id": "356", 
+            "id": "175", 
+            "iso2": "PH", 
+            "iso3": "PHL", 
+            "label": {
+                "default": "Philippines (the)", 
+                "fts": "Philippines", 
+                "humanitarianresponse": "Philippines", 
+                "m49": "Philippines", 
+                "reliefweb-api": "Philippines", 
+                "reliefweb-short": "Philippines (the)"
+            }, 
+            "m49": "608", 
+            "reliefweb_id": "188", 
+            "x-alpha-2": "PH", 
+            "x-alpha-3": "PHL"
+        }
+    ]
+}

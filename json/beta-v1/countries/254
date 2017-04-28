@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": null, 
+            "fts_api_id": null, 
+            "geolocation": {
+                "lat": null, 
+                "lon": null
+            }, 
+            "hrinfo_id": null, 
+            "id": "254", 
+            "iso2": null, 
+            "iso3": null, 
+            "label": {
+                "default": "Galapagos Islands (Ecuador)", 
+                "fts": "Galapagos Islands (Ecuador)", 
+                "humanitarianresponse": "Galapagos Islands (Ecuador)", 
+                "m49": "Galapagos Islands (Ecuador)", 
+                "reliefweb-api": "Galapagos Islands (Ecuador)", 
+                "reliefweb-short": "Galapagos Islands (Ecuador)"
+            }, 
+            "m49": null, 
+            "reliefweb_id": "97", 
+            "x-alpha-2": null, 
+            "x-alpha-3": "GLI"
+        }
+    ]
+}

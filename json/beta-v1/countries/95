@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "95", 
+            "geolocation": {
+                "lat": "4.800395012", 
+                "lon": "-58.97699814"
+            }, 
+            "hrinfo_id": "275", 
+            "id": "95", 
+            "iso2": "GY", 
+            "iso3": "GUY", 
+            "label": {
+                "default": "Guyana", 
+                "fts": "Guyana", 
+                "humanitarianresponse": "Guyana", 
+                "m49": "Guyana", 
+                "reliefweb-api": "Guyana", 
+                "reliefweb-short": "Guyana"
+            }, 
+            "m49": "328", 
+            "reliefweb_id": "112", 
+            "x-alpha-2": "GY", 
+            "x-alpha-3": "GUY"
+        }
+    ]
+}

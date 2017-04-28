@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "234", 
+            "geolocation": {
+                "lat": "49.01900507", 
+                "lon": "31.37809941"
+            }, 
+            "hrinfo_id": "414", 
+            "id": "233", 
+            "iso2": "UA", 
+            "iso3": "UKR", 
+            "label": {
+                "default": "Ukraine", 
+                "fts": "Ukraine", 
+                "humanitarianresponse": "Ukraine", 
+                "m49": "Ukraine", 
+                "reliefweb-api": "Ukraine", 
+                "reliefweb-short": "Ukraine"
+            }, 
+            "m49": "804", 
+            "reliefweb_id": "241", 
+            "x-alpha-2": "UA", 
+            "x-alpha-3": "UKR"
+        }
+    ]
+}

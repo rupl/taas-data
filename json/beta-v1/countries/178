@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "179", 
+            "geolocation": {
+                "lat": "39.23901506", 
+                "lon": "-30.21832194"
+            }, 
+            "hrinfo_id": "359", 
+            "id": "178", 
+            "iso2": "PT", 
+            "iso3": "PRT", 
+            "label": {
+                "default": "Portugal", 
+                "fts": "Portugal", 
+                "humanitarianresponse": "Portugal", 
+                "m49": "Portugal", 
+                "reliefweb-api": "Portugal", 
+                "reliefweb-short": "Portugal"
+            }, 
+            "m49": "620", 
+            "reliefweb_id": "191", 
+            "x-alpha-2": "PT", 
+            "x-alpha-3": "PRT"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "210", 
+            "geolocation": {
+                "lat": "7.617249894", 
+                "lon": "80.70787736"
+            }, 
+            "hrinfo_id": "390", 
+            "id": "209", 
+            "iso2": "LK", 
+            "iso3": "LKA", 
+            "label": {
+                "default": "Sri Lanka", 
+                "fts": "Sri Lanka", 
+                "humanitarianresponse": "Sri Lanka", 
+                "m49": "Sri Lanka", 
+                "reliefweb-api": "Sri Lanka", 
+                "reliefweb-short": "Sri Lanka"
+            }, 
+            "m49": "144", 
+            "reliefweb_id": "219", 
+            "x-alpha-2": "LK", 
+            "x-alpha-3": "LKA"
+        }
+    ]
+}

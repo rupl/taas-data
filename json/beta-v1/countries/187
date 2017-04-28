@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "188", 
+            "geolocation": {
+                "lat": "17.32619066", 
+                "lon": "-62.7533967"
+            }, 
+            "hrinfo_id": "368", 
+            "id": "187", 
+            "iso2": "KN", 
+            "iso3": "KNA", 
+            "label": {
+                "default": "Saint Kitts and Nevis", 
+                "fts": "Saint Kitts and Nevis", 
+                "humanitarianresponse": "Saint Kitts and Nevis", 
+                "m49": "Saint Kitts and Nevis", 
+                "reliefweb-api": "Saint Kitts and Nevis", 
+                "reliefweb-short": "Saint Kitts and Nevis"
+            }, 
+            "m49": "659", 
+            "reliefweb_id": "200", 
+            "x-alpha-2": "KN", 
+            "x-alpha-3": "KNA"
+        }
+    ]
+}

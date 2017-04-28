@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "211", 
+            "geolocation": {
+                "lat": "7.295889595", 
+                "lon": "30.30870192"
+            }, 
+            "hrinfo_id": "391", 
+            "id": "210", 
+            "iso2": "SS", 
+            "iso3": "SSD", 
+            "label": {
+                "default": "South Sudan", 
+                "fts": "South Sudan", 
+                "humanitarianresponse": "South Sudan", 
+                "m49": "South Sudan", 
+                "reliefweb-api": "South Sudan", 
+                "reliefweb-short": "South Sudan"
+            }, 
+            "m49": "728", 
+            "reliefweb_id": "8657", 
+            "x-alpha-2": "SS", 
+            "x-alpha-3": "SSD"
+        }
+    ]
+}

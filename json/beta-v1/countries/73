@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "73", 
+            "geolocation": {
+                "lat": "61.64924758", 
+                "lon": "-6.548553177"
+            }, 
+            "hrinfo_id": "253", 
+            "id": "73", 
+            "iso2": "FO", 
+            "iso3": "FRO", 
+            "label": {
+                "default": "Faroe Islands (the)", 
+                "fts": "Faroe Islands", 
+                "humanitarianresponse": "Faroe Islands", 
+                "m49": "Faroe Islands", 
+                "reliefweb-api": "Faroe Islands (Denmark)", 
+                "reliefweb-short": "Faroe Islands (the)"
+            }, 
+            "m49": "234", 
+            "reliefweb_id": "89", 
+            "x-alpha-2": "FO", 
+            "x-alpha-3": "FRO"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "22", 
+            "geolocation": {
+                "lat": "50.64206011", 
+                "lon": "4.658786236"
+            }, 
+            "hrinfo_id": "202", 
+            "id": "22", 
+            "iso2": "BE", 
+            "iso3": "BEL", 
+            "label": {
+                "default": "Belgium", 
+                "fts": "Belgium", 
+                "humanitarianresponse": "Belgium", 
+                "m49": "Belgium", 
+                "reliefweb-api": "Belgium", 
+                "reliefweb-short": "Belgium"
+            }, 
+            "m49": "56", 
+            "reliefweb_id": "34", 
+            "x-alpha-2": "BE", 
+            "x-alpha-3": "BEL"
+        }
+    ]
+}

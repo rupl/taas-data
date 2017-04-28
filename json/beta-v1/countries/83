@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "83", 
+            "geolocation": {
+                "lat": "51.08227882", 
+                "lon": "10.37515859"
+            }, 
+            "hrinfo_id": "263", 
+            "id": "83", 
+            "iso2": "DE", 
+            "iso3": "DEU", 
+            "label": {
+                "default": "Germany", 
+                "fts": "Germany", 
+                "humanitarianresponse": "Germany", 
+                "m49": "Germany", 
+                "reliefweb-api": "Germany", 
+                "reliefweb-short": "Germany"
+            }, 
+            "m49": "276", 
+            "reliefweb_id": "101", 
+            "x-alpha-2": "DE", 
+            "x-alpha-3": "DEU"
+        }
+    ]
+}

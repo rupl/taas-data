@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "32", 
+            "geolocation": {
+                "lat": "-10.77518961", 
+                "lon": "-53.09141767"
+            }, 
+            "hrinfo_id": "212", 
+            "id": "32", 
+            "iso2": "BR", 
+            "iso3": "BRA", 
+            "label": {
+                "default": "Brazil", 
+                "fts": "Brazil", 
+                "humanitarianresponse": "Brazil", 
+                "m49": "Brazil", 
+                "reliefweb-api": "Brazil", 
+                "reliefweb-short": "Brazil"
+            }, 
+            "m49": "76", 
+            "reliefweb_id": "42", 
+            "x-alpha-2": "BR", 
+            "x-alpha-3": "BRA"
+        }
+    ]
+}

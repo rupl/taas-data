@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "93", 
+            "geolocation": {
+                "lat": "10.43642262", 
+                "lon": "-10.95068301"
+            }, 
+            "hrinfo_id": "273", 
+            "id": "93", 
+            "iso2": "GN", 
+            "iso3": "GIN", 
+            "label": {
+                "default": "Guinea", 
+                "fts": "Guinea", 
+                "humanitarianresponse": "Guinea", 
+                "m49": "Guinea", 
+                "reliefweb-api": "Guinea", 
+                "reliefweb-short": "Guinea"
+            }, 
+            "m49": "324", 
+            "reliefweb_id": "110", 
+            "x-alpha-2": "GN", 
+            "x-alpha-3": "GIN"
+        }
+    ]
+}

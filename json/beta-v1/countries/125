@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "125", 
+            "geolocation": {
+                "lat": "-29.58448841", 
+                "lon": "28.24105147"
+            }, 
+            "hrinfo_id": "305", 
+            "id": "125", 
+            "iso2": "LS", 
+            "iso3": "LSO", 
+            "label": {
+                "default": "Lesotho", 
+                "fts": "Lesotho", 
+                "humanitarianresponse": "Lesotho", 
+                "m49": "Lesotho", 
+                "reliefweb-api": "Lesotho", 
+                "reliefweb-short": "Lesotho"
+            }, 
+            "m49": "426", 
+            "reliefweb_id": "138", 
+            "x-alpha-2": "LS", 
+            "x-alpha-3": "LSO"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "13", 
+            "geolocation": {
+                "lat": "12.5156546", 
+                "lon": "-69.9757266"
+            }, 
+            "hrinfo_id": "193", 
+            "id": "13", 
+            "iso2": "AW", 
+            "iso3": "ABW", 
+            "label": {
+                "default": "Aruba", 
+                "fts": "Aruba", 
+                "humanitarianresponse": "Aruba", 
+                "m49": "Aruba", 
+                "reliefweb-api": "Aruba (The Netherlands)", 
+                "reliefweb-short": "Aruba"
+            }, 
+            "m49": "533", 
+            "reliefweb_id": "24", 
+            "x-alpha-2": "AW", 
+            "x-alpha-3": "ABW"
+        }
+    ]
+}

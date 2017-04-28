@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "43", 
+            "geolocation": {
+                "lat": "6.570747926", 
+                "lon": "20.48450088"
+            }, 
+            "hrinfo_id": "223", 
+            "id": "43", 
+            "iso2": "CF", 
+            "iso3": "CAF", 
+            "label": {
+                "default": "Central African Republic (the)", 
+                "fts": "Central African Republic", 
+                "humanitarianresponse": "Central African Republic", 
+                "m49": "Central African Republic", 
+                "reliefweb-api": "Central African Republic", 
+                "reliefweb-short": "CAR"
+            }, 
+            "m49": "140", 
+            "reliefweb_id": "54", 
+            "x-alpha-2": "CF", 
+            "x-alpha-3": "CAF"
+        }
+    ]
+}

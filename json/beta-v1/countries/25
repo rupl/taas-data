@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "25", 
+            "geolocation": {
+                "lat": "32.31605051", 
+                "lon": "-64.73984042"
+            }, 
+            "hrinfo_id": "205", 
+            "id": "25", 
+            "iso2": "BM", 
+            "iso3": "BMU", 
+            "label": {
+                "default": "Bermuda", 
+                "fts": "Bermuda", 
+                "humanitarianresponse": "Bermuda", 
+                "m49": "Bermuda", 
+                "reliefweb-api": "Bermuda", 
+                "reliefweb-short": "Bermuda"
+            }, 
+            "m49": "60", 
+            "reliefweb_id": "37", 
+            "x-alpha-2": "BM", 
+            "x-alpha-3": "BMU"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "85", 
+            "geolocation": {
+                "lat": "36.13872267", 
+                "lon": "-5.34508156"
+            }, 
+            "hrinfo_id": "265", 
+            "id": "85", 
+            "iso2": "GI", 
+            "iso3": "GIB", 
+            "label": {
+                "default": "Gibraltar", 
+                "fts": "Gibraltar", 
+                "humanitarianresponse": "Gibraltar", 
+                "m49": "Gibraltar", 
+                "reliefweb-api": "Gibraltar", 
+                "reliefweb-short": "Gibraltar"
+            }, 
+            "m49": "292", 
+            "reliefweb_id": "103", 
+            "x-alpha-2": "GI", 
+            "x-alpha-3": "GIB"
+        }
+    ]
+}

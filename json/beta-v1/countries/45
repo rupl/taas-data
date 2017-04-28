@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "45", 
+            "geolocation": {
+                "lat": "-37.68386885", 
+                "lon": "-71.33321859"
+            }, 
+            "hrinfo_id": "225", 
+            "id": "45", 
+            "iso2": "CL", 
+            "iso3": "CHL", 
+            "label": {
+                "default": "Chile", 
+                "fts": "Chile", 
+                "humanitarianresponse": "Chile", 
+                "m49": "Chile", 
+                "reliefweb-api": "Chile", 
+                "reliefweb-short": "Chile"
+            }, 
+            "m49": "152", 
+            "reliefweb_id": "57", 
+            "x-alpha-2": "CL", 
+            "x-alpha-3": "CHL"
+        }
+    ]
+}

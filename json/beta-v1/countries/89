@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "89", 
+            "geolocation": {
+                "lat": "16.40393131", 
+                "lon": "-61.75296289"
+            }, 
+            "hrinfo_id": "269", 
+            "id": "89", 
+            "iso2": "GP", 
+            "iso3": "GLP", 
+            "label": {
+                "default": "Guadeloupe", 
+                "fts": "Guadeloupe", 
+                "humanitarianresponse": "Guadeloupe", 
+                "m49": "Guadeloupe", 
+                "reliefweb-api": "Guadeloupe (France)", 
+                "reliefweb-short": "Guadeloupe"
+            }, 
+            "m49": "312", 
+            "reliefweb_id": "107", 
+            "x-alpha-2": "GP", 
+            "x-alpha-3": "GLP"
+        }
+    ]
+}

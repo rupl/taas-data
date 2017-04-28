@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "119", 
+            "geolocation": {
+                "lat": "36.52377792", 
+                "lon": "127.8821461"
+            }, 
+            "hrinfo_id": "299", 
+            "id": "119", 
+            "iso2": "KR", 
+            "iso3": "KOR", 
+            "label": {
+                "default": "Korea (the Republic of)", 
+                "fts": "Korea, Republic of", 
+                "humanitarianresponse": "Korea, Republic of", 
+                "m49": "Republic of Korea", 
+                "reliefweb-api": "Republic of Korea", 
+                "reliefweb-short": "Korea (the Republic of)"
+            }, 
+            "m49": "410", 
+            "reliefweb_id": "194", 
+            "x-alpha-2": "KR", 
+            "x-alpha-3": "KOR"
+        }
+    ]
+}

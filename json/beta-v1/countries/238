@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "239", 
+            "geolocation": {
+                "lat": "-32.80198719", 
+                "lon": "-56.01417232"
+            }, 
+            "hrinfo_id": "419", 
+            "id": "238", 
+            "iso2": "UY", 
+            "iso3": "URY", 
+            "label": {
+                "default": "Uruguay", 
+                "fts": "Uruguay", 
+                "humanitarianresponse": "Uruguay", 
+                "m49": "Uruguay", 
+                "reliefweb-api": "Uruguay", 
+                "reliefweb-short": "Uruguay"
+            }, 
+            "m49": "858", 
+            "reliefweb_id": "247", 
+            "x-alpha-2": "UY", 
+            "x-alpha-3": "URY"
+        }
+    ]
+}

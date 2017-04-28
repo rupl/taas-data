@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "163", 
+            "geolocation": {
+                "lat": "9.590667555", 
+                "lon": "8.10605344"
+            }, 
+            "hrinfo_id": "343", 
+            "id": "163", 
+            "iso2": "NG", 
+            "iso3": "NGA", 
+            "label": {
+                "default": "Nigeria", 
+                "fts": "Nigeria", 
+                "humanitarianresponse": "Nigeria", 
+                "m49": "Nigeria", 
+                "reliefweb-api": "Nigeria", 
+                "reliefweb-short": "Nigeria"
+            }, 
+            "m49": "566", 
+            "reliefweb_id": "175", 
+            "x-alpha-2": "NG", 
+            "x-alpha-3": "NGA"
+        }
+    ]
+}

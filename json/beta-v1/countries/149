@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "149", 
+            "geolocation": {
+                "lat": "42.78905871", 
+                "lon": "19.26989732"
+            }, 
+            "hrinfo_id": "329", 
+            "id": "149", 
+            "iso2": "ME", 
+            "iso3": "MNE", 
+            "label": {
+                "default": "Montenegro", 
+                "fts": "Montenegro", 
+                "humanitarianresponse": "Montenegro", 
+                "m49": "Montenegro", 
+                "reliefweb-api": "Montenegro", 
+                "reliefweb-short": "Montenegro"
+            }, 
+            "m49": "499", 
+            "reliefweb_id": "161", 
+            "x-alpha-2": "ME", 
+            "x-alpha-3": "MNE"
+        }
+    ]
+}

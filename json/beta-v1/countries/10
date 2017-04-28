@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "10", 
+            "geolocation": {
+                "lat": "17.07120733", 
+                "lon": "-61.79815058"
+            }, 
+            "hrinfo_id": "190", 
+            "id": "10", 
+            "iso2": "AG", 
+            "iso3": "ATG", 
+            "label": {
+                "default": "Antigua and Barbuda", 
+                "fts": "Antigua and Barbuda", 
+                "humanitarianresponse": "Antigua and Barbuda", 
+                "m49": "Antigua and Barbuda", 
+                "reliefweb-api": "Antigua and Barbuda", 
+                "reliefweb-short": "Antigua and Barbuda"
+            }, 
+            "m49": "28", 
+            "reliefweb_id": "21", 
+            "x-alpha-2": "AG", 
+            "x-alpha-3": "ATG"
+        }
+    ]
+}

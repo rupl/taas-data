@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "199", 
+            "geolocation": {
+                "lat": "-4.651257344", 
+                "lon": "55.46250801"
+            }, 
+            "hrinfo_id": "379", 
+            "id": "198", 
+            "iso2": "SC", 
+            "iso3": "SYC", 
+            "label": {
+                "default": "Seychelles", 
+                "fts": "Seychelles", 
+                "humanitarianresponse": "Seychelles", 
+                "m49": "Seychelles", 
+                "reliefweb-api": "Seychelles", 
+                "reliefweb-short": "Seychelles"
+            }, 
+            "m49": "690", 
+            "reliefweb_id": "210", 
+            "x-alpha-2": "SC", 
+            "x-alpha-3": "SYC"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "172", 
+            "geolocation": {
+                "lat": "8.518057314", 
+                "lon": "-80.07104511"
+            }, 
+            "hrinfo_id": "352", 
+            "id": "171", 
+            "iso2": "PA", 
+            "iso3": "PAN", 
+            "label": {
+                "default": "Panama", 
+                "fts": "Panama", 
+                "humanitarianresponse": "Panama", 
+                "m49": "Panama", 
+                "reliefweb-api": "Panama", 
+                "reliefweb-short": "Panama"
+            }, 
+            "m49": "591", 
+            "reliefweb_id": "184", 
+            "x-alpha-2": "PA", 
+            "x-alpha-3": "PAN"
+        }
+    ]
+}

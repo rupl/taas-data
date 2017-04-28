@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "178", 
+            "geolocation": {
+                "lat": "52.12847492", 
+                "lon": "19.40086"
+            }, 
+            "hrinfo_id": "358", 
+            "id": "177", 
+            "iso2": "PL", 
+            "iso3": "POL", 
+            "label": {
+                "default": "Poland", 
+                "fts": "Poland", 
+                "humanitarianresponse": "Poland", 
+                "m49": "Poland", 
+                "reliefweb-api": "Poland", 
+                "reliefweb-short": "Poland"
+            }, 
+            "m49": "616", 
+            "reliefweb_id": "190", 
+            "x-alpha-2": "PL", 
+            "x-alpha-3": "POL"
+        }
+    ]
+}

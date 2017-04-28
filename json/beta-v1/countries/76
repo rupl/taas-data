@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "76", 
+            "geolocation": {
+                "lat": "46.6984015", 
+                "lon": "2.350055968"
+            }, 
+            "hrinfo_id": "256", 
+            "id": "76", 
+            "iso2": "FR", 
+            "iso3": "FRA", 
+            "label": {
+                "default": "France", 
+                "fts": "France", 
+                "humanitarianresponse": "France", 
+                "m49": "France", 
+                "reliefweb-api": "France", 
+                "reliefweb-short": "France"
+            }, 
+            "m49": "250", 
+            "reliefweb_id": "92", 
+            "x-alpha-2": "FR", 
+            "x-alpha-3": "FRA"
+        }
+    ]
+}

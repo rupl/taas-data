@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "250", 
+            "geolocation": {
+                "lat": "-19.00126774", 
+                "lon": "29.86951021"
+            }, 
+            "hrinfo_id": "430", 
+            "id": "248", 
+            "iso2": "ZW", 
+            "iso3": "ZWE", 
+            "label": {
+                "default": "Zimbabwe", 
+                "fts": "Zimbabwe", 
+                "humanitarianresponse": "Zimbabwe", 
+                "m49": "Zimbabwe", 
+                "reliefweb-api": "Zimbabwe", 
+                "reliefweb-short": "Zimbabwe"
+            }, 
+            "m49": "716", 
+            "reliefweb_id": "257", 
+            "x-alpha-2": "ZW", 
+            "x-alpha-3": "ZWE"
+        }
+    ]
+}

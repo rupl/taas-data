@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "108", 
+            "geolocation": {
+                "lat": null, 
+                "lon": null
+            }, 
+            "hrinfo_id": "288", 
+            "id": "108", 
+            "iso2": "IM", 
+            "iso3": "IMN", 
+            "label": {
+                "default": "Isle of Man", 
+                "fts": "Isle of Man", 
+                "humanitarianresponse": "Isle of Man", 
+                "m49": "Isle of Man", 
+                "reliefweb-api": "Isle of Man (The United Kingdom of Great Britain and Northern Ireland)", 
+                "reliefweb-short": "Isle of Man"
+            }, 
+            "m49": "833", 
+            "reliefweb_id": "124", 
+            "x-alpha-2": "IM", 
+            "x-alpha-3": "IMN"
+        }
+    ]
+}

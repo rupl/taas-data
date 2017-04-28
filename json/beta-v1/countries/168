@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "169", 
+            "geolocation": {
+                "lat": "29.35468377", 
+                "lon": "68.78655545"
+            }, 
+            "hrinfo_id": "349", 
+            "id": "168", 
+            "iso2": "PK", 
+            "iso3": "PAK", 
+            "label": {
+                "default": "Pakistan", 
+                "fts": "Pakistan", 
+                "humanitarianresponse": "Pakistan", 
+                "m49": "Pakistan", 
+                "reliefweb-api": "Pakistan", 
+                "reliefweb-short": "Pakistan"
+            }, 
+            "m49": "586", 
+            "reliefweb_id": "182", 
+            "x-alpha-2": "PK", 
+            "x-alpha-3": "PAK"
+        }
+    ]
+}

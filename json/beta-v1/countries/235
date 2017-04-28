@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "236", 
+            "geolocation": {
+                "lat": "53.75504855", 
+                "lon": "-2.103843405"
+            }, 
+            "hrinfo_id": "416", 
+            "id": "235", 
+            "iso2": "GB", 
+            "iso3": "GBR", 
+            "label": {
+                "default": "United Kingdom of Great Britain and Northern Ireland (the)", 
+                "fts": "United Kingdom", 
+                "humanitarianresponse": "United Kingdom", 
+                "m49": "United Kingdom of Great Britain and Northern Ireland", 
+                "reliefweb-api": "United Kingdom of Great Britain and Northern Ireland", 
+                "reliefweb-short": "UK"
+            }, 
+            "m49": "826", 
+            "reliefweb_id": "243", 
+            "x-alpha-2": "GB", 
+            "x-alpha-3": "GBR"
+        }
+    ]
+}

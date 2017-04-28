@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "54", 
+            "geolocation": {
+                "lat": "9.960735487", 
+                "lon": "-84.18254176"
+            }, 
+            "hrinfo_id": "234", 
+            "id": "54", 
+            "iso2": "CR", 
+            "iso3": "CRI", 
+            "label": {
+                "default": "Costa Rica", 
+                "fts": "Costa Rica", 
+                "humanitarianresponse": "Costa Rica", 
+                "m49": "Costa Rica", 
+                "reliefweb-api": "Costa Rica", 
+                "reliefweb-short": "Costa Rica"
+            }, 
+            "m49": "188", 
+            "reliefweb_id": "68", 
+            "x-alpha-2": "CR", 
+            "x-alpha-3": "CRI"
+        }
+    ]
+}

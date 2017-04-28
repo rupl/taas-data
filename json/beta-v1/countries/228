@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "229", 
+            "geolocation": {
+                "lat": "38.91218946", 
+                "lon": "35.69849765"
+            }, 
+            "hrinfo_id": "409", 
+            "id": "228", 
+            "iso2": "TR", 
+            "iso3": "TUR", 
+            "label": {
+                "default": "Turkey", 
+                "fts": "Turkey", 
+                "humanitarianresponse": "Turkey", 
+                "m49": "Turkey", 
+                "reliefweb-api": "Turkey", 
+                "reliefweb-short": "Turkey"
+            }, 
+            "m49": "792", 
+            "reliefweb_id": "236", 
+            "x-alpha-2": "TR", 
+            "x-alpha-3": "TUR"
+        }
+    ]
+}

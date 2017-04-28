@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "157", 
+            "geolocation": {
+                "lat": "52.26998137", 
+                "lon": "5.675062933"
+            }, 
+            "hrinfo_id": "337", 
+            "id": "157", 
+            "iso2": "NL", 
+            "iso3": "NLD", 
+            "label": {
+                "default": "Netherlands (the)", 
+                "fts": "Netherlands", 
+                "humanitarianresponse": "Netherlands", 
+                "m49": "Netherlands (the)", 
+                "reliefweb-api": "Netherlands", 
+                "reliefweb-short": "Netherlands (the)"
+            }, 
+            "m49": "528", 
+            "reliefweb_id": "169", 
+            "x-alpha-2": "NL", 
+            "x-alpha-3": "NLD"
+        }
+    ]
+}

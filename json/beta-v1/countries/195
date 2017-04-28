@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "196", 
+            "geolocation": {
+                "lat": "24.12628999", 
+                "lon": "44.54637538"
+            }, 
+            "hrinfo_id": "376", 
+            "id": "195", 
+            "iso2": "SA", 
+            "iso3": "SAU", 
+            "label": {
+                "default": "Saudi Arabia", 
+                "fts": "Saudi Arabia", 
+                "humanitarianresponse": "Saudi Arabia", 
+                "m49": "Saudi Arabia", 
+                "reliefweb-api": "Saudi Arabia", 
+                "reliefweb-short": "Saudi Arabia"
+            }, 
+            "m49": "682", 
+            "reliefweb_id": "207", 
+            "x-alpha-2": "SA", 
+            "x-alpha-3": "SAU"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "103", 
+            "geolocation": {
+                "lat": "22.37137039", 
+                "lon": "79.32792202"
+            }, 
+            "hrinfo_id": "283", 
+            "id": "103", 
+            "iso2": "IN", 
+            "iso3": "IND", 
+            "label": {
+                "default": "India", 
+                "fts": "India", 
+                "humanitarianresponse": "India", 
+                "m49": "India", 
+                "reliefweb-api": "India", 
+                "reliefweb-short": "India"
+            }, 
+            "m49": "356", 
+            "reliefweb_id": "119", 
+            "x-alpha-2": "IN", 
+            "x-alpha-3": "IND"
+        }
+    ]
+}

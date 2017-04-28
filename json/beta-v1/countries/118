@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "118", 
+            "geolocation": {
+                "lat": "40.14251168", 
+                "lon": "127.1828259"
+            }, 
+            "hrinfo_id": "298", 
+            "id": "118", 
+            "iso2": "KP", 
+            "iso3": "PRK", 
+            "label": {
+                "default": "Korea (the Democratic People's Republic of)", 
+                "fts": "Korea, Democratic People's Republic of", 
+                "humanitarianresponse": "Korea, Democratic People's Republic of", 
+                "m49": "Democratic People's Republic of Korea", 
+                "reliefweb-api": "Democratic People's Republic of Korea", 
+                "reliefweb-short": "DPRK"
+            }, 
+            "m49": "408", 
+            "reliefweb_id": "74", 
+            "x-alpha-2": "KP", 
+            "x-alpha-3": "PRK"
+        }
+    ]
+}

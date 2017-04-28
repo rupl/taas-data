@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "111", 
+            "geolocation": {
+                "lat": "18.15206196", 
+                "lon": "-77.31137184"
+            }, 
+            "hrinfo_id": "291", 
+            "id": "111", 
+            "iso2": "JM", 
+            "iso3": "JAM", 
+            "label": {
+                "default": "Jamaica", 
+                "fts": "Jamaica", 
+                "humanitarianresponse": "Jamaica", 
+                "m49": "Jamaica", 
+                "reliefweb-api": "Jamaica", 
+                "reliefweb-short": "Jamaica"
+            }, 
+            "m49": "388", 
+            "reliefweb_id": "127", 
+            "x-alpha-2": "JM", 
+            "x-alpha-3": "JAM"
+        }
+    ]
+}

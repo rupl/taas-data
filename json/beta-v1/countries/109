@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "109", 
+            "geolocation": {
+                "lat": "31.33857325", 
+                "lon": "34.96023155"
+            }, 
+            "hrinfo_id": "289", 
+            "id": "109", 
+            "iso2": "IL", 
+            "iso3": "ISR", 
+            "label": {
+                "default": "Israel", 
+                "fts": "Israel", 
+                "humanitarianresponse": "Israel", 
+                "m49": "Israel", 
+                "reliefweb-api": "Israel", 
+                "reliefweb-short": "Israel"
+            }, 
+            "m49": "376", 
+            "reliefweb_id": "125", 
+            "x-alpha-2": "IL", 
+            "x-alpha-3": "ISR"
+        }
+    ]
+}

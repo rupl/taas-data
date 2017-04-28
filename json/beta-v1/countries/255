@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "166", 
+            "geolocation": {
+                "lat": "25.56053736", 
+                "lon": "152.1251419"
+            }, 
+            "hrinfo_id": "346", 
+            "id": "255", 
+            "iso2": "MP", 
+            "iso3": "MNP", 
+            "label": {
+                "default": "Northern Mariana Islands (the)", 
+                "fts": "Northern Mariana Islands", 
+                "humanitarianresponse": "Northern Mariana Islands", 
+                "m49": "Northern Mariana Islands", 
+                "reliefweb-api": "Northern Mariana Islands (The United States of America)", 
+                "reliefweb-short": "Northern Mariana Islands (the)"
+            }, 
+            "m49": "580", 
+            "reliefweb_id": "178", 
+            "x-alpha-2": "MP", 
+            "x-alpha-3": "MNP"
+        }
+    ]
+}

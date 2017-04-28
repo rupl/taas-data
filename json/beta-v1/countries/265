@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "245", 
+            "geolocation": {
+                "lat": "17.39137826", 
+                "lon": "-64.67699419"
+            }, 
+            "hrinfo_id": "425", 
+            "id": "265", 
+            "iso2": "VI", 
+            "iso3": "VIR", 
+            "label": {
+                "default": "Virgin Islands (U.S.)", 
+                "fts": "Virgin Islands, U.S.", 
+                "humanitarianresponse": "Virgin Islands, U.S.", 
+                "m49": "United States Virgin Islands", 
+                "reliefweb-api": "United States Virgin Islands", 
+                "reliefweb-short": "Virgin Islands (U.S.)"
+            }, 
+            "m49": "850", 
+            "reliefweb_id": "246", 
+            "x-alpha-2": "VI", 
+            "x-alpha-3": "VIR"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "174", 
+            "geolocation": {
+                "lat": "-23.23840821", 
+                "lon": "-58.39126243"
+            }, 
+            "hrinfo_id": "354", 
+            "id": "173", 
+            "iso2": "PY", 
+            "iso3": "PRY", 
+            "label": {
+                "default": "Paraguay", 
+                "fts": "Paraguay", 
+                "humanitarianresponse": "Paraguay", 
+                "m49": "Paraguay", 
+                "reliefweb-api": "Paraguay", 
+                "reliefweb-short": "Paraguay"
+            }, 
+            "m49": "600", 
+            "reliefweb_id": "186", 
+            "x-alpha-2": "PY", 
+            "x-alpha-3": "PRY"
+        }
+    ]
+}

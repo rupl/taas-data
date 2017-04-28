@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "219", 
+            "geolocation": {
+                "lat": "23.74652012", 
+                "lon": "120.9621301"
+            }, 
+            "hrinfo_id": "399", 
+            "id": "218", 
+            "iso2": "TW", 
+            "iso3": "TWN", 
+            "label": {
+                "default": "Taiwan (Province of China)", 
+                "fts": "Taiwan, Province of China", 
+                "humanitarianresponse": "Taiwan, Province of China", 
+                "m49": "Taiwan (Province of China)", 
+                "reliefweb-api": "China - Taiwan Province", 
+                "reliefweb-short": "Taiwan (Province of China)"
+            }, 
+            "m49": "158", 
+            "reliefweb_id": "61", 
+            "x-alpha-2": "TW", 
+            "x-alpha-3": "TWN"
+        }
+    ]
+}

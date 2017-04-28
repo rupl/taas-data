@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "56", 
+            "geolocation": {
+                "lat": "45.18877041", 
+                "lon": "16.42353441"
+            }, 
+            "hrinfo_id": "236", 
+            "id": "56", 
+            "iso2": "HR", 
+            "iso3": "HRV", 
+            "label": {
+                "default": "Croatia", 
+                "fts": "Croatia", 
+                "humanitarianresponse": "Croatia", 
+                "m49": "Croatia", 
+                "reliefweb-api": "Croatia", 
+                "reliefweb-short": "Croatia"
+            }, 
+            "m49": "191", 
+            "reliefweb_id": "70", 
+            "x-alpha-2": "HR", 
+            "x-alpha-3": "HRV"
+        }
+    ]
+}

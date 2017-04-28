@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "84", 
+            "geolocation": {
+                "lat": "7.956118608", 
+                "lon": "-1.209564758"
+            }, 
+            "hrinfo_id": "264", 
+            "id": "84", 
+            "iso2": "GH", 
+            "iso3": "GHA", 
+            "label": {
+                "default": "Ghana", 
+                "fts": "Ghana", 
+                "humanitarianresponse": "Ghana", 
+                "m49": "Ghana", 
+                "reliefweb-api": "Ghana", 
+                "reliefweb-short": "Ghana"
+            }, 
+            "m49": "288", 
+            "reliefweb_id": "102", 
+            "x-alpha-2": "GH", 
+            "x-alpha-3": "GHA"
+        }
+    ]
+}

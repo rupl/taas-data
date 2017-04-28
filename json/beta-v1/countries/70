@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "70", 
+            "geolocation": {
+                "lat": "58.70758667", 
+                "lon": "26.168216"
+            }, 
+            "hrinfo_id": "250", 
+            "id": "70", 
+            "iso2": "EE", 
+            "iso3": "EST", 
+            "label": {
+                "default": "Estonia", 
+                "fts": "Estonia", 
+                "humanitarianresponse": "Estonia", 
+                "m49": "Estonia", 
+                "reliefweb-api": "Estonia", 
+                "reliefweb-short": "Estonia"
+            }, 
+            "m49": "233", 
+            "reliefweb_id": "86", 
+            "x-alpha-2": "EE", 
+            "x-alpha-3": "EST"
+        }
+    ]
+}

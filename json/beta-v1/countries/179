@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "180", 
+            "geolocation": {
+                "lat": "18.22412124", 
+                "lon": "-66.47814528"
+            }, 
+            "hrinfo_id": "360", 
+            "id": "179", 
+            "iso2": "PR", 
+            "iso3": "PRI", 
+            "label": {
+                "default": "Puerto Rico", 
+                "fts": "Puerto Rico", 
+                "humanitarianresponse": "Puerto Rico", 
+                "m49": "Puerto Rico", 
+                "reliefweb-api": "Puerto Rico (The United States of America)", 
+                "reliefweb-short": "Puerto Rico"
+            }, 
+            "m49": "630", 
+            "reliefweb_id": "192", 
+            "x-alpha-2": "PR", 
+            "x-alpha-3": "PRI"
+        }
+    ]
+}

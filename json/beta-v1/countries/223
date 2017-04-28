@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "224", 
+            "geolocation": {
+                "lat": "8.541637601", 
+                "lon": "0.97409513"
+            }, 
+            "hrinfo_id": "404", 
+            "id": "223", 
+            "iso2": "TG", 
+            "iso3": "TGO", 
+            "label": {
+                "default": "Togo", 
+                "fts": "Togo", 
+                "humanitarianresponse": "Togo", 
+                "m49": "Togo", 
+                "reliefweb-api": "Togo", 
+                "reliefweb-short": "Togo"
+            }, 
+            "m49": "768", 
+            "reliefweb_id": "231", 
+            "x-alpha-2": "TG", 
+            "x-alpha-3": "TGO"
+        }
+    ]
+}

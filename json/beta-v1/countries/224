@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "225", 
+            "geolocation": {
+                "lat": "-9.195175351", 
+                "lon": "-171.8526597"
+            }, 
+            "hrinfo_id": "405", 
+            "id": "224", 
+            "iso2": "TK", 
+            "iso3": "TKL", 
+            "label": {
+                "default": "Tokelau", 
+                "fts": "Tokelau", 
+                "humanitarianresponse": "Tokelau", 
+                "m49": "Tokelau", 
+                "reliefweb-api": "Tokelau", 
+                "reliefweb-short": "Tokelau"
+            }, 
+            "m49": "772", 
+            "reliefweb_id": "232", 
+            "x-alpha-2": "TK", 
+            "x-alpha-3": "TKL"
+        }
+    ]
+}

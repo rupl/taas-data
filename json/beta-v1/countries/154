@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "154", 
+            "geolocation": {
+                "lat": "-22.13362728", 
+                "lon": "17.21558466"
+            }, 
+            "hrinfo_id": "334", 
+            "id": "154", 
+            "iso2": "NA", 
+            "iso3": "NAM", 
+            "label": {
+                "default": "Namibia", 
+                "fts": "Namibia", 
+                "humanitarianresponse": "Namibia", 
+                "m49": "Namibia", 
+                "reliefweb-api": "Namibia", 
+                "reliefweb-short": "Namibia"
+            }, 
+            "m49": "516", 
+            "reliefweb_id": "166", 
+            "x-alpha-2": "NA", 
+            "x-alpha-3": "NAM"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "59", 
+            "geolocation": {
+                "lat": "35.01941238", 
+                "lon": "33.1666508"
+            }, 
+            "hrinfo_id": "239", 
+            "id": "59", 
+            "iso2": "CY", 
+            "iso3": "CYP", 
+            "label": {
+                "default": "Cyprus", 
+                "fts": "Cyprus", 
+                "humanitarianresponse": "Cyprus", 
+                "m49": "Cyprus", 
+                "reliefweb-api": "Cyprus", 
+                "reliefweb-short": "Cyprus"
+            }, 
+            "m49": "196", 
+            "reliefweb_id": "72", 
+            "x-alpha-2": "CY", 
+            "x-alpha-3": "CYP"
+        }
+    ]
+}

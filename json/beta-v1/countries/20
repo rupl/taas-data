@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "20", 
+            "geolocation": {
+                "lat": "13.184952", 
+                "lon": "-59.55382245"
+            }, 
+            "hrinfo_id": "200", 
+            "id": "20", 
+            "iso2": "BB", 
+            "iso3": "BRB", 
+            "label": {
+                "default": "Barbados", 
+                "fts": "Barbados", 
+                "humanitarianresponse": "Barbados", 
+                "m49": "Barbados", 
+                "reliefweb-api": "Barbados", 
+                "reliefweb-short": "Barbados"
+            }, 
+            "m49": "52", 
+            "reliefweb_id": "32", 
+            "x-alpha-2": "BB", 
+            "x-alpha-3": "BRB"
+        }
+    ]
+}

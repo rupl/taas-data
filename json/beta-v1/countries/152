@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "152", 
+            "geolocation": {
+                "lat": "-17.2617763", 
+                "lon": "35.55202528"
+            }, 
+            "hrinfo_id": "332", 
+            "id": "152", 
+            "iso2": "MZ", 
+            "iso3": "MOZ", 
+            "label": {
+                "default": "Mozambique", 
+                "fts": "Mozambique", 
+                "humanitarianresponse": "Mozambique", 
+                "m49": "Mozambique", 
+                "reliefweb-api": "Mozambique", 
+                "reliefweb-short": "Mozambique"
+            }, 
+            "m49": "508", 
+            "reliefweb_id": "164", 
+            "x-alpha-2": "MZ", 
+            "x-alpha-3": "MOZ"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "78", 
+            "geolocation": {
+                "lat": "-24.06211632", 
+                "lon": "-156.7187297"
+            }, 
+            "hrinfo_id": "258", 
+            "id": "78", 
+            "iso2": "PF", 
+            "iso3": "PYF", 
+            "label": {
+                "default": "French Polynesia", 
+                "fts": "French Polynesia", 
+                "humanitarianresponse": "French Polynesia", 
+                "m49": "French Polynesia", 
+                "reliefweb-api": "French Polynesia (France)", 
+                "reliefweb-short": "French Polynesia"
+            }, 
+            "m49": "258", 
+            "reliefweb_id": "94", 
+            "x-alpha-2": "PF", 
+            "x-alpha-3": "PYF"
+        }
+    ]
+}

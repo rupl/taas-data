@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "164", 
+            "geolocation": {
+                "lat": "-19.05213426", 
+                "lon": "-169.8688481"
+            }, 
+            "hrinfo_id": "344", 
+            "id": "164", 
+            "iso2": "NU", 
+            "iso3": "NIU", 
+            "label": {
+                "default": "Niue", 
+                "fts": "Niue", 
+                "humanitarianresponse": "Niue", 
+                "m49": "Niue", 
+                "reliefweb-api": "Niue (New Zealand)", 
+                "reliefweb-short": "Niue"
+            }, 
+            "m49": "570", 
+            "reliefweb_id": "176", 
+            "x-alpha-2": "NU", 
+            "x-alpha-3": "NIU"
+        }
+    ]
+}

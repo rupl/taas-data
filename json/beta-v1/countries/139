@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "139", 
+            "geolocation": {
+                "lat": "9.499091883", 
+                "lon": "169.0954645"
+            }, 
+            "hrinfo_id": "319", 
+            "id": "139", 
+            "iso2": "MH", 
+            "iso3": "MHL", 
+            "label": {
+                "default": "Marshall Islands (the)", 
+                "fts": "Marshall Islands", 
+                "humanitarianresponse": "Marshall Islands", 
+                "m49": "Marshall Islands", 
+                "reliefweb-api": "Marshall Islands", 
+                "reliefweb-short": "Marshall Islands (the)"
+            }, 
+            "m49": "584", 
+            "reliefweb_id": "151", 
+            "x-alpha-2": "MH", 
+            "x-alpha-3": "MHL"
+        }
+    ]
+}

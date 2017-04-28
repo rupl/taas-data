@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "205", 
+            "geolocation": {
+                "lat": "-8.823576119", 
+                "lon": "159.6577946"
+            }, 
+            "hrinfo_id": "385", 
+            "id": "204", 
+            "iso2": "SB", 
+            "iso3": "SLB", 
+            "label": {
+                "default": "Solomon Islands", 
+                "fts": "Solomon Islands", 
+                "humanitarianresponse": "Solomon Islands", 
+                "m49": "Solomon Islands", 
+                "reliefweb-api": "Solomon Islands", 
+                "reliefweb-short": "Solomon Islands"
+            }, 
+            "m49": "90", 
+            "reliefweb_id": "215", 
+            "x-alpha-2": "SB", 
+            "x-alpha-3": "SLB"
+        }
+    ]
+}

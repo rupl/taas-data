@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "218", 
+            "geolocation": {
+                "lat": "35.01105189", 
+                "lon": "38.51123805"
+            }, 
+            "hrinfo_id": "398", 
+            "id": "217", 
+            "iso2": "SY", 
+            "iso3": "SYR", 
+            "label": {
+                "default": "Syrian Arab Republic", 
+                "fts": "Syrian Arab Republic", 
+                "humanitarianresponse": "Syrian Arab Republic", 
+                "m49": "Syrian Arab Republic", 
+                "reliefweb-api": "Syrian Arab Republic", 
+                "reliefweb-short": "Syria"
+            }, 
+            "m49": "760", 
+            "reliefweb_id": "226", 
+            "x-alpha-2": "SY", 
+            "x-alpha-3": "SYR"
+        }
+    ]
+}

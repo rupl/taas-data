@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "161", 
+            "geolocation": {
+                "lat": "12.83712778", 
+                "lon": "-85.03655572"
+            }, 
+            "hrinfo_id": "341", 
+            "id": "161", 
+            "iso2": "NI", 
+            "iso3": "NIC", 
+            "label": {
+                "default": "Nicaragua", 
+                "fts": "Nicaragua", 
+                "humanitarianresponse": "Nicaragua", 
+                "m49": "Nicaragua", 
+                "reliefweb-api": "Nicaragua", 
+                "reliefweb-short": "Nicaragua"
+            }, 
+            "m49": "558", 
+            "reliefweb_id": "173", 
+            "x-alpha-2": "NI", 
+            "x-alpha-3": "NIC"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "41", 
+            "geolocation": {
+                "lat": "17.52133998", 
+                "lon": "-24.58506404"
+            }, 
+            "hrinfo_id": "221", 
+            "id": "41", 
+            "iso2": "CV", 
+            "iso3": "CPV", 
+            "label": {
+                "default": "Cabo Verde", 
+                "fts": "Cape Verde", 
+                "humanitarianresponse": "Cape Verde", 
+                "m49": "Cabo Verde", 
+                "reliefweb-api": "Cabo Verde", 
+                "reliefweb-short": "Cabo Verde"
+            }, 
+            "m49": "132", 
+            "reliefweb_id": "52", 
+            "x-alpha-2": "CV", 
+            "x-alpha-3": "CPV"
+        }
+    ]
+}

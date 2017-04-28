@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "221", 
+            "geolocation": {
+                "lat": "-6.273241244", 
+                "lon": "34.79620168"
+            }, 
+            "hrinfo_id": "401", 
+            "id": "220", 
+            "iso2": "TZ", 
+            "iso3": "TZA", 
+            "label": {
+                "default": "Tanzania, United Republic of", 
+                "fts": "Tanzania, United Republic of", 
+                "humanitarianresponse": "Tanzania, United Republic of", 
+                "m49": "United Republic of Tanzania", 
+                "reliefweb-api": "United Republic of Tanzania", 
+                "reliefweb-short": "Tanzania"
+            }, 
+            "m49": "834", 
+            "reliefweb_id": "244", 
+            "x-alpha-2": "TZ", 
+            "x-alpha-3": "TZA"
+        }
+    ]
+}

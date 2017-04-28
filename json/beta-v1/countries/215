@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "216", 
+            "geolocation": {
+                "lat": "62.88018421", 
+                "lon": "16.72425629"
+            }, 
+            "hrinfo_id": "396", 
+            "id": "215", 
+            "iso2": "SE", 
+            "iso3": "SWE", 
+            "label": {
+                "default": "Sweden", 
+                "fts": "Sweden", 
+                "humanitarianresponse": "Sweden", 
+                "m49": "Sweden", 
+                "reliefweb-api": "Sweden", 
+                "reliefweb-short": "Sweden"
+            }, 
+            "m49": "752", 
+            "reliefweb_id": "224", 
+            "x-alpha-2": "SE", 
+            "x-alpha-3": "SWE"
+        }
+    ]
+}

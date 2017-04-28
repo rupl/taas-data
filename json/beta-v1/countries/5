@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "5", 
+            "geolocation": {
+                "lat": "-14.30440488", 
+                "lon": "-170.70783"
+            }, 
+            "hrinfo_id": "185", 
+            "id": "5", 
+            "iso2": "AS", 
+            "iso3": "ASM", 
+            "label": {
+                "default": "American Samoa", 
+                "fts": "American Samoa", 
+                "humanitarianresponse": "American Samoa", 
+                "m49": "American Samoa", 
+                "reliefweb-api": "American Samoa", 
+                "reliefweb-short": "American Samoa"
+            }, 
+            "m49": "16", 
+            "reliefweb_id": "17", 
+            "x-alpha-2": "AS", 
+            "x-alpha-3": "ASM"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "140", 
+            "geolocation": {
+                "lat": "14.65403719", 
+                "lon": "-61.02842534"
+            }, 
+            "hrinfo_id": "320", 
+            "id": "140", 
+            "iso2": "MQ", 
+            "iso3": "MTQ", 
+            "label": {
+                "default": "Martinique", 
+                "fts": "Martinique", 
+                "humanitarianresponse": "Martinique", 
+                "m49": "Martinique", 
+                "reliefweb-api": "Martinique (France)", 
+                "reliefweb-short": "Martinique"
+            }, 
+            "m49": "474", 
+            "reliefweb_id": "152", 
+            "x-alpha-2": "MQ", 
+            "x-alpha-3": "MTQ"
+        }
+    ]
+}

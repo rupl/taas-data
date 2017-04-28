@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "217", 
+            "geolocation": {
+                "lat": "46.80615952", 
+                "lon": "8.243637777"
+            }, 
+            "hrinfo_id": "397", 
+            "id": "216", 
+            "iso2": "CH", 
+            "iso3": "CHE", 
+            "label": {
+                "default": "Switzerland", 
+                "fts": "Switzerland", 
+                "humanitarianresponse": "Switzerland", 
+                "m49": "Switzerland", 
+                "reliefweb-api": "Switzerland", 
+                "reliefweb-short": "Switzerland"
+            }, 
+            "m49": "756", 
+            "reliefweb_id": "225", 
+            "x-alpha-2": "CH", 
+            "x-alpha-3": "CHE"
+        }
+    ]
+}

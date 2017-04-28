@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "203", 
+            "geolocation": {
+                "lat": "48.70609262", 
+                "lon": "19.49110883"
+            }, 
+            "hrinfo_id": "383", 
+            "id": "202", 
+            "iso2": "SK", 
+            "iso3": "SVK", 
+            "label": {
+                "default": "Slovakia", 
+                "fts": "Slovakia", 
+                "humanitarianresponse": "Slovakia", 
+                "m49": "Slovakia", 
+                "reliefweb-api": "Slovakia", 
+                "reliefweb-short": "Slovakia"
+            }, 
+            "m49": "703", 
+            "reliefweb_id": "213", 
+            "x-alpha-2": "SK", 
+            "x-alpha-3": "SVK"
+        }
+    ]
+}

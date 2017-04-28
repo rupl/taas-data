@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "147", 
+            "geolocation": {
+                "lat": "43.74830756", 
+                "lon": "7.410882167"
+            }, 
+            "hrinfo_id": "327", 
+            "id": "147", 
+            "iso2": "MC", 
+            "iso3": "MCO", 
+            "label": {
+                "default": "Monaco", 
+                "fts": "Monaco", 
+                "humanitarianresponse": "Monaco", 
+                "m49": "Monaco", 
+                "reliefweb-api": "Monaco", 
+                "reliefweb-short": "Monaco"
+            }, 
+            "m49": "492", 
+            "reliefweb_id": "159", 
+            "x-alpha-2": "MC", 
+            "x-alpha-3": "MCO"
+        }
+    ]
+}

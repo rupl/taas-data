@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "212", 
+            "geolocation": {
+                "lat": "16.04892872", 
+                "lon": "30.00339118"
+            }, 
+            "hrinfo_id": "392", 
+            "id": "211", 
+            "iso2": "SD", 
+            "iso3": "SDN", 
+            "label": {
+                "default": "Sudan (the)", 
+                "fts": "Sudan", 
+                "humanitarianresponse": "Sudan", 
+                "m49": "Sudan", 
+                "reliefweb-api": "Sudan", 
+                "reliefweb-short": "Sudan (the)"
+            }, 
+            "m49": "729", 
+            "reliefweb_id": "220", 
+            "x-alpha-2": "SD", 
+            "x-alpha-3": "SDN"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "222", 
+            "geolocation": {
+                "lat": "15.15949511", 
+                "lon": "101.020107"
+            }, 
+            "hrinfo_id": "402", 
+            "id": "221", 
+            "iso2": "TH", 
+            "iso3": "THA", 
+            "label": {
+                "default": "Thailand", 
+                "fts": "Thailand", 
+                "humanitarianresponse": "Thailand", 
+                "m49": "Thailand", 
+                "reliefweb-api": "Thailand", 
+                "reliefweb-short": "Thailand"
+            }, 
+            "m49": "764", 
+            "reliefweb_id": "228", 
+            "x-alpha-2": "TH", 
+            "x-alpha-3": "THA"
+        }
+    ]
+}

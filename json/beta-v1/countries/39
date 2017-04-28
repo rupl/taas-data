@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "39", 
+            "geolocation": {
+                "lat": "5.68036831", 
+                "lon": "12.74068837"
+            }, 
+            "hrinfo_id": "219", 
+            "id": "39", 
+            "iso2": "CM", 
+            "iso3": "CMR", 
+            "label": {
+                "default": "Cameroon", 
+                "fts": "Cameroon", 
+                "humanitarianresponse": "Cameroon", 
+                "m49": "Cameroon", 
+                "reliefweb-api": "Cameroon", 
+                "reliefweb-short": "Cameroon"
+            }, 
+            "m49": "120", 
+            "reliefweb_id": "49", 
+            "x-alpha-2": "CM", 
+            "x-alpha-3": "CMR"
+        }
+    ]
+}

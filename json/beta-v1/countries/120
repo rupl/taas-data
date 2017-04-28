@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "120", 
+            "geolocation": {
+                "lat": "29.29832118", 
+                "lon": "47.53304536"
+            }, 
+            "hrinfo_id": "300", 
+            "id": "120", 
+            "iso2": "KW", 
+            "iso3": "KWT", 
+            "label": {
+                "default": "Kuwait", 
+                "fts": "Kuwait", 
+                "humanitarianresponse": "Kuwait", 
+                "m49": "Kuwait", 
+                "reliefweb-api": "Kuwait", 
+                "reliefweb-short": "Kuwait"
+            }, 
+            "m49": "414", 
+            "reliefweb_id": "133", 
+            "x-alpha-2": "KW", 
+            "x-alpha-3": "KWT"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "201", 
+            "geolocation": {
+                "lat": "1.344965221", 
+                "lon": "103.8094495"
+            }, 
+            "hrinfo_id": "381", 
+            "id": "200", 
+            "iso2": "SG", 
+            "iso3": "SGP", 
+            "label": {
+                "default": "Singapore", 
+                "fts": "Singapore", 
+                "humanitarianresponse": "Singapore", 
+                "m49": "Singapore", 
+                "reliefweb-api": "Singapore", 
+                "reliefweb-short": "Singapore"
+            }, 
+            "m49": "702", 
+            "reliefweb_id": "212", 
+            "x-alpha-2": "SG", 
+            "x-alpha-3": "SGP"
+        }
+    ]
+}

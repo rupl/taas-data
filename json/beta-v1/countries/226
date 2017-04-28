@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "227", 
+            "geolocation": {
+                "lat": "10.40535665", 
+                "lon": "-61.29228487"
+            }, 
+            "hrinfo_id": "407", 
+            "id": "226", 
+            "iso2": "TT", 
+            "iso3": "TTO", 
+            "label": {
+                "default": "Trinidad and Tobago", 
+                "fts": "Trinidad and Tobago", 
+                "humanitarianresponse": "Trinidad and Tobago", 
+                "m49": "Trinidad and Tobago", 
+                "reliefweb-api": "Trinidad and Tobago", 
+                "reliefweb-short": "Trinidad and Tobago"
+            }, 
+            "m49": "780", 
+            "reliefweb_id": "234", 
+            "x-alpha-2": "TT", 
+            "x-alpha-3": "TTO"
+        }
+    ]
+}

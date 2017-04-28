@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "128", 
+            "geolocation": {
+                "lat": "47.16457362", 
+                "lon": "9.558885464"
+            }, 
+            "hrinfo_id": "308", 
+            "id": "128", 
+            "iso2": "LI", 
+            "iso3": "LIE", 
+            "label": {
+                "default": "Liechtenstein", 
+                "fts": "Liechtenstein", 
+                "humanitarianresponse": "Liechtenstein", 
+                "m49": "Liechtenstein", 
+                "reliefweb-api": "Liechtenstein", 
+                "reliefweb-short": "Liechtenstein"
+            }, 
+            "m49": "438", 
+            "reliefweb_id": "141", 
+            "x-alpha-2": "LI", 
+            "x-alpha-3": "LIE"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "62", 
+            "geolocation": {
+                "lat": "11.74658946", 
+                "lon": "42.58022315"
+            }, 
+            "hrinfo_id": "242", 
+            "id": "62", 
+            "iso2": "DJ", 
+            "iso3": "DJI", 
+            "label": {
+                "default": "Djibouti", 
+                "fts": "Djibouti", 
+                "humanitarianresponse": "Djibouti", 
+                "m49": "Djibouti", 
+                "reliefweb-api": "Djibouti", 
+                "reliefweb-short": "Djibouti"
+            }, 
+            "m49": "262", 
+            "reliefweb_id": "77", 
+            "x-alpha-2": "DJ", 
+            "x-alpha-3": "DJI"
+        }
+    ]
+}

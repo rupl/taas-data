@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "145", 
+            "geolocation": {
+                "lat": "6.879864281", 
+                "lon": "158.2381178"
+            }, 
+            "hrinfo_id": "325", 
+            "id": "145", 
+            "iso2": "FM", 
+            "iso3": "FSM", 
+            "label": {
+                "default": "Micronesia (Federated States of)", 
+                "fts": "Micronesia, Federated States of", 
+                "humanitarianresponse": "Micronesia, Federated States of", 
+                "m49": "Micronesia (Federated States of)", 
+                "reliefweb-api": "Micronesia (Federated States of)", 
+                "reliefweb-short": "Micronesia"
+            }, 
+            "m49": "583", 
+            "reliefweb_id": "157", 
+            "x-alpha-2": "FM", 
+            "x-alpha-3": "FSM"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": null, 
+            "fts_api_id": null, 
+            "geolocation": {
+                "lat": null, 
+                "lon": null
+            }, 
+            "hrinfo_id": null, 
+            "id": "249", 
+            "iso2": null, 
+            "iso3": null, 
+            "label": {
+                "default": "Azores Islands (Portugal)", 
+                "fts": "Azores Islands (Portugal)", 
+                "humanitarianresponse": "Azores Islands (Portugal)", 
+                "m49": "Azores Islands (Portugal)", 
+                "reliefweb-api": "Azores Islands (Portugal)", 
+                "reliefweb-short": "Azores Islands (Portugal)"
+            }, 
+            "m49": null, 
+            "reliefweb_id": "28", 
+            "x-alpha-2": null, 
+            "x-alpha-3": "AZO"
+        }
+    ]
+}

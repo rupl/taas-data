@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "110", 
+            "geolocation": {
+                "lat": "43.76610159", 
+                "lon": "11.68396919"
+            }, 
+            "hrinfo_id": "290", 
+            "id": "110", 
+            "iso2": "IT", 
+            "iso3": "ITA", 
+            "label": {
+                "default": "Italy", 
+                "fts": "Italy", 
+                "humanitarianresponse": "Italy", 
+                "m49": "Italy", 
+                "reliefweb-api": "Italy", 
+                "reliefweb-short": "Italy"
+            }, 
+            "m49": "380", 
+            "reliefweb_id": "126", 
+            "x-alpha-2": "IT", 
+            "x-alpha-3": "ITA"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "148", 
+            "geolocation": {
+                "lat": "46.83576732", 
+                "lon": "103.0813238"
+            }, 
+            "hrinfo_id": "328", 
+            "id": "148", 
+            "iso2": "MN", 
+            "iso3": "MNG", 
+            "label": {
+                "default": "Mongolia", 
+                "fts": "Mongolia", 
+                "humanitarianresponse": "Mongolia", 
+                "m49": "Mongolia", 
+                "reliefweb-api": "Mongolia", 
+                "reliefweb-short": "Mongolia"
+            }, 
+            "m49": "496", 
+            "reliefweb_id": "160", 
+            "x-alpha-2": "MN", 
+            "x-alpha-3": "MNG"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "159", 
+            "geolocation": {
+                "lat": "-21.33942425", 
+                "lon": "165.2996228"
+            }, 
+            "hrinfo_id": "339", 
+            "id": "159", 
+            "iso2": "NC", 
+            "iso3": "NCL", 
+            "label": {
+                "default": "New Caledonia", 
+                "fts": "New Caledonia", 
+                "humanitarianresponse": "New Caledonia", 
+                "m49": "New Caledonia", 
+                "reliefweb-api": "New Caledonia (France)", 
+                "reliefweb-short": "New Caledonia"
+            }, 
+            "m49": "540", 
+            "reliefweb_id": "171", 
+            "x-alpha-2": "NC", 
+            "x-alpha-3": "NCL"
+        }
+    ]
+}

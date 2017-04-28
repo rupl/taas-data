@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "77", 
+            "geolocation": {
+                "lat": "3.928100844", 
+                "lon": "-53.24266781"
+            }, 
+            "hrinfo_id": "257", 
+            "id": "77", 
+            "iso2": "GF", 
+            "iso3": "GUF", 
+            "label": {
+                "default": "French Guiana", 
+                "fts": "French Guiana", 
+                "humanitarianresponse": "French Guiana", 
+                "m49": "French Guiana", 
+                "reliefweb-api": "French Guiana (France)", 
+                "reliefweb-short": "French Guiana"
+            }, 
+            "m49": "254", 
+            "reliefweb_id": "93", 
+            "x-alpha-2": "GF", 
+            "x-alpha-3": "GUF"
+        }
+    ]
+}

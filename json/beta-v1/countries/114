@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "114", 
+            "geolocation": {
+                "lat": "31.25223934", 
+                "lon": "36.78497101"
+            }, 
+            "hrinfo_id": "294", 
+            "id": "114", 
+            "iso2": "JO", 
+            "iso3": "JOR", 
+            "label": {
+                "default": "Jordan", 
+                "fts": "Jordan", 
+                "humanitarianresponse": "Jordan", 
+                "m49": "Jordan", 
+                "reliefweb-api": "Jordan", 
+                "reliefweb-short": "Jordan"
+            }, 
+            "m49": "400", 
+            "reliefweb_id": "129", 
+            "x-alpha-2": "JO", 
+            "x-alpha-3": "JOR"
+        }
+    ]
+}

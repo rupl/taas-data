@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "11", 
+            "geolocation": {
+                "lat": "-34.98567234", 
+                "lon": "-65.12225892"
+            }, 
+            "hrinfo_id": "191", 
+            "id": "11", 
+            "iso2": "AR", 
+            "iso3": "ARG", 
+            "label": {
+                "default": "Argentina", 
+                "fts": "Argentina", 
+                "humanitarianresponse": "Argentina", 
+                "m49": "Argentina", 
+                "reliefweb-api": "Argentina", 
+                "reliefweb-short": "Argentina"
+            }, 
+            "m49": "32", 
+            "reliefweb_id": "22", 
+            "x-alpha-2": "AR", 
+            "x-alpha-3": "ARG"
+        }
+    ]
+}

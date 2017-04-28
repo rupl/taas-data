@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "75", 
+            "geolocation": {
+                "lat": "64.52173893", 
+                "lon": "26.29452799"
+            }, 
+            "hrinfo_id": "255", 
+            "id": "75", 
+            "iso2": "FI", 
+            "iso3": "FIN", 
+            "label": {
+                "default": "Finland", 
+                "fts": "Finland", 
+                "humanitarianresponse": "Finland", 
+                "m49": "Finland", 
+                "reliefweb-api": "Finland", 
+                "reliefweb-short": "Finland"
+            }, 
+            "m49": "246", 
+            "reliefweb_id": "91", 
+            "x-alpha-2": "FI", 
+            "x-alpha-3": "FIN"
+        }
+    ]
+}

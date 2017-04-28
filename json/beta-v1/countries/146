@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "146", 
+            "geolocation": {
+                "lat": "47.19293174", 
+                "lon": "28.47499987"
+            }, 
+            "hrinfo_id": "326", 
+            "id": "146", 
+            "iso2": "MD", 
+            "iso3": "MDA", 
+            "label": {
+                "default": "Moldova (the Republic of)", 
+                "fts": "Moldova, Republic of", 
+                "humanitarianresponse": "Moldova, Republic of", 
+                "m49": "Republic of Moldova", 
+                "reliefweb-api": "Moldova", 
+                "reliefweb-short": "Moldova (the Republic of)"
+            }, 
+            "m49": "498", 
+            "reliefweb_id": "158", 
+            "x-alpha-2": "MD", 
+            "x-alpha-3": "MDA"
+        }
+    ]
+}

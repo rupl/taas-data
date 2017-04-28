@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "185", 
+            "geolocation": {
+                "lat": "-1.991722808", 
+                "lon": "29.92068123"
+            }, 
+            "hrinfo_id": "365", 
+            "id": "184", 
+            "iso2": "RW", 
+            "iso3": "RWA", 
+            "label": {
+                "default": "Rwanda", 
+                "fts": "Rwanda", 
+                "humanitarianresponse": "Rwanda", 
+                "m49": "Rwanda", 
+                "reliefweb-api": "Rwanda", 
+                "reliefweb-short": "Rwanda"
+            }, 
+            "m49": "646", 
+            "reliefweb_id": "198", 
+            "x-alpha-2": "RW", 
+            "x-alpha-3": "RWA"
+        }
+    ]
+}

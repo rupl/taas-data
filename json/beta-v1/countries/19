@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "19", 
+            "geolocation": {
+                "lat": "23.88207427", 
+                "lon": "90.24107264"
+            }, 
+            "hrinfo_id": "199", 
+            "id": "19", 
+            "iso2": "BD", 
+            "iso3": "BGD", 
+            "label": {
+                "default": "Bangladesh", 
+                "fts": "Bangladesh", 
+                "humanitarianresponse": "Bangladesh", 
+                "m49": "Bangladesh", 
+                "reliefweb-api": "Bangladesh", 
+                "reliefweb-short": "Bangladesh"
+            }, 
+            "m49": "50", 
+            "reliefweb_id": "31", 
+            "x-alpha-2": "BD", 
+            "x-alpha-3": "BGD"
+        }
+    ]
+}

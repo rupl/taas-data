@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "8", 
+            "geolocation": {
+                "lat": "18.22301491", 
+                "lon": "-63.06006462"
+            }, 
+            "hrinfo_id": "188", 
+            "id": "8", 
+            "iso2": "AI", 
+            "iso3": "AIA", 
+            "label": {
+                "default": "Anguilla", 
+                "fts": "Anguilla", 
+                "humanitarianresponse": "Anguilla", 
+                "m49": "Anguilla", 
+                "reliefweb-api": "Anguilla", 
+                "reliefweb-short": "Anguilla"
+            }, 
+            "m49": "660", 
+            "reliefweb_id": "20", 
+            "x-alpha-2": "AI", 
+            "x-alpha-3": "AIA"
+        }
+    ]
+}

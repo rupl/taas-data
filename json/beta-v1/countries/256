@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": null, 
+            "fts_api_id": null, 
+            "geolocation": {
+                "lat": null, 
+                "lon": null
+            }, 
+            "hrinfo_id": null, 
+            "id": "256", 
+            "iso2": null, 
+            "iso3": null, 
+            "label": {
+                "default": "Sark", 
+                "fts": "Sark", 
+                "humanitarianresponse": "Sark", 
+                "m49": "Sark", 
+                "reliefweb-api": "Sark", 
+                "reliefweb-short": "Sark"
+            }, 
+            "m49": "680", 
+            "reliefweb_id": null, 
+            "x-alpha-2": null, 
+            "x-alpha-3": null
+        }
+    ]
+}

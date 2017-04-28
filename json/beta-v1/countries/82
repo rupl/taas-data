@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "82", 
+            "geolocation": {
+                "lat": "42.17290221", 
+                "lon": "43.5117089"
+            }, 
+            "hrinfo_id": "262", 
+            "id": "82", 
+            "iso2": "GE", 
+            "iso3": "GEO", 
+            "label": {
+                "default": "Georgia", 
+                "fts": "Georgia", 
+                "humanitarianresponse": "Georgia", 
+                "m49": "Georgia", 
+                "reliefweb-api": "Georgia", 
+                "reliefweb-short": "Georgia"
+            }, 
+            "m49": "268", 
+            "reliefweb_id": "100", 
+            "x-alpha-2": "GE", 
+            "x-alpha-3": "GEO"
+        }
+    ]
+}

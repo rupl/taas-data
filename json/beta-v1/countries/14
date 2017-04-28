@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "14", 
+            "geolocation": {
+                "lat": "-25.40546125", 
+                "lon": "134.2181189"
+            }, 
+            "hrinfo_id": "194", 
+            "id": "14", 
+            "iso2": "AU", 
+            "iso3": "AUS", 
+            "label": {
+                "default": "Australia", 
+                "fts": "Australia", 
+                "humanitarianresponse": "Australia", 
+                "m49": "Australia", 
+                "reliefweb-api": "Australia", 
+                "reliefweb-short": "Australia"
+            }, 
+            "m49": "36", 
+            "reliefweb_id": "25", 
+            "x-alpha-2": "AU", 
+            "x-alpha-3": "AUS"
+        }
+    ]
+}

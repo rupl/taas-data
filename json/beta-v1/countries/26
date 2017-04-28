@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "26", 
+            "geolocation": {
+                "lat": "27.41443467", 
+                "lon": "90.43085885"
+            }, 
+            "hrinfo_id": "206", 
+            "id": "26", 
+            "iso2": "BT", 
+            "iso3": "BTN", 
+            "label": {
+                "default": "Bhutan", 
+                "fts": "Bhutan", 
+                "humanitarianresponse": "Bhutan", 
+                "m49": "Bhutan", 
+                "reliefweb-api": "Bhutan", 
+                "reliefweb-short": "Bhutan"
+            }, 
+            "m49": "64", 
+            "reliefweb_id": "38", 
+            "x-alpha-2": "BT", 
+            "x-alpha-3": "BTN"
+        }
+    ]
+}

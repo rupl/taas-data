@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "88", 
+            "geolocation": {
+                "lat": "12.11295969", 
+                "lon": "-61.67937955"
+            }, 
+            "hrinfo_id": "268", 
+            "id": "88", 
+            "iso2": "GD", 
+            "iso3": "GRD", 
+            "label": {
+                "default": "Grenada", 
+                "fts": "Grenada", 
+                "humanitarianresponse": "Grenada", 
+                "m49": "Grenada", 
+                "reliefweb-api": "Grenada", 
+                "reliefweb-short": "Grenada"
+            }, 
+            "m49": "308", 
+            "reliefweb_id": "106", 
+            "x-alpha-2": "GD", 
+            "x-alpha-3": "GRD"
+        }
+    ]
+}

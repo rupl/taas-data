@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "223", 
+            "geolocation": {
+                "lat": "-8.767718612", 
+                "lon": "126.0420452"
+            }, 
+            "hrinfo_id": "403", 
+            "id": "222", 
+            "iso2": "TL", 
+            "iso3": "TLS", 
+            "label": {
+                "default": "Timor-Leste", 
+                "fts": "Timor-Leste", 
+                "humanitarianresponse": "Timor-Leste", 
+                "m49": "Timor-Leste", 
+                "reliefweb-api": "Timor-Leste", 
+                "reliefweb-short": "Timor-Leste"
+            }, 
+            "m49": "626", 
+            "reliefweb_id": "230", 
+            "x-alpha-2": "TL", 
+            "x-alpha-3": "TLS"
+        }
+    ]
+}

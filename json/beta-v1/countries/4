@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "4", 
+            "geolocation": {
+                "lat": "28.16474462", 
+                "lon": "2.63351219"
+            }, 
+            "hrinfo_id": "184", 
+            "id": "4", 
+            "iso2": "DZ", 
+            "iso3": "DZA", 
+            "label": {
+                "default": "Algeria", 
+                "fts": "Algeria", 
+                "humanitarianresponse": "Algeria", 
+                "m49": "Algeria", 
+                "reliefweb-api": "Algeria", 
+                "reliefweb-short": "Algeria"
+            }, 
+            "m49": "12", 
+            "reliefweb_id": "16", 
+            "x-alpha-2": "DZ", 
+            "x-alpha-3": "DZA"
+        }
+    ]
+}

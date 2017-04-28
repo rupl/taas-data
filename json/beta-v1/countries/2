@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "2", 
+            "geolocation": {
+                "lat": null, 
+                "lon": null
+            }, 
+            "hrinfo_id": "182", 
+            "id": "2", 
+            "iso2": "AX", 
+            "iso3": "ALA", 
+            "label": {
+                "default": "\u00c5land Islands", 
+                "fts": "\u00c5land Islands", 
+                "humanitarianresponse": "\u00c5land Islands", 
+                "m49": "\u00c5land Islands", 
+                "reliefweb-api": "Aland Islands (Finland)", 
+                "reliefweb-short": "\u00c5land Islands"
+            }, 
+            "m49": "248", 
+            "reliefweb_id": "14", 
+            "x-alpha-2": "AX", 
+            "x-alpha-3": "ALA"
+        }
+    ]
+}

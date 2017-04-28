@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "57", 
+            "geolocation": {
+                "lat": "21.6053525", 
+                "lon": "-78.90713844"
+            }, 
+            "hrinfo_id": "237", 
+            "id": "57", 
+            "iso2": "CU", 
+            "iso3": "CUB", 
+            "label": {
+                "default": "Cuba", 
+                "fts": "Cuba", 
+                "humanitarianresponse": "Cuba", 
+                "m49": "Cuba", 
+                "reliefweb-api": "Cuba", 
+                "reliefweb-short": "Cuba"
+            }, 
+            "m49": "192", 
+            "reliefweb_id": "71", 
+            "x-alpha-2": "CU", 
+            "x-alpha-3": "CUB"
+        }
+    ]
+}

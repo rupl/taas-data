@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "51", 
+            "geolocation": {
+                "lat": "-0.83949506", 
+                "lon": "15.22629207"
+            }, 
+            "hrinfo_id": "231", 
+            "id": "51", 
+            "iso2": "CG", 
+            "iso3": "COG", 
+            "label": {
+                "default": "Congo (the)", 
+                "fts": "Congo", 
+                "humanitarianresponse": "Congo", 
+                "m49": "Congo", 
+                "reliefweb-api": "Congo", 
+                "reliefweb-short": "Congo (the)"
+            }, 
+            "m49": "178", 
+            "reliefweb_id": "66", 
+            "x-alpha-2": "CG", 
+            "x-alpha-3": "COG"
+        }
+    ]
+}

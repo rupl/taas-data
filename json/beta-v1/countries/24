@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "24", 
+            "geolocation": {
+                "lat": "9.642665015", 
+                "lon": "2.342864021"
+            }, 
+            "hrinfo_id": "204", 
+            "id": "24", 
+            "iso2": "BJ", 
+            "iso3": "BEN", 
+            "label": {
+                "default": "Benin", 
+                "fts": "Benin", 
+                "humanitarianresponse": "Benin", 
+                "m49": "Benin", 
+                "reliefweb-api": "Benin", 
+                "reliefweb-short": "Benin"
+            }, 
+            "m49": "204", 
+            "reliefweb_id": "36", 
+            "x-alpha-2": "BJ", 
+            "x-alpha-3": "BEN"
+        }
+    ]
+}

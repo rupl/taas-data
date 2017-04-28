@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "200", 
+            "geolocation": {
+                "lat": "8.571898577", 
+                "lon": "-11.77850059"
+            }, 
+            "hrinfo_id": "380", 
+            "id": "199", 
+            "iso2": "SL", 
+            "iso3": "SLE", 
+            "label": {
+                "default": "Sierra Leone", 
+                "fts": "Sierra Leone", 
+                "humanitarianresponse": "Sierra Leone", 
+                "m49": "Sierra Leone", 
+                "reliefweb-api": "Sierra Leone", 
+                "reliefweb-short": "Sierra Leone"
+            }, 
+            "m49": "694", 
+            "reliefweb_id": "211", 
+            "x-alpha-2": "SL", 
+            "x-alpha-3": "SLE"
+        }
+    ]
+}

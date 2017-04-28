@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "34", 
+            "geolocation": {
+                "lat": "4.439247073", 
+                "lon": "114.4374636"
+            }, 
+            "hrinfo_id": "214", 
+            "id": "34", 
+            "iso2": "BN", 
+            "iso3": "BRN", 
+            "label": {
+                "default": "Brunei Darussalam", 
+                "fts": "Brunei Darussalam", 
+                "humanitarianresponse": "Brunei Darussalam", 
+                "m49": "Brunei Darussalam", 
+                "reliefweb-api": "Brunei Darussalam", 
+                "reliefweb-short": "Brunei Darussalam"
+            }, 
+            "m49": "96", 
+            "reliefweb_id": "44", 
+            "x-alpha-2": "BN", 
+            "x-alpha-3": "BRN"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "37", 
+            "geolocation": {
+                "lat": "-3.356208708", 
+                "lon": "29.89200134"
+            }, 
+            "hrinfo_id": "217", 
+            "id": "37", 
+            "iso2": "BI", 
+            "iso3": "BDI", 
+            "label": {
+                "default": "Burundi", 
+                "fts": "Burundi", 
+                "humanitarianresponse": "Burundi", 
+                "m49": "Burundi", 
+                "reliefweb-api": "Burundi", 
+                "reliefweb-short": "Burundi"
+            }, 
+            "m49": "108", 
+            "reliefweb_id": "47", 
+            "x-alpha-2": "BI", 
+            "x-alpha-3": "BDI"
+        }
+    ]
+}

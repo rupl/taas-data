@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "192", 
+            "geolocation": {
+                "lat": "13.25481082", 
+                "lon": "-61.19376585"
+            }, 
+            "hrinfo_id": "372", 
+            "id": "191", 
+            "iso2": "VC", 
+            "iso3": "VCT", 
+            "label": {
+                "default": "Saint Vincent and the Grenadines", 
+                "fts": "Saint Vincent and the Grenadines", 
+                "humanitarianresponse": "Saint Vincent and the Grenadines", 
+                "m49": "Saint Vincent and the Grenadines", 
+                "reliefweb-api": "Saint Vincent and the Grenadines", 
+                "reliefweb-short": "St. Vincent & Grenadines"
+            }, 
+            "m49": "670", 
+            "reliefweb_id": "203", 
+            "x-alpha-2": "VC", 
+            "x-alpha-3": "VCT"
+        }
+    ]
+}

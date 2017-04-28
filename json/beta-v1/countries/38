@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "admin_level": "0", 
+            "fts_api_id": "38", 
+            "geolocation": {
+                "lat": "12.71583138", 
+                "lon": "104.9221723"
+            }, 
+            "hrinfo_id": "218", 
+            "id": "38", 
+            "iso2": "KH", 
+            "iso3": "KHM", 
+            "label": {
+                "default": "Cambodia", 
+                "fts": "Cambodia", 
+                "humanitarianresponse": "Cambodia", 
+                "m49": "Cambodia", 
+                "reliefweb-api": "Cambodia", 
+                "reliefweb-short": "Cambodia"
+            }, 
+            "m49": "116", 
+            "reliefweb_id": "48", 
+            "x-alpha-2": "KH", 
+            "x-alpha-3": "KHM"
+        }
+    ]
+}
