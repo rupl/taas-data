@@ -13,11 +13,11 @@
             "iso3": "GUF", 
             "label": {
                 "default": "French Guiana", 
-                "fts": "French Guiana", 
-                "humanitarianresponse": "French Guiana", 
-                "m49": "French Guiana", 
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
                 "reliefweb-api": "French Guiana (France)", 
-                "reliefweb-short": "French Guiana"
+                "reliefweb-short": null
             }, 
             "m49": "254", 
             "reliefweb_id": "93", 

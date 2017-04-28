@@ -13,11 +13,11 @@
             "iso3": "MUS", 
             "label": {
                 "default": "Mauritius", 
-                "fts": "Mauritius", 
-                "humanitarianresponse": "Mauritius", 
-                "m49": "Mauritius", 
-                "reliefweb-api": "Mauritius", 
-                "reliefweb-short": "Mauritius"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "480", 
             "reliefweb_id": "154", 

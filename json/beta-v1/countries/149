@@ -13,11 +13,11 @@
             "iso3": "MNE", 
             "label": {
                 "default": "Montenegro", 
-                "fts": "Montenegro", 
-                "humanitarianresponse": "Montenegro", 
-                "m49": "Montenegro", 
-                "reliefweb-api": "Montenegro", 
-                "reliefweb-short": "Montenegro"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "499", 
             "reliefweb_id": "161", 

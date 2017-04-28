@@ -13,11 +13,11 @@
             "iso3": "ZMB", 
             "label": {
                 "default": "Zambia", 
-                "fts": "Zambia", 
-                "humanitarianresponse": "Zambia", 
-                "m49": "Zambia", 
-                "reliefweb-api": "Zambia", 
-                "reliefweb-short": "Zambia"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "894", 
             "reliefweb_id": "256", 

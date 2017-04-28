@@ -13,11 +13,11 @@
             "iso3": "JOR", 
             "label": {
                 "default": "Jordan", 
-                "fts": "Jordan", 
-                "humanitarianresponse": "Jordan", 
-                "m49": "Jordan", 
-                "reliefweb-api": "Jordan", 
-                "reliefweb-short": "Jordan"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "400", 
             "reliefweb_id": "129", 

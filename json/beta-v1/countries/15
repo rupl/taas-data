@@ -13,11 +13,11 @@
             "iso3": "AUT", 
             "label": {
                 "default": "Austria", 
-                "fts": "Austria", 
-                "humanitarianresponse": "Austria", 
-                "m49": "Austria", 
-                "reliefweb-api": "Austria", 
-                "reliefweb-short": "Austria"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "40", 
             "reliefweb_id": "26", 

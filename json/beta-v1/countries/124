@@ -13,11 +13,11 @@
             "iso3": "LBN", 
             "label": {
                 "default": "Lebanon", 
-                "fts": "Lebanon", 
-                "humanitarianresponse": "Lebanon", 
-                "m49": "Lebanon", 
-                "reliefweb-api": "Lebanon", 
-                "reliefweb-short": "Lebanon"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "422", 
             "reliefweb_id": "137", 

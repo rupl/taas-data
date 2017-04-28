@@ -13,11 +13,11 @@
             "iso3": "BHR", 
             "label": {
                 "default": "Bahrain", 
-                "fts": "Bahrain", 
-                "humanitarianresponse": "Bahrain", 
-                "m49": "Bahrain", 
-                "reliefweb-api": "Bahrain", 
-                "reliefweb-short": "Bahrain"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "48", 
             "reliefweb_id": "30", 

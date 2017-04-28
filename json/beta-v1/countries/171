@@ -13,11 +13,11 @@
             "iso3": "PAN", 
             "label": {
                 "default": "Panama", 
-                "fts": "Panama", 
-                "humanitarianresponse": "Panama", 
-                "m49": "Panama", 
-                "reliefweb-api": "Panama", 
-                "reliefweb-short": "Panama"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "591", 
             "reliefweb_id": "184", 

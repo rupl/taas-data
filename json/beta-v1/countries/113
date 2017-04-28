@@ -13,11 +13,11 @@
             "iso3": "JEY", 
             "label": {
                 "default": "Jersey", 
-                "fts": "Jersey", 
-                "humanitarianresponse": "Jersey", 
-                "m49": "Jersey", 
-                "reliefweb-api": "Jersey", 
-                "reliefweb-short": "Jersey"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "832", 
             "reliefweb_id": null, 

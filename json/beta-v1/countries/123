@@ -13,11 +13,11 @@
             "iso3": "LVA", 
             "label": {
                 "default": "Latvia", 
-                "fts": "Latvia", 
-                "humanitarianresponse": "Latvia", 
-                "m49": "Latvia", 
-                "reliefweb-api": "Latvia", 
-                "reliefweb-short": "Latvia"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "428", 
             "reliefweb_id": "136", 

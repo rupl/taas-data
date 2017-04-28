@@ -13,11 +13,11 @@
             "iso3": "EGY", 
             "label": {
                 "default": "Egypt", 
-                "fts": "Egypt", 
-                "humanitarianresponse": "Egypt", 
-                "m49": "Egypt", 
-                "reliefweb-api": "Egypt", 
-                "reliefweb-short": "Egypt"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "818", 
             "reliefweb_id": "82", 

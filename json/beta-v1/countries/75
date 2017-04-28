@@ -13,11 +13,11 @@
             "iso3": "FIN", 
             "label": {
                 "default": "Finland", 
-                "fts": "Finland", 
-                "humanitarianresponse": "Finland", 
-                "m49": "Finland", 
-                "reliefweb-api": "Finland", 
-                "reliefweb-short": "Finland"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "246", 
             "reliefweb_id": "91", 

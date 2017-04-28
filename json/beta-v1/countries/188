@@ -13,11 +13,11 @@
             "iso3": "LCA", 
             "label": {
                 "default": "Saint Lucia", 
-                "fts": "Saint Lucia", 
-                "humanitarianresponse": "Saint Lucia", 
-                "m49": "Saint Lucia", 
-                "reliefweb-api": "Saint Lucia", 
-                "reliefweb-short": "Saint Lucia"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "662", 
             "reliefweb_id": "201", 

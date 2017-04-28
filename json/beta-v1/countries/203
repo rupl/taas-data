@@ -13,11 +13,11 @@
             "iso3": "SVN", 
             "label": {
                 "default": "Slovenia", 
-                "fts": "Slovenia", 
-                "humanitarianresponse": "Slovenia", 
-                "m49": "Slovenia", 
-                "reliefweb-api": "Slovenia", 
-                "reliefweb-short": "Slovenia"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "705", 
             "reliefweb_id": "214", 

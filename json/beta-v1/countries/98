@@ -17,7 +17,7 @@
                 "humanitarianresponse": "Holy See (Vatican City State)", 
                 "m49": "Holy See", 
                 "reliefweb-api": "Holy See", 
-                "reliefweb-short": "Holy See (the)"
+                "reliefweb-short": null
             }, 
             "m49": "336", 
             "reliefweb_id": "115", 

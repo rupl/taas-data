@@ -13,11 +13,11 @@
             "iso3": "SPM", 
             "label": {
                 "default": "Saint Pierre and Miquelon", 
-                "fts": "Saint Pierre and Miquelon", 
-                "humanitarianresponse": "Saint Pierre and Miquelon", 
-                "m49": "Saint Pierre and Miquelon", 
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
                 "reliefweb-api": "Saint Pierre and Miquelon (France)", 
-                "reliefweb-short": "Saint Pierre and Miquelon"
+                "reliefweb-short": null
             }, 
             "m49": "666", 
             "reliefweb_id": "202", 

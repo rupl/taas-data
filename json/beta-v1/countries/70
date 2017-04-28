@@ -13,11 +13,11 @@
             "iso3": "EST", 
             "label": {
                 "default": "Estonia", 
-                "fts": "Estonia", 
-                "humanitarianresponse": "Estonia", 
-                "m49": "Estonia", 
-                "reliefweb-api": "Estonia", 
-                "reliefweb-short": "Estonia"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "233", 
             "reliefweb_id": "86", 

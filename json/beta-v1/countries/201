@@ -13,11 +13,11 @@
             "iso3": "SXM", 
             "label": {
                 "default": "Sint Maarten (Dutch part)", 
-                "fts": "Sint Maarten (Dutch part)", 
-                "humanitarianresponse": "Sint Maarten (Dutch part)", 
-                "m49": "Sint Maarten (Dutch part)", 
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
                 "reliefweb-api": "Sint Maarten (The Netherlands)", 
-                "reliefweb-short": "Sint Maarten (Dutch part)"
+                "reliefweb-short": null
             }, 
             "m49": "534", 
             "reliefweb_id": "14892", 

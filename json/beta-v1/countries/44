@@ -13,11 +13,11 @@
             "iso3": "TCD", 
             "label": {
                 "default": "Chad", 
-                "fts": "Chad", 
-                "humanitarianresponse": "Chad", 
-                "m49": "Chad", 
-                "reliefweb-api": "Chad", 
-                "reliefweb-short": "Chad"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "148", 
             "reliefweb_id": "55", 

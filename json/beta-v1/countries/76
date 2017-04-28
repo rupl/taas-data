@@ -13,11 +13,11 @@
             "iso3": "FRA", 
             "label": {
                 "default": "France", 
-                "fts": "France", 
-                "humanitarianresponse": "France", 
-                "m49": "France", 
-                "reliefweb-api": "France", 
-                "reliefweb-short": "France"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "250", 
             "reliefweb_id": "92", 

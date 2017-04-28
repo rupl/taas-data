@@ -13,11 +13,11 @@
             "iso3": "BRB", 
             "label": {
                 "default": "Barbados", 
-                "fts": "Barbados", 
-                "humanitarianresponse": "Barbados", 
-                "m49": "Barbados", 
-                "reliefweb-api": "Barbados", 
-                "reliefweb-short": "Barbados"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "52", 
             "reliefweb_id": "32", 

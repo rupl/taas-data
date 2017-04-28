@@ -13,11 +13,11 @@
             "iso3": "HMD", 
             "label": {
                 "default": "Heard Island and McDonald Islands", 
-                "fts": "Heard Island and McDonald Islands", 
-                "humanitarianresponse": "Heard Island and McDonald Islands", 
-                "m49": "Heard Island and McDonald Islands", 
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
                 "reliefweb-api": "Heard Island and McDonald Islands (Australia)", 
-                "reliefweb-short": "Heard Island and McDonald Islands"
+                "reliefweb-short": null
             }, 
             "m49": "334", 
             "reliefweb_id": "114", 

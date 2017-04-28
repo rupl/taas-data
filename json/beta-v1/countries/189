@@ -13,11 +13,11 @@
             "iso3": "MAF", 
             "label": {
                 "default": "Saint Martin (French part)", 
-                "fts": "Saint Martin (French part)", 
-                "humanitarianresponse": "Saint Martin (French part)", 
-                "m49": "Saint Martin (French part)", 
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
                 "reliefweb-api": "Saint Martin (France)", 
-                "reliefweb-short": "Saint Martin (French part)"
+                "reliefweb-short": null
             }, 
             "m49": "663", 
             "reliefweb_id": "14891", 

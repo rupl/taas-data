@@ -13,11 +13,11 @@
             "iso3": "SGS", 
             "label": {
                 "default": "South Georgia and the South Sandwich Islands", 
-                "fts": "South Georgia and the South Sandwich Islands", 
-                "humanitarianresponse": "South Georgia and the South Sandwich Islands", 
-                "m49": "South Georgia and the South Sandwich Islands", 
-                "reliefweb-api": "South Georgia and the South Sandwich Islands", 
-                "reliefweb-short": "South Georgia and the South Sandwich Islands"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "239", 
             "reliefweb_id": null, 

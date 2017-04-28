@@ -13,11 +13,11 @@
             "iso3": "BVT", 
             "label": {
                 "default": "Bouvet Island", 
-                "fts": "Bouvet Island", 
-                "humanitarianresponse": "Bouvet Island", 
-                "m49": "Bouvet Island", 
-                "reliefweb-api": "Bouvet Island", 
-                "reliefweb-short": "Bouvet Island"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "74", 
             "reliefweb_id": null, 

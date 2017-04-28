@@ -13,11 +13,11 @@
             "iso3": "AFG", 
             "label": {
                 "default": "Afghanistan", 
-                "fts": "Afghanistan", 
-                "humanitarianresponse": "Afghanistan", 
-                "m49": "Afghanistan", 
-                "reliefweb-api": "Afghanistan", 
-                "reliefweb-short": "Afghanistan"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "4", 
             "reliefweb_id": "13", 

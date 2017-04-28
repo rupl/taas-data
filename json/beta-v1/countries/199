@@ -13,11 +13,11 @@
             "iso3": "SLE", 
             "label": {
                 "default": "Sierra Leone", 
-                "fts": "Sierra Leone", 
-                "humanitarianresponse": "Sierra Leone", 
-                "m49": "Sierra Leone", 
-                "reliefweb-api": "Sierra Leone", 
-                "reliefweb-short": "Sierra Leone"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "694", 
             "reliefweb_id": "211", 

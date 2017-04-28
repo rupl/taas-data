@@ -13,11 +13,11 @@
             "iso3": "GNB", 
             "label": {
                 "default": "Guinea-Bissau", 
-                "fts": "Guinea-Bissau", 
-                "humanitarianresponse": "Guinea-Bissau", 
-                "m49": "Guinea-Bissau", 
-                "reliefweb-api": "Guinea-Bissau", 
-                "reliefweb-short": "Guinea-Bissau"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "624", 
             "reliefweb_id": "111", 

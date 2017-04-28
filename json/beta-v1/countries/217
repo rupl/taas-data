@@ -13,10 +13,10 @@
             "iso3": "SYR", 
             "label": {
                 "default": "Syrian Arab Republic", 
-                "fts": "Syrian Arab Republic", 
-                "humanitarianresponse": "Syrian Arab Republic", 
-                "m49": "Syrian Arab Republic", 
-                "reliefweb-api": "Syrian Arab Republic", 
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
                 "reliefweb-short": "Syria"
             }, 
             "m49": "760", 

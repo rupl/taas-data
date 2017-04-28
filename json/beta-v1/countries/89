@@ -13,11 +13,11 @@
             "iso3": "GLP", 
             "label": {
                 "default": "Guadeloupe", 
-                "fts": "Guadeloupe", 
-                "humanitarianresponse": "Guadeloupe", 
-                "m49": "Guadeloupe", 
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
                 "reliefweb-api": "Guadeloupe (France)", 
-                "reliefweb-short": "Guadeloupe"
+                "reliefweb-short": null
             }, 
             "m49": "312", 
             "reliefweb_id": "107", 

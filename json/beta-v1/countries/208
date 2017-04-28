@@ -13,11 +13,11 @@
             "iso3": "ESP", 
             "label": {
                 "default": "Spain", 
-                "fts": "Spain", 
-                "humanitarianresponse": "Spain", 
-                "m49": "Spain", 
-                "reliefweb-api": "Spain", 
-                "reliefweb-short": "Spain"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "724", 
             "reliefweb_id": "218", 

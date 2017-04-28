@@ -13,11 +13,11 @@
             "iso3": "MWI", 
             "label": {
                 "default": "Malawi", 
-                "fts": "Malawi", 
-                "humanitarianresponse": "Malawi", 
-                "m49": "Malawi", 
-                "reliefweb-api": "Malawi", 
-                "reliefweb-short": "Malawi"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "454", 
             "reliefweb_id": "146", 

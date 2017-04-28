@@ -13,11 +13,11 @@
             "iso3": "ALA", 
             "label": {
                 "default": "\u00c5land Islands", 
-                "fts": "\u00c5land Islands", 
-                "humanitarianresponse": "\u00c5land Islands", 
-                "m49": "\u00c5land Islands", 
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
                 "reliefweb-api": "Aland Islands (Finland)", 
-                "reliefweb-short": "\u00c5land Islands"
+                "reliefweb-short": null
             }, 
             "m49": "248", 
             "reliefweb_id": "14", 

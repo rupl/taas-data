@@ -13,11 +13,11 @@
             "iso3": "ARM", 
             "label": {
                 "default": "Armenia", 
-                "fts": "Armenia", 
-                "humanitarianresponse": "Armenia", 
-                "m49": "Armenia", 
-                "reliefweb-api": "Armenia", 
-                "reliefweb-short": "Armenia"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "51", 
             "reliefweb_id": "23", 

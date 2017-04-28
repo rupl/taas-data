@@ -13,11 +13,11 @@
             "iso3": "AIA", 
             "label": {
                 "default": "Anguilla", 
-                "fts": "Anguilla", 
-                "humanitarianresponse": "Anguilla", 
-                "m49": "Anguilla", 
-                "reliefweb-api": "Anguilla", 
-                "reliefweb-short": "Anguilla"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "660", 
             "reliefweb_id": "20", 

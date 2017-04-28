@@ -13,11 +13,11 @@
             "iso3": "PRY", 
             "label": {
                 "default": "Paraguay", 
-                "fts": "Paraguay", 
-                "humanitarianresponse": "Paraguay", 
-                "m49": "Paraguay", 
-                "reliefweb-api": "Paraguay", 
-                "reliefweb-short": "Paraguay"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "600", 
             "reliefweb_id": "186", 

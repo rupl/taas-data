@@ -13,11 +13,11 @@
             "iso3": "CUB", 
             "label": {
                 "default": "Cuba", 
-                "fts": "Cuba", 
-                "humanitarianresponse": "Cuba", 
-                "m49": "Cuba", 
-                "reliefweb-api": "Cuba", 
-                "reliefweb-short": "Cuba"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "192", 
             "reliefweb_id": "71", 

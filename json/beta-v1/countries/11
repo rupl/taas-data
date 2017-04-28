@@ -13,11 +13,11 @@
             "iso3": "ARG", 
             "label": {
                 "default": "Argentina", 
-                "fts": "Argentina", 
-                "humanitarianresponse": "Argentina", 
-                "m49": "Argentina", 
-                "reliefweb-api": "Argentina", 
-                "reliefweb-short": "Argentina"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "32", 
             "reliefweb_id": "22", 

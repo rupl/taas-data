@@ -13,11 +13,11 @@
             "iso3": "SWE", 
             "label": {
                 "default": "Sweden", 
-                "fts": "Sweden", 
-                "humanitarianresponse": "Sweden", 
-                "m49": "Sweden", 
-                "reliefweb-api": "Sweden", 
-                "reliefweb-short": "Sweden"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "752", 
             "reliefweb_id": "224", 

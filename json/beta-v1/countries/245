@@ -13,11 +13,11 @@
             "iso3": "ESH", 
             "label": {
                 "default": "Western Sahara", 
-                "fts": "Western Sahara", 
-                "humanitarianresponse": "Western Sahara", 
-                "m49": "Western Sahara", 
-                "reliefweb-api": "Western Sahara", 
-                "reliefweb-short": "Western Sahara"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "732", 
             "reliefweb_id": "253", 

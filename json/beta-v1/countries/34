@@ -13,11 +13,11 @@
             "iso3": "BRN", 
             "label": {
                 "default": "Brunei Darussalam", 
-                "fts": "Brunei Darussalam", 
-                "humanitarianresponse": "Brunei Darussalam", 
-                "m49": "Brunei Darussalam", 
-                "reliefweb-api": "Brunei Darussalam", 
-                "reliefweb-short": "Brunei Darussalam"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "96", 
             "reliefweb_id": "44", 

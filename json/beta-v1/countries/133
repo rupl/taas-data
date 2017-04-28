@@ -13,11 +13,11 @@
             "iso3": "MDG", 
             "label": {
                 "default": "Madagascar", 
-                "fts": "Madagascar", 
-                "humanitarianresponse": "Madagascar", 
-                "m49": "Madagascar", 
-                "reliefweb-api": "Madagascar", 
-                "reliefweb-short": "Madagascar"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "450", 
             "reliefweb_id": "144", 

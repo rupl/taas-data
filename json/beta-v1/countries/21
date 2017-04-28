@@ -13,11 +13,11 @@
             "iso3": "BLR", 
             "label": {
                 "default": "Belarus", 
-                "fts": "Belarus", 
-                "humanitarianresponse": "Belarus", 
-                "m49": "Belarus", 
-                "reliefweb-api": "Belarus", 
-                "reliefweb-short": "Belarus"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "112", 
             "reliefweb_id": "33", 

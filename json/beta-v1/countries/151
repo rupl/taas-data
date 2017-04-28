@@ -13,11 +13,11 @@
             "iso3": "MAR", 
             "label": {
                 "default": "Morocco", 
-                "fts": "Morocco", 
-                "humanitarianresponse": "Morocco", 
-                "m49": "Morocco", 
-                "reliefweb-api": "Morocco", 
-                "reliefweb-short": "Morocco"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "504", 
             "reliefweb_id": "163", 

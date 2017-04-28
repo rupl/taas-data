@@ -13,11 +13,11 @@
             "iso3": "ISL", 
             "label": {
                 "default": "Iceland", 
-                "fts": "Iceland", 
-                "humanitarianresponse": "Iceland", 
-                "m49": "Iceland", 
-                "reliefweb-api": "Iceland", 
-                "reliefweb-short": "Iceland"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "352", 
             "reliefweb_id": "118", 

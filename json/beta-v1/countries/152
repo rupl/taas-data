@@ -13,11 +13,11 @@
             "iso3": "MOZ", 
             "label": {
                 "default": "Mozambique", 
-                "fts": "Mozambique", 
-                "humanitarianresponse": "Mozambique", 
-                "m49": "Mozambique", 
-                "reliefweb-api": "Mozambique", 
-                "reliefweb-short": "Mozambique"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "508", 
             "reliefweb_id": "164", 

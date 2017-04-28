@@ -13,11 +13,11 @@
             "iso3": "ATG", 
             "label": {
                 "default": "Antigua and Barbuda", 
-                "fts": "Antigua and Barbuda", 
-                "humanitarianresponse": "Antigua and Barbuda", 
-                "m49": "Antigua and Barbuda", 
-                "reliefweb-api": "Antigua and Barbuda", 
-                "reliefweb-short": "Antigua and Barbuda"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "28", 
             "reliefweb_id": "21", 

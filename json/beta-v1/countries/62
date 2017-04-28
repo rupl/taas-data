@@ -13,11 +13,11 @@
             "iso3": "DJI", 
             "label": {
                 "default": "Djibouti", 
-                "fts": "Djibouti", 
-                "humanitarianresponse": "Djibouti", 
-                "m49": "Djibouti", 
-                "reliefweb-api": "Djibouti", 
-                "reliefweb-short": "Djibouti"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "262", 
             "reliefweb_id": "77", 

@@ -13,8 +13,8 @@
             "iso3": "TZA", 
             "label": {
                 "default": "Tanzania, United Republic of", 
-                "fts": "Tanzania, United Republic of", 
-                "humanitarianresponse": "Tanzania, United Republic of", 
+                "fts": null, 
+                "humanitarianresponse": null, 
                 "m49": "United Republic of Tanzania", 
                 "reliefweb-api": "United Republic of Tanzania", 
                 "reliefweb-short": "Tanzania"

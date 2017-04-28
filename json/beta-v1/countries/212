@@ -13,11 +13,11 @@
             "iso3": "SUR", 
             "label": {
                 "default": "Suriname", 
-                "fts": "Suriname", 
-                "humanitarianresponse": "Suriname", 
-                "m49": "Suriname", 
-                "reliefweb-api": "Suriname", 
-                "reliefweb-short": "Suriname"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "740", 
             "reliefweb_id": "221", 

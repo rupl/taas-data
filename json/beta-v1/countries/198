@@ -13,11 +13,11 @@
             "iso3": "SYC", 
             "label": {
                 "default": "Seychelles", 
-                "fts": "Seychelles", 
-                "humanitarianresponse": "Seychelles", 
-                "m49": "Seychelles", 
-                "reliefweb-api": "Seychelles", 
-                "reliefweb-short": "Seychelles"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "690", 
             "reliefweb_id": "210", 

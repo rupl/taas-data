@@ -13,11 +13,11 @@
             "iso3": "CUW", 
             "label": {
                 "default": "Cura\u00e7ao", 
-                "fts": "Cura\u00e7ao", 
-                "humanitarianresponse": "Cura\u00e7ao", 
-                "m49": "Cura\u00e7ao", 
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
                 "reliefweb-api": "Cura\u00e7ao (The Netherlands)", 
-                "reliefweb-short": "Cura\u00e7ao"
+                "reliefweb-short": null
             }, 
             "m49": "531", 
             "reliefweb_id": "14893", 

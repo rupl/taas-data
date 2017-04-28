@@ -13,11 +13,11 @@
             "iso3": "CHL", 
             "label": {
                 "default": "Chile", 
-                "fts": "Chile", 
-                "humanitarianresponse": "Chile", 
-                "m49": "Chile", 
-                "reliefweb-api": "Chile", 
-                "reliefweb-short": "Chile"
+                "fts": null, 
+                "humanitarianresponse": null, 
+                "m49": null, 
+                "reliefweb-api": null, 
+                "reliefweb-short": null
             }, 
             "m49": "152", 
             "reliefweb_id": "57", 
