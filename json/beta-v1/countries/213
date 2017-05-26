@@ -2,6 +2,7 @@
     "data": [
         {
             "admin_level": "0", 
+            "dgacm-list": null, 
             "fts_api_id": "214", 
             "geolocation": {
                 "lat": "77.62362195", 
@@ -12,15 +13,23 @@
             "iso2": "SJ", 
             "iso3": "SJM", 
             "label": {
-                "default": "Svalbard and Jan Mayen", 
+                "arabic-short": null, 
+                "chinese-short": null, 
+                "default": "Svalbard and Jan Mayen Islands", 
+                "french-short": null, 
                 "fts": null, 
                 "humanitarianresponse": null, 
-                "m49": "Svalbard and Jan Mayen Islands", 
+                "iso": "Svalbard and Jan Mayen", 
+                "m49": null, 
                 "reliefweb-api": "Svalbard and Jan Mayen Islands", 
-                "reliefweb-short": null
+                "reliefweb-short": null, 
+                "russian-short": null, 
+                "spanish-short": null, 
+                "unterm": null
             }, 
             "m49": "744", 
             "reliefweb_id": "222", 
+            "unterm-list": null, 
             "x-alpha-2": "SJ", 
             "x-alpha-3": "SJM"
         }

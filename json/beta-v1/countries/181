@@ -2,6 +2,7 @@
     "data": [
         {
             "admin_level": "0", 
+            "dgacm-list": null, 
             "fts_api_id": "182", 
             "geolocation": {
                 "lat": "-21.12280909", 
@@ -12,15 +13,23 @@
             "iso2": "RE", 
             "iso3": "REU", 
             "label": {
+                "arabic-short": null, 
+                "chinese-short": null, 
                 "default": "R\u00e9union", 
+                "french-short": null, 
                 "fts": null, 
                 "humanitarianresponse": null, 
+                "iso": null, 
                 "m49": null, 
                 "reliefweb-api": "R\u00e9union (France)", 
-                "reliefweb-short": null
+                "reliefweb-short": null, 
+                "russian-short": null, 
+                "spanish-short": null, 
+                "unterm": null
             }, 
             "m49": "638", 
             "reliefweb_id": "195", 
+            "unterm-list": null, 
             "x-alpha-2": "RE", 
             "x-alpha-3": "REU"
         }
