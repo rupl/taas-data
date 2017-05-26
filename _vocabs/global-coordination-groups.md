@@ -3,7 +3,7 @@ title: Global Coordination Groups
 display-title: Global Coordination Groups (Beta)
 status: JSON available
 json-url: http://vocabulary.unocha.org/json/beta-v1/global_coordination_groups.json
-gss-url: https://docs.google.com/spreadsheets/d/1SxSircxhXMZCe0PWafCht-whjBdI9UqoeFeSUbiLGc4#gid=0
+gss-url: https://docs.google.com/spreadsheets/d/1SxSircxhXMZCe0PWafCht-whjBdI9UqoeFeSUbiLGc4/edit#gid=2037574879
 managed-by: OCHA Field Information Services
 ---
 
