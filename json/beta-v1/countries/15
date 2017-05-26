@@ -2,6 +2,7 @@
     "data": [
         {
             "admin_level": "0", 
+            "dgacm-list": "Y", 
             "fts_api_id": "15", 
             "geolocation": {
                 "lat": "47.59086187", 
@@ -12,15 +13,23 @@
             "iso2": "AT", 
             "iso3": "AUT", 
             "label": {
+                "arabic-short": "\u0627\u0644\u0646\u0645\u0633\u0627", 
+                "chinese-short": "\u5965\u5730\u5229", 
                 "default": "Austria", 
+                "french-short": "Autriche (l') [f\u00e9m.]", 
                 "fts": null, 
                 "humanitarianresponse": null, 
+                "iso": null, 
                 "m49": null, 
                 "reliefweb-api": null, 
-                "reliefweb-short": null
+                "reliefweb-short": null, 
+                "russian-short": "\u0410\u0432\u0441\u0442\u0440\u0438\u044f", 
+                "spanish-short": "Austria", 
+                "unterm": null
             }, 
             "m49": "40", 
             "reliefweb_id": "26", 
+            "unterm-list": "Y", 
             "x-alpha-2": "AT", 
             "x-alpha-3": "AUT"
         }

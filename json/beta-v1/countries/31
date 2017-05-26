@@ -2,6 +2,7 @@
     "data": [
         {
             "admin_level": "0", 
+            "dgacm-list": null, 
             "fts_api_id": "31", 
             "geolocation": {
                 "lat": "-54.42190835", 
@@ -12,15 +13,23 @@
             "iso2": "BV", 
             "iso3": "BVT", 
             "label": {
+                "arabic-short": null, 
+                "chinese-short": null, 
                 "default": "Bouvet Island", 
+                "french-short": null, 
                 "fts": null, 
                 "humanitarianresponse": null, 
+                "iso": null, 
                 "m49": null, 
                 "reliefweb-api": null, 
-                "reliefweb-short": null
+                "reliefweb-short": null, 
+                "russian-short": null, 
+                "spanish-short": null, 
+                "unterm": null
             }, 
             "m49": "74", 
             "reliefweb_id": null, 
+            "unterm-list": null, 
             "x-alpha-2": "BV", 
             "x-alpha-3": "BVT"
         }
