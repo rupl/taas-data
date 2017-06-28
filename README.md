@@ -10,6 +10,10 @@ Visit http://vocabulary.unocha.org/ to see what exports are available, their sou
 - For updates to the `json` and `sheets` directories, please use our [automated jenkins workflow](docs/workflow.md).
 - For all other files, send us a pull-request!
 
+## Updating / Adding Vocabularies
+
+See [How to add a new / edit an existing vocabulary on the OCHA Vocabularies website](how-to.md)
+
 ## Running Jekyll site locally
 
 ### Requirements
@@ -48,6 +52,7 @@ To run the Jekyll site and watch for changes to sass and js:
 ```
 grunt serve
 ```
+Alternatively, if you're not going to be making sass or js changes you can use `jekyll serve`
 
 Go to http://localhost:4000/
 
