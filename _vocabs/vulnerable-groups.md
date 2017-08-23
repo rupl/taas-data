@@ -12,4 +12,4 @@ Contains terms used by ReliefWeb to label content according to vulnerable groups
 Requests should be made to the ReliefWeb API references endpoint through HTTPS, and with an additional parameter (“appname”) to identify the your application, for example:
 <https://api.reliefweb.int/v1/references/vulnerable-groups?appname=vocabulary>
 
-See the API documentation for full details: Mhttp://apidoc.rwlabs.org/>
+See the API documentation for full details: <http://apidoc.rwlabs.org/>
