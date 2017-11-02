@@ -1,6 +1,22 @@
 <footer role="contentinfo" class="footer">
   <div class="container">
-  	<p>Contact: <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
-  	<p>This project is maintained by <a href="https://github.com/UN-OCHA">UN-OCHA</a></p>
+    <ul class="footer__menu">
+      <li><a href="http://www.un.org/en/aboutun/privacy/">Privacy notice</a></li>
+      <li><a href="http://www.un.org/en/aboutun/terms/">Terms of use</a></li>
+    </ul>
+
+    <div class="row footer__small-print">
+      <div class="col-md-6">
+        <p>Contact: <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+        <p>Service provided by<br>
+          <a href="https://www.unocha.org">
+            <img src="{{ "/assets/images/ocha-logo-white.svg" | prepend: site.baseurl }}" alt="UN-OCHA">
+          </a>
+        </p>
+      </div>
+      <div class="col-md-6">
+        <p>© United Nations Office for the Coordination of Humanitarian Affairs</p>
+      </div>
+    </div>
   </div>
 </footer>

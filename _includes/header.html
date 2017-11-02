@@ -1,9 +1,27 @@
-<header role="banner" class="site-header">
-  <div class="container">
-    <div class="site-header__inner">
-      <a href="#main" class="skip-link">Skip to content</a>
-      <a href="{{ site.baseurl }}/" class="site-header__logo">
-        <img src="{{ "/assets/images/ocha-logo.svg" | prepend: site.baseurl }}" alt="UN-OCHA">
+<a href="#main" class="skip-link">Skip to content</a>
+<header class="cd-header" role="banner">
+  <div class="cd-global-header">
+    <div class="container cd-global-header__inner">
+      <div class="cd-global-header__sites cd-dropdown">
+        <button type="button" class="cd-global-header__sites-btn dropdown-btn" data-toggle="dropdown" id="cd-related-platforms-toggle" aria-haspopup="true" aria-expanded="false">
+          Related platforms
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 12"><path fill="#FFF" fill-rule="nonzero" d="M21.2 1.7c0 .4-.2.6-.3.7l-8.4 8.4c-.4.4-.9.6-1.5.6s-1.1-.2-1.5-.6L1.1 2.4C.9 2.2.8 2 .8 1.7c0-.3.1-.5.3-.7.2-.2.4-.3.7-.3.3 0 .5.1.7.3l8.4 8.4H11.2L19.5 1c.4-.4 1-.4 1.4 0 .1.1.3.3.3.7z"/></svg>
+        </button>
+        <ul class="cd-dropdown-menu dropdown-menu" role="menu" id="cd-related-platforms" aria-labelledby="cd-related-platforms-toggle">
+          <li><a href="https://fts.unocha.org/">Financial Tracking Service</a></li>
+          <li><a href="https://humdata.org/">Humanitarian Data Exchange</a></li>
+          <li><a href="https://humanitarian.id/">Humanitarian ID</a></li>
+          <li><a href="https://humanitarianresponse.info/">HumanitarianResponse.info</a></li>
+          <li><a href="https://reliefweb.int/">ReliefWeb</a></li>
+        </ul>
+      </div>
+
+    </div>
+  </div>
+  <div class="cd-site-header">
+    <div class="container cd-site-header__inner">
+      <a href="{{ site.baseurl }}/" class="cd-site-header__logo">
+        <span class="sr-only">OCHA</span>
       </a>
     </div>
   </div>

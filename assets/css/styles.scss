@@ -10,9 +10,14 @@
 @import '../sass/base/_base';
 @import '../sass/base/_grid';
 @import '../sass/base/_helpers';
+@import '../sass/base/_typography';
 @import '../sass/components/_block';
+@import '../sass/components/_dropdown';
 @import '../sass/components/_footer';
-@import '../sass/components/_header';
 @import '../sass/components/_main-content';
 @import '../sass/components/_skip-link';
 @import '../sass/components/_subscribe';
+@import '../sass/components/cd-header/_cd-global-header';
+@import '../sass/components/cd-header/_cd-header';
+@import '../sass/components/cd-header/_cd-nav';
+@import '../sass/components/cd-header/_cd-site-header';

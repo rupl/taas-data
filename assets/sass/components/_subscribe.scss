@@ -6,7 +6,7 @@
 	margin: $base-unit*2 0;
 }
 #mc_embed_signup input {
-	border: 1px solid $input-border-color;
+	border: 1px solid $border-color;
 	@include font-size($base-font-size);
 }
 #mc_embed_signup input[type=checkbox]{-webkit-appearance:checkbox;}
@@ -15,9 +15,9 @@
 #mc_embed_signup .button {
 	clear:both;
 	background-color: white;
-	border: 1px solid $primary-color;
+	border: 1px solid $highlight-border-color;
   transition: all 0.23s ease-in-out 0s;
-  color: $primary-color;
+  color: $secondary-heading-text-color;
   cursor: pointer;
   display: inline-block;
   @include font-size($base-font-size);
@@ -32,13 +32,13 @@
   text-transform: uppercase;
 
   &:focus, &:hover {
-  	background-color: $primary-color;
+  	background-color: $secondary-bg-color;
   	color: white;
   }
 }
 
 #mc_embed_signup .small-meta {
-	@include font-size($small-font-size);
+	@include font-size($tiny-font-size);
 }
 #mc_embed_signup .nowrap {
 	white-space:nowrap;
@@ -57,7 +57,7 @@
 	text-indent:2%;
 }
 #mc_embed_signup .indicates-required {text-align:right; font-size:11px; margin-right:4%;}
-#mc_embed_signup .asterisk {color:$error-color; font-size:150%; font-weight:normal; position:relative; top:5px;}
+#mc_embed_signup .asterisk {color:$error-text-color; font-size:150%; font-weight:normal; position:relative; top:5px;}
 #mc_embed_signup .clear {clear:both;}
 
 #mc_embed_signup .mc-field-group.input-group ul {
@@ -91,8 +91,8 @@
 	font-weight: normal;
 	background-color:rgba(255,255,255,0.85);
 	z-index:1;
-	color:$error-color;
+	color:$error-text-color;
 }
 #mc_embed_signup #mc-embedded-subscribe-form input.mce_inline_error {
-	border-color: $error-color;
+	border-color: $error-border-color;
 }
