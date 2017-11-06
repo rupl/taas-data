@@ -7,7 +7,12 @@ module.exports = function(grunt) {
       options: {},
       dist: {
         files: {
-          'assets/css/styles.scss': ['assets/sass/variables/*.scss', 'assets/sass/mixins/*.scss', 'assets/sass/base/*.scss', 'assets/sass/components/*.scss'],
+          'assets/css/styles.scss': [
+            'assets/sass/variables/*.scss',
+            'assets/sass/mixins/*.scss',
+            'assets/sass/base/*.scss',
+            'assets/sass/components/**/*.scss'
+          ]
         }
       }
     },
@@ -47,7 +52,7 @@ module.exports = function(grunt) {
     uncss: {
       dist: {
         options: {
-          ignore: [/\.js/, /\.active/, /\.open/, /\#mc_embed_signup/]
+          ignore: [/\.js/, /\.active/, /\.open/, /\.dropdown-backdrop/, /\.dropdown-btn/, /\#mc_embed_signup/]
         },
         files: {
           'assets/css/styles.min.css': ['_site/index.html', '_site/subscribe.html']
@@ -74,7 +79,9 @@ module.exports = function(grunt) {
         crawl: false,
         dest: 'assets/js/modernizr-output.js',
         tests: [
-          'flexbox'
+          'flexbox',
+          'svg',
+          'mediaqueries'
         ],
         options: [
           'setClasses'

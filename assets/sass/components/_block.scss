@@ -1,28 +1,32 @@
 .blocks-holder {
-	margin: $base-unit*4 0;	
+	margin: $base-unit*4 0;
 }
 
 .block {
-	background: $light-bg;
-	border-top: 4px solid $dark-blue;
+	background: $light-bg-color;
+	border-top: 4px solid $highlight-border-color;
 	padding: $base-unit*2;
 	margin-bottom: $base-unit*2;
 
 	p:last-child {
 		margin-bottom: 0;
 	}
-	
+
+	a {
+		word-wrap: break-word;
+	}
+
 }
 
 .block__heading {
 	text-transform: uppercase;
-	color: $dark-blue;
+	color: $secondary-heading-text-color;
 	@include font-size($medium-font-size);
 	margin-bottom: $base-unit/2;
 }
 
 .block__status {
-	color: $dark-blue;
+	color: $secondary-heading-text-color;
 	font-weight: bold;
 }
 

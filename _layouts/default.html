@@ -5,18 +5,21 @@
   <body>
   	{% include header.html %}
 
-  	<div id="main" class="container">
-  		<h1>{{page.title}}</h1>
-      <div class="main-content">
-      	{{ content }}
+    <div class="page-wrapper">
+    	<div id="main" class="container">
+    		<h1>{{page.title}}</h1>
+        <div class="main-content">
+        	{{ content }}
+        </div>
       </div>
-    </div>
-    <div class="container">
-      {% include blocks.html %}
+      <div class="container">
+        {% include blocks.html %}
+      </div>
     </div>
 
     {% include footer.html %}
     <script src="{{ "/assets/js/modernizr-output.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/assets/js/dropdown.js" | prepend: site.baseurl }}"></script>
     {% include ga.html %}
   </body>
 
