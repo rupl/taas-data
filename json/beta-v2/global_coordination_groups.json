@@ -1,0 +1,169 @@
+{
+    "data": [
+        {
+            "acronym": "SHL", 
+            "group_type": "Cluster", 
+            "homepage": "https://www.sheltercluster.org/", 
+            "id": "4", 
+            "label": {
+                "en": "Emergency Shelter and NFI", 
+                "fr": "Abris d'urgence et NFI", 
+                "i-default": "Emergency Shelter and NFI"
+            }
+        }, 
+        {
+            "acronym": "CCM", 
+            "group_type": "Cluster", 
+            "homepage": "http://www.globalcccmcluster.org", 
+            "id": "1", 
+            "label": {
+                "en": "Camp Coordination / Management", 
+                "fr": "Coordination et gestion des camps", 
+                "i-default": "Camp Coordination / Management"
+            }
+        }, 
+        {
+            "acronym": "PRO-MIN", 
+            "group_type": "Area of Responsibility (Sub-cluster)", 
+            "homepage": "http://www.globalprotectioncluster.org/en/areas-of-responsibility/mine-action.html", 
+            "id": "5406", 
+            "label": {
+                "en": "Mine Action", 
+                "fr": "Action contre les mines", 
+                "i-default": "Mine Action"
+            }
+        }, 
+        {
+            "acronym": "FSC", 
+            "group_type": "Cluster", 
+            "homepage": "http://foodsecuritycluster.net/", 
+            "id": "6", 
+            "label": {
+                "en": "Food Security", 
+                "fr": "S\u00e9curit\u00e9 alimentaire", 
+                "i-default": "Food Security"
+            }
+        }, 
+        {
+            "acronym": "WSH", 
+            "group_type": "Cluster", 
+            "homepage": "http://washcluster.net/", 
+            "id": "11", 
+            "label": {
+                "en": "Water Sanitation Hygiene", 
+                "fr": "Eau, assainissement et hygi\u00e8ne", 
+                "i-default": "Water Sanitation Hygiene"
+            }
+        }, 
+        {
+            "acronym": "LOG", 
+            "group_type": "Cluster", 
+            "homepage": "http://www.logcluster.org/", 
+            "id": "8", 
+            "label": {
+                "en": "Logistics", 
+                "fr": "Logistique", 
+                "i-default": "Logistics"
+            }
+        }, 
+        {
+            "acronym": "PRO-CPN", 
+            "group_type": "Area of Responsibility (Sub-cluster)", 
+            "homepage": "http://cpwg.net/", 
+            "id": "5403", 
+            "label": {
+                "en": "Child Protection", 
+                "fr": "Protection de l'enfance", 
+                "i-default": "Child Protection"
+            }
+        }, 
+        {
+            "acronym": "PRO", 
+            "group_type": "Cluster", 
+            "homepage": "http://www.globalprotectioncluster.org/", 
+            "id": "10", 
+            "label": {
+                "en": "Protection", 
+                "fr": "Protection", 
+                "i-default": "Protection"
+            }
+        }, 
+        {
+            "acronym": "EDU", 
+            "group_type": "Cluster", 
+            "homepage": "http://educationcluster.net/", 
+            "id": "3", 
+            "label": {
+                "en": "Education", 
+                "fr": "Education", 
+                "i-default": "Education"
+            }
+        }, 
+        {
+            "acronym": "NUT", 
+            "group_type": "Cluster", 
+            "homepage": "http://nutritioncluster.net/", 
+            "id": "9", 
+            "label": {
+                "en": "Nutrition", 
+                "fr": "Nutrition", 
+                "i-default": "Nutrition"
+            }
+        }, 
+        {
+            "acronym": "HEA", 
+            "group_type": "Cluster", 
+            "homepage": "http://www.who.int/health-cluster/en/", 
+            "id": "7", 
+            "label": {
+                "en": "Health", 
+                "fr": "Sant\u00e9", 
+                "i-default": "Health"
+            }
+        }, 
+        {
+            "acronym": "ERY", 
+            "group_type": "Cluster", 
+            "homepage": "http://earlyrecovery.global/", 
+            "id": "2", 
+            "label": {
+                "en": "Early Recovery", 
+                "fr": "Rel\u00e8vement rapide", 
+                "i-default": "Early Recovery"
+            }
+        }, 
+        {
+            "acronym": "TEL", 
+            "group_type": "Cluster", 
+            "homepage": "https://www.etcluster.org/", 
+            "id": "5", 
+            "label": {
+                "en": "Emergency Telecommunications", 
+                "fr": "T\u00e9l\u00e9communications d'urgence", 
+                "i-default": "Emergency Telecommunications"
+            }
+        }, 
+        {
+            "acronym": "PRO-GBV", 
+            "group_type": "Area of Responsibility (Sub-cluster)", 
+            "homepage": "http://gbvaor.net/", 
+            "id": "5404", 
+            "label": {
+                "en": "Gender Based Violence", 
+                "fr": "Violences bas\u00e9es sur le genre", 
+                "i-default": "Gender Based Violence"
+            }
+        }, 
+        {
+            "acronym": "PRO-HLP", 
+            "group_type": "Area of Responsibility (Sub-cluster)", 
+            "homepage": "http://www.globalprotectioncluster.org/en/areas-of-responsibility/housing-land-and-property.html", 
+            "id": "5405", 
+            "label": {
+                "en": "Housing, Land and Property", 
+                "fr": "Logement, terre, et biens", 
+                "i-default": "Housing, Land and Property"
+            }
+        }
+    ]
+}
