@@ -16,5 +16,9 @@
     "grunt-svgmin": "^4.0.0",
     "grunt-uncss": "^0.6.1",
     "load-grunt-tasks": "^0.6.0"
+  },
+  "engines": {
+    "node": "8.11.3",
+    "npm": "6.2.0"
   }
 }
