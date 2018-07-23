@@ -3,19 +3,6 @@ module.exports = function(grunt) {
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
 
-    sass_import: {
-      options: {},
-      dist: {
-        files: {
-          'assets/css/styles.scss': [
-            'assets/sass/variables/*.scss',
-            'assets/sass/mixins/*.scss',
-            'assets/sass/base/*.scss',
-            'assets/sass/components/**/*.scss'
-          ]
-        }
-      }
-    },
     sass: {
       dist: {
         files: {
@@ -92,9 +79,9 @@ module.exports = function(grunt) {
   });
 
   require('load-grunt-tasks')(grunt);
-  grunt.loadNpmTasks("grunt-modernizr"); //not picked up by load-grunt-tasks
+  grunt.loadNpmTasks('grunt-modernizr'); // not picked up by load-grunt-tasks
 
-  grunt.registerTask('default', ['sass_import','sass', 'autoprefixer', 'uncss', 'cssmin', 'modernizr']);
+  grunt.registerTask('default', ['sass', 'autoprefixer', 'uncss', 'cssmin', 'modernizr']);
   grunt.registerTask('serve', ['concurrent:serve'])
 
 };
