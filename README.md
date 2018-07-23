@@ -52,6 +52,7 @@ To run the Jekyll site and watch for changes to sass and js:
 ```
 grunt serve
 ```
+
 Alternatively, if you're not going to be making sass or js changes you can use `jekyll serve`
 
 Go to http://localhost:4000/
@@ -59,9 +60,12 @@ Go to http://localhost:4000/
 ### Deploying
 
 1. Compile the front end resources (Grunt is used for this instead of the standard Jekyll way).
+
 ```
 grunt
 ```
+
+The command will fail on a fresh install. Run `grunt serve` at least once to ensure command successfully completes.
 
 2. Commit your changes, including the minified css files.
 
