@@ -25,6 +25,7 @@
     "gulp-concat": "^2.6.1",
     "gulp-if": "^2.0.2",
     "gulp-jshint": "^2.1.0",
+    "gulp-modernizr": "^3.0.0",
     "gulp-plumber": "^1.2.0",
     "gulp-postcss": "^7.0.1",
     "gulp-rename": "^1.4.0",

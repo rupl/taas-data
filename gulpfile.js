@@ -22,6 +22,7 @@ var uglify = require('gulp-uglify');
 var taskListing = require('gulp-task-listing');
 var changed = require('gulp-changed');
 var concat = require('gulp-concat');
+var modernizr = require('gulp-modernizr');
 
 
 //——————————————————————————————————————————————————————————————————————————————
@@ -87,6 +88,36 @@ gulp.task('dev:sass', () => {
     .pipe(gulp.dest('_site/assets/css/'))
     .pipe(reload({stream: true}));
 });
+
+
+//——————————————————————————————————————————————————————————————————————————————
+// Build Modernizr
+//——————————————————————————————————————————————————————————————————————————————
+gulp.task('dev:modernizr', function() {
+  return gulp.src('assets/js/*.js')
+    .pipe(modernizr('modernizr-output.js', {
+      crawl: false,
+      options: [
+        'setclasses',
+      ],
+      tests: [
+        'flexbox',
+        'mediaqueries',
+        'svg',
+      ],
+      excludeTests: [
+        'dontmin', // this seems to be gulp-modernizr specific requirement
+      ]
+    }))
+    .pipe(uglify({
+      output: {
+        comments: /^!/, // don't remove license or build URL
+      },
+    }))
+    .pipe(gulp.dest('assets/js/'))
+    .pipe(gulp.dest('_site/assets/js/'));
+});
+
 
 //——————————————————————————————————————————————————————————————————————————————
 // JS Linting
