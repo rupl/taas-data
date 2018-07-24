@@ -1,4 +1,5 @@
 # taas-data
+
 UN-OCHA Taxonomy As A Service: Data Exports.
 
 These are the results of running the code in the [TaaS repository](https://github.com/UN-OCHA/taas).
@@ -19,53 +20,42 @@ See [How to add a new / edit an existing vocabulary on the OCHA Vocabularies web
 ### Requirements
 
 * [Ruby](https://www.ruby-lang.org/en/)
-* [Bundler](http://bundler.io/)
+* [Bundler](https://bundler.io/)
 * [Node](https://nodejs.org/)
 * [Jekyll](https://jekyllrb.com)
-* [Grunt CLI](https://gruntjs.com/getting-started)
+* [Gulp.js](https://gulpjs.com/)
 
 ### Installing
 
-Clone the repo
-
 ```
-git@github.com:UN-OCHA/taas-data.git
-```
+# ruby & gems
+bundle install
 
-Install the required gems
-
-```
-cd taas-data
-bundle
-```
-
-Install the front end dependencies
-
-```
+# node.js & modules
+nvm use
 npm install
 ```
 
+We require Node.js 8+ and have supplied an `.nvmrc` if you use [Node Version Manager](https://github.com/creationix/nvm)
+
+
 ### Running
 
-To run the Jekyll site and watch for changes to sass and js:
+One command lets you watch for changes to Jekyll, Sass, and JS, plus run BrowserSync for cross-platform development:
 
 ```
-grunt serve
+gulp dev
 ```
 
-Alternatively, if you're not going to be making sass or js changes you can use `jekyll serve`
-
-Go to http://localhost:4000/
+By default the site is at http://localhost:4000/
 
 ### Deploying
 
-1. Compile the front end resources (Grunt is used for this instead of the standard Jekyll way).
+1. Compile the front end resources. We run a series of commands found in the `.bin/deploy.sh` script. Invoke the script using this command from `npm`:
 
 ```
-grunt
+npm run deploy
 ```
-
-The command will fail on a fresh install. Run `grunt serve` at least once to ensure command successfully completes.
 
 2. Commit your changes, including the minified css files.
 
