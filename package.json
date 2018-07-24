@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "TAAS",
   "author": "UNOCHA",
+  "repository": "git@github.com:UN-OCHA/taas-data.git",
   "license": "Apache-2.0",
   "devDependencies": {
     "autoprefixer": "^9.0.1",
