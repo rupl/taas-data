@@ -13,6 +13,9 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
+  - .vendor
+  - .bundle
   - package.json
-  - Gruntfile.js
+  - gulpfile.js
   - css/styles.scss
+  - README.md
