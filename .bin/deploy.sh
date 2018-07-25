@@ -7,9 +7,20 @@
 # configure node/gulp for deploy
 export NODE_ENV='production'
 
+# run server in background so we can complete UnCSS task during `gulp deploy`
+gulp dev:bs > /dev/null &
+
 # build assets
 gulp deploy
 git add assets
+
+# terminate `gulp dev:bs` background task
+#
+# In the context of this shell script, we can kill the last background job we
+# started because the parent shell doesn't apply in here.
+#
+# @see https://stackoverflow.com/a/30171578/175551
+kill %-
 
 # instruct developer to review/commit/push
 echo ""
