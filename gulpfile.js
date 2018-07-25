@@ -160,7 +160,7 @@ gulp.task('dev:modernizr', function() {
 //——————————————————————————————————————————————————————————————————————————————
 // Build assets and start development server
 //——————————————————————————————————————————————————————————————————————————————
-gulp.task('dev', ['dev:sass', /*'dev:js',*/ 'dev:bs', 'dev:jekyll', 'watch']);
+gulp.task('dev', ['dev:sass', 'dev:modernizr', 'dev:bs', 'dev:jekyll', 'watch']);
 
 
 //——————————————————————————————————————————————————————————————————————————————
