@@ -77,8 +77,16 @@ gulp.task('dev:sass', () => {
         cascade: false,
       }),
       uncss({
-        html: ['_site/index.html', '_site/subscribe.html'],
-        ignore: [/\.js/, /\.active/, /\.open/, /\.dropdown-backdrop/, /\.dropdown-btn/, /\#mc_embed_signup/],
+        html: ['_site/index.html', '_site/subscribe/index.html'],
+        ignore: [
+          /\.js/,
+          /\.active/,
+          /\.open/,
+          /\.dropdown-backdrop/,
+          /\.dropdown-btn/,
+          /\#mc/,
+        ],
+        inject: function(window){ window.document.querySelector('html').classList.add('flexbox', 'no-flexbox', 'mediaqueries', 'no-mediaqueries', 'svg', 'no-svg'); },
       }),
       cssnano(),
     ]))
@@ -166,7 +174,7 @@ gulp.task('watch', () => {
 
 
 //——————————————————————————————————————————————————————————————————————————————
-// Build site for a deploy to production
+// Prep assets for a deploy to production
 //——————————————————————————————————————————————————————————————————————————————
 gulp.task('deploy', ['dev:sass', /*'dev:js'*/]);
 
