@@ -39,7 +39,7 @@ npm install
 We require Node.js 8+ and have supplied an `.nvmrc` if you use [Node Version Manager](https://github.com/creationix/nvm)
 
 
-### Running
+### Normal development
 
 One command lets you watch for changes to Jekyll, Sass, and JS, plus run BrowserSync for cross-platform development:
 
@@ -48,6 +48,16 @@ gulp dev
 ```
 
 By default the site is at http://localhost:4000/
+
+### Rebuilding Modernizr
+
+Occasionally Modernizr might need to be updated. There is also a command for that. Just run it and commit the result:
+
+```
+gulp dev:modernizr
+```
+
+If the command fails to execute ([known bug](https://github.com/rejas/gulp-modernizr/issues/39)) either ask another teammate or manually copy the build URL from the existing Modernizr, visit the URL, and generate a new build, replacing the contents of the existing file.
 
 ### Deploying
 
