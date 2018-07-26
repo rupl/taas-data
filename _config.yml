@@ -1,8 +1,7 @@
 title: Taxonomy As A Service
-description: > # this means to ignore newlines until "baseurl:"
-  Controlled Vocabularies and Taxonomies for Humanitarians
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+description: Controlled Vocabularies and Taxonomies for Humanitarians
+baseurl: '' # the subpath of your site, e.g. /blog
+url: 'https://vocabulary.unocha.org' # the base hostname & protocol for your site, e.g. http://example.com
 email: ocha-vocabulary@un.org
 
 collections:
@@ -14,6 +13,9 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
+  - .vendor
+  - .bundle
   - package.json
-  - Gruntfile.js
+  - gulpfile.js
   - css/styles.scss
+  - README.md
