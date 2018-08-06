@@ -90,8 +90,8 @@ gulp.task('dev:sass', () => {
       }),
       cssnano(),
     ]))
-    .pipe(gulpif(process.env.NODE_ENV !== 'production', sourcemaps.write('./')))
     .pipe(rename('styles.min.css'))
+    .pipe(gulpif(process.env.NODE_ENV !== 'production', sourcemaps.write('./')))
     .pipe(gulp.dest('assets/css/'))
     .pipe(gulp.dest('_site/assets/css/'))
     .pipe(reload({stream: true}));
