@@ -47,7 +47,7 @@
   padding: 0 $base-unit;
   text-decoration: none;
   position: relative;
-  font-size: $base-font-size;
+  @include font-size(default);
 
   &:before {
     content: "";
@@ -61,7 +61,7 @@
   }
 
   .icon-arrow-down {
-    font-size: 14px;
+    @include font-size(default);
     line-height: 1.5;
   }
 
@@ -135,7 +135,7 @@
   @extend .cd-sr-only;
 }
 
-@include media-query(md) {
+@include min-width(md) {
 
   .cd-nav--secondary {
     .no-flexbox & {
@@ -150,7 +150,7 @@
   }
 
   .cd-nav__label {
-    font-size: $base-font-size;
+    @include font-size(default);
   }
 
   .cd-nav__label:not(.cd-nav__label--mobile)  {
@@ -163,7 +163,7 @@
 
 }
 
-@include media-query(lg) {
+@include min-width(lg) {
 
   .cd-nav {
     display: flex;
@@ -179,7 +179,7 @@
   }
 
   .cd-nav__link {
-    @include font-size(16);
+    @include font-size(medium);
 
     .cd-nav--primary & {
       height: $cd-site-header-height-md;
@@ -207,11 +207,11 @@
 
 }
 
-@include media-query(xl) {
+@include min-width(xl) {
 
   .cd-nav__link {
     padding: 0 $base-unit*2;
-    font-size: $base-font-size;
+    @include font-size(default);
 
     .cd-nav--primary & {
       padding: 0 $base-unit*2;

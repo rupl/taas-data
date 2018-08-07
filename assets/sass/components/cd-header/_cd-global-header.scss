@@ -1,89 +1,99 @@
+//——————————————————————————————————————————————————————————————————————————————
+// Common Design: Header
+//
+// Defaults for Global Header and Site Header
+//——————————————————————————————————————————————————————————————————————————————
+
+//
+// Global Header.
+// Top header bar, contains Sites Menu ('OCHA Services') and User Menu.
+//
 .cd-global-header {
-  background: $primary-bg-color;
-  color: $light-text-color;
+  background: $cd-primary-bg-color;
+  background-image: linear-gradient(-180deg, $cd-primary-bg-color 67%, $cd-dark-primary-bg-color 97%);
+  color: $cd-white-text-color;
+  height: $cd-global-header-height;
+  position: relative;
 
-  .dropdown-menu {
-    background: $primary-bg-color;
+  button {
+    border: 0;
+  }
+}
 
-    a {
-      color: $light-text-color;
+//
+// Site Header.
+// Bottom header bar, contains Logo, Search and Navigation.
+//
+.cd-site-header {
+  border-bottom: 3px solid $cd-border-color;
+  color: $cd-default-text-color;
+}
 
-      &:hover, &:focus {
-        background: darken($primary-bg-color, 10%);
+.cd-site-header__inner {
+  height: $cd-site-header-height;
+
+  .cssgrid.flexbox & {
+    display: grid;
+    grid-template-columns: 52px 1fr;
+    grid-template-rows: $cd-site-header-height;
+    grid-column-gap: 1em;
+
+    @include tablet {
+      grid-template-columns: 186px 1fr;
+    }
+  }
+}
+
+.cd-site-logo {
+  .cssgrid.flexbox & {
+    grid-column: 1 / 1;
+  }
+}
+
+.cd-site-header__actions {
+  float: right;
+
+  .cssgrid.flexbox & {
+    float: none;
+    grid-column: 2 / 2;
+
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: flex-end;
+
+    @include desktop {
+      .cd-search {
+        flex: 0 0 auto;
+      }
+      .cd-site-header__nav-holder {
+        flex: 0 0 auto;
       }
     }
   }
 }
 
-.cd-global-header__inner {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  height: $cd-global-header-height;
+.cd-nav > ul {
+  .cssgrid.flexbox & {
+    display: block;
 
-  .no-flexbox & {
-    &:after {
-      content: "";
-      display: table;
-      clear: both;
+    @include desktop {
+      display: flex;
+      flex-flow: row wrap;
+      justify-content: flex-end;
+    }
+
+    > li,
+    > .cd-nav__item {
+      flex: 1 0 100%;
+
+      @include desktop {
+        flex: 1 1 auto;
+        max-width: 112px;
+      }
+      @include xlarge {
+        flex: 1 1 auto;
+        max-width: 160px;
+      }
     }
   }
-}
-
-.cd-global-header__sites {
-  position: relative;
-  margin-left: -$base-unit;
-
-  .no-flexbox & {
-    float: left;
-  }
-
-  .dropdown-menu {
-    min-width: 236px;
-  }
-}
-
-.cd-global-header__sites-btn {
-  color: $light-text-color;
-  text-transform: uppercase;
-  text-align: left;
-  padding: 0 $base-unit;
-  height: $cd-global-header-height;
-  font-size: $tiny-font-size;
-
-  &:hover, &:focus {
-    background: darken($primary-bg-color, 10%);
-    outline: none;
-  }
-
-  svg {
-    width: 9px;
-    height: 5px;
-    vertical-align: middle;
-  }
-}
-
-.cd-global-header__nav {
-  margin-right: -$base-unit;
-
-  .no-flexbox & {
-    float: right;
-  }
-}
-
-
-@media (min-width: map-get($grid-breakpoints, sm)) {
-
-  .cd-global-header__sites {
-    margin-left: 0;
-  }
-
-  .cd-global-header__sites-btn {
-    @include font-size ($base-font-size);
-  }
-
-  .cd-global-header__nav {
-    margin-right: 0;
-  }
-
 }

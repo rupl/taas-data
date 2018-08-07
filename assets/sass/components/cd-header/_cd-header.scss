@@ -1,95 +1,105 @@
-.cd-header {
-  margin-bottom: $base-unit*2;
+//——————————————————————————————————————————————————————————————————————————————
+// Common Design: Header
+//
+// Defaults for Global Header and Site Header
+//——————————————————————————————————————————————————————————————————————————————
+
+//
+// Global Header.
+// Top header bar, contains Sites Menu ('OCHA Services') and User Menu.
+//
+.cd-global-header {
+  background: $cd-primary-bg-color;
+  background-image: linear-gradient(-180deg, $cd-primary-bg-color 67%, $cd-dark-primary-bg-color 97%);
+  color: $cd-white-text-color;
+  height: $cd-global-header-height;
+  position: relative;
 
   button {
-    -webkit-appearance: none;
-    background-color: transparent;
-    border: none;
-    border-radius: none;
-    box-shadow: none;
-    cursor: pointer;
+    border: 0;
   }
+}
 
-  ul, li {
-    list-style: none;
-    margin: 0;
-  }
+//
+// Site Header.
+// Bottom header bar, contains Logo, Search and Navigation.
+//
+.cd-site-header {
+  border-bottom: 3px solid $cd-border-color;
+  color: $cd-default-text-color;
+}
 
-  ::-webkit-input-placeholder {
-    color: $body-text-color;
-    font-style: italic;
-  }
-  ::-moz-placeholder {
-    color: $body-text-color;
-    font-style: italic;
-  }
-  :-ms-input-placeholder {
-    color: $body-text-color;
-    font-style: italic;
-  }
-  :-moz-placeholder {
-    color: $body-text-color;
-    font-style: italic;
-  }
+.cd-site-header__inner {
+  height: $cd-site-header-height;
 
-  .container {
-    &:after {
-      content: none;
+  .cssgrid.flexbox & {
+    display: grid;
+    grid-template-columns: 52px 1fr;
+    grid-template-rows: $cd-site-header-height;
+    grid-column-gap: 1em;
+
+    @include tablet {
+      grid-template-columns: 186px 1fr;
     }
   }
 }
 
-.cd-dropdown {
-  position: relative;
+.cd-site-logo {
+  .cssgrid.flexbox & {
+    grid-column: 1 / 1;
+  }
 }
 
-.cd-dropdown-menu {
-  position: absolute;
-  z-index: 99;
-  background: white;
-  width: 100%;
-  box-shadow: 0px 1px 2px 1px rgba(0,0,0,0.25);
-  display: none;
+.cd-site-header__actions {
+  float: right;
 
-  .open & {
-    display: block;
-  }
+  .cssgrid.flexbox & {
+    float: none;
+    grid-column: 2 / 2;
 
-  a {
-    display: block;
-    padding: $base-unit*1.5;
-    border-bottom: 1px solid $cd-border-color;
-    text-decoration: none;
-    color: $body-text-color;
-    word-break: break-word;
-    transition: background .3s ease;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: flex-end;
 
-    &:hover, &:focus {
-      background: $primary-bg-color;
-      color: $light-text-color;
+    @include desktop {
+      .cd-search {
+        flex: 0 0 auto;
+      }
+      .cd-site-header__nav-holder {
+        flex: 0 0 auto;
+      }
     }
   }
 }
 
-.sr-only {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  padding: 0;
-  margin: -1px;
-  overflow: hidden;
-  clip: rect(0,0,0,0);
-  border: 0;
-}
+.cd-nav > ul {
+  .cssgrid.flexbox & {
+    display: block;
 
-@include media-query(md) {
-  .cd-header {
-    margin-bottom: $base-unit*3;
+    @include desktop {
+      display: flex;
+      flex-flow: row wrap;
+      justify-content: flex-end;
+    }
+
+    > li,
+    > .cd-nav__item {
+      flex: 1 0 100%;
+
+      @include desktop {
+        flex: 1 1 auto;
+        max-width: 112px;
+      }
+      @include xlarge {
+        flex: 1 1 auto;
+        max-width: 160px;
+      }
+    }
   }
 }
 
-@include media-query(xl) {
+@include min-width(xl) {
   .cd-header {
-    margin-bottom: $base-unit*4;
+    margin-bottom: 32px;
   }
 }

@@ -1,3 +1,14 @@
+//——————————————————————————————————————————————————————————————————————————————
+// TAAS: Mailchimp subscribe page
+//——————————————————————————————————————————————————————————————————————————————
+
+.page--subscribe .container,
+#mc_embed_signup {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+//——————————————————————————————————————————————————————————————————————————————
 /* MailChimp Form Embed Code - Classic - 12/17/2015 v10.7 */
 #mc_embed_signup form {
 	display:block; position:relative;
@@ -7,7 +18,7 @@
 }
 #mc_embed_signup input {
 	border: 1px solid $border-color;
-	@include font-size($base-font-size);
+	@include font-size(default);
 }
 #mc_embed_signup input[type=checkbox]{-webkit-appearance:checkbox;}
 #mc_embed_signup input[type=radio]{-webkit-appearance:radio;}
@@ -20,7 +31,7 @@
   color: $secondary-heading-text-color;
   cursor: pointer;
   display: inline-block;
-  @include font-size($base-font-size);
+  @include font-size(default);
   height: $base-unit*5;
 	margin: 0 $base-unit/2 $base-unit 0;
   padding: 0 $base-unit*3;
@@ -38,7 +49,7 @@
 }
 
 #mc_embed_signup .small-meta {
-	@include font-size($tiny-font-size);
+	@include font-size(tiny);
 }
 #mc_embed_signup .nowrap {
 	white-space:nowrap;

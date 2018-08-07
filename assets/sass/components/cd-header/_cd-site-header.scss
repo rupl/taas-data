@@ -1,15 +1,13 @@
-.cd-site-header {
-  border-bottom: 2px solid $cd-border-color;
-}
-
+//——————————————————————————————————————————————————————————————————————————————
+// TAAS: Header customizations
+//——————————————————————————————————————————————————————————————————————————————
 .cd-site-header__inner {
   align-items: center;
   position: relative;
-  height: $cd-site-header-height-xs;
+  height: 60px;
   display: flex;
 
   .no-flexbox & {
-    height: $cd-site-header-height-md;
     padding-top: $base-unit;
     padding-bottom: $base-unit;
   }
@@ -93,8 +91,7 @@
   box-shadow: none;
   -webkit-appearance: none;
   background: transparent;
-  // font-family: $cd-font;
-  font-size: $base-font-size;
+  @include font-size(default);
   padding: $base-unit*1.5 $base-unit*1.5 $base-unit*1.5 $base-unit*3.5;
   width: 96%;
   height: $cd-site-header-height-xs + 2;
@@ -203,7 +200,7 @@
     }
   }
 }
-@include media-query(sm) {
+@include min-width(sm) {
 
   .cd-site-header__logo {
     width: $cd-logo-width;
@@ -220,7 +217,7 @@
 
 }
 
-@include media-query(md) {
+@include min-width(md) {
 
   .cd-site-header__inner {
     height: $cd-site-header-height-md;
@@ -241,7 +238,7 @@
   }
 }
 
-@include media-query(lg) {
+@include min-width(lg) {
 
   .cd-site-header__inner {
     .no-flexbox & {

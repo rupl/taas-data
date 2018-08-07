@@ -1,11 +1,33 @@
+//——————————————————————————————————————————————————————————————————————————————
+// Common Design: Skip Link
+//
+// For accessibility purposes, we allow visitors to skip to the main content
+// when entering the document. By default, hitting tab key will focus the link
+// even in visual browsers.
+//——————————————————————————————————————————————————————————————————————————————
 a.skip-link {
+	// position the link off-screen for visual users.
 	position: absolute;
+	top: 0;
 	left: -99999px;
-	color: $light-text-color;
-	@include font-size($tiny-font-size);
+	@include z(skip-link);
+	transform: translateX(-50%);
 
+	// style with high-contrast for visually impaired users.
+	padding: .25em 1em;
+	border-radius: 0 0 5px 5px;
+	background: #333;
+	color: $light-text-color;
+	@include font-size(default);
+	font-weight: 700;
+	text-shadow: 1px 1px 0 #000;
+
+	// When in focus, it appears at top of screen above everything else.
 	&:focus {
-		left: 0;
-		top: 0;
+		left: 50%;
+
+		// Normally a bad practice to remove outline on focus, but this element is
+		// only visible when in focus, so it's been styled to have ample visual priority.
+		outline: none;
 	}
 }

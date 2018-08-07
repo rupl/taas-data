@@ -112,9 +112,8 @@
 // @include font-size(14);
 //
 // Results in (with a $base-font-size of 18):
-// font-size: 14px;
-// font-size: 0.77777778rem
-//
+//   font-size: 14px;
+//   font-size: 0.77777778rem
 //——————————————————————————————————————————————————————————————————————————————
 @mixin font-size($size) {
   @if map-has-key($cd-font-sizes, $size) {
