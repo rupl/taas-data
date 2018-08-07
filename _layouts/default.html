@@ -35,11 +35,10 @@
     <script src="{{ '/assets/js/bootstrap-dropdown.js' | prepend: site.baseurl | prepend: site.url }}"></script>
 
     {% if page.subscribe == true %}
-      <script type="text/javascript" src="https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
+      <script src="https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
       <script src="{{ '/assets/js/mailchimp.js' | prepend: site.baseurl | prepend: site.url }}"></script>
     {% endif %}
 
     {% include ga.html %}
   </body>
-
 </html>
