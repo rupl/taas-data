@@ -1,4 +1,16 @@
-@import '../sass/variables/_breakpoints';
+//——————————————————————————————————————————————————————————————————————————————
+// Common Design
+//——————————————————————————————————————————————————————————————————————————————
+@import '../sass/cd/cd-variables';
+@import '../sass/cd/cd-mixins';
+@import '../sass/cd/cd-reset';
+
+@import '../sass/cd/cd-icons';
+@import '../sass/cd/cd-logo';
+
+//——————————————————————————————————————————————————————————————————————————————
+// TAAS
+//——————————————————————————————————————————————————————————————————————————————
 @import '../sass/variables/_colours';
 @import '../sass/variables/_font-sizes';
 @import '../sass/variables/_fonts';
