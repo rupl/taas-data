@@ -1,11 +1,15 @@
 ---
 layout: default
 title: Taxonomy As A Service
+
+show-blocks: true
 ---
 
-Are we talking about the same thing?
-------------------------------------
-![Image showing different words for pencil](/assets/images/pencil-image.png)*Controlled Vocabularies and Taxonomies for Humanitarians*
+## Are we talking about the same thing?
+
+![Image showing different words for pencil](/assets/images/pencil-image.png)
+
+*Controlled Vocabularies and Taxonomies for Humanitarians*
 
 Words Matter! Using mutually understandable terminology is vital to humanitarian collaboration. How do you collaborate with someone if you use different words to describe the same thing? How do you find the information you need if everyone is describing things differently?
 

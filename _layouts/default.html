@@ -1,26 +1,44 @@
 <!DOCTYPE html>
-<html lang="en">
-  {% include head.html %}
+<html class="no-js" lang="en-US">
+  <head>
+    {% include head.html %}
+  </head>
 
-  <body>
-  	{% include header.html %}
-
+  <body class="{{ page.classes | join: ' ' }}">
     <div class="page-wrapper">
-    	<div id="main" class="container">
-    		<h1>{{page.title}}</h1>
+      {% include header.html %}
+
+      <div id="main" class="container">
+        <h1>{{page.title}}</h1>
         <div class="main-content">
-        	{{ content }}
+          {{ content }}
         </div>
       </div>
-      <div class="container">
-        {% include blocks.html %}
-      </div>
+
+      {% if page.show-blocks == true %}
+        <div class="container">
+          {% include blocks.html %}
+        </div>
+      {% endif %}
+
+      {% if page.show-subscribe == true %}
+        <div class="container">
+          {% include mailchimp.html %}
+        </div>
+      {% endif %}
     </div>
 
     {% include footer.html %}
+
     <script src="{{ '/assets/js/modernizr-output.js' | prepend: site.baseurl | prepend: site.url }}"></script>
-    <script src="{{ '/assets/js/dropdown.js' | prepend: site.baseurl | prepend: site.url }}"></script>
+    <script src="{{ '/assets/js/jquery-1.10.2.min.js' | prepend: site.baseurl | prepend: site.url }}"></script>
+    <script src="{{ '/assets/js/bootstrap-dropdown.js' | prepend: site.baseurl | prepend: site.url }}"></script>
+
+    {% if page.subscribe == true %}
+      <script src="https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
+      <script src="{{ '/assets/js/mailchimp.js' | prepend: site.baseurl | prepend: site.url }}"></script>
+    {% endif %}
+
     {% include ga.html %}
   </body>
-
 </html>

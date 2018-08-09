@@ -1,5 +1,10 @@
+//——————————————————————————————————————————————————————————————————————————————
+// TAAS: blocks of data
+//——————————————————————————————————————————————————————————————————————————————
 .blocks-holder {
 	margin: $base-unit*4 0;
+
+  @include clearfix;
 }
 
 .block {
@@ -21,11 +26,13 @@
 .block__heading {
 	text-transform: uppercase;
 	color: $secondary-heading-text-color;
-	@include font-size($medium-font-size);
-	margin-bottom: $base-unit/2;
+	@include font-size(large);
+  margin-top: 0;
+	margin-bottom: 0;
 }
 
 .block__status {
+  margin-top: $base-unit;
 	color: $secondary-heading-text-color;
 	font-weight: bold;
 }
@@ -40,8 +47,7 @@
 }
 
 
-@include media-query(sm) {
-
+@include tablet {
 	.blocks-holder {
 		display: flex;
 		flex-wrap: wrap;
@@ -66,7 +72,5 @@
 			height: 300px;
 			overflow: scroll;
 		}
-
 	}
-
 }

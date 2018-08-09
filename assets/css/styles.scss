@@ -1,23 +1,33 @@
-@import '../sass/variables/_breakpoints';
+//——————————————————————————————————————————————————————————————————————————————
+// Common Design
+//——————————————————————————————————————————————————————————————————————————————
+@import '../sass/cd/cd-variables';
+@import '../sass/cd/cd-mixins';
+@import '../sass/cd/cd-reset';
+
+@import '../sass/cd/cd-icons';
+@import '../sass/cd/cd-logo';
+
+//——————————————————————————————————————————————————————————————————————————————
+// TAAS
+//——————————————————————————————————————————————————————————————————————————————
 @import '../sass/variables/_colours';
-@import '../sass/variables/_font-sizes';
-@import '../sass/variables/_fonts';
 @import '../sass/variables/_measurements';
-@import '../sass/mixins/_clearfix';
-@import '../sass/mixins/_font-size';
-@import '../sass/mixins/_media-queries';
-@import '../sass/base/_a-reset';
 @import '../sass/base/_base';
-@import '../sass/base/_grid';
 @import '../sass/base/_helpers';
 @import '../sass/base/_typography';
 @import '../sass/components/_block';
-@import '../sass/components/_dropdown';
-@import '../sass/components/_footer';
 @import '../sass/components/_main-content';
 @import '../sass/components/_skip-link';
 @import '../sass/components/_subscribe';
+@import '../sass/components/cd-layout/_cd-layout';
 @import '../sass/components/cd-header/_cd-global-header';
+@import '../sass/components/cd-header/_cd-sites-menu';
+@import '../sass/components/cd-header/_cd-sites-menu--compact';
 @import '../sass/components/cd-header/_cd-header';
 @import '../sass/components/cd-header/_cd-nav';
 @import '../sass/components/cd-header/_cd-site-header';
+@import '../sass/components/cd-footer/_cd-footer';
+@import '../sass/components/cd-footer/_cd-mandate';
+@import '../sass/components/cd-footer/_cd-footer-menu';
+@import '../sass/components/cd-footer/_cd-footer-copyright';

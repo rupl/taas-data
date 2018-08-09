@@ -1,22 +1,33 @@
-<footer role="contentinfo" class="footer">
-  <div class="container">
-    <ul class="footer__menu">
-      <li><a href="http://www.un.org/en/aboutun/privacy/">Privacy notice</a></li>
-      <li><a href="http://www.un.org/en/aboutun/terms/">Terms of use</a></li>
+<footer role="contentinfo" class="cd-footer">
+  <div class="cd-container cd-footer__inner">
+    <ul class="cd-footer-menu cd-footer__section">
+      <li class="cd-footer-menu__item">
+        <a href="https://www.un.org/en/aboutun/privacy/">Privacy</a>
+      </li>
+      <li class="cd-footer-menu__item">
+        <a href="https://www.un.org/en/aboutun/terms/">Terms of Use</a>
+      </li>
+      <li class="cd-footer-menu__item">
+        <a href="mailto:ocha-vocabulary@un.org">Contact ocha-vocabulary@un.org</a>
+      </li>
     </ul>
 
-    <div class="row footer__small-print">
-      <div class="col-md-6">
-        <p>Contact: <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
-        <p>Service provided by<br>
-          <a href="https://www.unocha.org">
-            <img src="{{ "/assets/images/ocha-logo-white.svg" | prepend: site.baseurl }}" alt="UN-OCHA">
-          </a>
-        </p>
-      </div>
-      <div class="col-md-6">
-        <p>© United Nations Office for the Coordination of Humanitarian Affairs</p>
+    <div class="cd-mandate cd-footer__section">
+      <span class="cd-mandate__heading">Service provided by</span>
+      <span class="cd-mandate__logo">
+        <span class="cd-sr-only">UN-OCHA</span>
+      </span>
+      <span class="cd-mandate__text">
+        <p>OCHA coordinates the global emergency response to save lives and protect people in humanitarian crises. We advocate for effective and principled humanitarian action by all, for all.</p>
+      </span>
+    </div>
+
+    <div class="cd-footer-copyright cd-footer__section">
+      <div class="cd-footer-copyright__message">
+        <span class="cd-footer-copyright__text">Except where otherwise noted, content on this site is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0</a> International license.</span>
+        <span class="cd-footer-copyright__icon icon-creative-commons" aria-hidden="true"></span>
       </div>
     </div>
+
   </div>
 </footer>
