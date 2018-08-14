@@ -20,11 +20,12 @@
 
   a {
     border-bottom: 1px solid transparent;
-    color: $cd-white-text-color;
+    color: $cd-white;
     text-decoration: none;
 
     &:hover,
     &:focus {
+      color: $cd-white;
       border-color: $cd-bright-border-color;
     }
   }
