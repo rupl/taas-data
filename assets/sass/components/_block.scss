@@ -13,6 +13,10 @@
 	padding: $base-unit*2;
 	margin-bottom: $base-unit*2;
 
+  p, ul, ol, dl {
+    @include font-size($cd-font-size-small);
+  }
+
 	p:last-child {
 		margin-bottom: 0;
 	}
