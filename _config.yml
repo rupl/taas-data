@@ -1,7 +1,7 @@
 title: Taxonomy As A Service
 description: Controlled Vocabularies and Taxonomies for Humanitarians
-baseurl: '' # the subpath of your site, e.g. /blog
-url: 'https://vocabulary.unocha.org' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/taas-data' # the subpath of your site, e.g. /blog
+url: 'https://rupl.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 email: ocha-vocabulary@un.org
 
 collections:
