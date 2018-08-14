@@ -12,7 +12,7 @@ gulp dev:bs > /dev/null &
 
 # build assets
 gulp deploy
-git add assets
+git add assets/css
 
 # terminate `gulp dev:bs` background task
 #
