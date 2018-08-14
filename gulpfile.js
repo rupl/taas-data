@@ -67,7 +67,7 @@ gulp.task('dev:jekyll', () => {
 gulp.task('dev:sass', () => {
   bs.notify('Sass compiling...');
 
-  return gulp.src(['assets/css/styles.scss'])
+  return gulp.src(['assets/sass/styles.scss'])
     .pipe(plumber())
     .pipe(gulpif(process.env.NODE_ENV !== 'production', sourcemaps.init()))
     .pipe(sass().on('error', sass.logError))
