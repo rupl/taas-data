@@ -44,7 +44,8 @@ h1.page-heading {
 a {
   color: $link-text-color;
 
-  &:hover, &:focus {
+  &:hover,
+  &:focus {
     color: $active-link-text-color;
     text-decoration: none;
   }

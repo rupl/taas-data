@@ -1,43 +1,10 @@
 //——————————————————————————————————————————————————————————————————————————————
-// TAAS: Main content
+// Common Design: Drupal Search
 //——————————————————————————————————————————————————————————————————————————————
 
-.page-wrapper {
-  background: $cd-white;
-}
-
-#main-content {
-	img {
-		display: block;
-		width: 80%;
-		max-width: 280px;
-		margin: 0 auto;
-	}
-
-  p {
-    @include font-size(default);
+.cd-search {
+  .form-item,
+  .form-actions {
+    margin: 0;
   }
-}
-
-
-@include min-width(sm) {
-
-	#main-content {
-		img {
-			float: right;
-			max-width: 40%;
-			margin: 0;
-		}
-	}
-
-}
-
-@include min-width(md) {
-
-	#main-content {
-		img {
-			max-width: 30%;
-		}
-	}
-
 }

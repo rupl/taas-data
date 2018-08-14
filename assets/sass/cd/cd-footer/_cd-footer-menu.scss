@@ -1,5 +1,6 @@
 //——————————————————————————————————————————————————————————————————————————————
-// Common Design Footer menu.
+// Common Design: Footer menu
+//
 // Used for team and project specific links plus links to legalese.
 //——————————————————————————————————————————————————————————————————————————————
 
@@ -19,7 +20,7 @@
   }
 }
 
-@include tablet {
+@media (min-width: map-get($cd-breakpoints, tablet)) {
   .cd-footer-menu {
     flex: 1 0 100%;
   }

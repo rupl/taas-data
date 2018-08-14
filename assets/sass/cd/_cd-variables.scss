@@ -1,11 +1,11 @@
 //——————————————————————————————————————————————————————————————————————————————
 // Common Design: Variables
+//
+// Don't use any maps directly. Please refer to `_cd-mixins.scss` partial.
 //——————————————————————————————————————————————————————————————————————————————
 
 //
-// Breakpoints
-//
-// Usage: see `_cd-mixins` partial
+// Grid Breakpoints
 //
 $grid-breakpoints: (
   xs: 0,
@@ -16,18 +16,27 @@ $grid-breakpoints: (
   xxl: 1400px
 ) !default;
 
+//
+// CD Breakpoints correspond to the following grid breakpoints:
+//
 $cd-breakpoints: (
-  tablet: map-get($grid-breakpoints, md),
-  desktop: map-get($grid-breakpoints, lg),
-  xlarge: map-get($grid-breakpoints, xl)
+  tablet: #{map-get($grid-breakpoints, 'md')},
+  desktop: #{map-get($grid-breakpoints, 'lg')},
+  xlarge: #{map-get($grid-breakpoints, 'xl')}
 );
 
-//
+
+//——————————————————————————————————————————————————————————————————————————————
 // Measurements
-//
+//——————————————————————————————————————————————————————————————————————————————
+
+// @TODO: get rid of this thing
+$cd-base-unit: 8px;
+$cd-site-padding: $cd-base-unit;
+
 $cd-max-body-width: 1400px;
 $cd-max-width: 1220px;
-$cd-site-padding: 8px;
+
 $cd-container-padding: 12px;
 $cd-container-padding-tablet: 24px;
 $cd-container-padding-xlarge: 40px;
@@ -35,9 +44,12 @@ $cd-container-padding-xlarge: 40px;
 $cd-global-header-height: 35px;
 $cd-site-header-height: 60px;
 
-//
+
+//——————————————————————————————————————————————————————————————————————————————
 // Colours
-//
+//——————————————————————————————————————————————————————————————————————————————
+
+// Colour palette
 $cd-ocha-blue: #026CB6;
 $cd-dark-blue: #025995;
 $cd-bright-blue: #80CBFF;
@@ -52,10 +64,11 @@ $cd-light-bluey-grey: #F2F5F8;
 $cd-highlight-red: #EB5C6D;
 $cd-red: #BF0013;
 $cd-white: #FFFFFF;
+$cd-black: #000000;
 
 // Background colours
 $cd-site-bg-color: $cd-mid-bluey-grey;
-$cd-white-bg-color: #FFF;
+$cd-white-bg-color: $cd-white;
 $cd-primary-bg-color: $cd-ocha-blue;
 $cd-dark-primary-bg-color: $cd-dark-blue;
 $cd-dark-bg-color: $cd-dark-bluey-grey;
@@ -75,28 +88,29 @@ $cd-dark-text-color: #000;
 $cd-blue-text-color: $cd-ocha-blue;
 $cd-bright-blue-text-color: $cd-bright-blue;
 
+
+//——————————————————————————————————————————————————————————————————————————————
 // Fonts
-$cd-font: sans-serif; // Same as helvetica, arial, sans-serif;
+//——————————————————————————————————————————————————————————————————————————————
+
+$cd-font: helvetica, arial, sans-serif;
 
 
 //——————————————————————————————————————————————————————————————————————————————
 // Font sizes
-// Usage: see `_cd-mixins` partial
 //——————————————————————————————————————————————————————————————————————————————
-$cd-font-sizes: (
-  tiny: 12,
-  default: 14,
-  medium: 16,
-  large: 20,
-  xlarge: 36
-);
+
+$cd-font-size-tiny: 12;
+$cd-font-size-small: 14;
+$cd-font-size-base: 16;
+$cd-font-size-medium: 20;
+$cd-font-size-xlarge: 30;
 
 
 //——————————————————————————————————————————————————————————————————————————————
-// Common Design: z-indices
-//
-// Usage: see `_cd-mixins` partial
+// z-indices
 //——————————————————————————————————————————————————————————————————————————————
+
 $zindex: (
   default: 1,
   hidden: -1,
