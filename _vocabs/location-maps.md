@@ -10,6 +10,6 @@ Contains small locations maps of all the countries that ReliefWeb covers. Includ
 [Site listing all location maps, including formats, and licensing details](http://reliefweb.int/location-maps)
 
 Requests should be made to the ReliefWeb API reports endpoint through https with an additional parameter of your application name (appname), for example:
-<https://api.reliefweb.int/v1/reports?fields[include][]=file&query[value]=feature:%22Location%20Map%22&appname=vocabulary>
+[example API request](https://api.reliefweb.int/v1/reports?fields[include][]=file&query[value]=feature:%22Location%20Map%22&appname=vocabulary)
 
 See the API documentation for full details: <http://apidoc.rwlabs.org/>
