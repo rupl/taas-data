@@ -22,16 +22,16 @@ h4, h5 {
 }
 
 h2, h3 {
-  text-transform: uppercase
+  text-transform: uppercase;
 }
 
 h1 {
   color: $heading-text-color;
   font-weight: normal;
-  @include font-size(large);
+  @include font-size($cd-font-size-large);
 
   @include tablet {
-    @include font-size(xlarge);
+    @include font-size($cd-font-size-xlarge);
   }
 }
 
@@ -82,16 +82,12 @@ dd {
 
 @include min-width(sm) {
   h1 {
-    @include font-size(xlarge);
+    @include font-size($cd-font-size-xlarge);
   }
 
   h2 {
-    @include font-size(large);
+    @include font-size($cd-font-size-large);
     font-weight: normal;
-  }
-
-  p, ul, ol, dl {
-    @include font-size(default);
   }
 
   li {

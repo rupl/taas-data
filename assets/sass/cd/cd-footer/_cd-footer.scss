@@ -10,6 +10,14 @@
   text-align: center;
   line-height: 1.5;
 
+  @include desktop {
+    padding-bottom: 0;
+  }
+
+  p, ul, a {
+    @include font-size($cd-font-size-tiny);
+  }
+
   a {
     border-bottom: 1px solid transparent;
     color: $cd-white-text-color;
@@ -22,23 +30,20 @@
   }
 }
 
-.cd-footer__section {
-  padding-bottom: 48px;
-}
-
-@include tablet {
-  .cd-footer__inner {
+.cd-footer__inner {
+  @include tablet {
     display: flex;
     flex-wrap: wrap;
   }
 
-  .cd-footer__section {
-    padding-bottom: 48px;
+  // unset the clearfix applied to `.cd-container` which creates extra space at
+  // the bottom of the page below footer.
+  &::after {
+    content: none;
   }
 }
 
-@include desktop {
-  .cd-footer {
-    padding-bottom: 0;
-  }
+.cd-footer__section {
+  padding-bottom: 48px;
 }
+

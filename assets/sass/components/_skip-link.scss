@@ -18,7 +18,7 @@ a.skip-link {
 	border-radius: 0 0 5px 5px;
 	background: #333;
 	color: $light-text-color;
-	@include font-size(default);
+	@include font-size($cd-font-size-base);
 	font-weight: 700;
 	text-shadow: 1px 1px 0 #000;
 

@@ -20,13 +20,12 @@
 	a {
 		word-wrap: break-word;
 	}
-
 }
 
 .block__heading {
 	text-transform: uppercase;
 	color: $secondary-heading-text-color;
-	@include font-size(large);
+	@include font-size($cd-font-size-large);
   margin-top: 0;
 	margin-bottom: 0;
 }
