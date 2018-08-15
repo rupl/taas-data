@@ -76,6 +76,10 @@ dd {
   margin-bottom: $base-unit;
 }
 
+button {
+  font-weight: 300;
+}
+
 @include min-width(sm) {
   h1 {
     @include font-size($cd-font-size-xlarge);
