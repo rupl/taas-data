@@ -23,15 +23,17 @@
 }
 
 .cd-sites-btn__logo {
-  background: url('../img/logos/logos-sprite.svg') 0 -144px no-repeat;
   display: inline-block;
   flex-shrink: 0;
+  width: 21px;
   height: 18px;
   margin-right: 4px;
-  width: 21px;
+  background: url('../img/logos/ocha-logo-white.svg') center no-repeat;
+  background-size: contain;
 
   .no-svg & {
     background: url('../img/logos/logos-sprite.png') 0 -144px no-repeat;
+    background-size: unset;
   }
 }
 
