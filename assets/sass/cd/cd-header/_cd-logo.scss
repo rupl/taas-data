@@ -1,8 +1,7 @@
 //——————————————————————————————————————————————————————————————————————————————
-// Common Design Logo in header.
-// Replace images with your site logo.
+// Common Design: Logo
 //
-// @TODO: rename files so following ^^^instructions makes sense.
+// Replace images with your site logo.
 //——————————————————————————————————————————————————————————————————————————————
 
 // Wrap the logo in a h1 if it's the main heading for the page (e.g. on homepage).
@@ -11,28 +10,28 @@
 }
 
 .cd-site-logo {
-  background: url('../logos/ocha-logo-mobile.svg') center no-repeat;
   display: block;
+  float: left;
   width: 52px;
   height: $cd-site-header-height;
-  float: left;
+  background: url('../img/logos/ocha-logo-blue.svg') center no-repeat;
 
   .cssgrid.flexbox & {
     float: none;
   }
 
   .no-svg & {
-    background: url('../logos/ocha-logo-mobile.png') center no-repeat;
+    background: url('../img/logos/ocha-logo-blue@53x37.png') center no-repeat;
   }
 }
 
 @include tablet {
   .cd-site-logo {
-    background: url('../logos/ocha-logo.svg') center no-repeat;
+    background: url('../img/logos/ocha-lockup-blue.svg') center no-repeat;
     width: 186px; // width may need to be adjusted depending on logo width.
 
     .no-svg & {
-      background: url('../logos/ocha-logo-mobile.png') center no-repeat;
+      background: url('../img/logos/ocha-lockup-blue@186x60.png') center no-repeat;
     }
   }
 }

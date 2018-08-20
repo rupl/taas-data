@@ -5,16 +5,22 @@
 //
 // Standard clearfix.
 //
+// Drupal 7.59 system.base.css
+//
 @mixin clearfix {
   &:after {
+    content: ".";
+    display: block;
+    height: 0;
     clear: both;
-    content: '';
-    display: table;
+    visibility: hidden;
   }
 }
 
 //
 // Hide content offscreen accessibly.
+//
+// @TODO: remove and replace all uses with `@extend .element-invisible`
 //
 @mixin hide {
   clip: rect(0,0,0,0);
@@ -29,6 +35,9 @@
 //
 // Un-hide content.
 //
+// @TODO: just remove this outright, it shouldn't even exist. If something should
+//        be hidden at only a certain breakpoint, just write a more specific MQ.
+//
 @mixin unhide {
   height: auto;
   margin: 0;
@@ -38,7 +47,10 @@
 
 
 //——————————————————————————————————————————————————————————————————————————————
-// Common Design: Breakpoints
+// Breakpoints
+//
+// `min-width` and `max-width` mixins are supplied, with convenience functions
+// for CD dimensions. All CD convenience functions are `min-width`.
 //——————————————————————————————————————————————————————————————————————————————
 @mixin min-width($breakpoint) {
   @if map-has-key($grid-breakpoints, $breakpoint) {
@@ -47,8 +59,7 @@
     }
   }
   @else {
-    @warn "Unfortunately, no value could be retrieved from `#{$breakpoint}`. "
-        + "Please make sure it is defined in `$grid-breakpoints` map.";
+    @warn "`#{$breakpoint}` not found in `$grid-breakpoints` map.";
   }
 }
 
@@ -59,26 +70,66 @@
     }
   }
   @else {
-    @warn "Unfortunately, no value could be retrieved from `#{$breakpoint}`. "
-        + "Please make sure it is defined in `$grid-breakpoints` map.";
+    @warn "`#{$breakpoint}` not found in `$grid-breakpoints` map.";
   }
 }
 
+//
+// Grid breakpoints
+//
+@mixin xs {
+  @include min-width('xs') {
+    @content;
+  }
+}
 
+@mixin sm {
+  @include min-width('sm') {
+    @content;
+  }
+}
+
+@mixin md {
+  @include min-width('md') {
+    @content;
+  }
+}
+
+@mixin lg {
+  @include min-width('lg') {
+    @content;
+  }
+}
+
+@mixin xl {
+  @include min-width('xl') {
+    @content;
+  }
+}
+
+@mixin xxl {
+  @include min-width('xxl') {
+    @content;
+  }
+}
+
+//
+// CD breakpoints
+//
 @mixin tablet {
-  @include min-width(md) {
+  @include md {
     @content;
   }
 }
 
 @mixin desktop {
-  @include min-width(lg) {
+  @include lg {
     @content;
   }
 }
 
 @mixin xlarge {
-  @include min-width(xl) {
+  @include xl {
     @content;
   }
 }
@@ -104,23 +155,21 @@
 //——————————————————————————————————————————————————————————————————————————————
 // Common-Design: font-size
 //
-// Converts pixel size to rems with pixel fallback.
-//
-// Requires the $base-font-size variable to be set for the project, this should be the body font size.
-//
 // Usage:
-// @include font-size(14);
+//   @include font-size(14);
 //
 // Results in (with a $base-font-size of 18):
 //   font-size: 14px;
-//   font-size: 0.77777778rem
+//
+// If another unit were desired, it could be added to the output after the px
+// declarations to override the pixel value. However, prior experience has shown
+// that using another unit such as `rem` causes rounding errors when paired with
+// other math operations, such as unitless `line-height` properties.
+//
+// Example to output rem in addition to px:
+//   font-size: $size + px;
+//   font-size: #{$size / $cd-font-size-base}rem;
 //——————————————————————————————————————————————————————————————————————————————
 @mixin font-size($size) {
-  @if map-has-key($cd-font-sizes, $size) {
-    font-size: map-get($cd-font-sizes, $size) + px;
-    // font-size: map-get($cd-font-sizes, $size) / map-get($cd-font-sizes, default) + rem;
-  }
-  @else {
-    @warn "`#{$size}` was not found in `$cd-font-sizes` map.";
-  }
+  font-size: $size + px;
 }

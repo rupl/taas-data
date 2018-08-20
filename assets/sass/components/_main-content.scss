@@ -1,35 +1,35 @@
+//——————————————————————————————————————————————————————————————————————————————
+// TAAS: Main content
+//——————————————————————————————————————————————————————————————————————————————
+
 .main-content {
-	img {
-		display: block;
-		width: 80%;
-		max-width: 280px;
-		margin: 0 auto;
-	}
+  img {
+    display: block;
+    width: 80%;
+    max-width: 280px;
+    margin: 0 auto;
+  }
 
   p {
-    @include font-size(default);
+    @include font-size($cd-font-size-small);
   }
 }
 
 
 @include min-width(sm) {
-
-	.main-content {
-		img {
-			float: right;
-			max-width: 40%;
-			margin: 0;
-		}
-	}
-
+  .main-content {
+    img {
+      float: right;
+      max-width: 40%;
+      margin: 0;
+    }
+  }
 }
 
 @include min-width(md) {
-
-	.main-content {
-		img {
-			max-width: 30%;
-		}
-	}
-
+  .main-content {
+    img {
+      max-width: 30%;
+    }
+  }
 }

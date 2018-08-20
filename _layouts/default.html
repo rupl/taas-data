@@ -8,7 +8,7 @@
     <div class="page-wrapper">
       {% include header.html %}
 
-      <div id="main" class="container">
+      <div id="main-content" class="cd-container">
         <h1>{{page.title}}</h1>
         <div class="main-content">
           {{ content }}
@@ -16,13 +16,13 @@
       </div>
 
       {% if page.show-blocks == true %}
-        <div class="container">
+        <div class="cd-container">
           {% include blocks.html %}
         </div>
       {% endif %}
 
       {% if page.show-subscribe == true %}
-        <div class="container">
+        <div class="cd-container">
           {% include mailchimp.html %}
         </div>
       {% endif %}

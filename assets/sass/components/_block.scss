@@ -2,75 +2,78 @@
 // TAAS: blocks of data
 //——————————————————————————————————————————————————————————————————————————————
 .blocks-holder {
-	margin: $base-unit*4 0;
+  margin: $base-unit*4 0;
 
   @include clearfix;
 }
 
 .block {
-	background: $light-bg-color;
-	border-top: 4px solid $highlight-border-color;
-	padding: $base-unit*2;
-	margin-bottom: $base-unit*2;
+  background: $light-bg-color;
+  border-top: 4px solid $highlight-border-color;
+  padding: $base-unit*2;
+  margin-bottom: $base-unit*2;
 
-	p:last-child {
-		margin-bottom: 0;
-	}
+  p, ul, ol, dl {
+    @include font-size($cd-font-size-small);
+  }
 
-	a {
-		word-wrap: break-word;
-	}
+  p:last-child {
+    margin-bottom: 0;
+  }
 
+  a {
+    word-wrap: break-word;
+  }
 }
 
 .block__heading {
-	text-transform: uppercase;
-	color: $secondary-heading-text-color;
-	@include font-size(large);
+  text-transform: uppercase;
+  color: $secondary-heading-text-color;
+  @include font-size($cd-font-size-large);
   margin-top: 0;
-	margin-bottom: 0;
+  margin-bottom: 0;
 }
 
 .block__status {
   margin-top: $base-unit;
-	color: $secondary-heading-text-color;
-	font-weight: bold;
+  color: $secondary-heading-text-color;
+  font-weight: bold;
 }
 
 .block__download {
-	font-style: italic;
-	display: block;
-	height: $base-unit*3;
-	overflow: hidden;
-	text-overflow: ellipsis;
-	white-space: nowrap;
+  font-style: italic;
+  display: block;
+  height: $base-unit*3;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 
 @include tablet {
-	.blocks-holder {
-		display: flex;
-		flex-wrap: wrap;
+  .blocks-holder {
+    display: flex;
+    flex-wrap: wrap;
 
-		.no-flexbox & {
-			overflow: auto;
-		}
-	}
+    .no-flexbox & {
+      overflow: auto;
+    }
+  }
 
-	.block {
-		width: 48%;
-		margin-left: 4%;
-		margin-bottom: $base-unit*4;
-		padding: $base-unit*3 $base-unit*4;
+  .block {
+    width: 48%;
+    margin-left: 4%;
+    margin-bottom: $base-unit*4;
+    padding: $base-unit*3 $base-unit*4;
 
-		&:nth-child(odd) {
-			margin-left: 0;
-		}
+    &:nth-child(odd) {
+      margin-left: 0;
+    }
 
-		.no-flexbox & {
-			float: left;
-			height: 300px;
-			overflow: scroll;
-		}
-	}
+    .no-flexbox & {
+      float: left;
+      height: 300px;
+      overflow: scroll;
+    }
+  }
 }

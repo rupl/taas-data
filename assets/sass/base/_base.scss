@@ -1,6 +1,7 @@
 //——————————————————————————————————————————————————————————————————————————————
 // TAAS: base defaults
 //——————————————————————————————————————————————————————————————————————————————
+
 *,
 *::before,
 *::after {
@@ -8,7 +9,11 @@
 }
 
 html, input {
-  font-size: 62.5%;
+  // Font size should be set at the correct percentage to match the base-font-size
+  // 16px = 100%
+  // 18px = 112.5%
+  // See http://pxtoem.com/ for conversion chart
+  font-size: ($cd-font-size-base / 16 * 100) + %;
 }
 
 html, body {
@@ -21,20 +26,6 @@ body {
   color: $body-text-color;
   line-height: 1.5;
   background: white;
-}
-
-a {
-  color: $link-text-color;
-
-  &:hover, &:focus {
-    color: $active-link-text-color;
-    text-decoration: none;
-  }
-}
-
-ol, ul {
-  list-style: initial;
-  margin-left: $base-unit*3;
 }
 
 img {

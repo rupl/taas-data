@@ -1,24 +1,21 @@
 //——————————————————————————————————————————————————————————————————————————————
-// Common Design: resets
-//
-// Resets to defaults required for Common Design. These may already be included
-// in your theme, in which case they can be removed.
+// Common Design: CSS Resets
 //——————————————————————————————————————————————————————————————————————————————
 
 .cd-header,
 .cd-footer {
   // Setup font
-  -webkit-font-smoothing: antialiased;
   font-family: $cd-font;
-  @include font-size(tiny);
+  @include font-size($cd-font-size-tiny);
+  font-weight: 300;
 
   // Set box-sizing
   box-sizing: border-box;
 
-  * {
-    box-sizing: border-box;
-  }
-  &:before, &:after {
+  // box-sizing on all child elements
+  *,
+  *::before,
+  *::after {
     box-sizing: border-box;
   }
 
@@ -28,6 +25,8 @@
     border-radius: 0;
     box-shadow: none;
     font-family: $cd-font;
+    @include font-size($cd-font-size-tiny);
+    font-weight: 300;
   }
 }
 

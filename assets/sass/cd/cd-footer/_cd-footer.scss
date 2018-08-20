@@ -3,26 +3,44 @@
 //——————————————————————————————————————————————————————————————————————————————
 
 .cd-footer {
-  grid-row: 3/3; // position footer so visible on short pages.
+  grid-row: 3/3; // Position footer so visible on short pages.
   background: $cd-primary-bg-color;
   color: $cd-white-text-color;
   padding: 48px 0 0 0;
   text-align: center;
   line-height: 1.5;
 
+  @include desktop {
+    padding-bottom: 0;
+  }
+
+  p, ul, a {
+    @include font-size($cd-font-size-tiny);
+  }
+
   a {
     border-bottom: 1px solid transparent;
-    color: $cd-white-text-color;
+    color: $cd-white;
     text-decoration: none;
 
     &:hover,
     &:focus {
+      color: $cd-white;
       border-color: $cd-bright-border-color;
     }
   }
+}
 
-  p {
-    @include font-size(tiny);
+.cd-footer__inner {
+  @include tablet {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  // unset the clearfix applied to `.cd-container` which creates extra space at
+  // the bottom of the page below footer.
+  &::after {
+    content: none;
   }
 }
 
@@ -30,20 +48,3 @@
   padding-bottom: 48px;
 }
 
-@include tablet {
-  .cd-footer__inner {
-    display: flex;
-    flex-wrap: wrap;
-    // justify-content: space-between;
-  }
-
-  .cd-footer__section {
-    padding-bottom: 48px;
-  }
-}
-
-@include desktop {
-  .cd-footer {
-    padding-bottom: 0;
-  }
-}

@@ -6,7 +6,7 @@ html {
   background: $cd-site-bg-color;
   height: 100%;
   margin: 0;
-  margin-left: calc(100vw - 100%); // prevents scrollbar changing page width in IE.
+  margin-left: calc(100vw - 100%); //prevents scrollbar changing page width in IE.
 
   @include desktop {
     padding: 0 $cd-site-padding;
@@ -14,6 +14,7 @@ html {
 }
 
 body {
+  background: $cd-white-bg-color;
   margin: 0 auto;
   max-width: $cd-max-body-width;
   min-height: 100%;
@@ -26,16 +27,15 @@ body {
 }
 
 .page-wrapper {
-  background: $cd-white-bg-color;
+  background: $cd-white;
 }
 
-.container,
 .cd-container {
   @include clearfix;
   box-sizing: border-box;
-  max-width: $cd-max-width;
   padding: 0 $cd-container-padding;
   margin: 0 auto;
+  max-width: $cd-max-width;
 
   @include tablet {
     padding: 0 $cd-container-padding-tablet;
@@ -45,3 +45,5 @@ body {
     padding: 0 $cd-container-padding-xlarge;
   }
 }
+
+

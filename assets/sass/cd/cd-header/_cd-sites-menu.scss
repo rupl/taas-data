@@ -1,6 +1,5 @@
 //——————————————————————————————————————————————————————————————————————————————
 // Common Design: Sites Menu ('OCHA Services')
-// Button and dropdown with links to OCHA services.
 //——————————————————————————————————————————————————————————————————————————————
 
 .cd-sites {
@@ -12,8 +11,10 @@
   background: transparent;
   color: $cd-white-text-color;
   display: flex;
-  @include font-size(default);
+  @include font-size($cd-font-size-tiny);
+  font-weight: 300;
   height: $cd-global-header-height;
+  padding: 0 0 0 1px;
   position: relative;
   transition: background 0.3s ease;
 
@@ -23,15 +24,17 @@
 }
 
 .cd-sites-btn__logo {
-  background: url('../logos/logos-sprite.svg') 0 -144px no-repeat;
   display: inline-block;
   flex-shrink: 0;
+  width: 21px;
   height: 18px;
   margin-right: 4px;
-  width: 21px;
+  background: url('../img/logos/ocha-logo-white.svg') center no-repeat;
+  background-size: contain;
 
   .no-svg & {
-    background: url('../logos/logos-sprite.png') 0 -144px no-repeat;
+    background: url('../img/logos/logos-sprite.png') 0 -144px no-repeat;
+    background-size: unset;
   }
 }
 
@@ -96,7 +99,7 @@
 }
 
 .cd-sites-dropdown__logo {
-  background: url('../logos/logos-sprite.svg') 0 0 no-repeat;
+  background: url('../img/logos/logos-sprite.svg') 0 0 no-repeat;
   display: inline-block;
   height: 18px;
   margin-left: 24px;
@@ -104,7 +107,7 @@
   width: 82px;
 
   .no-svg & {
-    background: url('../logos/logos-sprite.png') 0 0 no-repeat;
+    background: url('../img/logos/logos-sprite.png') 0 0 no-repeat;
   }
 
   &:before {
