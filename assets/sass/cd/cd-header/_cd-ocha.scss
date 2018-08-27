@@ -73,7 +73,7 @@
     padding: 0 $cd-container-padding-tablet;
   }
   @include xlarge {
-    grid-gap: 120px;
+    grid-gap: 100px;
     padding: 0 $cd-container-padding-xlarge;
   }
 }
@@ -151,6 +151,11 @@
       color: $cd-white;
       border-color: $cd-bright-blue;
     }
+  }
+
+  // On full-width multi-column layout, don't let links wrap.
+  @include xlarge {
+    white-space: nowrap;
   }
 }
 
